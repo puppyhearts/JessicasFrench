@@ -1,6 +1,6 @@
 # French Audio Practice
 
-Local-first TCF practice website backed by a one-time generated source catalog.
+Local-first TCF practice website backed by a one-time generated source catalog
 
 ## Current vertical slice
 
