@@ -47,7 +47,9 @@ def main() -> None:
         image_url = None
         if image and Path(image["image_path"]).exists():
             target = images / f"{question_id.replace(':', '-')}.png"
-            shutil.copy2(image["image_path"], target)
+            src = Path(image["image_path"])
+            if src.resolve() != target.resolve():
+                shutil.copy2(src, target)
             image_url = f"catalog/images/{target.name}"
         questions.append({
             "id": question_id, "collection": row["collection_slug"], "group_label": row["group_label"],
