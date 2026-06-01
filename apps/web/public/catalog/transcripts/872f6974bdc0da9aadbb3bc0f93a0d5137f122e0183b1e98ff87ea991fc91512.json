@@ -1,0 +1,280 @@
+{
+  "text": "Question 5. Écoutez le document sonore et les quatre propositions. Choisissez la bonne réponse. Excusez-moi madame, le bus pour le Mont Saint-Michel part dans combien de temps ? Je crois que mon ami est en retard. A. Dans dix minutes. B. Demain matin. C. Il y a une heure. D. Pendant la nuit.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "5.",
+      "start": 0.56,
+      "end": 1.0
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.9,
+      "end": 2.28
+    },
+    {
+      "text": "le",
+      "start": 2.28,
+      "end": 2.44
+    },
+    {
+      "text": "document",
+      "start": 2.44,
+      "end": 2.76
+    },
+    {
+      "text": "sonore",
+      "start": 2.76,
+      "end": 3.36
+    },
+    {
+      "text": "et",
+      "start": 3.36,
+      "end": 3.62
+    },
+    {
+      "text": "les",
+      "start": 3.62,
+      "end": 3.76
+    },
+    {
+      "text": "quatre",
+      "start": 3.76,
+      "end": 3.96
+    },
+    {
+      "text": "propositions.",
+      "start": 3.96,
+      "end": 4.72
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.42,
+      "end": 5.94
+    },
+    {
+      "text": "la",
+      "start": 5.94,
+      "end": 6.16
+    },
+    {
+      "text": "bonne",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "text": "réponse.",
+      "start": 6.34,
+      "end": 6.74
+    },
+    {
+      "text": "Excusez",
+      "start": 7.84,
+      "end": 8.44
+    },
+    {
+      "text": "-moi",
+      "start": 8.44,
+      "end": 8.54
+    },
+    {
+      "text": "madame,",
+      "start": 8.54,
+      "end": 8.86
+    },
+    {
+      "text": "le",
+      "start": 9.38,
+      "end": 9.52
+    },
+    {
+      "text": "bus",
+      "start": 9.52,
+      "end": 9.7
+    },
+    {
+      "text": "pour",
+      "start": 9.7,
+      "end": 9.9
+    },
+    {
+      "text": "le",
+      "start": 9.9,
+      "end": 10.02
+    },
+    {
+      "text": "Mont",
+      "start": 10.02,
+      "end": 10.14
+    },
+    {
+      "text": "Saint",
+      "start": 10.14,
+      "end": 10.3
+    },
+    {
+      "text": "-Michel",
+      "start": 10.3,
+      "end": 10.68
+    },
+    {
+      "text": "part",
+      "start": 10.68,
+      "end": 10.92
+    },
+    {
+      "text": "dans",
+      "start": 10.92,
+      "end": 11.04
+    },
+    {
+      "text": "combien",
+      "start": 11.04,
+      "end": 11.26
+    },
+    {
+      "text": "de",
+      "start": 11.26,
+      "end": 11.42
+    },
+    {
+      "text": "temps",
+      "start": 11.42,
+      "end": 11.62
+    },
+    {
+      "text": "?",
+      "start": 11.62,
+      "end": 12.04
+    },
+    {
+      "text": "Je",
+      "start": 12.56,
+      "end": 12.76
+    },
+    {
+      "text": "crois",
+      "start": 12.76,
+      "end": 12.94
+    },
+    {
+      "text": "que",
+      "start": 12.94,
+      "end": 13.06
+    },
+    {
+      "text": "mon",
+      "start": 13.06,
+      "end": 13.16
+    },
+    {
+      "text": "ami",
+      "start": 13.16,
+      "end": 13.32
+    },
+    {
+      "text": "est",
+      "start": 13.32,
+      "end": 13.48
+    },
+    {
+      "text": "en",
+      "start": 13.48,
+      "end": 13.58
+    },
+    {
+      "text": "retard.",
+      "start": 13.58,
+      "end": 13.82
+    },
+    {
+      "text": "A.",
+      "start": 15.02,
+      "end": 15.62
+    },
+    {
+      "text": "Dans",
+      "start": 16.36,
+      "end": 16.66
+    },
+    {
+      "text": "dix",
+      "start": 16.66,
+      "end": 16.92
+    },
+    {
+      "text": "minutes.",
+      "start": 16.92,
+      "end": 17.22
+    },
+    {
+      "text": "B.",
+      "start": 18.3,
+      "end": 18.9
+    },
+    {
+      "text": "Demain",
+      "start": 19.7,
+      "end": 20.02
+    },
+    {
+      "text": "matin.",
+      "start": 20.02,
+      "end": 20.4
+    },
+    {
+      "text": "C.",
+      "start": 21.6,
+      "end": 22.2
+    },
+    {
+      "text": "Il",
+      "start": 22.96,
+      "end": 23.12
+    },
+    {
+      "text": "y",
+      "start": 23.12,
+      "end": 23.26
+    },
+    {
+      "text": "a",
+      "start": 23.26,
+      "end": 23.34
+    },
+    {
+      "text": "une",
+      "start": 23.34,
+      "end": 23.64
+    },
+    {
+      "text": "heure.",
+      "start": 23.64,
+      "end": 23.94
+    },
+    {
+      "text": "D.",
+      "start": 25.12,
+      "end": 25.72
+    },
+    {
+      "text": "Pendant",
+      "start": 26.48,
+      "end": 26.8
+    },
+    {
+      "text": "la",
+      "start": 26.8,
+      "end": 26.94
+    },
+    {
+      "text": "nuit.",
+      "start": 26.94,
+      "end": 27.14
+    }
+  ]
+}

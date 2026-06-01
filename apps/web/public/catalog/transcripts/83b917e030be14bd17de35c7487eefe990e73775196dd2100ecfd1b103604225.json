@@ -1,0 +1,1490 @@
+{
+  "text": "Le succès des piquenis qui appérent entre voisins. La multiplication de ces événements répond en fait à une recherche de lien social. La recherche de convivialité parvient à l'emporter sur la météo incertaine. Un peu partout en France, durant les week-ends de printemps, les appéros et piquenis se multiplient réunissant les habitants d'un même quartier. Cette initiative s'inscrit dans la droite lignée de la fête des voisins tradition de plus en plus plébiscité chaque année à la ville comme à la campagne. Ainsi, dimanche 15 juin, la partie piétonne de la rue Montmartre dans le deuxième arrondissement de Paris a reçu quelques 300 personnes. Des tables étaient disposées en quinconce dans toute la rue. Pour la deuxième année, les habitants du quartier étaient invités à partager ce repas organisé. Chacun devait apporter son propre déjeuner. Bref, les résidents de Montmartre prennent possession de la rue. Ravi de cette nouvelle attraction, les enfants jouaient ensemble et se ravitaillaient aux tables bien garnies. J'ai prêté des tables et des chaises et les habitants se sont organisés tout seul, raconte Jacques Bouteau, mère vert du deuxième arrondissement pour qui les appéros et autres piqueniques de quartier ont vocation à créer du lien social. Les deux organisateurs, le conseil de quartier et l'association Le Monde du Deux, sont parvenus à préparer cet événement sans débourser un centime. Des piqueniques ont permis d'organiser ce piquenique. Pour les habitants, ces rendez-vous sont devenus incontournables. L'avoc de ces rendez-vous de quartier s'est en partie développé grâce à Internet. Question 3. D'après le maire du deuxième arrondissement de Paris, quel est le principal objectif de ce type d'initiative ? Question 4. Quel est le coût de ces rencontres pour les organisateurs ?",
+  "words": [
+    {
+      "text": "Le",
+      "start": 3.24,
+      "end": 3.76
+    },
+    {
+      "text": "succès",
+      "start": 3.76,
+      "end": 4.24
+    },
+    {
+      "text": "des",
+      "start": 4.24,
+      "end": 4.34
+    },
+    {
+      "text": "piquenis",
+      "start": 4.34,
+      "end": 4.8
+    },
+    {
+      "text": "qui",
+      "start": 4.8,
+      "end": 4.98
+    },
+    {
+      "text": "appérent",
+      "start": 4.98,
+      "end": 5.32
+    },
+    {
+      "text": "entre",
+      "start": 5.32,
+      "end": 5.58
+    },
+    {
+      "text": "voisins.",
+      "start": 5.58,
+      "end": 6.06
+    },
+    {
+      "text": "La",
+      "start": 6.58,
+      "end": 6.96
+    },
+    {
+      "text": "multiplication",
+      "start": 6.96,
+      "end": 7.4
+    },
+    {
+      "text": "de",
+      "start": 7.4,
+      "end": 7.86
+    },
+    {
+      "text": "ces",
+      "start": 7.86,
+      "end": 8.02
+    },
+    {
+      "text": "événements",
+      "start": 8.02,
+      "end": 8.56
+    },
+    {
+      "text": "répond",
+      "start": 8.56,
+      "end": 8.84
+    },
+    {
+      "text": "en",
+      "start": 8.84,
+      "end": 9.02
+    },
+    {
+      "text": "fait",
+      "start": 9.02,
+      "end": 9.2
+    },
+    {
+      "text": "à",
+      "start": 9.2,
+      "end": 9.38
+    },
+    {
+      "text": "une",
+      "start": 9.38,
+      "end": 9.48
+    },
+    {
+      "text": "recherche",
+      "start": 9.48,
+      "end": 9.82
+    },
+    {
+      "text": "de",
+      "start": 9.82,
+      "end": 10.06
+    },
+    {
+      "text": "lien",
+      "start": 10.06,
+      "end": 10.24
+    },
+    {
+      "text": "social.",
+      "start": 10.24,
+      "end": 10.56
+    },
+    {
+      "text": "La",
+      "start": 11.34,
+      "end": 11.5
+    },
+    {
+      "text": "recherche",
+      "start": 11.5,
+      "end": 11.9
+    },
+    {
+      "text": "de",
+      "start": 11.9,
+      "end": 12.12
+    },
+    {
+      "text": "convivialité",
+      "start": 12.12,
+      "end": 12.92
+    },
+    {
+      "text": "parvient",
+      "start": 12.92,
+      "end": 13.34
+    },
+    {
+      "text": "à",
+      "start": 13.34,
+      "end": 13.46
+    },
+    {
+      "text": "l",
+      "start": 13.46,
+      "end": 13.52
+    },
+    {
+      "text": "'emporter",
+      "start": 13.52,
+      "end": 13.98
+    },
+    {
+      "text": "sur",
+      "start": 13.98,
+      "end": 14.18
+    },
+    {
+      "text": "la",
+      "start": 14.18,
+      "end": 14.32
+    },
+    {
+      "text": "météo",
+      "start": 14.32,
+      "end": 14.74
+    },
+    {
+      "text": "incertaine.",
+      "start": 14.74,
+      "end": 15.56
+    },
+    {
+      "text": "Un",
+      "start": 15.96,
+      "end": 16.22
+    },
+    {
+      "text": "peu",
+      "start": 16.22,
+      "end": 16.34
+    },
+    {
+      "text": "partout",
+      "start": 16.34,
+      "end": 16.58
+    },
+    {
+      "text": "en",
+      "start": 16.58,
+      "end": 16.76
+    },
+    {
+      "text": "France,",
+      "start": 16.76,
+      "end": 17.06
+    },
+    {
+      "text": "durant",
+      "start": 17.3,
+      "end": 17.44
+    },
+    {
+      "text": "les",
+      "start": 17.44,
+      "end": 17.6
+    },
+    {
+      "text": "week",
+      "start": 17.6,
+      "end": 17.82
+    },
+    {
+      "text": "-ends",
+      "start": 17.82,
+      "end": 18.0
+    },
+    {
+      "text": "de",
+      "start": 18.0,
+      "end": 18.14
+    },
+    {
+      "text": "printemps,",
+      "start": 18.14,
+      "end": 18.66
+    },
+    {
+      "text": "les",
+      "start": 19.02,
+      "end": 19.14
+    },
+    {
+      "text": "appéros",
+      "start": 19.14,
+      "end": 19.58
+    },
+    {
+      "text": "et",
+      "start": 19.58,
+      "end": 19.78
+    },
+    {
+      "text": "piquenis",
+      "start": 19.78,
+      "end": 20.18
+    },
+    {
+      "text": "se",
+      "start": 20.18,
+      "end": 20.4
+    },
+    {
+      "text": "multiplient",
+      "start": 20.4,
+      "end": 21.06
+    },
+    {
+      "text": "réunissant",
+      "start": 21.06,
+      "end": 22.0
+    },
+    {
+      "text": "les",
+      "start": 22.0,
+      "end": 22.2
+    },
+    {
+      "text": "habitants",
+      "start": 22.2,
+      "end": 22.66
+    },
+    {
+      "text": "d",
+      "start": 22.66,
+      "end": 22.76
+    },
+    {
+      "text": "'un",
+      "start": 22.76,
+      "end": 22.82
+    },
+    {
+      "text": "même",
+      "start": 22.82,
+      "end": 23.02
+    },
+    {
+      "text": "quartier.",
+      "start": 23.02,
+      "end": 23.46
+    },
+    {
+      "text": "Cette",
+      "start": 23.82,
+      "end": 24.1
+    },
+    {
+      "text": "initiative",
+      "start": 24.1,
+      "end": 24.66
+    },
+    {
+      "text": "s",
+      "start": 24.66,
+      "end": 24.94
+    },
+    {
+      "text": "'inscrit",
+      "start": 24.94,
+      "end": 25.18
+    },
+    {
+      "text": "dans",
+      "start": 25.18,
+      "end": 25.36
+    },
+    {
+      "text": "la",
+      "start": 25.36,
+      "end": 25.5
+    },
+    {
+      "text": "droite",
+      "start": 25.5,
+      "end": 25.76
+    },
+    {
+      "text": "lignée",
+      "start": 25.76,
+      "end": 26.24
+    },
+    {
+      "text": "de",
+      "start": 26.24,
+      "end": 26.34
+    },
+    {
+      "text": "la",
+      "start": 26.34,
+      "end": 26.46
+    },
+    {
+      "text": "fête",
+      "start": 26.46,
+      "end": 26.62
+    },
+    {
+      "text": "des",
+      "start": 26.62,
+      "end": 26.8
+    },
+    {
+      "text": "voisins",
+      "start": 26.8,
+      "end": 27.18
+    },
+    {
+      "text": "tradition",
+      "start": 27.18,
+      "end": 27.84
+    },
+    {
+      "text": "de",
+      "start": 27.84,
+      "end": 28.16
+    },
+    {
+      "text": "plus",
+      "start": 28.16,
+      "end": 28.34
+    },
+    {
+      "text": "en",
+      "start": 28.34,
+      "end": 28.5
+    },
+    {
+      "text": "plus",
+      "start": 28.5,
+      "end": 28.68
+    },
+    {
+      "text": "plébiscité",
+      "start": 28.68,
+      "end": 29.34
+    },
+    {
+      "text": "chaque",
+      "start": 29.34,
+      "end": 29.58
+    },
+    {
+      "text": "année",
+      "start": 29.58,
+      "end": 29.9
+    },
+    {
+      "text": "à",
+      "start": 29.9,
+      "end": 30.2
+    },
+    {
+      "text": "la",
+      "start": 30.2,
+      "end": 30.32
+    },
+    {
+      "text": "ville",
+      "start": 30.32,
+      "end": 30.54
+    },
+    {
+      "text": "comme",
+      "start": 30.54,
+      "end": 30.84
+    },
+    {
+      "text": "à",
+      "start": 30.84,
+      "end": 30.96
+    },
+    {
+      "text": "la",
+      "start": 30.96,
+      "end": 31.04
+    },
+    {
+      "text": "campagne.",
+      "start": 31.04,
+      "end": 31.5
+    },
+    {
+      "text": "Ainsi,",
+      "start": 31.66,
+      "end": 31.96
+    },
+    {
+      "text": "dimanche",
+      "start": 32.34,
+      "end": 32.76
+    },
+    {
+      "text": "15",
+      "start": 32.76,
+      "end": 33.1
+    },
+    {
+      "text": "juin,",
+      "start": 33.1,
+      "end": 33.52
+    },
+    {
+      "text": "la",
+      "start": 33.86,
+      "end": 33.92
+    },
+    {
+      "text": "partie",
+      "start": 33.92,
+      "end": 34.2
+    },
+    {
+      "text": "piétonne",
+      "start": 34.2,
+      "end": 34.72
+    },
+    {
+      "text": "de",
+      "start": 34.72,
+      "end": 34.82
+    },
+    {
+      "text": "la",
+      "start": 34.82,
+      "end": 34.94
+    },
+    {
+      "text": "rue",
+      "start": 34.94,
+      "end": 35.08
+    },
+    {
+      "text": "Montmartre",
+      "start": 35.08,
+      "end": 35.58
+    },
+    {
+      "text": "dans",
+      "start": 35.58,
+      "end": 35.72
+    },
+    {
+      "text": "le",
+      "start": 35.72,
+      "end": 35.84
+    },
+    {
+      "text": "deuxième",
+      "start": 35.84,
+      "end": 36.14
+    },
+    {
+      "text": "arrondissement",
+      "start": 36.14,
+      "end": 36.68
+    },
+    {
+      "text": "de",
+      "start": 36.68,
+      "end": 36.84
+    },
+    {
+      "text": "Paris",
+      "start": 36.84,
+      "end": 37.06
+    },
+    {
+      "text": "a",
+      "start": 37.06,
+      "end": 37.52
+    },
+    {
+      "text": "reçu",
+      "start": 37.52,
+      "end": 37.76
+    },
+    {
+      "text": "quelques",
+      "start": 37.76,
+      "end": 37.96
+    },
+    {
+      "text": "300",
+      "start": 37.96,
+      "end": 38.7
+    },
+    {
+      "text": "personnes.",
+      "start": 38.7,
+      "end": 39.38
+    },
+    {
+      "text": "Des",
+      "start": 39.9,
+      "end": 40.0
+    },
+    {
+      "text": "tables",
+      "start": 40.0,
+      "end": 40.42
+    },
+    {
+      "text": "étaient",
+      "start": 40.42,
+      "end": 40.62
+    },
+    {
+      "text": "disposées",
+      "start": 40.62,
+      "end": 41.22
+    },
+    {
+      "text": "en",
+      "start": 41.22,
+      "end": 41.34
+    },
+    {
+      "text": "quinconce",
+      "start": 41.34,
+      "end": 41.9
+    },
+    {
+      "text": "dans",
+      "start": 41.9,
+      "end": 42.04
+    },
+    {
+      "text": "toute",
+      "start": 42.04,
+      "end": 42.24
+    },
+    {
+      "text": "la",
+      "start": 42.24,
+      "end": 42.48
+    },
+    {
+      "text": "rue.",
+      "start": 42.48,
+      "end": 42.66
+    },
+    {
+      "text": "Pour",
+      "start": 42.98,
+      "end": 43.12
+    },
+    {
+      "text": "la",
+      "start": 43.12,
+      "end": 43.24
+    },
+    {
+      "text": "deuxième",
+      "start": 43.24,
+      "end": 43.62
+    },
+    {
+      "text": "année,",
+      "start": 43.62,
+      "end": 44.02
+    },
+    {
+      "text": "les",
+      "start": 44.1,
+      "end": 44.16
+    },
+    {
+      "text": "habitants",
+      "start": 44.16,
+      "end": 44.56
+    },
+    {
+      "text": "du",
+      "start": 44.56,
+      "end": 44.68
+    },
+    {
+      "text": "quartier",
+      "start": 44.68,
+      "end": 45.04
+    },
+    {
+      "text": "étaient",
+      "start": 45.04,
+      "end": 45.2
+    },
+    {
+      "text": "invités",
+      "start": 45.2,
+      "end": 45.58
+    },
+    {
+      "text": "à",
+      "start": 45.58,
+      "end": 45.7
+    },
+    {
+      "text": "partager",
+      "start": 45.7,
+      "end": 46.06
+    },
+    {
+      "text": "ce",
+      "start": 46.06,
+      "end": 46.34
+    },
+    {
+      "text": "repas",
+      "start": 46.34,
+      "end": 46.64
+    },
+    {
+      "text": "organisé.",
+      "start": 46.64,
+      "end": 47.28
+    },
+    {
+      "text": "Chacun",
+      "start": 47.58,
+      "end": 47.96
+    },
+    {
+      "text": "devait",
+      "start": 47.96,
+      "end": 48.54
+    },
+    {
+      "text": "apporter",
+      "start": 48.54,
+      "end": 48.92
+    },
+    {
+      "text": "son",
+      "start": 48.92,
+      "end": 49.18
+    },
+    {
+      "text": "propre",
+      "start": 49.18,
+      "end": 49.6
+    },
+    {
+      "text": "déjeuner.",
+      "start": 49.6,
+      "end": 50.14
+    },
+    {
+      "text": "Bref,",
+      "start": 50.3,
+      "end": 50.46
+    },
+    {
+      "text": "les",
+      "start": 50.92,
+      "end": 51.0
+    },
+    {
+      "text": "résidents",
+      "start": 51.0,
+      "end": 51.42
+    },
+    {
+      "text": "de",
+      "start": 51.42,
+      "end": 51.56
+    },
+    {
+      "text": "Montmartre",
+      "start": 51.56,
+      "end": 52.12
+    },
+    {
+      "text": "prennent",
+      "start": 52.12,
+      "end": 52.44
+    },
+    {
+      "text": "possession",
+      "start": 52.44,
+      "end": 52.78
+    },
+    {
+      "text": "de",
+      "start": 52.78,
+      "end": 53.06
+    },
+    {
+      "text": "la",
+      "start": 53.06,
+      "end": 53.2
+    },
+    {
+      "text": "rue.",
+      "start": 53.2,
+      "end": 53.36
+    },
+    {
+      "text": "Ravi",
+      "start": 54.18,
+      "end": 54.62
+    },
+    {
+      "text": "de",
+      "start": 54.62,
+      "end": 54.84
+    },
+    {
+      "text": "cette",
+      "start": 54.84,
+      "end": 55.04
+    },
+    {
+      "text": "nouvelle",
+      "start": 55.04,
+      "end": 55.3
+    },
+    {
+      "text": "attraction,",
+      "start": 55.3,
+      "end": 55.74
+    },
+    {
+      "text": "les",
+      "start": 55.98,
+      "end": 56.06
+    },
+    {
+      "text": "enfants",
+      "start": 56.06,
+      "end": 56.34
+    },
+    {
+      "text": "jouaient",
+      "start": 56.34,
+      "end": 56.68
+    },
+    {
+      "text": "ensemble",
+      "start": 56.68,
+      "end": 57.04
+    },
+    {
+      "text": "et",
+      "start": 57.04,
+      "end": 57.28
+    },
+    {
+      "text": "se",
+      "start": 57.28,
+      "end": 57.38
+    },
+    {
+      "text": "ravitaillaient",
+      "start": 57.38,
+      "end": 58.0
+    },
+    {
+      "text": "aux",
+      "start": 58.0,
+      "end": 58.16
+    },
+    {
+      "text": "tables",
+      "start": 58.16,
+      "end": 58.34
+    },
+    {
+      "text": "bien",
+      "start": 58.34,
+      "end": 58.64
+    },
+    {
+      "text": "garnies.",
+      "start": 58.64,
+      "end": 58.98
+    },
+    {
+      "text": "J",
+      "start": 59.56,
+      "end": 59.76
+    },
+    {
+      "text": "'ai",
+      "start": 59.76,
+      "end": 59.82
+    },
+    {
+      "text": "prêté",
+      "start": 59.82,
+      "end": 60.16
+    },
+    {
+      "text": "des",
+      "start": 60.16,
+      "end": 60.28
+    },
+    {
+      "text": "tables",
+      "start": 60.28,
+      "end": 60.64
+    },
+    {
+      "text": "et",
+      "start": 60.64,
+      "end": 60.74
+    },
+    {
+      "text": "des",
+      "start": 60.74,
+      "end": 60.84
+    },
+    {
+      "text": "chaises",
+      "start": 60.84,
+      "end": 61.36
+    },
+    {
+      "text": "et",
+      "start": 61.36,
+      "end": 61.46
+    },
+    {
+      "text": "les",
+      "start": 61.46,
+      "end": 61.62
+    },
+    {
+      "text": "habitants",
+      "start": 61.62,
+      "end": 62.02
+    },
+    {
+      "text": "se",
+      "start": 62.02,
+      "end": 62.16
+    },
+    {
+      "text": "sont",
+      "start": 62.16,
+      "end": 62.3
+    },
+    {
+      "text": "organisés",
+      "start": 62.3,
+      "end": 62.92
+    },
+    {
+      "text": "tout",
+      "start": 62.92,
+      "end": 63.1
+    },
+    {
+      "text": "seul,",
+      "start": 63.1,
+      "end": 63.44
+    },
+    {
+      "text": "raconte",
+      "start": 63.66,
+      "end": 64.18
+    },
+    {
+      "text": "Jacques",
+      "start": 64.18,
+      "end": 64.46
+    },
+    {
+      "text": "Bouteau,",
+      "start": 64.46,
+      "end": 65.0
+    },
+    {
+      "text": "mère",
+      "start": 65.38,
+      "end": 65.48
+    },
+    {
+      "text": "vert",
+      "start": 65.48,
+      "end": 65.8
+    },
+    {
+      "text": "du",
+      "start": 65.8,
+      "end": 66.0
+    },
+    {
+      "text": "deuxième",
+      "start": 66.0,
+      "end": 66.3
+    },
+    {
+      "text": "arrondissement",
+      "start": 66.3,
+      "end": 66.86
+    },
+    {
+      "text": "pour",
+      "start": 66.86,
+      "end": 67.42
+    },
+    {
+      "text": "qui",
+      "start": 67.42,
+      "end": 67.6
+    },
+    {
+      "text": "les",
+      "start": 67.6,
+      "end": 67.74
+    },
+    {
+      "text": "appéros",
+      "start": 67.74,
+      "end": 68.18
+    },
+    {
+      "text": "et",
+      "start": 68.18,
+      "end": 68.32
+    },
+    {
+      "text": "autres",
+      "start": 68.32,
+      "end": 68.64
+    },
+    {
+      "text": "piqueniques",
+      "start": 68.64,
+      "end": 69.16
+    },
+    {
+      "text": "de",
+      "start": 69.16,
+      "end": 69.28
+    },
+    {
+      "text": "quartier",
+      "start": 69.28,
+      "end": 69.72
+    },
+    {
+      "text": "ont",
+      "start": 69.72,
+      "end": 70.16
+    },
+    {
+      "text": "vocation",
+      "start": 70.16,
+      "end": 70.74
+    },
+    {
+      "text": "à",
+      "start": 70.74,
+      "end": 71.04
+    },
+    {
+      "text": "créer",
+      "start": 71.04,
+      "end": 71.3
+    },
+    {
+      "text": "du",
+      "start": 71.3,
+      "end": 71.48
+    },
+    {
+      "text": "lien",
+      "start": 71.48,
+      "end": 71.68
+    },
+    {
+      "text": "social.",
+      "start": 71.68,
+      "end": 72.06
+    },
+    {
+      "text": "Les",
+      "start": 72.42,
+      "end": 72.6
+    },
+    {
+      "text": "deux",
+      "start": 72.6,
+      "end": 72.8
+    },
+    {
+      "text": "organisateurs,",
+      "start": 72.8,
+      "end": 73.54
+    },
+    {
+      "text": "le",
+      "start": 73.7,
+      "end": 73.72
+    },
+    {
+      "text": "conseil",
+      "start": 73.72,
+      "end": 74.12
+    },
+    {
+      "text": "de",
+      "start": 74.12,
+      "end": 74.22
+    },
+    {
+      "text": "quartier",
+      "start": 74.22,
+      "end": 74.62
+    },
+    {
+      "text": "et",
+      "start": 74.62,
+      "end": 74.72
+    },
+    {
+      "text": "l",
+      "start": 74.72,
+      "end": 74.8
+    },
+    {
+      "text": "'association",
+      "start": 74.8,
+      "end": 75.32
+    },
+    {
+      "text": "Le",
+      "start": 75.32,
+      "end": 75.58
+    },
+    {
+      "text": "Monde",
+      "start": 75.58,
+      "end": 75.82
+    },
+    {
+      "text": "du",
+      "start": 75.82,
+      "end": 76.04
+    },
+    {
+      "text": "Deux,",
+      "start": 76.04,
+      "end": 76.56
+    },
+    {
+      "text": "sont",
+      "start": 76.7,
+      "end": 76.82
+    },
+    {
+      "text": "parvenus",
+      "start": 76.82,
+      "end": 77.28
+    },
+    {
+      "text": "à",
+      "start": 77.28,
+      "end": 77.4
+    },
+    {
+      "text": "préparer",
+      "start": 77.4,
+      "end": 77.82
+    },
+    {
+      "text": "cet",
+      "start": 77.82,
+      "end": 78.02
+    },
+    {
+      "text": "événement",
+      "start": 78.02,
+      "end": 78.44
+    },
+    {
+      "text": "sans",
+      "start": 78.44,
+      "end": 78.78
+    },
+    {
+      "text": "débourser",
+      "start": 78.78,
+      "end": 79.48
+    },
+    {
+      "text": "un",
+      "start": 79.48,
+      "end": 79.82
+    },
+    {
+      "text": "centime.",
+      "start": 79.82,
+      "end": 80.62
+    },
+    {
+      "text": "Des",
+      "start": 85.28,
+      "end": 85.28
+    },
+    {
+      "text": "piqueniques",
+      "start": 85.28,
+      "end": 85.48
+    },
+    {
+      "text": "ont",
+      "start": 85.48,
+      "end": 85.48
+    },
+    {
+      "text": "permis",
+      "start": 85.48,
+      "end": 85.52
+    },
+    {
+      "text": "d",
+      "start": 85.52,
+      "end": 85.64
+    },
+    {
+      "text": "'organiser",
+      "start": 85.64,
+      "end": 86.0
+    },
+    {
+      "text": "ce",
+      "start": 86.0,
+      "end": 86.18
+    },
+    {
+      "text": "piquenique.",
+      "start": 86.18,
+      "end": 86.66
+    },
+    {
+      "text": "Pour",
+      "start": 87.02,
+      "end": 87.22
+    },
+    {
+      "text": "les",
+      "start": 87.22,
+      "end": 87.34
+    },
+    {
+      "text": "habitants,",
+      "start": 87.34,
+      "end": 87.78
+    },
+    {
+      "text": "ces",
+      "start": 87.94,
+      "end": 87.94
+    },
+    {
+      "text": "rendez",
+      "start": 87.94,
+      "end": 88.1
+    },
+    {
+      "text": "-vous",
+      "start": 88.1,
+      "end": 88.3
+    },
+    {
+      "text": "sont",
+      "start": 88.3,
+      "end": 88.46
+    },
+    {
+      "text": "devenus",
+      "start": 88.46,
+      "end": 88.84
+    },
+    {
+      "text": "incontournables.",
+      "start": 88.84,
+      "end": 89.74
+    },
+    {
+      "text": "L",
+      "start": 90.16,
+      "end": 90.24
+    },
+    {
+      "text": "'avoc",
+      "start": 90.24,
+      "end": 90.44
+    },
+    {
+      "text": "de",
+      "start": 90.44,
+      "end": 90.62
+    },
+    {
+      "text": "ces",
+      "start": 90.62,
+      "end": 90.76
+    },
+    {
+      "text": "rendez",
+      "start": 90.76,
+      "end": 90.96
+    },
+    {
+      "text": "-vous",
+      "start": 90.96,
+      "end": 91.18
+    },
+    {
+      "text": "de",
+      "start": 91.18,
+      "end": 91.26
+    },
+    {
+      "text": "quartier",
+      "start": 91.26,
+      "end": 91.7
+    },
+    {
+      "text": "s",
+      "start": 91.7,
+      "end": 92.06
+    },
+    {
+      "text": "'est",
+      "start": 92.06,
+      "end": 92.1
+    },
+    {
+      "text": "en",
+      "start": 92.1,
+      "end": 92.24
+    },
+    {
+      "text": "partie",
+      "start": 92.24,
+      "end": 92.48
+    },
+    {
+      "text": "développé",
+      "start": 92.48,
+      "end": 93.02
+    },
+    {
+      "text": "grâce",
+      "start": 93.02,
+      "end": 93.38
+    },
+    {
+      "text": "à",
+      "start": 93.38,
+      "end": 93.54
+    },
+    {
+      "text": "Internet.",
+      "start": 93.54,
+      "end": 93.84
+    },
+    {
+      "text": "Question",
+      "start": 95.94,
+      "end": 96.42
+    },
+    {
+      "text": "3.",
+      "start": 96.42,
+      "end": 96.98
+    },
+    {
+      "text": "D",
+      "start": 98.08,
+      "end": 98.26
+    },
+    {
+      "text": "'après",
+      "start": 98.26,
+      "end": 98.44
+    },
+    {
+      "text": "le",
+      "start": 98.44,
+      "end": 98.68
+    },
+    {
+      "text": "maire",
+      "start": 98.68,
+      "end": 99.02
+    },
+    {
+      "text": "du",
+      "start": 99.02,
+      "end": 99.16
+    },
+    {
+      "text": "deuxième",
+      "start": 99.16,
+      "end": 99.46
+    },
+    {
+      "text": "arrondissement",
+      "start": 99.46,
+      "end": 100.02
+    },
+    {
+      "text": "de",
+      "start": 100.02,
+      "end": 100.24
+    },
+    {
+      "text": "Paris,",
+      "start": 100.24,
+      "end": 100.48
+    },
+    {
+      "text": "quel",
+      "start": 100.98,
+      "end": 101.06
+    },
+    {
+      "text": "est",
+      "start": 101.06,
+      "end": 101.18
+    },
+    {
+      "text": "le",
+      "start": 101.18,
+      "end": 101.32
+    },
+    {
+      "text": "principal",
+      "start": 101.32,
+      "end": 101.8
+    },
+    {
+      "text": "objectif",
+      "start": 102.36,
+      "end": 102.84
+    },
+    {
+      "text": "de",
+      "start": 102.84,
+      "end": 103.08
+    },
+    {
+      "text": "ce",
+      "start": 103.08,
+      "end": 103.24
+    },
+    {
+      "text": "type",
+      "start": 103.24,
+      "end": 103.6
+    },
+    {
+      "text": "d",
+      "start": 103.6,
+      "end": 103.84
+    },
+    {
+      "text": "'initiative",
+      "start": 103.84,
+      "end": 104.48
+    },
+    {
+      "text": "?",
+      "start": 104.48,
+      "end": 105.18
+    },
+    {
+      "text": "Question",
+      "start": 119.62,
+      "end": 120.46
+    },
+    {
+      "text": "4.",
+      "start": 120.46,
+      "end": 121.16
+    },
+    {
+      "text": "Quel",
+      "start": 121.86,
+      "end": 122.38
+    },
+    {
+      "text": "est",
+      "start": 122.38,
+      "end": 122.52
+    },
+    {
+      "text": "le",
+      "start": 122.52,
+      "end": 122.68
+    },
+    {
+      "text": "coût",
+      "start": 122.68,
+      "end": 123.0
+    },
+    {
+      "text": "de",
+      "start": 123.0,
+      "end": 123.1
+    },
+    {
+      "text": "ces",
+      "start": 123.1,
+      "end": 123.28
+    },
+    {
+      "text": "rencontres",
+      "start": 123.28,
+      "end": 123.96
+    },
+    {
+      "text": "pour",
+      "start": 123.96,
+      "end": 124.18
+    },
+    {
+      "text": "les",
+      "start": 124.18,
+      "end": 124.32
+    },
+    {
+      "text": "organisateurs",
+      "start": 124.32,
+      "end": 125.16
+    },
+    {
+      "text": "?",
+      "start": 125.16,
+      "end": 127.38
+    }
+  ]
+}

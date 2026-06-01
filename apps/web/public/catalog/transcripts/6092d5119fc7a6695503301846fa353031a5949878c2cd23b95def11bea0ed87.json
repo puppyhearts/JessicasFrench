@@ -1,0 +1,1205 @@
+{
+  "text": "La chronique des années-lumière avec cette semaine Marie-Dominique Beaulieu du département de médecine familiale du Chum, le centre hospitalier de l'Université de Montréal. Bonjour Marie-Dominique. Bonjour. Marie-Dominique, vous avez nous parlé aujourd'hui d'un gaz qui s'appelle le radon et qui peut causer le cancer du poumon. On en a parlé de temps à autre. Mais pourquoi revenir là-dessus maintenant Marie-Dominique? Eh bien parce qu'en octobre 2008, le ministère de la Santé et des services sociaux du Québec avec l'Institut national de santé publique a lancé une campagne d'informations sur un radon. Et moi-même en tant que médecin, j'ai reçu cette information qui m'a moi-même surprise. Donc je me suis dit que c'était intéressant de creuser un petit peu et de donner de l'information là-dessus. On a des normes, il y a des normes canadiennes, j'imagine, déjà oui. Oui, alors c'est ça qui a lancé cette nouvelle campagne, c'est que Santé Canada, suite à des études récentes dont on parlera un petit peu plus tard, a réduit considérablement la norme acceptable de radons dans l'environnement dans les maisons, dans les 800 becquerelles, en permettent que 200. Donc c'est quand même une bonne décision à la lumière de nouvelles études qui suggèrent une association entre l'exposition au radon dans les maisons et le concert du poumon.",
+  "words": [
+    {
+      "text": "La",
+      "start": 3.34,
+      "end": 3.78
+    },
+    {
+      "text": "chronique",
+      "start": 3.78,
+      "end": 4.22
+    },
+    {
+      "text": "des",
+      "start": 4.22,
+      "end": 4.58
+    },
+    {
+      "text": "années",
+      "start": 4.58,
+      "end": 4.94
+    },
+    {
+      "text": "-lumière",
+      "start": 4.94,
+      "end": 5.3
+    },
+    {
+      "text": "avec",
+      "start": 5.3,
+      "end": 5.5
+    },
+    {
+      "text": "cette",
+      "start": 5.5,
+      "end": 5.7
+    },
+    {
+      "text": "semaine",
+      "start": 5.7,
+      "end": 6.02
+    },
+    {
+      "text": "Marie",
+      "start": 6.02,
+      "end": 6.36
+    },
+    {
+      "text": "-Dominique",
+      "start": 6.36,
+      "end": 6.8
+    },
+    {
+      "text": "Beaulieu",
+      "start": 6.8,
+      "end": 7.16
+    },
+    {
+      "text": "du",
+      "start": 7.16,
+      "end": 7.32
+    },
+    {
+      "text": "département",
+      "start": 7.32,
+      "end": 7.8
+    },
+    {
+      "text": "de",
+      "start": 7.8,
+      "end": 7.92
+    },
+    {
+      "text": "médecine",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "text": "familiale",
+      "start": 8.24,
+      "end": 8.74
+    },
+    {
+      "text": "du",
+      "start": 8.74,
+      "end": 8.92
+    },
+    {
+      "text": "Chum,",
+      "start": 8.92,
+      "end": 9.22
+    },
+    {
+      "text": "le",
+      "start": 9.38,
+      "end": 9.46
+    },
+    {
+      "text": "centre",
+      "start": 9.46,
+      "end": 9.64
+    },
+    {
+      "text": "hospitalier",
+      "start": 9.64,
+      "end": 10.48
+    },
+    {
+      "text": "de",
+      "start": 10.48,
+      "end": 10.7
+    },
+    {
+      "text": "l",
+      "start": 10.7,
+      "end": 10.8
+    },
+    {
+      "text": "'Université",
+      "start": 10.8,
+      "end": 11.06
+    },
+    {
+      "text": "de",
+      "start": 11.06,
+      "end": 11.16
+    },
+    {
+      "text": "Montréal.",
+      "start": 11.16,
+      "end": 11.46
+    },
+    {
+      "text": "Bonjour",
+      "start": 11.58,
+      "end": 11.7
+    },
+    {
+      "text": "Marie",
+      "start": 11.7,
+      "end": 11.92
+    },
+    {
+      "text": "-Dominique.",
+      "start": 11.92,
+      "end": 12.4
+    },
+    {
+      "text": "Bonjour.",
+      "start": 12.52,
+      "end": 12.74
+    },
+    {
+      "text": "Marie",
+      "start": 13.4,
+      "end": 13.84
+    },
+    {
+      "text": "-Dominique,",
+      "start": 13.84,
+      "end": 14.16
+    },
+    {
+      "text": "vous",
+      "start": 14.2,
+      "end": 14.26
+    },
+    {
+      "text": "avez",
+      "start": 14.26,
+      "end": 14.32
+    },
+    {
+      "text": "nous",
+      "start": 14.32,
+      "end": 14.42
+    },
+    {
+      "text": "parlé",
+      "start": 14.42,
+      "end": 14.62
+    },
+    {
+      "text": "aujourd",
+      "start": 14.62,
+      "end": 14.82
+    },
+    {
+      "text": "'hui",
+      "start": 14.82,
+      "end": 15.18
+    },
+    {
+      "text": "d",
+      "start": 15.18,
+      "end": 15.3
+    },
+    {
+      "text": "'un",
+      "start": 15.3,
+      "end": 15.42
+    },
+    {
+      "text": "gaz",
+      "start": 15.42,
+      "end": 15.88
+    },
+    {
+      "text": "qui",
+      "start": 15.88,
+      "end": 16.16
+    },
+    {
+      "text": "s",
+      "start": 16.16,
+      "end": 16.26
+    },
+    {
+      "text": "'appelle",
+      "start": 16.26,
+      "end": 16.36
+    },
+    {
+      "text": "le",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "text": "radon",
+      "start": 16.54,
+      "end": 16.98
+    },
+    {
+      "text": "et",
+      "start": 16.98,
+      "end": 17.12
+    },
+    {
+      "text": "qui",
+      "start": 17.12,
+      "end": 17.28
+    },
+    {
+      "text": "peut",
+      "start": 17.28,
+      "end": 17.5
+    },
+    {
+      "text": "causer",
+      "start": 17.5,
+      "end": 18.06
+    },
+    {
+      "text": "le",
+      "start": 18.06,
+      "end": 18.22
+    },
+    {
+      "text": "cancer",
+      "start": 18.22,
+      "end": 18.54
+    },
+    {
+      "text": "du",
+      "start": 18.54,
+      "end": 18.78
+    },
+    {
+      "text": "poumon.",
+      "start": 18.78,
+      "end": 19.08
+    },
+    {
+      "text": "On",
+      "start": 19.28,
+      "end": 19.28
+    },
+    {
+      "text": "en",
+      "start": 19.28,
+      "end": 19.36
+    },
+    {
+      "text": "a",
+      "start": 19.36,
+      "end": 19.42
+    },
+    {
+      "text": "parlé",
+      "start": 19.42,
+      "end": 19.74
+    },
+    {
+      "text": "de",
+      "start": 19.74,
+      "end": 19.96
+    },
+    {
+      "text": "temps",
+      "start": 19.96,
+      "end": 20.18
+    },
+    {
+      "text": "à",
+      "start": 20.18,
+      "end": 20.4
+    },
+    {
+      "text": "autre.",
+      "start": 20.4,
+      "end": 20.56
+    },
+    {
+      "text": "Mais",
+      "start": 20.7,
+      "end": 20.7
+    },
+    {
+      "text": "pourquoi",
+      "start": 20.7,
+      "end": 21.06
+    },
+    {
+      "text": "revenir",
+      "start": 21.06,
+      "end": 21.72
+    },
+    {
+      "text": "là",
+      "start": 21.72,
+      "end": 21.98
+    },
+    {
+      "text": "-dessus",
+      "start": 21.98,
+      "end": 22.18
+    },
+    {
+      "text": "maintenant",
+      "start": 22.18,
+      "end": 22.62
+    },
+    {
+      "text": "Marie",
+      "start": 22.62,
+      "end": 22.88
+    },
+    {
+      "text": "-Dominique?",
+      "start": 22.88,
+      "end": 23.38
+    },
+    {
+      "text": "Eh",
+      "start": 23.74,
+      "end": 23.86
+    },
+    {
+      "text": "bien",
+      "start": 23.86,
+      "end": 23.94
+    },
+    {
+      "text": "parce",
+      "start": 23.94,
+      "end": 24.22
+    },
+    {
+      "text": "qu",
+      "start": 24.22,
+      "end": 24.36
+    },
+    {
+      "text": "'en",
+      "start": 24.36,
+      "end": 25.08
+    },
+    {
+      "text": "octobre",
+      "start": 25.08,
+      "end": 25.42
+    },
+    {
+      "text": "2008,",
+      "start": 25.42,
+      "end": 25.82
+    },
+    {
+      "text": "le",
+      "start": 25.96,
+      "end": 26.04
+    },
+    {
+      "text": "ministère",
+      "start": 26.04,
+      "end": 26.34
+    },
+    {
+      "text": "de",
+      "start": 26.34,
+      "end": 26.44
+    },
+    {
+      "text": "la",
+      "start": 26.44,
+      "end": 26.54
+    },
+    {
+      "text": "Santé",
+      "start": 26.54,
+      "end": 26.82
+    },
+    {
+      "text": "et",
+      "start": 26.82,
+      "end": 26.9
+    },
+    {
+      "text": "des",
+      "start": 26.9,
+      "end": 27.0
+    },
+    {
+      "text": "services",
+      "start": 27.0,
+      "end": 27.2
+    },
+    {
+      "text": "sociaux",
+      "start": 27.2,
+      "end": 27.58
+    },
+    {
+      "text": "du",
+      "start": 27.58,
+      "end": 27.76
+    },
+    {
+      "text": "Québec",
+      "start": 27.76,
+      "end": 28.06
+    },
+    {
+      "text": "avec",
+      "start": 28.88,
+      "end": 29.2
+    },
+    {
+      "text": "l",
+      "start": 29.2,
+      "end": 29.52
+    },
+    {
+      "text": "'Institut",
+      "start": 29.52,
+      "end": 29.76
+    },
+    {
+      "text": "national",
+      "start": 29.76,
+      "end": 29.9
+    },
+    {
+      "text": "de",
+      "start": 29.9,
+      "end": 30.22
+    },
+    {
+      "text": "santé",
+      "start": 30.22,
+      "end": 30.36
+    },
+    {
+      "text": "publique",
+      "start": 30.36,
+      "end": 30.8
+    },
+    {
+      "text": "a",
+      "start": 30.8,
+      "end": 30.92
+    },
+    {
+      "text": "lancé",
+      "start": 30.92,
+      "end": 31.22
+    },
+    {
+      "text": "une",
+      "start": 31.22,
+      "end": 31.38
+    },
+    {
+      "text": "campagne",
+      "start": 31.38,
+      "end": 31.86
+    },
+    {
+      "text": "d",
+      "start": 31.86,
+      "end": 32.0
+    },
+    {
+      "text": "'informations",
+      "start": 32.0,
+      "end": 32.54
+    },
+    {
+      "text": "sur",
+      "start": 32.54,
+      "end": 32.74
+    },
+    {
+      "text": "un",
+      "start": 32.74,
+      "end": 32.84
+    },
+    {
+      "text": "radon.",
+      "start": 32.84,
+      "end": 33.2
+    },
+    {
+      "text": "Et",
+      "start": 33.74,
+      "end": 33.78
+    },
+    {
+      "text": "moi",
+      "start": 33.78,
+      "end": 33.94
+    },
+    {
+      "text": "-même",
+      "start": 33.94,
+      "end": 34.16
+    },
+    {
+      "text": "en",
+      "start": 34.16,
+      "end": 34.32
+    },
+    {
+      "text": "tant",
+      "start": 34.32,
+      "end": 34.46
+    },
+    {
+      "text": "que",
+      "start": 34.46,
+      "end": 34.62
+    },
+    {
+      "text": "médecin,",
+      "start": 34.62,
+      "end": 35.04
+    },
+    {
+      "text": "j",
+      "start": 35.2,
+      "end": 35.3
+    },
+    {
+      "text": "'ai",
+      "start": 35.3,
+      "end": 35.36
+    },
+    {
+      "text": "reçu",
+      "start": 35.36,
+      "end": 35.88
+    },
+    {
+      "text": "cette",
+      "start": 35.88,
+      "end": 36.12
+    },
+    {
+      "text": "information",
+      "start": 36.12,
+      "end": 36.66
+    },
+    {
+      "text": "qui",
+      "start": 36.66,
+      "end": 37.0
+    },
+    {
+      "text": "m",
+      "start": 37.0,
+      "end": 37.14
+    },
+    {
+      "text": "'a",
+      "start": 37.14,
+      "end": 37.18
+    },
+    {
+      "text": "moi",
+      "start": 37.18,
+      "end": 37.36
+    },
+    {
+      "text": "-même",
+      "start": 37.36,
+      "end": 37.54
+    },
+    {
+      "text": "surprise.",
+      "start": 37.54,
+      "end": 37.96
+    },
+    {
+      "text": "Donc",
+      "start": 38.34,
+      "end": 38.38
+    },
+    {
+      "text": "je",
+      "start": 38.38,
+      "end": 39.12
+    },
+    {
+      "text": "me",
+      "start": 39.12,
+      "end": 39.22
+    },
+    {
+      "text": "suis",
+      "start": 39.22,
+      "end": 39.3
+    },
+    {
+      "text": "dit",
+      "start": 39.3,
+      "end": 39.46
+    },
+    {
+      "text": "que",
+      "start": 39.46,
+      "end": 39.52
+    },
+    {
+      "text": "c",
+      "start": 39.52,
+      "end": 39.56
+    },
+    {
+      "text": "'était",
+      "start": 39.56,
+      "end": 39.64
+    },
+    {
+      "text": "intéressant",
+      "start": 39.64,
+      "end": 40.18
+    },
+    {
+      "text": "de",
+      "start": 40.18,
+      "end": 40.42
+    },
+    {
+      "text": "creuser",
+      "start": 40.42,
+      "end": 40.74
+    },
+    {
+      "text": "un",
+      "start": 40.74,
+      "end": 40.86
+    },
+    {
+      "text": "petit",
+      "start": 40.86,
+      "end": 40.96
+    },
+    {
+      "text": "peu",
+      "start": 40.96,
+      "end": 41.12
+    },
+    {
+      "text": "et",
+      "start": 41.12,
+      "end": 41.2
+    },
+    {
+      "text": "de",
+      "start": 41.2,
+      "end": 41.32
+    },
+    {
+      "text": "donner",
+      "start": 41.32,
+      "end": 41.5
+    },
+    {
+      "text": "de",
+      "start": 41.5,
+      "end": 41.6
+    },
+    {
+      "text": "l",
+      "start": 41.6,
+      "end": 41.66
+    },
+    {
+      "text": "'information",
+      "start": 41.66,
+      "end": 41.98
+    },
+    {
+      "text": "là",
+      "start": 41.98,
+      "end": 41.98
+    },
+    {
+      "text": "-dessus.",
+      "start": 41.98,
+      "end": 42.0
+    },
+    {
+      "text": "On",
+      "start": 42.0,
+      "end": 42.2
+    },
+    {
+      "text": "a",
+      "start": 42.2,
+      "end": 42.32
+    },
+    {
+      "text": "des",
+      "start": 42.32,
+      "end": 42.52
+    },
+    {
+      "text": "normes,",
+      "start": 42.52,
+      "end": 43.02
+    },
+    {
+      "text": "il",
+      "start": 43.12,
+      "end": 43.2
+    },
+    {
+      "text": "y",
+      "start": 43.2,
+      "end": 43.24
+    },
+    {
+      "text": "a",
+      "start": 43.24,
+      "end": 43.24
+    },
+    {
+      "text": "des",
+      "start": 43.24,
+      "end": 43.36
+    },
+    {
+      "text": "normes",
+      "start": 43.36,
+      "end": 43.54
+    },
+    {
+      "text": "canadiennes,",
+      "start": 43.54,
+      "end": 44.04
+    },
+    {
+      "text": "j",
+      "start": 44.08,
+      "end": 44.16
+    },
+    {
+      "text": "'imagine,",
+      "start": 44.16,
+      "end": 44.38
+    },
+    {
+      "text": "déjà",
+      "start": 44.54,
+      "end": 44.76
+    },
+    {
+      "text": "oui.",
+      "start": 44.76,
+      "end": 44.94
+    },
+    {
+      "text": "Oui,",
+      "start": 45.08,
+      "end": 45.24
+    },
+    {
+      "text": "alors",
+      "start": 45.4,
+      "end": 45.54
+    },
+    {
+      "text": "c",
+      "start": 45.54,
+      "end": 45.7
+    },
+    {
+      "text": "'est",
+      "start": 45.7,
+      "end": 45.72
+    },
+    {
+      "text": "ça",
+      "start": 45.72,
+      "end": 45.86
+    },
+    {
+      "text": "qui",
+      "start": 45.86,
+      "end": 46.38
+    },
+    {
+      "text": "a",
+      "start": 46.38,
+      "end": 46.52
+    },
+    {
+      "text": "lancé",
+      "start": 46.52,
+      "end": 46.92
+    },
+    {
+      "text": "cette",
+      "start": 46.92,
+      "end": 47.2
+    },
+    {
+      "text": "nouvelle",
+      "start": 47.2,
+      "end": 47.38
+    },
+    {
+      "text": "campagne,",
+      "start": 47.38,
+      "end": 47.9
+    },
+    {
+      "text": "c",
+      "start": 48.04,
+      "end": 48.06
+    },
+    {
+      "text": "'est",
+      "start": 48.06,
+      "end": 48.14
+    },
+    {
+      "text": "que",
+      "start": 48.14,
+      "end": 48.32
+    },
+    {
+      "text": "Santé",
+      "start": 48.32,
+      "end": 48.78
+    },
+    {
+      "text": "Canada,",
+      "start": 48.78,
+      "end": 49.12
+    },
+    {
+      "text": "suite",
+      "start": 49.34,
+      "end": 49.48
+    },
+    {
+      "text": "à",
+      "start": 49.48,
+      "end": 49.66
+    },
+    {
+      "text": "des",
+      "start": 49.66,
+      "end": 49.82
+    },
+    {
+      "text": "études",
+      "start": 49.82,
+      "end": 50.1
+    },
+    {
+      "text": "récentes",
+      "start": 50.1,
+      "end": 50.54
+    },
+    {
+      "text": "dont",
+      "start": 50.54,
+      "end": 50.68
+    },
+    {
+      "text": "on",
+      "start": 50.68,
+      "end": 50.78
+    },
+    {
+      "text": "parlera",
+      "start": 50.78,
+      "end": 51.04
+    },
+    {
+      "text": "un",
+      "start": 51.04,
+      "end": 51.12
+    },
+    {
+      "text": "petit",
+      "start": 51.12,
+      "end": 51.18
+    },
+    {
+      "text": "peu",
+      "start": 51.18,
+      "end": 51.3
+    },
+    {
+      "text": "plus",
+      "start": 51.3,
+      "end": 51.44
+    },
+    {
+      "text": "tard,",
+      "start": 51.44,
+      "end": 51.7
+    },
+    {
+      "text": "a",
+      "start": 52.38,
+      "end": 52.46
+    },
+    {
+      "text": "réduit",
+      "start": 52.46,
+      "end": 52.74
+    },
+    {
+      "text": "considérablement",
+      "start": 52.74,
+      "end": 53.54
+    },
+    {
+      "text": "la",
+      "start": 53.54,
+      "end": 53.7
+    },
+    {
+      "text": "norme",
+      "start": 53.7,
+      "end": 54.02
+    },
+    {
+      "text": "acceptable",
+      "start": 54.02,
+      "end": 54.44
+    },
+    {
+      "text": "de",
+      "start": 54.44,
+      "end": 54.8
+    },
+    {
+      "text": "radons",
+      "start": 54.8,
+      "end": 55.26
+    },
+    {
+      "text": "dans",
+      "start": 55.26,
+      "end": 55.56
+    },
+    {
+      "text": "l",
+      "start": 55.56,
+      "end": 56.06
+    },
+    {
+      "text": "'environnement",
+      "start": 56.06,
+      "end": 56.6
+    },
+    {
+      "text": "dans",
+      "start": 56.6,
+      "end": 56.78
+    },
+    {
+      "text": "les",
+      "start": 56.78,
+      "end": 56.96
+    },
+    {
+      "text": "maisons,",
+      "start": 56.96,
+      "end": 57.4
+    },
+    {
+      "text": "dans",
+      "start": 57.48,
+      "end": 57.56
+    },
+    {
+      "text": "les",
+      "start": 57.56,
+      "end": 57.74
+    },
+    {
+      "text": "800",
+      "start": 57.74,
+      "end": 58.7
+    },
+    {
+      "text": "becquerelles,",
+      "start": 58.7,
+      "end": 59.58
+    },
+    {
+      "text": "en",
+      "start": 59.6,
+      "end": 59.74
+    },
+    {
+      "text": "permettent",
+      "start": 59.74,
+      "end": 60.06
+    },
+    {
+      "text": "que",
+      "start": 60.06,
+      "end": 60.18
+    },
+    {
+      "text": "200.",
+      "start": 60.18,
+      "end": 60.58
+    },
+    {
+      "text": "Donc",
+      "start": 60.94,
+      "end": 61.04
+    },
+    {
+      "text": "c",
+      "start": 61.04,
+      "end": 61.16
+    },
+    {
+      "text": "'est",
+      "start": 61.16,
+      "end": 61.22
+    },
+    {
+      "text": "quand",
+      "start": 61.22,
+      "end": 61.32
+    },
+    {
+      "text": "même",
+      "start": 61.32,
+      "end": 61.46
+    },
+    {
+      "text": "une",
+      "start": 61.46,
+      "end": 61.6
+    },
+    {
+      "text": "bonne",
+      "start": 61.6,
+      "end": 61.76
+    },
+    {
+      "text": "décision",
+      "start": 61.76,
+      "end": 63.6
+    },
+    {
+      "text": "à",
+      "start": 63.6,
+      "end": 63.7
+    },
+    {
+      "text": "la",
+      "start": 63.7,
+      "end": 63.78
+    },
+    {
+      "text": "lumière",
+      "start": 63.78,
+      "end": 63.94
+    },
+    {
+      "text": "de",
+      "start": 63.94,
+      "end": 64.22
+    },
+    {
+      "text": "nouvelles",
+      "start": 64.22,
+      "end": 64.48
+    },
+    {
+      "text": "études",
+      "start": 64.48,
+      "end": 65.0
+    },
+    {
+      "text": "qui",
+      "start": 65.0,
+      "end": 65.18
+    },
+    {
+      "text": "suggèrent",
+      "start": 65.18,
+      "end": 65.74
+    },
+    {
+      "text": "une",
+      "start": 65.74,
+      "end": 65.88
+    },
+    {
+      "text": "association",
+      "start": 65.88,
+      "end": 66.48
+    },
+    {
+      "text": "entre",
+      "start": 66.48,
+      "end": 66.88
+    },
+    {
+      "text": "l",
+      "start": 66.88,
+      "end": 67.02
+    },
+    {
+      "text": "'exposition",
+      "start": 67.02,
+      "end": 67.44
+    },
+    {
+      "text": "au",
+      "start": 67.44,
+      "end": 67.72
+    },
+    {
+      "text": "radon",
+      "start": 67.72,
+      "end": 68.06
+    },
+    {
+      "text": "dans",
+      "start": 68.06,
+      "end": 68.3
+    },
+    {
+      "text": "les",
+      "start": 68.3,
+      "end": 68.48
+    },
+    {
+      "text": "maisons",
+      "start": 68.48,
+      "end": 68.9
+    },
+    {
+      "text": "et",
+      "start": 68.9,
+      "end": 69.2
+    },
+    {
+      "text": "le",
+      "start": 69.2,
+      "end": 69.56
+    },
+    {
+      "text": "concert",
+      "start": 69.56,
+      "end": 69.68
+    },
+    {
+      "text": "du",
+      "start": 69.68,
+      "end": 70.08
+    },
+    {
+      "text": "poumon.",
+      "start": 70.08,
+      "end": 70.3
+    }
+  ]
+}

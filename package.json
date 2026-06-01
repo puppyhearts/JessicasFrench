@@ -1,0 +1,16 @@
+{
+  "name": "french-audiopractice",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "build": "npm --prefix apps/web run build",
+    "lint": "npm --prefix apps/web run lint",
+    "ingest": "sh scripts/ingest.sh",
+    "build-catalog": "sh scripts/build-catalog.sh",
+    "transcribe-catalog": "sh scripts/transcribe-catalog.sh",
+    "export-static-catalog": "sh scripts/export-static-catalog.sh",
+    "patch-abc-choices": "python3 scripts/patch-abc-choices.py",
+    "prepare-audio-release": "python3 scripts/prepare-audio-release.py",
+    "test:parser": "python3 -m unittest discover -s tests -p 'test_*.py'"
+  }
+}

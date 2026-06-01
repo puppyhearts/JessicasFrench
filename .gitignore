@@ -1,0 +1,33 @@
+# ── Large source files (work locally, never commit) ──────────────────────────
+Sources/
+audio-release/
+
+# ── Generated / rebuilt locally ───────────────────────────────────────────────
+content/generated/
+data/tcf.db
+
+# ── Caches (regenerated automatically) ────────────────────────────────────────
+.ocr-cache/
+.transcript-cache/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+
+# ── Node / Next.js ────────────────────────────────────────────────────────────
+node_modules/
+apps/web/.next/
+apps/web/out/
+
+# ── Environment secrets ───────────────────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store

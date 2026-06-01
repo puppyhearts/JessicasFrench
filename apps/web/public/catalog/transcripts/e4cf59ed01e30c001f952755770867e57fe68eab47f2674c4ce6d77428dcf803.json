@@ -1,0 +1,120 @@
+{
+  "text": "Question 5 Bon, vous allez A. Lavez la voiture B. Prendre une douche C. Essuyez la table D. Ranger la salle de bain",
+  "words": [
+    {
+      "text": "Question",
+      "start": 1.78,
+      "end": 2.46
+    },
+    {
+      "text": "5",
+      "start": 2.46,
+      "end": 2.98
+    },
+    {
+      "text": "Bon,",
+      "start": 4.12,
+      "end": 4.8
+    },
+    {
+      "text": "vous",
+      "start": 5.06,
+      "end": 5.28
+    },
+    {
+      "text": "allez",
+      "start": 5.28,
+      "end": 5.64
+    },
+    {
+      "text": "A.",
+      "start": 6.32,
+      "end": 7.0
+    },
+    {
+      "text": "Lavez",
+      "start": 7.62,
+      "end": 7.62
+    },
+    {
+      "text": "la",
+      "start": 7.62,
+      "end": 7.78
+    },
+    {
+      "text": "voiture",
+      "start": 7.78,
+      "end": 8.12
+    },
+    {
+      "text": "B.",
+      "start": 8.94,
+      "end": 9.62
+    },
+    {
+      "text": "Prendre",
+      "start": 10.24,
+      "end": 10.44
+    },
+    {
+      "text": "une",
+      "start": 10.44,
+      "end": 10.64
+    },
+    {
+      "text": "douche",
+      "start": 10.64,
+      "end": 11.04
+    },
+    {
+      "text": "C.",
+      "start": 11.94,
+      "end": 12.28
+    },
+    {
+      "text": "Essuyez",
+      "start": 12.84,
+      "end": 13.14
+    },
+    {
+      "text": "la",
+      "start": 13.14,
+      "end": 13.34
+    },
+    {
+      "text": "table",
+      "start": 13.34,
+      "end": 13.66
+    },
+    {
+      "text": "D.",
+      "start": 13.66,
+      "end": 14.96
+    },
+    {
+      "text": "Ranger",
+      "start": 15.7,
+      "end": 15.9
+    },
+    {
+      "text": "la",
+      "start": 15.9,
+      "end": 16.08
+    },
+    {
+      "text": "salle",
+      "start": 16.08,
+      "end": 16.22
+    },
+    {
+      "text": "de",
+      "start": 16.22,
+      "end": 16.36
+    },
+    {
+      "text": "bain",
+      "start": 16.36,
+      "end": 16.58
+    }
+  ]
+}

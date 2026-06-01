@@ -1,0 +1,1100 @@
+{
+  "text": "Question 19. Écoutez le document sonore et la question. Choisissez la bonne réponse. Peux-tu te présenter en quelques lignes ? Je m'appelle David, j'ai 23 ans. Je suis étudiant en communication et création multimédia. Je suis originaire de Bretagne en France et je vis à Ottawa, au Canada, depuis 2 ans. Mon histoire est assez atypique parce que je ne devais pas partir à l'étranger. J'avais des notes insuffisantes et un niveau d'anglais trop faible. Je suis finalement parti au Canada dans le cadre d'un échange académique d'un an. Après cette année passée à Ottawa, j'ai décidé de rester vivre au Canada. Qu'est-ce qui t'a incité à partir ? Je souhaitais partir dans un pays anglo-saxon pour apprendre l'anglais en immersion. Malheureusement, pour apprendre l'anglais à l'étranger, il faut déjà savoir parler et comprendre l'anglais à un niveau intermédiaire, ce qui n'était pas mon cas. J'ai donc choisi une université canadienne bilingue anglais-français et j'ai découvert sur place qu'une fois inscrits, il est possible de changer la langue de ses cours sans passer de test de langue. Chose que j'ai bien évidemment faite. Quelle difficulté, David, a-t-il rencontré pour aller étudier au Canada ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "19.",
+      "start": 0.56,
+      "end": 1.24
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.2,
+      "end": 2.8
+    },
+    {
+      "text": "le",
+      "start": 2.8,
+      "end": 3.0
+    },
+    {
+      "text": "document",
+      "start": 3.0,
+      "end": 3.32
+    },
+    {
+      "text": "sonore",
+      "start": 3.32,
+      "end": 3.92
+    },
+    {
+      "text": "et",
+      "start": 3.92,
+      "end": 4.14
+    },
+    {
+      "text": "la",
+      "start": 4.14,
+      "end": 4.26
+    },
+    {
+      "text": "question.",
+      "start": 4.26,
+      "end": 4.62
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.3,
+      "end": 5.76
+    },
+    {
+      "text": "la",
+      "start": 5.76,
+      "end": 5.96
+    },
+    {
+      "text": "bonne",
+      "start": 5.96,
+      "end": 6.12
+    },
+    {
+      "text": "réponse.",
+      "start": 6.12,
+      "end": 6.5
+    },
+    {
+      "text": "Peux",
+      "start": 7.98,
+      "end": 8.58
+    },
+    {
+      "text": "-tu",
+      "start": 8.58,
+      "end": 8.66
+    },
+    {
+      "text": "te",
+      "start": 8.66,
+      "end": 8.8
+    },
+    {
+      "text": "présenter",
+      "start": 8.8,
+      "end": 9.3
+    },
+    {
+      "text": "en",
+      "start": 9.3,
+      "end": 9.64
+    },
+    {
+      "text": "quelques",
+      "start": 9.64,
+      "end": 9.88
+    },
+    {
+      "text": "lignes",
+      "start": 9.88,
+      "end": 10.38
+    },
+    {
+      "text": "?",
+      "start": 10.38,
+      "end": 11.22
+    },
+    {
+      "text": "Je",
+      "start": 11.22,
+      "end": 11.88
+    },
+    {
+      "text": "m",
+      "start": 11.88,
+      "end": 12.0
+    },
+    {
+      "text": "'appelle",
+      "start": 12.0,
+      "end": 12.12
+    },
+    {
+      "text": "David,",
+      "start": 12.12,
+      "end": 12.4
+    },
+    {
+      "text": "j",
+      "start": 12.84,
+      "end": 13.06
+    },
+    {
+      "text": "'ai",
+      "start": 13.06,
+      "end": 13.16
+    },
+    {
+      "text": "23",
+      "start": 13.16,
+      "end": 13.56
+    },
+    {
+      "text": "ans.",
+      "start": 13.56,
+      "end": 13.86
+    },
+    {
+      "text": "Je",
+      "start": 14.52,
+      "end": 14.74
+    },
+    {
+      "text": "suis",
+      "start": 14.74,
+      "end": 14.92
+    },
+    {
+      "text": "étudiant",
+      "start": 14.92,
+      "end": 15.4
+    },
+    {
+      "text": "en",
+      "start": 15.4,
+      "end": 15.66
+    },
+    {
+      "text": "communication",
+      "start": 15.66,
+      "end": 15.98
+    },
+    {
+      "text": "et",
+      "start": 15.98,
+      "end": 16.68
+    },
+    {
+      "text": "création",
+      "start": 16.68,
+      "end": 17.12
+    },
+    {
+      "text": "multimédia.",
+      "start": 17.12,
+      "end": 17.68
+    },
+    {
+      "text": "Je",
+      "start": 18.28,
+      "end": 18.7
+    },
+    {
+      "text": "suis",
+      "start": 18.7,
+      "end": 18.86
+    },
+    {
+      "text": "originaire",
+      "start": 18.86,
+      "end": 19.26
+    },
+    {
+      "text": "de",
+      "start": 19.26,
+      "end": 19.46
+    },
+    {
+      "text": "Bretagne",
+      "start": 19.46,
+      "end": 19.94
+    },
+    {
+      "text": "en",
+      "start": 19.94,
+      "end": 20.1
+    },
+    {
+      "text": "France",
+      "start": 20.1,
+      "end": 20.46
+    },
+    {
+      "text": "et",
+      "start": 20.46,
+      "end": 20.72
+    },
+    {
+      "text": "je",
+      "start": 20.72,
+      "end": 20.84
+    },
+    {
+      "text": "vis",
+      "start": 20.84,
+      "end": 20.98
+    },
+    {
+      "text": "à",
+      "start": 20.98,
+      "end": 21.2
+    },
+    {
+      "text": "Ottawa,",
+      "start": 21.2,
+      "end": 21.56
+    },
+    {
+      "text": "au",
+      "start": 21.84,
+      "end": 21.88
+    },
+    {
+      "text": "Canada,",
+      "start": 21.88,
+      "end": 22.1
+    },
+    {
+      "text": "depuis",
+      "start": 22.42,
+      "end": 22.72
+    },
+    {
+      "text": "2",
+      "start": 22.72,
+      "end": 23.2
+    },
+    {
+      "text": "ans.",
+      "start": 23.2,
+      "end": 23.38
+    },
+    {
+      "text": "Mon",
+      "start": 24.48,
+      "end": 24.78
+    },
+    {
+      "text": "histoire",
+      "start": 24.78,
+      "end": 25.08
+    },
+    {
+      "text": "est",
+      "start": 25.08,
+      "end": 25.32
+    },
+    {
+      "text": "assez",
+      "start": 25.32,
+      "end": 25.56
+    },
+    {
+      "text": "atypique",
+      "start": 25.56,
+      "end": 26.12
+    },
+    {
+      "text": "parce",
+      "start": 26.12,
+      "end": 26.46
+    },
+    {
+      "text": "que",
+      "start": 26.46,
+      "end": 26.64
+    },
+    {
+      "text": "je",
+      "start": 26.64,
+      "end": 26.78
+    },
+    {
+      "text": "ne",
+      "start": 26.78,
+      "end": 26.88
+    },
+    {
+      "text": "devais",
+      "start": 26.88,
+      "end": 27.08
+    },
+    {
+      "text": "pas",
+      "start": 27.08,
+      "end": 27.22
+    },
+    {
+      "text": "partir",
+      "start": 27.22,
+      "end": 27.52
+    },
+    {
+      "text": "à",
+      "start": 27.52,
+      "end": 27.66
+    },
+    {
+      "text": "l",
+      "start": 27.66,
+      "end": 27.68
+    },
+    {
+      "text": "'étranger.",
+      "start": 27.68,
+      "end": 28.0
+    },
+    {
+      "text": "J",
+      "start": 28.0,
+      "end": 28.58
+    },
+    {
+      "text": "'avais",
+      "start": 28.58,
+      "end": 29.16
+    },
+    {
+      "text": "des",
+      "start": 29.16,
+      "end": 29.34
+    },
+    {
+      "text": "notes",
+      "start": 29.34,
+      "end": 29.48
+    },
+    {
+      "text": "insuffisantes",
+      "start": 29.48,
+      "end": 30.24
+    },
+    {
+      "text": "et",
+      "start": 30.24,
+      "end": 30.58
+    },
+    {
+      "text": "un",
+      "start": 30.58,
+      "end": 30.86
+    },
+    {
+      "text": "niveau",
+      "start": 30.86,
+      "end": 31.04
+    },
+    {
+      "text": "d",
+      "start": 31.04,
+      "end": 31.16
+    },
+    {
+      "text": "'anglais",
+      "start": 31.16,
+      "end": 31.34
+    },
+    {
+      "text": "trop",
+      "start": 31.34,
+      "end": 31.66
+    },
+    {
+      "text": "faible.",
+      "start": 31.66,
+      "end": 32.04
+    },
+    {
+      "text": "Je",
+      "start": 32.54,
+      "end": 32.98
+    },
+    {
+      "text": "suis",
+      "start": 32.98,
+      "end": 33.14
+    },
+    {
+      "text": "finalement",
+      "start": 33.14,
+      "end": 33.44
+    },
+    {
+      "text": "parti",
+      "start": 33.44,
+      "end": 33.8
+    },
+    {
+      "text": "au",
+      "start": 33.8,
+      "end": 33.98
+    },
+    {
+      "text": "Canada",
+      "start": 33.98,
+      "end": 34.28
+    },
+    {
+      "text": "dans",
+      "start": 34.28,
+      "end": 34.56
+    },
+    {
+      "text": "le",
+      "start": 34.56,
+      "end": 34.66
+    },
+    {
+      "text": "cadre",
+      "start": 34.66,
+      "end": 34.82
+    },
+    {
+      "text": "d",
+      "start": 34.82,
+      "end": 35.04
+    },
+    {
+      "text": "'un",
+      "start": 35.04,
+      "end": 35.08
+    },
+    {
+      "text": "échange",
+      "start": 35.08,
+      "end": 35.3
+    },
+    {
+      "text": "académique",
+      "start": 35.3,
+      "end": 35.82
+    },
+    {
+      "text": "d",
+      "start": 35.82,
+      "end": 35.98
+    },
+    {
+      "text": "'un",
+      "start": 35.98,
+      "end": 36.02
+    },
+    {
+      "text": "an.",
+      "start": 36.02,
+      "end": 36.22
+    },
+    {
+      "text": "Après",
+      "start": 37.04,
+      "end": 37.34
+    },
+    {
+      "text": "cette",
+      "start": 37.34,
+      "end": 37.56
+    },
+    {
+      "text": "année",
+      "start": 37.56,
+      "end": 37.76
+    },
+    {
+      "text": "passée",
+      "start": 37.76,
+      "end": 38.1
+    },
+    {
+      "text": "à",
+      "start": 38.1,
+      "end": 38.22
+    },
+    {
+      "text": "Ottawa,",
+      "start": 38.22,
+      "end": 38.46
+    },
+    {
+      "text": "j",
+      "start": 39.34,
+      "end": 39.52
+    },
+    {
+      "text": "'ai",
+      "start": 39.52,
+      "end": 39.58
+    },
+    {
+      "text": "décidé",
+      "start": 39.58,
+      "end": 39.84
+    },
+    {
+      "text": "de",
+      "start": 39.84,
+      "end": 40.04
+    },
+    {
+      "text": "rester",
+      "start": 40.04,
+      "end": 40.24
+    },
+    {
+      "text": "vivre",
+      "start": 40.24,
+      "end": 40.58
+    },
+    {
+      "text": "au",
+      "start": 40.58,
+      "end": 40.74
+    },
+    {
+      "text": "Canada.",
+      "start": 40.74,
+      "end": 40.94
+    },
+    {
+      "text": "Qu",
+      "start": 41.72,
+      "end": 42.02
+    },
+    {
+      "text": "'est",
+      "start": 42.02,
+      "end": 42.08
+    },
+    {
+      "text": "-ce",
+      "start": 42.08,
+      "end": 42.14
+    },
+    {
+      "text": "qui",
+      "start": 42.14,
+      "end": 42.26
+    },
+    {
+      "text": "t",
+      "start": 42.26,
+      "end": 42.36
+    },
+    {
+      "text": "'a",
+      "start": 42.36,
+      "end": 42.38
+    },
+    {
+      "text": "incité",
+      "start": 42.38,
+      "end": 42.74
+    },
+    {
+      "text": "à",
+      "start": 42.74,
+      "end": 42.96
+    },
+    {
+      "text": "partir",
+      "start": 42.96,
+      "end": 43.32
+    },
+    {
+      "text": "?",
+      "start": 43.32,
+      "end": 44.22
+    },
+    {
+      "text": "Je",
+      "start": 44.22,
+      "end": 44.38
+    },
+    {
+      "text": "souhaitais",
+      "start": 44.38,
+      "end": 44.68
+    },
+    {
+      "text": "partir",
+      "start": 44.68,
+      "end": 44.96
+    },
+    {
+      "text": "dans",
+      "start": 44.96,
+      "end": 45.18
+    },
+    {
+      "text": "un",
+      "start": 45.18,
+      "end": 45.36
+    },
+    {
+      "text": "pays",
+      "start": 45.36,
+      "end": 45.54
+    },
+    {
+      "text": "anglo",
+      "start": 45.54,
+      "end": 45.8
+    },
+    {
+      "text": "-saxon",
+      "start": 45.8,
+      "end": 46.26
+    },
+    {
+      "text": "pour",
+      "start": 46.26,
+      "end": 46.5
+    },
+    {
+      "text": "apprendre",
+      "start": 46.5,
+      "end": 46.8
+    },
+    {
+      "text": "l",
+      "start": 46.8,
+      "end": 47.02
+    },
+    {
+      "text": "'anglais",
+      "start": 47.02,
+      "end": 47.22
+    },
+    {
+      "text": "en",
+      "start": 47.22,
+      "end": 47.38
+    },
+    {
+      "text": "immersion.",
+      "start": 47.38,
+      "end": 47.76
+    },
+    {
+      "text": "Malheureusement,",
+      "start": 48.76,
+      "end": 49.2
+    },
+    {
+      "text": "pour",
+      "start": 49.58,
+      "end": 49.66
+    },
+    {
+      "text": "apprendre",
+      "start": 49.66,
+      "end": 49.86
+    },
+    {
+      "text": "l",
+      "start": 49.86,
+      "end": 50.02
+    },
+    {
+      "text": "'anglais",
+      "start": 50.02,
+      "end": 50.18
+    },
+    {
+      "text": "à",
+      "start": 50.18,
+      "end": 50.3
+    },
+    {
+      "text": "l",
+      "start": 50.3,
+      "end": 50.32
+    },
+    {
+      "text": "'étranger,",
+      "start": 50.32,
+      "end": 50.72
+    },
+    {
+      "text": "il",
+      "start": 51.52,
+      "end": 51.62
+    },
+    {
+      "text": "faut",
+      "start": 51.62,
+      "end": 51.78
+    },
+    {
+      "text": "déjà",
+      "start": 51.78,
+      "end": 52.04
+    },
+    {
+      "text": "savoir",
+      "start": 52.04,
+      "end": 52.3
+    },
+    {
+      "text": "parler",
+      "start": 52.3,
+      "end": 52.74
+    },
+    {
+      "text": "et",
+      "start": 52.74,
+      "end": 52.86
+    },
+    {
+      "text": "comprendre",
+      "start": 52.86,
+      "end": 53.1
+    },
+    {
+      "text": "l",
+      "start": 53.1,
+      "end": 53.34
+    },
+    {
+      "text": "'anglais",
+      "start": 53.34,
+      "end": 53.6
+    },
+    {
+      "text": "à",
+      "start": 53.6,
+      "end": 54.0
+    },
+    {
+      "text": "un",
+      "start": 54.0,
+      "end": 54.14
+    },
+    {
+      "text": "niveau",
+      "start": 54.14,
+      "end": 54.36
+    },
+    {
+      "text": "intermédiaire,",
+      "start": 54.36,
+      "end": 55.1
+    },
+    {
+      "text": "ce",
+      "start": 55.44,
+      "end": 55.7
+    },
+    {
+      "text": "qui",
+      "start": 55.7,
+      "end": 55.82
+    },
+    {
+      "text": "n",
+      "start": 55.82,
+      "end": 55.92
+    },
+    {
+      "text": "'était",
+      "start": 55.92,
+      "end": 56.0
+    },
+    {
+      "text": "pas",
+      "start": 56.0,
+      "end": 56.18
+    },
+    {
+      "text": "mon",
+      "start": 56.18,
+      "end": 56.32
+    },
+    {
+      "text": "cas.",
+      "start": 56.32,
+      "end": 56.52
+    },
+    {
+      "text": "J",
+      "start": 57.14,
+      "end": 57.62
+    },
+    {
+      "text": "'ai",
+      "start": 57.62,
+      "end": 57.76
+    },
+    {
+      "text": "donc",
+      "start": 57.76,
+      "end": 57.84
+    },
+    {
+      "text": "choisi",
+      "start": 57.84,
+      "end": 58.22
+    },
+    {
+      "text": "une",
+      "start": 58.22,
+      "end": 58.36
+    },
+    {
+      "text": "université",
+      "start": 58.36,
+      "end": 58.9
+    },
+    {
+      "text": "canadienne",
+      "start": 58.9,
+      "end": 59.38
+    },
+    {
+      "text": "bilingue",
+      "start": 59.38,
+      "end": 60.02
+    },
+    {
+      "text": "anglais",
+      "start": 60.02,
+      "end": 60.4
+    },
+    {
+      "text": "-français",
+      "start": 60.4,
+      "end": 60.98
+    },
+    {
+      "text": "et",
+      "start": 60.98,
+      "end": 61.64
+    },
+    {
+      "text": "j",
+      "start": 61.64,
+      "end": 61.72
+    },
+    {
+      "text": "'ai",
+      "start": 61.72,
+      "end": 61.76
+    },
+    {
+      "text": "découvert",
+      "start": 61.76,
+      "end": 62.06
+    },
+    {
+      "text": "sur",
+      "start": 62.06,
+      "end": 62.34
+    },
+    {
+      "text": "place",
+      "start": 62.34,
+      "end": 62.62
+    },
+    {
+      "text": "qu",
+      "start": 62.62,
+      "end": 62.82
+    },
+    {
+      "text": "'une",
+      "start": 62.82,
+      "end": 62.9
+    },
+    {
+      "text": "fois",
+      "start": 62.9,
+      "end": 63.06
+    },
+    {
+      "text": "inscrits,",
+      "start": 63.06,
+      "end": 63.5
+    },
+    {
+      "text": "il",
+      "start": 63.68,
+      "end": 64.1
+    },
+    {
+      "text": "est",
+      "start": 64.1,
+      "end": 64.2
+    },
+    {
+      "text": "possible",
+      "start": 64.2,
+      "end": 64.44
+    },
+    {
+      "text": "de",
+      "start": 64.44,
+      "end": 64.62
+    },
+    {
+      "text": "changer",
+      "start": 64.62,
+      "end": 64.78
+    },
+    {
+      "text": "la",
+      "start": 64.78,
+      "end": 65.04
+    },
+    {
+      "text": "langue",
+      "start": 65.04,
+      "end": 65.24
+    },
+    {
+      "text": "de",
+      "start": 65.24,
+      "end": 65.36
+    },
+    {
+      "text": "ses",
+      "start": 65.36,
+      "end": 65.52
+    },
+    {
+      "text": "cours",
+      "start": 65.52,
+      "end": 65.78
+    },
+    {
+      "text": "sans",
+      "start": 65.78,
+      "end": 66.04
+    },
+    {
+      "text": "passer",
+      "start": 66.04,
+      "end": 66.36
+    },
+    {
+      "text": "de",
+      "start": 66.36,
+      "end": 66.52
+    },
+    {
+      "text": "test",
+      "start": 66.52,
+      "end": 66.74
+    },
+    {
+      "text": "de",
+      "start": 66.74,
+      "end": 66.96
+    },
+    {
+      "text": "langue.",
+      "start": 66.96,
+      "end": 67.24
+    },
+    {
+      "text": "Chose",
+      "start": 67.66,
+      "end": 68.14
+    },
+    {
+      "text": "que",
+      "start": 68.14,
+      "end": 68.38
+    },
+    {
+      "text": "j",
+      "start": 68.38,
+      "end": 68.68
+    },
+    {
+      "text": "'ai",
+      "start": 68.68,
+      "end": 68.76
+    },
+    {
+      "text": "bien",
+      "start": 68.76,
+      "end": 68.92
+    },
+    {
+      "text": "évidemment",
+      "start": 68.92,
+      "end": 69.26
+    },
+    {
+      "text": "faite.",
+      "start": 69.26,
+      "end": 69.72
+    },
+    {
+      "text": "Quelle",
+      "start": 71.6,
+      "end": 72.08
+    },
+    {
+      "text": "difficulté,",
+      "start": 72.08,
+      "end": 72.56
+    },
+    {
+      "text": "David,",
+      "start": 72.66,
+      "end": 72.86
+    },
+    {
+      "text": "a",
+      "start": 73.08,
+      "end": 73.24
+    },
+    {
+      "text": "-t",
+      "start": 73.24,
+      "end": 73.32
+    },
+    {
+      "text": "-il",
+      "start": 73.32,
+      "end": 73.38
+    },
+    {
+      "text": "rencontré",
+      "start": 73.38,
+      "end": 73.96
+    },
+    {
+      "text": "pour",
+      "start": 73.96,
+      "end": 74.2
+    },
+    {
+      "text": "aller",
+      "start": 74.2,
+      "end": 74.36
+    },
+    {
+      "text": "étudier",
+      "start": 74.36,
+      "end": 74.76
+    },
+    {
+      "text": "au",
+      "start": 74.76,
+      "end": 74.86
+    },
+    {
+      "text": "Canada",
+      "start": 74.86,
+      "end": 75.1
+    },
+    {
+      "text": "?",
+      "start": 75.1,
+      "end": 75.54
+    }
+  ]
+}

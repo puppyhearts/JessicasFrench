@@ -1,0 +1,1430 @@
+{
+  "text": "Certains automobilistes les attendent, d'autres les appréhendent. Quoi qu'il en soit, c'est officiel, les radars photo meubleront les abords des routes du Québec dès l'automne. Neuf seront placés près des voies rapides et six autres seront installés aux intersections. Transport Québec confirme que les régions de Montréal, de la Montérégie et de Chaudière-Appalaches serviront de bains d'essais. On ne sait toutefois pas quels seront les routes et les intersections retenues. Mais ces sites devront répondre à des critères, comme le dit le porte-parole de Transport Québec Terry McKinnon. Ça peut être des zones où on constate des grands excès de vitesse. Ça peut être des intersections aussi qui ont un plus grand nombre d'accidents. Soit des sites où la configuration routière ne permet pas au corps policier de pouvoir faire du radar. Les automobilistes qui se déplaceront dans les zones visées seront avertis à l'avance de la présence des radars photos par des affiches. Les conducteurs présents défauts recevront alors par la poste une photo de leur plaque d'immatriculation en plus d'une contravention. Si le propriétaire du véhicule n'était pas au volant lors de l'infraction, il devra le prouver. Terry McKinnon de Transport Québec. Le propriétaire du véhicule a un délai de 30 jours pour signifier au ministère de la Justice que c'était pas lui qui était au volant, mais c'était un autre personne qui le doit identiquer. L'argent des contraventions sera déposé dans un fond pour améliorer la sécurité sur les routes. Dominique Brassard, Radio-Canada, Montréal. Question 14 Quelle est l'information principale donnée dans cette chronique? Question 15 Qu'arrivera-t-il aux conducteurs en infraction?",
+  "words": [
+    {
+      "text": "Certains",
+      "start": 3.9,
+      "end": 4.34
+    },
+    {
+      "text": "automobilistes",
+      "start": 4.34,
+      "end": 4.78
+    },
+    {
+      "text": "les",
+      "start": 4.78,
+      "end": 5.02
+    },
+    {
+      "text": "attendent,",
+      "start": 5.02,
+      "end": 5.64
+    },
+    {
+      "text": "d",
+      "start": 5.72,
+      "end": 5.82
+    },
+    {
+      "text": "'autres",
+      "start": 5.82,
+      "end": 6.02
+    },
+    {
+      "text": "les",
+      "start": 6.02,
+      "end": 6.34
+    },
+    {
+      "text": "appréhendent.",
+      "start": 6.34,
+      "end": 7.08
+    },
+    {
+      "text": "Quoi",
+      "start": 7.38,
+      "end": 7.52
+    },
+    {
+      "text": "qu",
+      "start": 7.52,
+      "end": 7.62
+    },
+    {
+      "text": "'il",
+      "start": 7.62,
+      "end": 7.68
+    },
+    {
+      "text": "en",
+      "start": 7.68,
+      "end": 7.82
+    },
+    {
+      "text": "soit,",
+      "start": 7.82,
+      "end": 8.04
+    },
+    {
+      "text": "c",
+      "start": 8.24,
+      "end": 8.24
+    },
+    {
+      "text": "'est",
+      "start": 8.24,
+      "end": 8.28
+    },
+    {
+      "text": "officiel,",
+      "start": 8.28,
+      "end": 8.84
+    },
+    {
+      "text": "les",
+      "start": 9.02,
+      "end": 9.1
+    },
+    {
+      "text": "radars",
+      "start": 9.1,
+      "end": 9.4
+    },
+    {
+      "text": "photo",
+      "start": 9.4,
+      "end": 9.72
+    },
+    {
+      "text": "meubleront",
+      "start": 9.72,
+      "end": 10.28
+    },
+    {
+      "text": "les",
+      "start": 10.28,
+      "end": 10.46
+    },
+    {
+      "text": "abords",
+      "start": 10.46,
+      "end": 10.76
+    },
+    {
+      "text": "des",
+      "start": 10.76,
+      "end": 10.96
+    },
+    {
+      "text": "routes",
+      "start": 10.96,
+      "end": 11.14
+    },
+    {
+      "text": "du",
+      "start": 11.14,
+      "end": 11.34
+    },
+    {
+      "text": "Québec",
+      "start": 11.34,
+      "end": 11.56
+    },
+    {
+      "text": "dès",
+      "start": 11.56,
+      "end": 11.84
+    },
+    {
+      "text": "l",
+      "start": 11.84,
+      "end": 11.96
+    },
+    {
+      "text": "'automne.",
+      "start": 11.96,
+      "end": 12.38
+    },
+    {
+      "text": "Neuf",
+      "start": 12.76,
+      "end": 13.08
+    },
+    {
+      "text": "seront",
+      "start": 13.08,
+      "end": 13.32
+    },
+    {
+      "text": "placés",
+      "start": 13.32,
+      "end": 13.74
+    },
+    {
+      "text": "près",
+      "start": 13.74,
+      "end": 13.88
+    },
+    {
+      "text": "des",
+      "start": 13.88,
+      "end": 14.02
+    },
+    {
+      "text": "voies",
+      "start": 14.02,
+      "end": 14.2
+    },
+    {
+      "text": "rapides",
+      "start": 14.2,
+      "end": 14.58
+    },
+    {
+      "text": "et",
+      "start": 14.58,
+      "end": 15.1
+    },
+    {
+      "text": "six",
+      "start": 15.1,
+      "end": 15.26
+    },
+    {
+      "text": "autres",
+      "start": 15.26,
+      "end": 15.56
+    },
+    {
+      "text": "seront",
+      "start": 15.56,
+      "end": 15.9
+    },
+    {
+      "text": "installés",
+      "start": 15.9,
+      "end": 16.38
+    },
+    {
+      "text": "aux",
+      "start": 16.38,
+      "end": 16.5
+    },
+    {
+      "text": "intersections.",
+      "start": 16.5,
+      "end": 16.94
+    },
+    {
+      "text": "Transport",
+      "start": 17.66,
+      "end": 17.94
+    },
+    {
+      "text": "Québec",
+      "start": 17.94,
+      "end": 18.22
+    },
+    {
+      "text": "confirme",
+      "start": 18.22,
+      "end": 18.76
+    },
+    {
+      "text": "que",
+      "start": 18.76,
+      "end": 18.86
+    },
+    {
+      "text": "les",
+      "start": 18.86,
+      "end": 18.98
+    },
+    {
+      "text": "régions",
+      "start": 18.98,
+      "end": 19.26
+    },
+    {
+      "text": "de",
+      "start": 19.26,
+      "end": 19.38
+    },
+    {
+      "text": "Montréal,",
+      "start": 19.38,
+      "end": 19.76
+    },
+    {
+      "text": "de",
+      "start": 19.88,
+      "end": 19.94
+    },
+    {
+      "text": "la",
+      "start": 19.94,
+      "end": 20.02
+    },
+    {
+      "text": "Montérégie",
+      "start": 20.02,
+      "end": 20.62
+    },
+    {
+      "text": "et",
+      "start": 20.62,
+      "end": 20.72
+    },
+    {
+      "text": "de",
+      "start": 20.72,
+      "end": 20.8
+    },
+    {
+      "text": "Chaudière",
+      "start": 20.8,
+      "end": 21.08
+    },
+    {
+      "text": "-Appalaches",
+      "start": 21.08,
+      "end": 21.64
+    },
+    {
+      "text": "serviront",
+      "start": 21.64,
+      "end": 22.5
+    },
+    {
+      "text": "de",
+      "start": 22.5,
+      "end": 22.66
+    },
+    {
+      "text": "bains",
+      "start": 22.66,
+      "end": 22.84
+    },
+    {
+      "text": "d",
+      "start": 22.84,
+      "end": 23.0
+    },
+    {
+      "text": "'essais.",
+      "start": 23.0,
+      "end": 23.24
+    },
+    {
+      "text": "On",
+      "start": 23.72,
+      "end": 23.82
+    },
+    {
+      "text": "ne",
+      "start": 23.82,
+      "end": 23.92
+    },
+    {
+      "text": "sait",
+      "start": 23.92,
+      "end": 24.0
+    },
+    {
+      "text": "toutefois",
+      "start": 24.0,
+      "end": 24.3
+    },
+    {
+      "text": "pas",
+      "start": 24.3,
+      "end": 24.48
+    },
+    {
+      "text": "quels",
+      "start": 24.48,
+      "end": 24.68
+    },
+    {
+      "text": "seront",
+      "start": 24.68,
+      "end": 24.94
+    },
+    {
+      "text": "les",
+      "start": 24.94,
+      "end": 25.12
+    },
+    {
+      "text": "routes",
+      "start": 25.12,
+      "end": 25.32
+    },
+    {
+      "text": "et",
+      "start": 25.32,
+      "end": 25.42
+    },
+    {
+      "text": "les",
+      "start": 25.42,
+      "end": 25.6
+    },
+    {
+      "text": "intersections",
+      "start": 25.6,
+      "end": 26.16
+    },
+    {
+      "text": "retenues.",
+      "start": 26.16,
+      "end": 26.64
+    },
+    {
+      "text": "Mais",
+      "start": 26.64,
+      "end": 27.2
+    },
+    {
+      "text": "ces",
+      "start": 27.2,
+      "end": 27.42
+    },
+    {
+      "text": "sites",
+      "start": 27.42,
+      "end": 27.6
+    },
+    {
+      "text": "devront",
+      "start": 27.6,
+      "end": 27.9
+    },
+    {
+      "text": "répondre",
+      "start": 27.9,
+      "end": 28.26
+    },
+    {
+      "text": "à",
+      "start": 28.26,
+      "end": 28.44
+    },
+    {
+      "text": "des",
+      "start": 28.44,
+      "end": 28.54
+    },
+    {
+      "text": "critères,",
+      "start": 28.54,
+      "end": 28.98
+    },
+    {
+      "text": "comme",
+      "start": 29.16,
+      "end": 29.26
+    },
+    {
+      "text": "le",
+      "start": 29.26,
+      "end": 29.4
+    },
+    {
+      "text": "dit",
+      "start": 29.4,
+      "end": 29.54
+    },
+    {
+      "text": "le",
+      "start": 29.54,
+      "end": 29.7
+    },
+    {
+      "text": "porte",
+      "start": 29.7,
+      "end": 29.92
+    },
+    {
+      "text": "-parole",
+      "start": 29.92,
+      "end": 30.32
+    },
+    {
+      "text": "de",
+      "start": 30.32,
+      "end": 30.46
+    },
+    {
+      "text": "Transport",
+      "start": 30.46,
+      "end": 30.74
+    },
+    {
+      "text": "Québec",
+      "start": 30.74,
+      "end": 31.14
+    },
+    {
+      "text": "Terry",
+      "start": 31.14,
+      "end": 31.56
+    },
+    {
+      "text": "McKinnon.",
+      "start": 31.56,
+      "end": 31.8
+    },
+    {
+      "text": "Ça",
+      "start": 32.36,
+      "end": 32.48
+    },
+    {
+      "text": "peut",
+      "start": 32.48,
+      "end": 32.64
+    },
+    {
+      "text": "être",
+      "start": 32.64,
+      "end": 32.76
+    },
+    {
+      "text": "des",
+      "start": 32.76,
+      "end": 32.96
+    },
+    {
+      "text": "zones",
+      "start": 32.96,
+      "end": 33.3
+    },
+    {
+      "text": "où",
+      "start": 33.3,
+      "end": 33.84
+    },
+    {
+      "text": "on",
+      "start": 33.84,
+      "end": 34.14
+    },
+    {
+      "text": "constate",
+      "start": 34.14,
+      "end": 34.54
+    },
+    {
+      "text": "des",
+      "start": 34.54,
+      "end": 34.78
+    },
+    {
+      "text": "grands",
+      "start": 34.78,
+      "end": 35.04
+    },
+    {
+      "text": "excès",
+      "start": 35.04,
+      "end": 35.44
+    },
+    {
+      "text": "de",
+      "start": 35.44,
+      "end": 35.56
+    },
+    {
+      "text": "vitesse.",
+      "start": 35.56,
+      "end": 35.86
+    },
+    {
+      "text": "Ça",
+      "start": 36.6,
+      "end": 36.76
+    },
+    {
+      "text": "peut",
+      "start": 36.76,
+      "end": 36.94
+    },
+    {
+      "text": "être",
+      "start": 36.94,
+      "end": 37.16
+    },
+    {
+      "text": "des",
+      "start": 37.16,
+      "end": 37.48
+    },
+    {
+      "text": "intersections",
+      "start": 37.48,
+      "end": 38.16
+    },
+    {
+      "text": "aussi",
+      "start": 38.16,
+      "end": 38.92
+    },
+    {
+      "text": "qui",
+      "start": 38.92,
+      "end": 39.16
+    },
+    {
+      "text": "ont",
+      "start": 39.16,
+      "end": 39.3
+    },
+    {
+      "text": "un",
+      "start": 39.3,
+      "end": 39.42
+    },
+    {
+      "text": "plus",
+      "start": 39.42,
+      "end": 39.56
+    },
+    {
+      "text": "grand",
+      "start": 39.56,
+      "end": 39.72
+    },
+    {
+      "text": "nombre",
+      "start": 39.72,
+      "end": 40.1
+    },
+    {
+      "text": "d",
+      "start": 40.1,
+      "end": 40.24
+    },
+    {
+      "text": "'accidents.",
+      "start": 40.24,
+      "end": 40.68
+    },
+    {
+      "text": "Soit",
+      "start": 40.92,
+      "end": 41.4
+    },
+    {
+      "text": "des",
+      "start": 41.4,
+      "end": 41.56
+    },
+    {
+      "text": "sites",
+      "start": 41.56,
+      "end": 41.88
+    },
+    {
+      "text": "où",
+      "start": 41.88,
+      "end": 42.24
+    },
+    {
+      "text": "la",
+      "start": 42.24,
+      "end": 42.52
+    },
+    {
+      "text": "configuration",
+      "start": 42.52,
+      "end": 43.18
+    },
+    {
+      "text": "routière",
+      "start": 43.18,
+      "end": 44.08
+    },
+    {
+      "text": "ne",
+      "start": 44.08,
+      "end": 44.3
+    },
+    {
+      "text": "permet",
+      "start": 44.3,
+      "end": 44.5
+    },
+    {
+      "text": "pas",
+      "start": 44.5,
+      "end": 44.74
+    },
+    {
+      "text": "au",
+      "start": 44.74,
+      "end": 44.88
+    },
+    {
+      "text": "corps",
+      "start": 44.88,
+      "end": 45.0
+    },
+    {
+      "text": "policier",
+      "start": 45.0,
+      "end": 45.64
+    },
+    {
+      "text": "de",
+      "start": 45.64,
+      "end": 45.88
+    },
+    {
+      "text": "pouvoir",
+      "start": 45.88,
+      "end": 46.24
+    },
+    {
+      "text": "faire",
+      "start": 46.24,
+      "end": 46.58
+    },
+    {
+      "text": "du",
+      "start": 46.58,
+      "end": 46.88
+    },
+    {
+      "text": "radar.",
+      "start": 46.88,
+      "end": 47.06
+    },
+    {
+      "text": "Les",
+      "start": 47.28,
+      "end": 47.46
+    },
+    {
+      "text": "automobilistes",
+      "start": 47.46,
+      "end": 48.12
+    },
+    {
+      "text": "qui",
+      "start": 48.12,
+      "end": 48.36
+    },
+    {
+      "text": "se",
+      "start": 48.36,
+      "end": 48.52
+    },
+    {
+      "text": "déplaceront",
+      "start": 48.52,
+      "end": 49.06
+    },
+    {
+      "text": "dans",
+      "start": 49.06,
+      "end": 49.22
+    },
+    {
+      "text": "les",
+      "start": 49.22,
+      "end": 49.38
+    },
+    {
+      "text": "zones",
+      "start": 49.38,
+      "end": 49.56
+    },
+    {
+      "text": "visées",
+      "start": 49.56,
+      "end": 50.0
+    },
+    {
+      "text": "seront",
+      "start": 50.0,
+      "end": 50.48
+    },
+    {
+      "text": "avertis",
+      "start": 50.48,
+      "end": 51.0
+    },
+    {
+      "text": "à",
+      "start": 51.0,
+      "end": 51.12
+    },
+    {
+      "text": "l",
+      "start": 51.12,
+      "end": 51.18
+    },
+    {
+      "text": "'avance",
+      "start": 51.18,
+      "end": 51.44
+    },
+    {
+      "text": "de",
+      "start": 51.44,
+      "end": 51.62
+    },
+    {
+      "text": "la",
+      "start": 51.62,
+      "end": 51.72
+    },
+    {
+      "text": "présence",
+      "start": 51.72,
+      "end": 52.08
+    },
+    {
+      "text": "des",
+      "start": 52.08,
+      "end": 52.28
+    },
+    {
+      "text": "radars",
+      "start": 52.28,
+      "end": 52.58
+    },
+    {
+      "text": "photos",
+      "start": 52.58,
+      "end": 52.94
+    },
+    {
+      "text": "par",
+      "start": 52.94,
+      "end": 53.2
+    },
+    {
+      "text": "des",
+      "start": 53.2,
+      "end": 53.4
+    },
+    {
+      "text": "affiches.",
+      "start": 53.4,
+      "end": 53.92
+    },
+    {
+      "text": "Les",
+      "start": 53.92,
+      "end": 54.44
+    },
+    {
+      "text": "conducteurs",
+      "start": 54.44,
+      "end": 54.9
+    },
+    {
+      "text": "présents",
+      "start": 54.9,
+      "end": 55.28
+    },
+    {
+      "text": "défauts",
+      "start": 55.28,
+      "end": 55.78
+    },
+    {
+      "text": "recevront",
+      "start": 55.78,
+      "end": 56.2
+    },
+    {
+      "text": "alors",
+      "start": 56.2,
+      "end": 56.42
+    },
+    {
+      "text": "par",
+      "start": 56.42,
+      "end": 56.66
+    },
+    {
+      "text": "la",
+      "start": 56.66,
+      "end": 56.84
+    },
+    {
+      "text": "poste",
+      "start": 56.84,
+      "end": 57.18
+    },
+    {
+      "text": "une",
+      "start": 57.18,
+      "end": 57.32
+    },
+    {
+      "text": "photo",
+      "start": 57.32,
+      "end": 57.64
+    },
+    {
+      "text": "de",
+      "start": 57.64,
+      "end": 57.9
+    },
+    {
+      "text": "leur",
+      "start": 57.9,
+      "end": 58.02
+    },
+    {
+      "text": "plaque",
+      "start": 58.02,
+      "end": 58.26
+    },
+    {
+      "text": "d",
+      "start": 58.26,
+      "end": 58.36
+    },
+    {
+      "text": "'immatriculation",
+      "start": 58.36,
+      "end": 59.1
+    },
+    {
+      "text": "en",
+      "start": 59.1,
+      "end": 59.68
+    },
+    {
+      "text": "plus",
+      "start": 59.68,
+      "end": 59.84
+    },
+    {
+      "text": "d",
+      "start": 59.84,
+      "end": 59.96
+    },
+    {
+      "text": "'une",
+      "start": 59.96,
+      "end": 60.04
+    },
+    {
+      "text": "contravention.",
+      "start": 60.04,
+      "end": 60.68
+    },
+    {
+      "text": "Si",
+      "start": 61.18,
+      "end": 61.42
+    },
+    {
+      "text": "le",
+      "start": 61.42,
+      "end": 61.56
+    },
+    {
+      "text": "propriétaire",
+      "start": 61.56,
+      "end": 62.14
+    },
+    {
+      "text": "du",
+      "start": 62.14,
+      "end": 62.26
+    },
+    {
+      "text": "véhicule",
+      "start": 62.26,
+      "end": 62.64
+    },
+    {
+      "text": "n",
+      "start": 62.64,
+      "end": 62.76
+    },
+    {
+      "text": "'était",
+      "start": 62.76,
+      "end": 62.86
+    },
+    {
+      "text": "pas",
+      "start": 62.86,
+      "end": 63.06
+    },
+    {
+      "text": "au",
+      "start": 63.06,
+      "end": 63.26
+    },
+    {
+      "text": "volant",
+      "start": 63.26,
+      "end": 63.56
+    },
+    {
+      "text": "lors",
+      "start": 63.56,
+      "end": 63.74
+    },
+    {
+      "text": "de",
+      "start": 63.74,
+      "end": 63.9
+    },
+    {
+      "text": "l",
+      "start": 63.9,
+      "end": 63.98
+    },
+    {
+      "text": "'infraction,",
+      "start": 63.98,
+      "end": 64.42
+    },
+    {
+      "text": "il",
+      "start": 64.88,
+      "end": 64.96
+    },
+    {
+      "text": "devra",
+      "start": 64.96,
+      "end": 65.26
+    },
+    {
+      "text": "le",
+      "start": 65.26,
+      "end": 65.34
+    },
+    {
+      "text": "prouver.",
+      "start": 65.34,
+      "end": 65.68
+    },
+    {
+      "text": "Terry",
+      "start": 66.16,
+      "end": 66.36
+    },
+    {
+      "text": "McKinnon",
+      "start": 66.36,
+      "end": 66.84
+    },
+    {
+      "text": "de",
+      "start": 66.84,
+      "end": 67.0
+    },
+    {
+      "text": "Transport",
+      "start": 67.0,
+      "end": 67.26
+    },
+    {
+      "text": "Québec.",
+      "start": 67.26,
+      "end": 67.64
+    },
+    {
+      "text": "Le",
+      "start": 68.02,
+      "end": 68.22
+    },
+    {
+      "text": "propriétaire",
+      "start": 68.22,
+      "end": 68.84
+    },
+    {
+      "text": "du",
+      "start": 68.84,
+      "end": 68.92
+    },
+    {
+      "text": "véhicule",
+      "start": 68.92,
+      "end": 69.42
+    },
+    {
+      "text": "a",
+      "start": 69.42,
+      "end": 69.62
+    },
+    {
+      "text": "un",
+      "start": 69.62,
+      "end": 69.74
+    },
+    {
+      "text": "délai",
+      "start": 69.74,
+      "end": 69.98
+    },
+    {
+      "text": "de",
+      "start": 69.98,
+      "end": 70.1
+    },
+    {
+      "text": "30",
+      "start": 70.1,
+      "end": 70.4
+    },
+    {
+      "text": "jours",
+      "start": 70.4,
+      "end": 70.8
+    },
+    {
+      "text": "pour",
+      "start": 70.8,
+      "end": 71.14
+    },
+    {
+      "text": "signifier",
+      "start": 71.14,
+      "end": 71.8
+    },
+    {
+      "text": "au",
+      "start": 71.8,
+      "end": 71.98
+    },
+    {
+      "text": "ministère",
+      "start": 71.98,
+      "end": 72.28
+    },
+    {
+      "text": "de",
+      "start": 72.28,
+      "end": 72.42
+    },
+    {
+      "text": "la",
+      "start": 72.42,
+      "end": 72.42
+    },
+    {
+      "text": "Justice",
+      "start": 72.42,
+      "end": 72.68
+    },
+    {
+      "text": "que",
+      "start": 72.68,
+      "end": 72.96
+    },
+    {
+      "text": "c",
+      "start": 72.96,
+      "end": 73.06
+    },
+    {
+      "text": "'était",
+      "start": 73.06,
+      "end": 73.16
+    },
+    {
+      "text": "pas",
+      "start": 73.16,
+      "end": 73.4
+    },
+    {
+      "text": "lui",
+      "start": 73.4,
+      "end": 73.66
+    },
+    {
+      "text": "qui",
+      "start": 73.66,
+      "end": 74.36
+    },
+    {
+      "text": "était",
+      "start": 74.36,
+      "end": 74.52
+    },
+    {
+      "text": "au",
+      "start": 74.52,
+      "end": 74.68
+    },
+    {
+      "text": "volant,",
+      "start": 74.68,
+      "end": 75.02
+    },
+    {
+      "text": "mais",
+      "start": 75.08,
+      "end": 75.18
+    },
+    {
+      "text": "c",
+      "start": 75.18,
+      "end": 75.34
+    },
+    {
+      "text": "'était",
+      "start": 75.34,
+      "end": 75.46
+    },
+    {
+      "text": "un",
+      "start": 75.46,
+      "end": 75.72
+    },
+    {
+      "text": "autre",
+      "start": 75.72,
+      "end": 75.92
+    },
+    {
+      "text": "personne",
+      "start": 75.92,
+      "end": 76.36
+    },
+    {
+      "text": "qui",
+      "start": 76.36,
+      "end": 76.68
+    },
+    {
+      "text": "le",
+      "start": 76.68,
+      "end": 76.82
+    },
+    {
+      "text": "doit",
+      "start": 76.82,
+      "end": 76.96
+    },
+    {
+      "text": "identiquer.",
+      "start": 76.96,
+      "end": 77.5
+    },
+    {
+      "text": "L",
+      "start": 77.58,
+      "end": 77.72
+    },
+    {
+      "text": "'argent",
+      "start": 77.72,
+      "end": 77.86
+    },
+    {
+      "text": "des",
+      "start": 77.86,
+      "end": 78.06
+    },
+    {
+      "text": "contraventions",
+      "start": 78.06,
+      "end": 78.64
+    },
+    {
+      "text": "sera",
+      "start": 78.64,
+      "end": 79.02
+    },
+    {
+      "text": "déposé",
+      "start": 79.02,
+      "end": 79.54
+    },
+    {
+      "text": "dans",
+      "start": 79.54,
+      "end": 79.7
+    },
+    {
+      "text": "un",
+      "start": 79.7,
+      "end": 79.96
+    },
+    {
+      "text": "fond",
+      "start": 79.96,
+      "end": 80.18
+    },
+    {
+      "text": "pour",
+      "start": 80.18,
+      "end": 80.42
+    },
+    {
+      "text": "améliorer",
+      "start": 80.42,
+      "end": 80.94
+    },
+    {
+      "text": "la",
+      "start": 80.94,
+      "end": 81.06
+    },
+    {
+      "text": "sécurité",
+      "start": 81.06,
+      "end": 81.46
+    },
+    {
+      "text": "sur",
+      "start": 81.46,
+      "end": 81.82
+    },
+    {
+      "text": "les",
+      "start": 81.82,
+      "end": 81.98
+    },
+    {
+      "text": "routes.",
+      "start": 81.98,
+      "end": 82.16
+    },
+    {
+      "text": "Dominique",
+      "start": 82.16,
+      "end": 83.1
+    },
+    {
+      "text": "Brassard,",
+      "start": 83.1,
+      "end": 83.52
+    },
+    {
+      "text": "Radio",
+      "start": 83.6,
+      "end": 83.76
+    },
+    {
+      "text": "-Canada,",
+      "start": 83.76,
+      "end": 84.12
+    },
+    {
+      "text": "Montréal.",
+      "start": 84.48,
+      "end": 84.82
+    },
+    {
+      "text": "Question",
+      "start": 87.32,
+      "end": 88.1
+    },
+    {
+      "text": "14",
+      "start": 88.1,
+      "end": 88.74
+    },
+    {
+      "text": "Quelle",
+      "start": 88.74,
+      "end": 90.14
+    },
+    {
+      "text": "est",
+      "start": 90.14,
+      "end": 90.18
+    },
+    {
+      "text": "l",
+      "start": 90.18,
+      "end": 90.28
+    },
+    {
+      "text": "'information",
+      "start": 90.28,
+      "end": 90.54
+    },
+    {
+      "text": "principale",
+      "start": 90.54,
+      "end": 91.58
+    },
+    {
+      "text": "donnée",
+      "start": 91.58,
+      "end": 91.94
+    },
+    {
+      "text": "dans",
+      "start": 91.94,
+      "end": 92.08
+    },
+    {
+      "text": "cette",
+      "start": 92.08,
+      "end": 92.26
+    },
+    {
+      "text": "chronique?",
+      "start": 92.26,
+      "end": 92.86
+    },
+    {
+      "text": "Question",
+      "start": 107.72,
+      "end": 108.5
+    },
+    {
+      "text": "15",
+      "start": 108.5,
+      "end": 109.0
+    },
+    {
+      "text": "Qu",
+      "start": 109.0,
+      "end": 110.3
+    },
+    {
+      "text": "'arrivera",
+      "start": 110.3,
+      "end": 110.7
+    },
+    {
+      "text": "-t",
+      "start": 110.7,
+      "end": 110.84
+    },
+    {
+      "text": "-il",
+      "start": 110.84,
+      "end": 111.04
+    },
+    {
+      "text": "aux",
+      "start": 111.04,
+      "end": 111.34
+    },
+    {
+      "text": "conducteurs",
+      "start": 111.34,
+      "end": 112.08
+    },
+    {
+      "text": "en",
+      "start": 112.08,
+      "end": 112.38
+    },
+    {
+      "text": "infraction?",
+      "start": 112.38,
+      "end": 112.94
+    }
+  ]
+}

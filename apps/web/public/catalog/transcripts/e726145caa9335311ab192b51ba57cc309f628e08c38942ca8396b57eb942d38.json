@@ -1,0 +1,490 @@
+{
+  "text": "Bonjour madame, je vous appelle parce que je dois reporter ma réservation. J'ai un empêchement pour partir à la date prévue. Pouvez-vous me donner votre numéro de dossier monsieur ? Oui, c'est le 56AFU89. Parfait ! Qu'en souhaiteriez-vous partir ? La semaine prochaine, de préférence en début de journée. Je suis désolé monsieur, tout nos vols sont complets. Je peux vous proposer uniquement la semaine suivante. Ah ça, c'est vraiment embêtant. Laissez-moi consulter mon agenda. Je vous rappelle dans cinq minutes. Que se passe-t-il dans cette situation ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "text": "madame,",
+      "start": 0.78,
+      "end": 1.2
+    },
+    {
+      "text": "je",
+      "start": 1.44,
+      "end": 1.56
+    },
+    {
+      "text": "vous",
+      "start": 1.56,
+      "end": 1.68
+    },
+    {
+      "text": "appelle",
+      "start": 1.68,
+      "end": 1.92
+    },
+    {
+      "text": "parce",
+      "start": 1.92,
+      "end": 2.14
+    },
+    {
+      "text": "que",
+      "start": 2.14,
+      "end": 2.28
+    },
+    {
+      "text": "je",
+      "start": 2.28,
+      "end": 2.4
+    },
+    {
+      "text": "dois",
+      "start": 2.4,
+      "end": 2.56
+    },
+    {
+      "text": "reporter",
+      "start": 2.56,
+      "end": 2.96
+    },
+    {
+      "text": "ma",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "text": "réservation.",
+      "start": 3.2,
+      "end": 3.72
+    },
+    {
+      "text": "J",
+      "start": 4.06,
+      "end": 4.24
+    },
+    {
+      "text": "'ai",
+      "start": 4.24,
+      "end": 4.28
+    },
+    {
+      "text": "un",
+      "start": 4.28,
+      "end": 4.4
+    },
+    {
+      "text": "empêchement",
+      "start": 4.4,
+      "end": 4.92
+    },
+    {
+      "text": "pour",
+      "start": 4.92,
+      "end": 5.12
+    },
+    {
+      "text": "partir",
+      "start": 5.12,
+      "end": 5.48
+    },
+    {
+      "text": "à",
+      "start": 5.48,
+      "end": 5.68
+    },
+    {
+      "text": "la",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "date",
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "prévue.",
+      "start": 5.92,
+      "end": 6.4
+    },
+    {
+      "text": "Pouvez",
+      "start": 7.0,
+      "end": 7.52
+    },
+    {
+      "text": "-vous",
+      "start": 7.52,
+      "end": 7.64
+    },
+    {
+      "text": "me",
+      "start": 7.64,
+      "end": 7.78
+    },
+    {
+      "text": "donner",
+      "start": 7.78,
+      "end": 7.92
+    },
+    {
+      "text": "votre",
+      "start": 7.92,
+      "end": 8.22
+    },
+    {
+      "text": "numéro",
+      "start": 8.22,
+      "end": 8.56
+    },
+    {
+      "text": "de",
+      "start": 8.56,
+      "end": 8.78
+    },
+    {
+      "text": "dossier",
+      "start": 8.78,
+      "end": 9.1
+    },
+    {
+      "text": "monsieur",
+      "start": 9.1,
+      "end": 9.36
+    },
+    {
+      "text": "?",
+      "start": 9.36,
+      "end": 10.06
+    },
+    {
+      "text": "Oui,",
+      "start": 10.06,
+      "end": 10.22
+    },
+    {
+      "text": "c",
+      "start": 10.44,
+      "end": 10.5
+    },
+    {
+      "text": "'est",
+      "start": 10.5,
+      "end": 10.54
+    },
+    {
+      "text": "le",
+      "start": 10.54,
+      "end": 10.64
+    },
+    {
+      "text": "56AFU89.",
+      "start": 10.64,
+      "end": 13.0
+    },
+    {
+      "text": "Parfait",
+      "start": 14.02,
+      "end": 14.54
+    },
+    {
+      "text": "!",
+      "start": 14.54,
+      "end": 15.06
+    },
+    {
+      "text": "Qu",
+      "start": 15.06,
+      "end": 15.22
+    },
+    {
+      "text": "'en",
+      "start": 15.22,
+      "end": 15.3
+    },
+    {
+      "text": "souhaiteriez",
+      "start": 15.3,
+      "end": 15.82
+    },
+    {
+      "text": "-vous",
+      "start": 15.82,
+      "end": 15.92
+    },
+    {
+      "text": "partir",
+      "start": 15.92,
+      "end": 16.2
+    },
+    {
+      "text": "?",
+      "start": 16.2,
+      "end": 17.02
+    },
+    {
+      "text": "La",
+      "start": 17.02,
+      "end": 17.14
+    },
+    {
+      "text": "semaine",
+      "start": 17.14,
+      "end": 17.4
+    },
+    {
+      "text": "prochaine,",
+      "start": 17.4,
+      "end": 17.88
+    },
+    {
+      "text": "de",
+      "start": 18.22,
+      "end": 18.32
+    },
+    {
+      "text": "préférence",
+      "start": 18.32,
+      "end": 18.86
+    },
+    {
+      "text": "en",
+      "start": 18.86,
+      "end": 19.12
+    },
+    {
+      "text": "début",
+      "start": 19.12,
+      "end": 19.38
+    },
+    {
+      "text": "de",
+      "start": 19.38,
+      "end": 19.5
+    },
+    {
+      "text": "journée.",
+      "start": 19.5,
+      "end": 19.82
+    },
+    {
+      "text": "Je",
+      "start": 20.58,
+      "end": 20.88
+    },
+    {
+      "text": "suis",
+      "start": 20.88,
+      "end": 21.04
+    },
+    {
+      "text": "désolé",
+      "start": 21.04,
+      "end": 21.48
+    },
+    {
+      "text": "monsieur,",
+      "start": 21.48,
+      "end": 21.82
+    },
+    {
+      "text": "tout",
+      "start": 22.38,
+      "end": 22.48
+    },
+    {
+      "text": "nos",
+      "start": 22.48,
+      "end": 22.66
+    },
+    {
+      "text": "vols",
+      "start": 22.66,
+      "end": 22.86
+    },
+    {
+      "text": "sont",
+      "start": 22.86,
+      "end": 23.02
+    },
+    {
+      "text": "complets.",
+      "start": 23.02,
+      "end": 23.48
+    },
+    {
+      "text": "Je",
+      "start": 23.9,
+      "end": 24.1
+    },
+    {
+      "text": "peux",
+      "start": 24.1,
+      "end": 24.26
+    },
+    {
+      "text": "vous",
+      "start": 24.26,
+      "end": 24.38
+    },
+    {
+      "text": "proposer",
+      "start": 24.38,
+      "end": 24.86
+    },
+    {
+      "text": "uniquement",
+      "start": 24.86,
+      "end": 25.42
+    },
+    {
+      "text": "la",
+      "start": 25.42,
+      "end": 25.56
+    },
+    {
+      "text": "semaine",
+      "start": 25.56,
+      "end": 25.82
+    },
+    {
+      "text": "suivante.",
+      "start": 25.82,
+      "end": 26.36
+    },
+    {
+      "text": "Ah",
+      "start": 26.82,
+      "end": 27.26
+    },
+    {
+      "text": "ça,",
+      "start": 27.26,
+      "end": 27.44
+    },
+    {
+      "text": "c",
+      "start": 27.58,
+      "end": 27.58
+    },
+    {
+      "text": "'est",
+      "start": 27.58,
+      "end": 27.62
+    },
+    {
+      "text": "vraiment",
+      "start": 27.62,
+      "end": 27.82
+    },
+    {
+      "text": "embêtant.",
+      "start": 27.82,
+      "end": 28.36
+    },
+    {
+      "text": "Laissez",
+      "start": 28.76,
+      "end": 29.02
+    },
+    {
+      "text": "-moi",
+      "start": 29.02,
+      "end": 29.12
+    },
+    {
+      "text": "consulter",
+      "start": 29.12,
+      "end": 29.64
+    },
+    {
+      "text": "mon",
+      "start": 29.64,
+      "end": 29.78
+    },
+    {
+      "text": "agenda.",
+      "start": 29.78,
+      "end": 30.16
+    },
+    {
+      "text": "Je",
+      "start": 30.62,
+      "end": 30.72
+    },
+    {
+      "text": "vous",
+      "start": 30.72,
+      "end": 30.86
+    },
+    {
+      "text": "rappelle",
+      "start": 30.86,
+      "end": 31.08
+    },
+    {
+      "text": "dans",
+      "start": 31.08,
+      "end": 31.3
+    },
+    {
+      "text": "cinq",
+      "start": 31.3,
+      "end": 31.52
+    },
+    {
+      "text": "minutes.",
+      "start": 31.52,
+      "end": 31.78
+    },
+    {
+      "text": "Que",
+      "start": 36.14,
+      "end": 36.58
+    },
+    {
+      "text": "se",
+      "start": 36.58,
+      "end": 36.74
+    },
+    {
+      "text": "passe",
+      "start": 36.74,
+      "end": 36.88
+    },
+    {
+      "text": "-t",
+      "start": 36.88,
+      "end": 37.12
+    },
+    {
+      "text": "-il",
+      "start": 37.12,
+      "end": 37.2
+    },
+    {
+      "text": "dans",
+      "start": 37.2,
+      "end": 37.34
+    },
+    {
+      "text": "cette",
+      "start": 37.34,
+      "end": 37.46
+    },
+    {
+      "text": "situation",
+      "start": 37.46,
+      "end": 37.8
+    },
+    {
+      "text": "?",
+      "start": 37.8,
+      "end": 38.42
+    }
+  ]
+}

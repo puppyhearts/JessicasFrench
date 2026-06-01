@@ -1,0 +1,885 @@
+{
+  "text": "Salut chéri ! Mais qu'est-ce que tu fais là ? Je croyais que tu étais au travail aujourd'hui. Comment qu'est-ce que je fais là ? Ne me dis pas que tu as oublié. J'ai pris mon après-midi pour me préparer à notre soirée en amoureux pour nos 15 ans de vie commune et toi t'arrives comme une fleur en me demandant ce qui se passe. Euh... bah j'avais pas oublié et je te faisais une blague. On va pouvoir dîner à la maison en amoureux tous les deux ce soir. Laisse-moi une minute et je reviens avec une bonne bouteille de champagne. Quoi ? Tu as aussi oublié notre soirée au restaurant du château ? C'est quand même formidable ! On a réservé il y a plus de quatre mois. Je te remercie vraiment pour l'importance que ça a pour toi, vraiment ! Question 19. Pourquoi cette soirée est importante pour la femme ? Question 20. Que pense la femme de cette situation ?",
+  "words": [
+    {
+      "text": "Salut",
+      "start": 2.74,
+      "end": 3.08
+    },
+    {
+      "text": "chéri",
+      "start": 3.08,
+      "end": 3.32
+    },
+    {
+      "text": "!",
+      "start": 3.32,
+      "end": 3.86
+    },
+    {
+      "text": "Mais",
+      "start": 3.86,
+      "end": 4.0
+    },
+    {
+      "text": "qu",
+      "start": 4.0,
+      "end": 4.1
+    },
+    {
+      "text": "'est",
+      "start": 4.1,
+      "end": 4.12
+    },
+    {
+      "text": "-ce",
+      "start": 4.12,
+      "end": 4.18
+    },
+    {
+      "text": "que",
+      "start": 4.18,
+      "end": 4.26
+    },
+    {
+      "text": "tu",
+      "start": 4.26,
+      "end": 4.36
+    },
+    {
+      "text": "fais",
+      "start": 4.36,
+      "end": 4.5
+    },
+    {
+      "text": "là",
+      "start": 4.5,
+      "end": 4.64
+    },
+    {
+      "text": "?",
+      "start": 4.64,
+      "end": 5.0
+    },
+    {
+      "text": "Je",
+      "start": 5.0,
+      "end": 5.12
+    },
+    {
+      "text": "croyais",
+      "start": 5.12,
+      "end": 5.26
+    },
+    {
+      "text": "que",
+      "start": 5.26,
+      "end": 5.38
+    },
+    {
+      "text": "tu",
+      "start": 5.38,
+      "end": 5.42
+    },
+    {
+      "text": "étais",
+      "start": 5.42,
+      "end": 5.5
+    },
+    {
+      "text": "au",
+      "start": 5.5,
+      "end": 5.6
+    },
+    {
+      "text": "travail",
+      "start": 5.6,
+      "end": 5.84
+    },
+    {
+      "text": "aujourd",
+      "start": 5.84,
+      "end": 6.04
+    },
+    {
+      "text": "'hui.",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "text": "Comment",
+      "start": 6.92,
+      "end": 7.26
+    },
+    {
+      "text": "qu",
+      "start": 7.26,
+      "end": 7.5
+    },
+    {
+      "text": "'est",
+      "start": 7.5,
+      "end": 7.56
+    },
+    {
+      "text": "-ce",
+      "start": 7.56,
+      "end": 7.62
+    },
+    {
+      "text": "que",
+      "start": 7.62,
+      "end": 7.72
+    },
+    {
+      "text": "je",
+      "start": 7.72,
+      "end": 7.8
+    },
+    {
+      "text": "fais",
+      "start": 7.8,
+      "end": 7.96
+    },
+    {
+      "text": "là",
+      "start": 7.96,
+      "end": 8.16
+    },
+    {
+      "text": "?",
+      "start": 8.16,
+      "end": 8.64
+    },
+    {
+      "text": "Ne",
+      "start": 8.64,
+      "end": 8.76
+    },
+    {
+      "text": "me",
+      "start": 8.76,
+      "end": 8.92
+    },
+    {
+      "text": "dis",
+      "start": 8.92,
+      "end": 9.02
+    },
+    {
+      "text": "pas",
+      "start": 9.02,
+      "end": 9.28
+    },
+    {
+      "text": "que",
+      "start": 9.28,
+      "end": 9.46
+    },
+    {
+      "text": "tu",
+      "start": 9.46,
+      "end": 9.64
+    },
+    {
+      "text": "as",
+      "start": 9.64,
+      "end": 9.76
+    },
+    {
+      "text": "oublié.",
+      "start": 9.76,
+      "end": 10.56
+    },
+    {
+      "text": "J",
+      "start": 11.0,
+      "end": 11.22
+    },
+    {
+      "text": "'ai",
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "text": "pris",
+      "start": 11.36,
+      "end": 11.58
+    },
+    {
+      "text": "mon",
+      "start": 11.58,
+      "end": 11.8
+    },
+    {
+      "text": "après",
+      "start": 11.8,
+      "end": 12.22
+    },
+    {
+      "text": "-midi",
+      "start": 12.22,
+      "end": 12.66
+    },
+    {
+      "text": "pour",
+      "start": 12.66,
+      "end": 12.94
+    },
+    {
+      "text": "me",
+      "start": 12.94,
+      "end": 13.08
+    },
+    {
+      "text": "préparer",
+      "start": 13.08,
+      "end": 13.66
+    },
+    {
+      "text": "à",
+      "start": 13.66,
+      "end": 13.76
+    },
+    {
+      "text": "notre",
+      "start": 13.76,
+      "end": 13.88
+    },
+    {
+      "text": "soirée",
+      "start": 13.88,
+      "end": 14.32
+    },
+    {
+      "text": "en",
+      "start": 14.32,
+      "end": 14.46
+    },
+    {
+      "text": "amoureux",
+      "start": 14.46,
+      "end": 14.82
+    },
+    {
+      "text": "pour",
+      "start": 14.82,
+      "end": 14.98
+    },
+    {
+      "text": "nos",
+      "start": 14.98,
+      "end": 15.1
+    },
+    {
+      "text": "15",
+      "start": 15.1,
+      "end": 15.32
+    },
+    {
+      "text": "ans",
+      "start": 15.32,
+      "end": 15.5
+    },
+    {
+      "text": "de",
+      "start": 15.5,
+      "end": 15.56
+    },
+    {
+      "text": "vie",
+      "start": 15.56,
+      "end": 15.66
+    },
+    {
+      "text": "commune",
+      "start": 15.66,
+      "end": 16.62
+    },
+    {
+      "text": "et",
+      "start": 16.62,
+      "end": 16.78
+    },
+    {
+      "text": "toi",
+      "start": 16.78,
+      "end": 17.0
+    },
+    {
+      "text": "t",
+      "start": 17.0,
+      "end": 17.22
+    },
+    {
+      "text": "'arrives",
+      "start": 17.22,
+      "end": 17.46
+    },
+    {
+      "text": "comme",
+      "start": 17.46,
+      "end": 17.66
+    },
+    {
+      "text": "une",
+      "start": 17.66,
+      "end": 17.84
+    },
+    {
+      "text": "fleur",
+      "start": 17.84,
+      "end": 18.22
+    },
+    {
+      "text": "en",
+      "start": 18.22,
+      "end": 18.34
+    },
+    {
+      "text": "me",
+      "start": 18.34,
+      "end": 18.48
+    },
+    {
+      "text": "demandant",
+      "start": 18.48,
+      "end": 18.82
+    },
+    {
+      "text": "ce",
+      "start": 18.82,
+      "end": 18.9
+    },
+    {
+      "text": "qui",
+      "start": 18.9,
+      "end": 19.0
+    },
+    {
+      "text": "se",
+      "start": 19.0,
+      "end": 19.08
+    },
+    {
+      "text": "passe.",
+      "start": 19.08,
+      "end": 19.32
+    },
+    {
+      "text": "Euh...",
+      "start": 19.82,
+      "end": 20.16
+    },
+    {
+      "text": "bah",
+      "start": 20.16,
+      "end": 20.26
+    },
+    {
+      "text": "j",
+      "start": 20.26,
+      "end": 20.4
+    },
+    {
+      "text": "'avais",
+      "start": 20.4,
+      "end": 20.5
+    },
+    {
+      "text": "pas",
+      "start": 20.5,
+      "end": 20.72
+    },
+    {
+      "text": "oublié",
+      "start": 20.72,
+      "end": 21.16
+    },
+    {
+      "text": "et",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "text": "je",
+      "start": 21.38,
+      "end": 21.44
+    },
+    {
+      "text": "te",
+      "start": 21.44,
+      "end": 21.58
+    },
+    {
+      "text": "faisais",
+      "start": 21.58,
+      "end": 21.96
+    },
+    {
+      "text": "une",
+      "start": 21.96,
+      "end": 22.06
+    },
+    {
+      "text": "blague.",
+      "start": 22.06,
+      "end": 22.42
+    },
+    {
+      "text": "On",
+      "start": 22.8,
+      "end": 22.92
+    },
+    {
+      "text": "va",
+      "start": 22.92,
+      "end": 23.02
+    },
+    {
+      "text": "pouvoir",
+      "start": 23.02,
+      "end": 23.32
+    },
+    {
+      "text": "dîner",
+      "start": 23.32,
+      "end": 23.7
+    },
+    {
+      "text": "à",
+      "start": 23.7,
+      "end": 23.86
+    },
+    {
+      "text": "la",
+      "start": 23.86,
+      "end": 23.96
+    },
+    {
+      "text": "maison",
+      "start": 23.96,
+      "end": 24.28
+    },
+    {
+      "text": "en",
+      "start": 24.28,
+      "end": 24.54
+    },
+    {
+      "text": "amoureux",
+      "start": 24.54,
+      "end": 25.38
+    },
+    {
+      "text": "tous",
+      "start": 25.38,
+      "end": 25.56
+    },
+    {
+      "text": "les",
+      "start": 25.56,
+      "end": 25.72
+    },
+    {
+      "text": "deux",
+      "start": 25.72,
+      "end": 25.9
+    },
+    {
+      "text": "ce",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "text": "soir.",
+      "start": 26.04,
+      "end": 26.3
+    },
+    {
+      "text": "Laisse",
+      "start": 26.7,
+      "end": 26.78
+    },
+    {
+      "text": "-moi",
+      "start": 26.78,
+      "end": 26.94
+    },
+    {
+      "text": "une",
+      "start": 26.94,
+      "end": 27.18
+    },
+    {
+      "text": "minute",
+      "start": 27.18,
+      "end": 27.5
+    },
+    {
+      "text": "et",
+      "start": 27.5,
+      "end": 27.64
+    },
+    {
+      "text": "je",
+      "start": 27.64,
+      "end": 27.76
+    },
+    {
+      "text": "reviens",
+      "start": 27.76,
+      "end": 28.06
+    },
+    {
+      "text": "avec",
+      "start": 28.06,
+      "end": 28.24
+    },
+    {
+      "text": "une",
+      "start": 28.24,
+      "end": 28.46
+    },
+    {
+      "text": "bonne",
+      "start": 28.46,
+      "end": 28.84
+    },
+    {
+      "text": "bouteille",
+      "start": 28.84,
+      "end": 29.32
+    },
+    {
+      "text": "de",
+      "start": 29.32,
+      "end": 29.46
+    },
+    {
+      "text": "champagne.",
+      "start": 29.46,
+      "end": 29.7
+    },
+    {
+      "text": "Quoi",
+      "start": 30.12,
+      "end": 30.56
+    },
+    {
+      "text": "?",
+      "start": 30.56,
+      "end": 30.96
+    },
+    {
+      "text": "Tu",
+      "start": 30.96,
+      "end": 31.06
+    },
+    {
+      "text": "as",
+      "start": 31.06,
+      "end": 31.16
+    },
+    {
+      "text": "aussi",
+      "start": 31.16,
+      "end": 31.42
+    },
+    {
+      "text": "oublié",
+      "start": 31.42,
+      "end": 31.82
+    },
+    {
+      "text": "notre",
+      "start": 31.82,
+      "end": 31.96
+    },
+    {
+      "text": "soirée",
+      "start": 31.96,
+      "end": 32.44
+    },
+    {
+      "text": "au",
+      "start": 32.44,
+      "end": 32.54
+    },
+    {
+      "text": "restaurant",
+      "start": 32.54,
+      "end": 32.9
+    },
+    {
+      "text": "du",
+      "start": 32.9,
+      "end": 33.08
+    },
+    {
+      "text": "château",
+      "start": 33.08,
+      "end": 33.5
+    },
+    {
+      "text": "?",
+      "start": 33.5,
+      "end": 33.98
+    },
+    {
+      "text": "C",
+      "start": 33.98,
+      "end": 34.32
+    },
+    {
+      "text": "'est",
+      "start": 34.32,
+      "end": 34.38
+    },
+    {
+      "text": "quand",
+      "start": 34.38,
+      "end": 34.52
+    },
+    {
+      "text": "même",
+      "start": 34.52,
+      "end": 34.66
+    },
+    {
+      "text": "formidable",
+      "start": 34.66,
+      "end": 35.16
+    },
+    {
+      "text": "!",
+      "start": 35.16,
+      "end": 35.92
+    },
+    {
+      "text": "On",
+      "start": 35.92,
+      "end": 36.08
+    },
+    {
+      "text": "a",
+      "start": 36.08,
+      "end": 36.2
+    },
+    {
+      "text": "réservé",
+      "start": 36.2,
+      "end": 36.72
+    },
+    {
+      "text": "il",
+      "start": 36.72,
+      "end": 36.86
+    },
+    {
+      "text": "y",
+      "start": 36.86,
+      "end": 36.92
+    },
+    {
+      "text": "a",
+      "start": 36.92,
+      "end": 36.92
+    },
+    {
+      "text": "plus",
+      "start": 36.92,
+      "end": 37.18
+    },
+    {
+      "text": "de",
+      "start": 37.18,
+      "end": 37.36
+    },
+    {
+      "text": "quatre",
+      "start": 37.36,
+      "end": 37.46
+    },
+    {
+      "text": "mois.",
+      "start": 37.46,
+      "end": 37.74
+    },
+    {
+      "text": "Je",
+      "start": 38.12,
+      "end": 38.26
+    },
+    {
+      "text": "te",
+      "start": 38.26,
+      "end": 38.38
+    },
+    {
+      "text": "remercie",
+      "start": 38.38,
+      "end": 38.88
+    },
+    {
+      "text": "vraiment",
+      "start": 38.88,
+      "end": 39.32
+    },
+    {
+      "text": "pour",
+      "start": 39.32,
+      "end": 39.62
+    },
+    {
+      "text": "l",
+      "start": 39.62,
+      "end": 39.74
+    },
+    {
+      "text": "'importance",
+      "start": 39.74,
+      "end": 40.22
+    },
+    {
+      "text": "que",
+      "start": 40.22,
+      "end": 40.38
+    },
+    {
+      "text": "ça",
+      "start": 40.38,
+      "end": 40.56
+    },
+    {
+      "text": "a",
+      "start": 40.56,
+      "end": 40.72
+    },
+    {
+      "text": "pour",
+      "start": 40.72,
+      "end": 40.82
+    },
+    {
+      "text": "toi,",
+      "start": 40.82,
+      "end": 41.1
+    },
+    {
+      "text": "vraiment",
+      "start": 41.2,
+      "end": 41.52
+    },
+    {
+      "text": "!",
+      "start": 41.52,
+      "end": 42.98
+    },
+    {
+      "text": "Question",
+      "start": 42.98,
+      "end": 43.5
+    },
+    {
+      "text": "19.",
+      "start": 43.5,
+      "end": 44.36
+    },
+    {
+      "text": "Pourquoi",
+      "start": 45.26,
+      "end": 45.8
+    },
+    {
+      "text": "cette",
+      "start": 45.8,
+      "end": 46.08
+    },
+    {
+      "text": "soirée",
+      "start": 46.08,
+      "end": 46.36
+    },
+    {
+      "text": "est",
+      "start": 46.36,
+      "end": 46.46
+    },
+    {
+      "text": "importante",
+      "start": 46.46,
+      "end": 46.94
+    },
+    {
+      "text": "pour",
+      "start": 46.94,
+      "end": 47.18
+    },
+    {
+      "text": "la",
+      "start": 47.18,
+      "end": 47.32
+    },
+    {
+      "text": "femme",
+      "start": 47.32,
+      "end": 47.52
+    },
+    {
+      "text": "?",
+      "start": 47.52,
+      "end": 48.1
+    },
+    {
+      "text": "Question",
+      "start": 63.56,
+      "end": 64.4
+    },
+    {
+      "text": "20.",
+      "start": 64.4,
+      "end": 65.18
+    },
+    {
+      "text": "Que",
+      "start": 65.72,
+      "end": 66.4
+    },
+    {
+      "text": "pense",
+      "start": 66.4,
+      "end": 66.58
+    },
+    {
+      "text": "la",
+      "start": 66.58,
+      "end": 66.8
+    },
+    {
+      "text": "femme",
+      "start": 66.8,
+      "end": 67.02
+    },
+    {
+      "text": "de",
+      "start": 67.02,
+      "end": 67.18
+    },
+    {
+      "text": "cette",
+      "start": 67.18,
+      "end": 67.32
+    },
+    {
+      "text": "situation",
+      "start": 67.32,
+      "end": 67.74
+    },
+    {
+      "text": "?",
+      "start": 67.74,
+      "end": 68.16
+    }
+  ]
+}

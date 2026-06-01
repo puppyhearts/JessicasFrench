@@ -1,0 +1,320 @@
+{
+  "text": "Bonjour madame Leblanc, c'est le plombier pour vous dire que je pourrais passer chez vous samedi à partir de 10h pour finir les travaux dans votre salle de bain. Pourriez-vous me rappeler pour me dire si cela vous convient ? Je vous laisse mon numéro de téléphone 06-85-96-51-75. Merci, au revoir. Que doit faire madame Leblanc ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 0.0,
+      "end": 0.78
+    },
+    {
+      "text": "madame",
+      "start": 0.78,
+      "end": 1.12
+    },
+    {
+      "text": "Leblanc,",
+      "start": 1.12,
+      "end": 1.54
+    },
+    {
+      "text": "c",
+      "start": 1.72,
+      "end": 1.76
+    },
+    {
+      "text": "'est",
+      "start": 1.76,
+      "end": 1.8
+    },
+    {
+      "text": "le",
+      "start": 1.8,
+      "end": 1.9
+    },
+    {
+      "text": "plombier",
+      "start": 1.9,
+      "end": 2.42
+    },
+    {
+      "text": "pour",
+      "start": 2.42,
+      "end": 2.86
+    },
+    {
+      "text": "vous",
+      "start": 2.86,
+      "end": 3.02
+    },
+    {
+      "text": "dire",
+      "start": 3.02,
+      "end": 3.26
+    },
+    {
+      "text": "que",
+      "start": 3.26,
+      "end": 3.42
+    },
+    {
+      "text": "je",
+      "start": 3.42,
+      "end": 3.56
+    },
+    {
+      "text": "pourrais",
+      "start": 3.56,
+      "end": 3.88
+    },
+    {
+      "text": "passer",
+      "start": 3.88,
+      "end": 4.08
+    },
+    {
+      "text": "chez",
+      "start": 4.08,
+      "end": 4.44
+    },
+    {
+      "text": "vous",
+      "start": 4.44,
+      "end": 4.62
+    },
+    {
+      "text": "samedi",
+      "start": 4.62,
+      "end": 5.18
+    },
+    {
+      "text": "à",
+      "start": 5.18,
+      "end": 5.44
+    },
+    {
+      "text": "partir",
+      "start": 5.44,
+      "end": 5.68
+    },
+    {
+      "text": "de",
+      "start": 5.68,
+      "end": 5.96
+    },
+    {
+      "text": "10h",
+      "start": 5.96,
+      "end": 6.46
+    },
+    {
+      "text": "pour",
+      "start": 6.46,
+      "end": 7.08
+    },
+    {
+      "text": "finir",
+      "start": 7.08,
+      "end": 7.5
+    },
+    {
+      "text": "les",
+      "start": 7.5,
+      "end": 7.64
+    },
+    {
+      "text": "travaux",
+      "start": 7.64,
+      "end": 8.06
+    },
+    {
+      "text": "dans",
+      "start": 8.06,
+      "end": 8.2
+    },
+    {
+      "text": "votre",
+      "start": 8.2,
+      "end": 8.44
+    },
+    {
+      "text": "salle",
+      "start": 8.44,
+      "end": 8.78
+    },
+    {
+      "text": "de",
+      "start": 8.78,
+      "end": 8.94
+    },
+    {
+      "text": "bain.",
+      "start": 8.94,
+      "end": 9.14
+    },
+    {
+      "text": "Pourriez",
+      "start": 9.96,
+      "end": 10.54
+    },
+    {
+      "text": "-vous",
+      "start": 10.54,
+      "end": 10.66
+    },
+    {
+      "text": "me",
+      "start": 10.66,
+      "end": 10.82
+    },
+    {
+      "text": "rappeler",
+      "start": 10.82,
+      "end": 11.22
+    },
+    {
+      "text": "pour",
+      "start": 11.22,
+      "end": 11.5
+    },
+    {
+      "text": "me",
+      "start": 11.5,
+      "end": 11.64
+    },
+    {
+      "text": "dire",
+      "start": 11.64,
+      "end": 11.84
+    },
+    {
+      "text": "si",
+      "start": 11.84,
+      "end": 12.0
+    },
+    {
+      "text": "cela",
+      "start": 12.0,
+      "end": 12.28
+    },
+    {
+      "text": "vous",
+      "start": 12.28,
+      "end": 12.48
+    },
+    {
+      "text": "convient",
+      "start": 12.48,
+      "end": 12.9
+    },
+    {
+      "text": "?",
+      "start": 12.9,
+      "end": 13.54
+    },
+    {
+      "text": "Je",
+      "start": 13.54,
+      "end": 14.06
+    },
+    {
+      "text": "vous",
+      "start": 14.06,
+      "end": 14.22
+    },
+    {
+      "text": "laisse",
+      "start": 14.22,
+      "end": 14.36
+    },
+    {
+      "text": "mon",
+      "start": 14.36,
+      "end": 14.56
+    },
+    {
+      "text": "numéro",
+      "start": 14.56,
+      "end": 14.88
+    },
+    {
+      "text": "de",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "text": "téléphone",
+      "start": 15.04,
+      "end": 15.58
+    },
+    {
+      "text": "06",
+      "start": 15.58,
+      "end": 16.64
+    },
+    {
+      "text": "-85",
+      "start": 16.64,
+      "end": 17.36
+    },
+    {
+      "text": "-96",
+      "start": 17.36,
+      "end": 18.58
+    },
+    {
+      "text": "-51",
+      "start": 18.58,
+      "end": 19.46
+    },
+    {
+      "text": "-75.",
+      "start": 19.46,
+      "end": 20.3
+    },
+    {
+      "text": "Merci,",
+      "start": 20.84,
+      "end": 21.28
+    },
+    {
+      "text": "au",
+      "start": 21.58,
+      "end": 21.62
+    },
+    {
+      "text": "revoir.",
+      "start": 21.62,
+      "end": 21.92
+    },
+    {
+      "text": "Que",
+      "start": 27.82,
+      "end": 28.64
+    },
+    {
+      "text": "doit",
+      "start": 28.64,
+      "end": 28.82
+    },
+    {
+      "text": "faire",
+      "start": 28.82,
+      "end": 29.2
+    },
+    {
+      "text": "madame",
+      "start": 29.2,
+      "end": 29.56
+    },
+    {
+      "text": "Leblanc",
+      "start": 29.56,
+      "end": 30.0
+    },
+    {
+      "text": "?",
+      "start": 30.0,
+      "end": 30.56
+    }
+  ]
+}

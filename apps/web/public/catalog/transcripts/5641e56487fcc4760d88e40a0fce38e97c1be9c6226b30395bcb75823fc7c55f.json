@@ -1,0 +1,230 @@
+{
+  "text": "l'épreuve va commencer dans cinq minutes je vous rappelle qu'aucun dictionnaire n'est autorisé vous disposez de deux heures vous ne pouvez quitter la salle avant la fin de l'épreuve question 7 quel message est donné aux candidats qui passe cette épreuve",
+  "words": [
+    {
+      "text": "l",
+      "start": 0.0,
+      "end": 1.0
+    },
+    {
+      "text": "'épreuve",
+      "start": 1.0,
+      "end": 3.92
+    },
+    {
+      "text": "va",
+      "start": 3.92,
+      "end": 4.1
+    },
+    {
+      "text": "commencer",
+      "start": 4.1,
+      "end": 4.52
+    },
+    {
+      "text": "dans",
+      "start": 4.52,
+      "end": 4.8
+    },
+    {
+      "text": "cinq",
+      "start": 4.8,
+      "end": 5.04
+    },
+    {
+      "text": "minutes",
+      "start": 5.04,
+      "end": 5.32
+    },
+    {
+      "text": "je",
+      "start": 5.32,
+      "end": 6.3
+    },
+    {
+      "text": "vous",
+      "start": 6.3,
+      "end": 6.46
+    },
+    {
+      "text": "rappelle",
+      "start": 6.46,
+      "end": 6.88
+    },
+    {
+      "text": "qu",
+      "start": 6.88,
+      "end": 7.2
+    },
+    {
+      "text": "'aucun",
+      "start": 7.2,
+      "end": 7.4
+    },
+    {
+      "text": "dictionnaire",
+      "start": 7.4,
+      "end": 8.0
+    },
+    {
+      "text": "n",
+      "start": 8.0,
+      "end": 8.18
+    },
+    {
+      "text": "'est",
+      "start": 8.18,
+      "end": 8.22
+    },
+    {
+      "text": "autorisé",
+      "start": 8.22,
+      "end": 8.72
+    },
+    {
+      "text": "vous",
+      "start": 8.72,
+      "end": 9.88
+    },
+    {
+      "text": "disposez",
+      "start": 9.88,
+      "end": 10.54
+    },
+    {
+      "text": "de",
+      "start": 10.54,
+      "end": 10.7
+    },
+    {
+      "text": "deux",
+      "start": 10.7,
+      "end": 10.92
+    },
+    {
+      "text": "heures",
+      "start": 10.92,
+      "end": 11.2
+    },
+    {
+      "text": "vous",
+      "start": 11.2,
+      "end": 11.98
+    },
+    {
+      "text": "ne",
+      "start": 11.98,
+      "end": 12.14
+    },
+    {
+      "text": "pouvez",
+      "start": 12.14,
+      "end": 12.36
+    },
+    {
+      "text": "quitter",
+      "start": 12.36,
+      "end": 12.66
+    },
+    {
+      "text": "la",
+      "start": 12.66,
+      "end": 12.86
+    },
+    {
+      "text": "salle",
+      "start": 12.86,
+      "end": 13.24
+    },
+    {
+      "text": "avant",
+      "start": 13.24,
+      "end": 13.56
+    },
+    {
+      "text": "la",
+      "start": 13.56,
+      "end": 13.74
+    },
+    {
+      "text": "fin",
+      "start": 13.74,
+      "end": 13.88
+    },
+    {
+      "text": "de",
+      "start": 13.88,
+      "end": 13.96
+    },
+    {
+      "text": "l",
+      "start": 13.96,
+      "end": 14.02
+    },
+    {
+      "text": "'épreuve",
+      "start": 14.02,
+      "end": 14.42
+    },
+    {
+      "text": "question",
+      "start": 14.42,
+      "end": 16.1
+    },
+    {
+      "text": "7",
+      "start": 16.1,
+      "end": 16.72
+    },
+    {
+      "text": "quel",
+      "start": 16.72,
+      "end": 17.68
+    },
+    {
+      "text": "message",
+      "start": 17.68,
+      "end": 18.16
+    },
+    {
+      "text": "est",
+      "start": 18.16,
+      "end": 18.6
+    },
+    {
+      "text": "donné",
+      "start": 18.6,
+      "end": 18.82
+    },
+    {
+      "text": "aux",
+      "start": 18.82,
+      "end": 19.0
+    },
+    {
+      "text": "candidats",
+      "start": 19.0,
+      "end": 19.56
+    },
+    {
+      "text": "qui",
+      "start": 19.56,
+      "end": 19.84
+    },
+    {
+      "text": "passe",
+      "start": 19.84,
+      "end": 20.22
+    },
+    {
+      "text": "cette",
+      "start": 20.22,
+      "end": 20.5
+    },
+    {
+      "text": "épreuve",
+      "start": 20.5,
+      "end": 20.98
+    }
+  ]
+}

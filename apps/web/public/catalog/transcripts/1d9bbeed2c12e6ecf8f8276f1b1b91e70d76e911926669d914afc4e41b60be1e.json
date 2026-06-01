@@ -1,0 +1,80 @@
+{
+  "text": "Question 3. A. Au secours. B. Au lit. C. À table. D. À l'eau.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 1.68,
+      "end": 2.5
+    },
+    {
+      "text": "3.",
+      "start": 2.5,
+      "end": 2.92
+    },
+    {
+      "text": "A.",
+      "start": 3.4,
+      "end": 3.74
+    },
+    {
+      "text": "Au",
+      "start": 4.44,
+      "end": 4.7
+    },
+    {
+      "text": "secours.",
+      "start": 4.7,
+      "end": 5.16
+    },
+    {
+      "text": "B.",
+      "start": 6.12,
+      "end": 6.4
+    },
+    {
+      "text": "Au",
+      "start": 7.22,
+      "end": 7.42
+    },
+    {
+      "text": "lit.",
+      "start": 7.42,
+      "end": 7.54
+    },
+    {
+      "text": "C.",
+      "start": 8.54,
+      "end": 8.94
+    },
+    {
+      "text": "À",
+      "start": 9.78,
+      "end": 9.98
+    },
+    {
+      "text": "table.",
+      "start": 9.98,
+      "end": 10.36
+    },
+    {
+      "text": "D.",
+      "start": 11.3,
+      "end": 11.64
+    },
+    {
+      "text": "À",
+      "start": 12.36,
+      "end": 12.48
+    },
+    {
+      "text": "l",
+      "start": 12.48,
+      "end": 12.58
+    },
+    {
+      "text": "'eau.",
+      "start": 12.58,
+      "end": 12.66
+    }
+  ]
+}

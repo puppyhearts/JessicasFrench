@@ -1,0 +1,230 @@
+{
+  "text": "TCF blanc Compréhension orale Question 1 Écoutez les quatre propositions. Choisissez celles qui correspondent à l'image. A C'est Matthias à la montagne. B C'est Matthias avec les voisins. C C'est Matthias dans la voiture. D C'est Matthias sur le vélo.",
+  "words": [
+    {
+      "text": "TCF",
+      "start": 0.0,
+      "end": 1.08
+    },
+    {
+      "text": "blanc",
+      "start": 1.08,
+      "end": 1.6
+    },
+    {
+      "text": "Compréhension",
+      "start": 2.5,
+      "end": 3.48
+    },
+    {
+      "text": "orale",
+      "start": 3.48,
+      "end": 4.48
+    },
+    {
+      "text": "Question",
+      "start": 5.5,
+      "end": 6.06
+    },
+    {
+      "text": "1",
+      "start": 6.06,
+      "end": 6.78
+    },
+    {
+      "text": "Écoutez",
+      "start": 7.5,
+      "end": 8.04
+    },
+    {
+      "text": "les",
+      "start": 8.04,
+      "end": 8.26
+    },
+    {
+      "text": "quatre",
+      "start": 8.26,
+      "end": 8.5
+    },
+    {
+      "text": "propositions.",
+      "start": 8.5,
+      "end": 9.26
+    },
+    {
+      "text": "Choisissez",
+      "start": 9.7,
+      "end": 10.42
+    },
+    {
+      "text": "celles",
+      "start": 10.42,
+      "end": 10.94
+    },
+    {
+      "text": "qui",
+      "start": 10.94,
+      "end": 11.04
+    },
+    {
+      "text": "correspondent",
+      "start": 11.04,
+      "end": 11.5
+    },
+    {
+      "text": "à",
+      "start": 11.5,
+      "end": 11.72
+    },
+    {
+      "text": "l",
+      "start": 11.72,
+      "end": 11.74
+    },
+    {
+      "text": "'image.",
+      "start": 11.74,
+      "end": 12.1
+    },
+    {
+      "text": "A",
+      "start": 12.86,
+      "end": 13.3
+    },
+    {
+      "text": "C",
+      "start": 13.3,
+      "end": 14.28
+    },
+    {
+      "text": "'est",
+      "start": 14.28,
+      "end": 14.42
+    },
+    {
+      "text": "Matthias",
+      "start": 14.42,
+      "end": 14.8
+    },
+    {
+      "text": "à",
+      "start": 14.8,
+      "end": 14.96
+    },
+    {
+      "text": "la",
+      "start": 14.96,
+      "end": 15.04
+    },
+    {
+      "text": "montagne.",
+      "start": 15.04,
+      "end": 15.54
+    },
+    {
+      "text": "B",
+      "start": 17.9,
+      "end": 18.38
+    },
+    {
+      "text": "C",
+      "start": 18.38,
+      "end": 19.34
+    },
+    {
+      "text": "'est",
+      "start": 19.34,
+      "end": 19.44
+    },
+    {
+      "text": "Matthias",
+      "start": 19.44,
+      "end": 19.96
+    },
+    {
+      "text": "avec",
+      "start": 19.96,
+      "end": 20.28
+    },
+    {
+      "text": "les",
+      "start": 20.28,
+      "end": 20.48
+    },
+    {
+      "text": "voisins.",
+      "start": 20.48,
+      "end": 20.88
+    },
+    {
+      "text": "C",
+      "start": 23.38,
+      "end": 23.86
+    },
+    {
+      "text": "C",
+      "start": 23.86,
+      "end": 24.78
+    },
+    {
+      "text": "'est",
+      "start": 24.78,
+      "end": 24.9
+    },
+    {
+      "text": "Matthias",
+      "start": 24.9,
+      "end": 25.3
+    },
+    {
+      "text": "dans",
+      "start": 25.3,
+      "end": 25.52
+    },
+    {
+      "text": "la",
+      "start": 25.52,
+      "end": 25.64
+    },
+    {
+      "text": "voiture.",
+      "start": 25.64,
+      "end": 26.02
+    },
+    {
+      "text": "D",
+      "start": 28.12,
+      "end": 29.08
+    },
+    {
+      "text": "C",
+      "start": 29.08,
+      "end": 30.02
+    },
+    {
+      "text": "'est",
+      "start": 30.02,
+      "end": 30.14
+    },
+    {
+      "text": "Matthias",
+      "start": 30.14,
+      "end": 30.64
+    },
+    {
+      "text": "sur",
+      "start": 30.64,
+      "end": 30.82
+    },
+    {
+      "text": "le",
+      "start": 30.82,
+      "end": 30.98
+    },
+    {
+      "text": "vélo.",
+      "start": 30.98,
+      "end": 31.24
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "text": "Question 23. Écoutez le document sonore et la question. Choisissez la bonne réponse. La planète immobilière est une énigme. Elle se porte comme un charme. Elle se moque du chômage, de la croissance molle ou de la hausse du prix du pétrole. Partout le prix du maître carré flambe, jusqu'à retrouver, voire dépasser, les niveaux de 1991 avant que la bulle éclate. Deux exceptions dans ce panorama étrangement homogène. L'Allemagne et le Japon, qui, sauf dans certains quartiers de Tokyo, n'ont pas encore digéré la crise qui a suivi le dernier craque boursier. De quoi dépend, en général, les prix de l'immobilier ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "23.",
+      "start": 0.56,
+      "end": 1.44
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.8,
+      "end": 3.3
+    },
+    {
+      "text": "le",
+      "start": 3.3,
+      "end": 3.48
+    },
+    {
+      "text": "document",
+      "start": 3.48,
+      "end": 3.84
+    },
+    {
+      "text": "sonore",
+      "start": 3.84,
+      "end": 4.46
+    },
+    {
+      "text": "et",
+      "start": 4.46,
+      "end": 4.74
+    },
+    {
+      "text": "la",
+      "start": 4.74,
+      "end": 4.88
+    },
+    {
+      "text": "question.",
+      "start": 4.88,
+      "end": 5.24
+    },
+    {
+      "text": "Choisissez",
+      "start": 6.0,
+      "end": 6.56
+    },
+    {
+      "text": "la",
+      "start": 6.56,
+      "end": 6.76
+    },
+    {
+      "text": "bonne",
+      "start": 6.76,
+      "end": 6.94
+    },
+    {
+      "text": "réponse.",
+      "start": 6.94,
+      "end": 7.3
+    },
+    {
+      "text": "La",
+      "start": 9.06,
+      "end": 9.62
+    },
+    {
+      "text": "planète",
+      "start": 9.62,
+      "end": 10.1
+    },
+    {
+      "text": "immobilière",
+      "start": 10.1,
+      "end": 10.7
+    },
+    {
+      "text": "est",
+      "start": 10.7,
+      "end": 10.84
+    },
+    {
+      "text": "une",
+      "start": 10.84,
+      "end": 11.04
+    },
+    {
+      "text": "énigme.",
+      "start": 11.04,
+      "end": 11.46
+    },
+    {
+      "text": "Elle",
+      "start": 11.96,
+      "end": 12.1
+    },
+    {
+      "text": "se",
+      "start": 12.1,
+      "end": 12.34
+    },
+    {
+      "text": "porte",
+      "start": 12.34,
+      "end": 12.62
+    },
+    {
+      "text": "comme",
+      "start": 12.62,
+      "end": 13.0
+    },
+    {
+      "text": "un",
+      "start": 13.0,
+      "end": 13.14
+    },
+    {
+      "text": "charme.",
+      "start": 13.14,
+      "end": 13.62
+    },
+    {
+      "text": "Elle",
+      "start": 14.12,
+      "end": 14.34
+    },
+    {
+      "text": "se",
+      "start": 14.34,
+      "end": 14.56
+    },
+    {
+      "text": "moque",
+      "start": 14.56,
+      "end": 14.74
+    },
+    {
+      "text": "du",
+      "start": 14.74,
+      "end": 14.88
+    },
+    {
+      "text": "chômage,",
+      "start": 14.88,
+      "end": 15.38
+    },
+    {
+      "text": "de",
+      "start": 15.54,
+      "end": 15.58
+    },
+    {
+      "text": "la",
+      "start": 15.58,
+      "end": 15.7
+    },
+    {
+      "text": "croissance",
+      "start": 15.7,
+      "end": 16.02
+    },
+    {
+      "text": "molle",
+      "start": 16.02,
+      "end": 16.44
+    },
+    {
+      "text": "ou",
+      "start": 16.44,
+      "end": 16.78
+    },
+    {
+      "text": "de",
+      "start": 16.78,
+      "end": 16.9
+    },
+    {
+      "text": "la",
+      "start": 16.9,
+      "end": 17.02
+    },
+    {
+      "text": "hausse",
+      "start": 17.02,
+      "end": 17.22
+    },
+    {
+      "text": "du",
+      "start": 17.22,
+      "end": 17.36
+    },
+    {
+      "text": "prix",
+      "start": 17.36,
+      "end": 17.52
+    },
+    {
+      "text": "du",
+      "start": 17.52,
+      "end": 17.64
+    },
+    {
+      "text": "pétrole.",
+      "start": 17.64,
+      "end": 18.02
+    },
+    {
+      "text": "Partout",
+      "start": 18.88,
+      "end": 19.44
+    },
+    {
+      "text": "le",
+      "start": 19.44,
+      "end": 19.62
+    },
+    {
+      "text": "prix",
+      "start": 19.62,
+      "end": 19.86
+    },
+    {
+      "text": "du",
+      "start": 19.86,
+      "end": 20.02
+    },
+    {
+      "text": "maître",
+      "start": 20.02,
+      "end": 20.28
+    },
+    {
+      "text": "carré",
+      "start": 20.28,
+      "end": 20.66
+    },
+    {
+      "text": "flambe,",
+      "start": 20.66,
+      "end": 21.16
+    },
+    {
+      "text": "jusqu",
+      "start": 21.24,
+      "end": 21.42
+    },
+    {
+      "text": "'à",
+      "start": 21.42,
+      "end": 21.6
+    },
+    {
+      "text": "retrouver,",
+      "start": 21.6,
+      "end": 22.0
+    },
+    {
+      "text": "voire",
+      "start": 22.14,
+      "end": 22.36
+    },
+    {
+      "text": "dépasser,",
+      "start": 22.36,
+      "end": 23.08
+    },
+    {
+      "text": "les",
+      "start": 23.36,
+      "end": 23.44
+    },
+    {
+      "text": "niveaux",
+      "start": 23.44,
+      "end": 23.78
+    },
+    {
+      "text": "de",
+      "start": 23.78,
+      "end": 23.94
+    },
+    {
+      "text": "1991",
+      "start": 23.94,
+      "end": 24.84
+    },
+    {
+      "text": "avant",
+      "start": 24.84,
+      "end": 25.56
+    },
+    {
+      "text": "que",
+      "start": 25.56,
+      "end": 25.72
+    },
+    {
+      "text": "la",
+      "start": 25.72,
+      "end": 25.84
+    },
+    {
+      "text": "bulle",
+      "start": 25.84,
+      "end": 26.0
+    },
+    {
+      "text": "éclate.",
+      "start": 26.0,
+      "end": 26.34
+    },
+    {
+      "text": "Deux",
+      "start": 27.06,
+      "end": 27.6
+    },
+    {
+      "text": "exceptions",
+      "start": 27.6,
+      "end": 28.04
+    },
+    {
+      "text": "dans",
+      "start": 28.04,
+      "end": 28.28
+    },
+    {
+      "text": "ce",
+      "start": 28.28,
+      "end": 28.44
+    },
+    {
+      "text": "panorama",
+      "start": 28.44,
+      "end": 28.88
+    },
+    {
+      "text": "étrangement",
+      "start": 28.88,
+      "end": 29.6
+    },
+    {
+      "text": "homogène.",
+      "start": 29.6,
+      "end": 30.12
+    },
+    {
+      "text": "L",
+      "start": 30.68,
+      "end": 30.94
+    },
+    {
+      "text": "'Allemagne",
+      "start": 30.94,
+      "end": 31.4
+    },
+    {
+      "text": "et",
+      "start": 31.4,
+      "end": 31.64
+    },
+    {
+      "text": "le",
+      "start": 31.64,
+      "end": 31.8
+    },
+    {
+      "text": "Japon,",
+      "start": 31.8,
+      "end": 32.08
+    },
+    {
+      "text": "qui,",
+      "start": 32.28,
+      "end": 32.64
+    },
+    {
+      "text": "sauf",
+      "start": 32.86,
+      "end": 33.24
+    },
+    {
+      "text": "dans",
+      "start": 33.24,
+      "end": 33.4
+    },
+    {
+      "text": "certains",
+      "start": 33.4,
+      "end": 33.8
+    },
+    {
+      "text": "quartiers",
+      "start": 33.8,
+      "end": 34.22
+    },
+    {
+      "text": "de",
+      "start": 34.22,
+      "end": 34.38
+    },
+    {
+      "text": "Tokyo,",
+      "start": 34.38,
+      "end": 34.72
+    },
+    {
+      "text": "n",
+      "start": 35.26,
+      "end": 35.34
+    },
+    {
+      "text": "'ont",
+      "start": 35.34,
+      "end": 35.4
+    },
+    {
+      "text": "pas",
+      "start": 35.4,
+      "end": 35.6
+    },
+    {
+      "text": "encore",
+      "start": 35.6,
+      "end": 35.9
+    },
+    {
+      "text": "digéré",
+      "start": 35.9,
+      "end": 36.3
+    },
+    {
+      "text": "la",
+      "start": 36.3,
+      "end": 36.5
+    },
+    {
+      "text": "crise",
+      "start": 36.5,
+      "end": 36.8
+    },
+    {
+      "text": "qui",
+      "start": 36.8,
+      "end": 37.04
+    },
+    {
+      "text": "a",
+      "start": 37.04,
+      "end": 37.16
+    },
+    {
+      "text": "suivi",
+      "start": 37.16,
+      "end": 37.52
+    },
+    {
+      "text": "le",
+      "start": 37.52,
+      "end": 37.66
+    },
+    {
+      "text": "dernier",
+      "start": 37.66,
+      "end": 37.88
+    },
+    {
+      "text": "craque",
+      "start": 37.88,
+      "end": 38.26
+    },
+    {
+      "text": "boursier.",
+      "start": 38.26,
+      "end": 38.74
+    },
+    {
+      "text": "De",
+      "start": 40.46,
+      "end": 41.0
+    },
+    {
+      "text": "quoi",
+      "start": 41.0,
+      "end": 41.14
+    },
+    {
+      "text": "dépend,",
+      "start": 41.14,
+      "end": 41.38
+    },
+    {
+      "text": "en",
+      "start": 41.6,
+      "end": 41.6
+    },
+    {
+      "text": "général,",
+      "start": 41.6,
+      "end": 42.04
+    },
+    {
+      "text": "les",
+      "start": 42.46,
+      "end": 42.56
+    },
+    {
+      "text": "prix",
+      "start": 42.56,
+      "end": 42.78
+    },
+    {
+      "text": "de",
+      "start": 42.78,
+      "end": 42.92
+    },
+    {
+      "text": "l",
+      "start": 42.92,
+      "end": 43.02
+    },
+    {
+      "text": "'immobilier",
+      "start": 43.02,
+      "end": 43.54
+    },
+    {
+      "text": "?",
+      "start": 43.54,
+      "end": 43.78
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "text": "Question 20. Écoutez le document sonore et la question. Choisissez la bonne réponse. Les éditions Usborne publient d'autres petits livres pour responsabiliser vos enfants. Je m'occupe de mon chien et je m'occupe de mon chat en fonction évidemment du compagnon à 4 pattes qui vient rejoindre la famille. On y apprend comment les nourrir, comment se comporter pour leur arriver chez vous. Toutes ces petites choses qui ne s'improvise pas. Et ce qui est très sympa, c'est que le manuel s'adresse directement au petit maître en le tutoyant. Que propose aux enfants les livres présentés par la journaliste ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "text": "20.",
+      "start": 0.52,
+      "end": 0.94
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "text": "le",
+      "start": 2.26,
+      "end": 2.48
+    },
+    {
+      "text": "document",
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "text": "sonore",
+      "start": 2.8,
+      "end": 3.38
+    },
+    {
+      "text": "et",
+      "start": 3.38,
+      "end": 3.6
+    },
+    {
+      "text": "la",
+      "start": 3.6,
+      "end": 3.74
+    },
+    {
+      "text": "question.",
+      "start": 3.74,
+      "end": 4.08
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.82,
+      "end": 5.24
+    },
+    {
+      "text": "la",
+      "start": 5.24,
+      "end": 5.44
+    },
+    {
+      "text": "bonne",
+      "start": 5.44,
+      "end": 5.6
+    },
+    {
+      "text": "réponse.",
+      "start": 5.6,
+      "end": 5.94
+    },
+    {
+      "text": "Les",
+      "start": 7.08,
+      "end": 7.5
+    },
+    {
+      "text": "éditions",
+      "start": 7.5,
+      "end": 7.88
+    },
+    {
+      "text": "Usborne",
+      "start": 7.88,
+      "end": 8.32
+    },
+    {
+      "text": "publient",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "text": "d",
+      "start": 8.72,
+      "end": 8.8
+    },
+    {
+      "text": "'autres",
+      "start": 8.8,
+      "end": 8.9
+    },
+    {
+      "text": "petits",
+      "start": 8.9,
+      "end": 9.06
+    },
+    {
+      "text": "livres",
+      "start": 9.06,
+      "end": 9.3
+    },
+    {
+      "text": "pour",
+      "start": 9.3,
+      "end": 9.66
+    },
+    {
+      "text": "responsabiliser",
+      "start": 9.66,
+      "end": 11.04
+    },
+    {
+      "text": "vos",
+      "start": 11.04,
+      "end": 11.38
+    },
+    {
+      "text": "enfants.",
+      "start": 11.38,
+      "end": 11.76
+    },
+    {
+      "text": "Je",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "text": "m",
+      "start": 12.4,
+      "end": 12.52
+    },
+    {
+      "text": "'occupe",
+      "start": 12.52,
+      "end": 12.68
+    },
+    {
+      "text": "de",
+      "start": 12.68,
+      "end": 12.82
+    },
+    {
+      "text": "mon",
+      "start": 12.82,
+      "end": 12.94
+    },
+    {
+      "text": "chien",
+      "start": 12.94,
+      "end": 13.18
+    },
+    {
+      "text": "et",
+      "start": 13.18,
+      "end": 13.36
+    },
+    {
+      "text": "je",
+      "start": 13.36,
+      "end": 13.44
+    },
+    {
+      "text": "m",
+      "start": 13.44,
+      "end": 13.56
+    },
+    {
+      "text": "'occupe",
+      "start": 13.56,
+      "end": 13.74
+    },
+    {
+      "text": "de",
+      "start": 13.74,
+      "end": 13.88
+    },
+    {
+      "text": "mon",
+      "start": 13.88,
+      "end": 14.02
+    },
+    {
+      "text": "chat",
+      "start": 14.02,
+      "end": 14.22
+    },
+    {
+      "text": "en",
+      "start": 14.22,
+      "end": 14.36
+    },
+    {
+      "text": "fonction",
+      "start": 14.36,
+      "end": 14.58
+    },
+    {
+      "text": "évidemment",
+      "start": 14.58,
+      "end": 15.0
+    },
+    {
+      "text": "du",
+      "start": 15.0,
+      "end": 15.26
+    },
+    {
+      "text": "compagnon",
+      "start": 15.26,
+      "end": 15.66
+    },
+    {
+      "text": "à",
+      "start": 15.66,
+      "end": 15.78
+    },
+    {
+      "text": "4",
+      "start": 15.78,
+      "end": 15.98
+    },
+    {
+      "text": "pattes",
+      "start": 15.98,
+      "end": 16.28
+    },
+    {
+      "text": "qui",
+      "start": 16.28,
+      "end": 16.4
+    },
+    {
+      "text": "vient",
+      "start": 16.4,
+      "end": 16.56
+    },
+    {
+      "text": "rejoindre",
+      "start": 16.56,
+      "end": 16.86
+    },
+    {
+      "text": "la",
+      "start": 16.86,
+      "end": 17.08
+    },
+    {
+      "text": "famille.",
+      "start": 17.08,
+      "end": 17.38
+    },
+    {
+      "text": "On",
+      "start": 17.9,
+      "end": 18.02
+    },
+    {
+      "text": "y",
+      "start": 18.02,
+      "end": 18.12
+    },
+    {
+      "text": "apprend",
+      "start": 18.12,
+      "end": 18.32
+    },
+    {
+      "text": "comment",
+      "start": 18.32,
+      "end": 18.58
+    },
+    {
+      "text": "les",
+      "start": 18.58,
+      "end": 18.72
+    },
+    {
+      "text": "nourrir,",
+      "start": 18.72,
+      "end": 19.04
+    },
+    {
+      "text": "comment",
+      "start": 19.2,
+      "end": 19.34
+    },
+    {
+      "text": "se",
+      "start": 19.34,
+      "end": 19.54
+    },
+    {
+      "text": "comporter",
+      "start": 19.54,
+      "end": 19.96
+    },
+    {
+      "text": "pour",
+      "start": 19.96,
+      "end": 20.18
+    },
+    {
+      "text": "leur",
+      "start": 20.18,
+      "end": 20.34
+    },
+    {
+      "text": "arriver",
+      "start": 20.34,
+      "end": 20.64
+    },
+    {
+      "text": "chez",
+      "start": 20.64,
+      "end": 20.9
+    },
+    {
+      "text": "vous.",
+      "start": 20.9,
+      "end": 21.16
+    },
+    {
+      "text": "Toutes",
+      "start": 21.3,
+      "end": 21.42
+    },
+    {
+      "text": "ces",
+      "start": 21.42,
+      "end": 21.54
+    },
+    {
+      "text": "petites",
+      "start": 21.54,
+      "end": 21.68
+    },
+    {
+      "text": "choses",
+      "start": 21.68,
+      "end": 21.98
+    },
+    {
+      "text": "qui",
+      "start": 21.98,
+      "end": 22.16
+    },
+    {
+      "text": "ne",
+      "start": 22.16,
+      "end": 22.32
+    },
+    {
+      "text": "s",
+      "start": 22.32,
+      "end": 22.5
+    },
+    {
+      "text": "'improvise",
+      "start": 22.5,
+      "end": 22.88
+    },
+    {
+      "text": "pas.",
+      "start": 22.88,
+      "end": 23.14
+    },
+    {
+      "text": "Et",
+      "start": 23.56,
+      "end": 23.66
+    },
+    {
+      "text": "ce",
+      "start": 23.66,
+      "end": 23.72
+    },
+    {
+      "text": "qui",
+      "start": 23.72,
+      "end": 23.8
+    },
+    {
+      "text": "est",
+      "start": 23.8,
+      "end": 23.88
+    },
+    {
+      "text": "très",
+      "start": 23.88,
+      "end": 23.98
+    },
+    {
+      "text": "sympa,",
+      "start": 23.98,
+      "end": 24.32
+    },
+    {
+      "text": "c",
+      "start": 24.38,
+      "end": 24.46
+    },
+    {
+      "text": "'est",
+      "start": 24.46,
+      "end": 24.48
+    },
+    {
+      "text": "que",
+      "start": 24.48,
+      "end": 24.56
+    },
+    {
+      "text": "le",
+      "start": 24.56,
+      "end": 24.66
+    },
+    {
+      "text": "manuel",
+      "start": 24.66,
+      "end": 24.94
+    },
+    {
+      "text": "s",
+      "start": 24.94,
+      "end": 25.12
+    },
+    {
+      "text": "'adresse",
+      "start": 25.12,
+      "end": 25.32
+    },
+    {
+      "text": "directement",
+      "start": 25.32,
+      "end": 25.96
+    },
+    {
+      "text": "au",
+      "start": 25.96,
+      "end": 26.3
+    },
+    {
+      "text": "petit",
+      "start": 26.3,
+      "end": 26.52
+    },
+    {
+      "text": "maître",
+      "start": 26.52,
+      "end": 26.82
+    },
+    {
+      "text": "en",
+      "start": 26.82,
+      "end": 27.02
+    },
+    {
+      "text": "le",
+      "start": 27.02,
+      "end": 27.14
+    },
+    {
+      "text": "tutoyant.",
+      "start": 27.14,
+      "end": 27.54
+    },
+    {
+      "text": "Que",
+      "start": 28.58,
+      "end": 29.22
+    },
+    {
+      "text": "propose",
+      "start": 29.22,
+      "end": 29.54
+    },
+    {
+      "text": "aux",
+      "start": 29.54,
+      "end": 29.7
+    },
+    {
+      "text": "enfants",
+      "start": 29.7,
+      "end": 30.06
+    },
+    {
+      "text": "les",
+      "start": 30.06,
+      "end": 30.44
+    },
+    {
+      "text": "livres",
+      "start": 30.44,
+      "end": 30.66
+    },
+    {
+      "text": "présentés",
+      "start": 30.66,
+      "end": 31.2
+    },
+    {
+      "text": "par",
+      "start": 31.2,
+      "end": 31.34
+    },
+    {
+      "text": "la",
+      "start": 31.34,
+      "end": 31.44
+    },
+    {
+      "text": "journaliste",
+      "start": 31.44,
+      "end": 32.06
+    },
+    {
+      "text": "?",
+      "start": 32.06,
+      "end": 32.38
+    }
+  ]
+}

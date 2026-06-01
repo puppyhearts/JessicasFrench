@@ -1,0 +1,65 @@
+{
+  "text": "Situation 4 Où est-ce que tu as trouvé ton écharpe ?",
+  "words": [
+    {
+      "text": "Situation",
+      "start": 2.44,
+      "end": 2.86
+    },
+    {
+      "text": "4",
+      "start": 2.86,
+      "end": 3.28
+    },
+    {
+      "text": "Où",
+      "start": 5.08,
+      "end": 5.5
+    },
+    {
+      "text": "est",
+      "start": 5.5,
+      "end": 5.54
+    },
+    {
+      "text": "-ce",
+      "start": 5.54,
+      "end": 5.6
+    },
+    {
+      "text": "que",
+      "start": 5.6,
+      "end": 5.68
+    },
+    {
+      "text": "tu",
+      "start": 5.68,
+      "end": 5.76
+    },
+    {
+      "text": "as",
+      "start": 5.76,
+      "end": 5.84
+    },
+    {
+      "text": "trouvé",
+      "start": 5.84,
+      "end": 6.08
+    },
+    {
+      "text": "ton",
+      "start": 6.08,
+      "end": 6.26
+    },
+    {
+      "text": "écharpe",
+      "start": 6.26,
+      "end": 6.78
+    },
+    {
+      "text": "?",
+      "start": 6.78,
+      "end": 7.64
+    }
+  ]
+}

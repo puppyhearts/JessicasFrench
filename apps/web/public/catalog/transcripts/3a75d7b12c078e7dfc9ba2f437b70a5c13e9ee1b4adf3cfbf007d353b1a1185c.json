@@ -1,0 +1,1005 @@
+{
+  "text": "Question 18. Écoutez le document sonore et la question, choisissez la bonne réponse. Bonjour, vous êtes sur Radio France. Aujourd'hui, dans notre émission « Voyage autour du monde », nous allons découvrir le sport en Suède. Comme vous le savez, la plupart des Suédois pratiquent régulièrement une activité physique, que ce soit des sports d'équipe, du jogging, du patin à glace ou du ski de fond. Le football, et bien sûr le hockey sur glace, sont les deux sports nationaux. Les Suédois veulent absolument conserver une bonne santé et vivre aux grandères. Beaucoup d'entreprises d'ailleurs proposent des programmes sportifs pour les salariés et financent des centres de sport. Les écoles suédoises ferment chaque année pendant une semaine en février pour que les jeunes puissent faire du sport. Les familles ou les groupes d'amis font alors du ski dans le centre et dans le nord du pays. Cette passion pour le sport explique en partie pourquoi un petit pays comme la Suède, avec ses 8 millions d'habitants, gagne tant de médailles dans les compétitions sportives internationales. D'après ce document, pourquoi le sport a-t-il une place si importante dans la société suédoise ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "text": "18.",
+      "start": 0.62,
+      "end": 1.2
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.06,
+      "end": 2.5
+    },
+    {
+      "text": "le",
+      "start": 2.5,
+      "end": 2.7
+    },
+    {
+      "text": "document",
+      "start": 2.7,
+      "end": 3.04
+    },
+    {
+      "text": "sonore",
+      "start": 3.04,
+      "end": 3.62
+    },
+    {
+      "text": "et",
+      "start": 3.62,
+      "end": 3.84
+    },
+    {
+      "text": "la",
+      "start": 3.84,
+      "end": 3.98
+    },
+    {
+      "text": "question,",
+      "start": 3.98,
+      "end": 4.32
+    },
+    {
+      "text": "choisissez",
+      "start": 4.94,
+      "end": 5.5
+    },
+    {
+      "text": "la",
+      "start": 5.5,
+      "end": 5.68
+    },
+    {
+      "text": "bonne",
+      "start": 5.68,
+      "end": 5.86
+    },
+    {
+      "text": "réponse.",
+      "start": 5.86,
+      "end": 6.22
+    },
+    {
+      "text": "Bonjour,",
+      "start": 7.7,
+      "end": 8.14
+    },
+    {
+      "text": "vous",
+      "start": 8.6,
+      "end": 8.78
+    },
+    {
+      "text": "êtes",
+      "start": 8.78,
+      "end": 8.96
+    },
+    {
+      "text": "sur",
+      "start": 8.96,
+      "end": 9.12
+    },
+    {
+      "text": "Radio",
+      "start": 9.12,
+      "end": 9.36
+    },
+    {
+      "text": "France.",
+      "start": 9.36,
+      "end": 9.6
+    },
+    {
+      "text": "Aujourd",
+      "start": 10.18,
+      "end": 10.36
+    },
+    {
+      "text": "'hui,",
+      "start": 10.36,
+      "end": 10.56
+    },
+    {
+      "text": "dans",
+      "start": 10.62,
+      "end": 10.64
+    },
+    {
+      "text": "notre",
+      "start": 10.64,
+      "end": 10.86
+    },
+    {
+      "text": "émission",
+      "start": 10.86,
+      "end": 11.16
+    },
+    {
+      "text": "«",
+      "start": 11.16,
+      "end": 11.36
+    },
+    {
+      "text": "Voyage",
+      "start": 11.36,
+      "end": 11.66
+    },
+    {
+      "text": "autour",
+      "start": 11.66,
+      "end": 11.82
+    },
+    {
+      "text": "du",
+      "start": 11.82,
+      "end": 12.02
+    },
+    {
+      "text": "monde",
+      "start": 12.02,
+      "end": 12.24
+    },
+    {
+      "text": "»,",
+      "start": 12.24,
+      "end": 12.5
+    },
+    {
+      "text": "nous",
+      "start": 12.5,
+      "end": 12.6
+    },
+    {
+      "text": "allons",
+      "start": 12.6,
+      "end": 12.82
+    },
+    {
+      "text": "découvrir",
+      "start": 12.82,
+      "end": 13.22
+    },
+    {
+      "text": "le",
+      "start": 13.22,
+      "end": 13.48
+    },
+    {
+      "text": "sport",
+      "start": 13.48,
+      "end": 13.7
+    },
+    {
+      "text": "en",
+      "start": 13.7,
+      "end": 13.88
+    },
+    {
+      "text": "Suède.",
+      "start": 13.88,
+      "end": 14.22
+    },
+    {
+      "text": "Comme",
+      "start": 14.98,
+      "end": 15.18
+    },
+    {
+      "text": "vous",
+      "start": 15.18,
+      "end": 15.34
+    },
+    {
+      "text": "le",
+      "start": 15.34,
+      "end": 15.4
+    },
+    {
+      "text": "savez,",
+      "start": 15.4,
+      "end": 15.62
+    },
+    {
+      "text": "la",
+      "start": 15.8,
+      "end": 15.84
+    },
+    {
+      "text": "plupart",
+      "start": 15.84,
+      "end": 16.02
+    },
+    {
+      "text": "des",
+      "start": 16.02,
+      "end": 16.36
+    },
+    {
+      "text": "Suédois",
+      "start": 16.36,
+      "end": 16.74
+    },
+    {
+      "text": "pratiquent",
+      "start": 16.74,
+      "end": 17.14
+    },
+    {
+      "text": "régulièrement",
+      "start": 17.14,
+      "end": 17.72
+    },
+    {
+      "text": "une",
+      "start": 17.72,
+      "end": 17.88
+    },
+    {
+      "text": "activité",
+      "start": 17.88,
+      "end": 18.34
+    },
+    {
+      "text": "physique,",
+      "start": 18.34,
+      "end": 18.74
+    },
+    {
+      "text": "que",
+      "start": 19.1,
+      "end": 19.16
+    },
+    {
+      "text": "ce",
+      "start": 19.16,
+      "end": 19.3
+    },
+    {
+      "text": "soit",
+      "start": 19.3,
+      "end": 19.52
+    },
+    {
+      "text": "des",
+      "start": 19.52,
+      "end": 19.68
+    },
+    {
+      "text": "sports",
+      "start": 19.68,
+      "end": 19.9
+    },
+    {
+      "text": "d",
+      "start": 19.9,
+      "end": 20.08
+    },
+    {
+      "text": "'équipe,",
+      "start": 20.08,
+      "end": 20.44
+    },
+    {
+      "text": "du",
+      "start": 20.54,
+      "end": 20.62
+    },
+    {
+      "text": "jogging,",
+      "start": 20.62,
+      "end": 21.08
+    },
+    {
+      "text": "du",
+      "start": 21.28,
+      "end": 21.36
+    },
+    {
+      "text": "patin",
+      "start": 21.36,
+      "end": 21.7
+    },
+    {
+      "text": "à",
+      "start": 21.7,
+      "end": 21.84
+    },
+    {
+      "text": "glace",
+      "start": 21.84,
+      "end": 22.08
+    },
+    {
+      "text": "ou",
+      "start": 22.08,
+      "end": 22.2
+    },
+    {
+      "text": "du",
+      "start": 22.2,
+      "end": 22.36
+    },
+    {
+      "text": "ski",
+      "start": 22.36,
+      "end": 22.56
+    },
+    {
+      "text": "de",
+      "start": 22.56,
+      "end": 22.68
+    },
+    {
+      "text": "fond.",
+      "start": 22.68,
+      "end": 22.88
+    },
+    {
+      "text": "Le",
+      "start": 23.5,
+      "end": 23.94
+    },
+    {
+      "text": "football,",
+      "start": 23.94,
+      "end": 24.28
+    },
+    {
+      "text": "et",
+      "start": 24.6,
+      "end": 24.78
+    },
+    {
+      "text": "bien",
+      "start": 24.78,
+      "end": 24.88
+    },
+    {
+      "text": "sûr",
+      "start": 24.88,
+      "end": 25.16
+    },
+    {
+      "text": "le",
+      "start": 25.16,
+      "end": 25.34
+    },
+    {
+      "text": "hockey",
+      "start": 25.34,
+      "end": 25.54
+    },
+    {
+      "text": "sur",
+      "start": 25.54,
+      "end": 25.74
+    },
+    {
+      "text": "glace,",
+      "start": 25.74,
+      "end": 26.02
+    },
+    {
+      "text": "sont",
+      "start": 26.26,
+      "end": 26.46
+    },
+    {
+      "text": "les",
+      "start": 26.46,
+      "end": 26.6
+    },
+    {
+      "text": "deux",
+      "start": 26.6,
+      "end": 26.76
+    },
+    {
+      "text": "sports",
+      "start": 26.76,
+      "end": 27.0
+    },
+    {
+      "text": "nationaux.",
+      "start": 27.0,
+      "end": 27.54
+    },
+    {
+      "text": "Les",
+      "start": 28.1,
+      "end": 28.36
+    },
+    {
+      "text": "Suédois",
+      "start": 28.36,
+      "end": 28.68
+    },
+    {
+      "text": "veulent",
+      "start": 28.68,
+      "end": 28.86
+    },
+    {
+      "text": "absolument",
+      "start": 28.86,
+      "end": 29.34
+    },
+    {
+      "text": "conserver",
+      "start": 29.34,
+      "end": 29.88
+    },
+    {
+      "text": "une",
+      "start": 29.88,
+      "end": 30.08
+    },
+    {
+      "text": "bonne",
+      "start": 30.08,
+      "end": 30.26
+    },
+    {
+      "text": "santé",
+      "start": 30.26,
+      "end": 30.68
+    },
+    {
+      "text": "et",
+      "start": 30.68,
+      "end": 30.82
+    },
+    {
+      "text": "vivre",
+      "start": 30.82,
+      "end": 31.02
+    },
+    {
+      "text": "aux",
+      "start": 31.02,
+      "end": 31.18
+    },
+    {
+      "text": "grandères.",
+      "start": 31.18,
+      "end": 31.56
+    },
+    {
+      "text": "Beaucoup",
+      "start": 32.36,
+      "end": 32.74
+    },
+    {
+      "text": "d",
+      "start": 32.74,
+      "end": 32.82
+    },
+    {
+      "text": "'entreprises",
+      "start": 32.82,
+      "end": 33.26
+    },
+    {
+      "text": "d",
+      "start": 33.26,
+      "end": 33.4
+    },
+    {
+      "text": "'ailleurs",
+      "start": 33.4,
+      "end": 33.58
+    },
+    {
+      "text": "proposent",
+      "start": 33.58,
+      "end": 34.14
+    },
+    {
+      "text": "des",
+      "start": 34.14,
+      "end": 34.26
+    },
+    {
+      "text": "programmes",
+      "start": 34.26,
+      "end": 34.56
+    },
+    {
+      "text": "sportifs",
+      "start": 34.56,
+      "end": 35.12
+    },
+    {
+      "text": "pour",
+      "start": 35.12,
+      "end": 35.3
+    },
+    {
+      "text": "les",
+      "start": 35.3,
+      "end": 35.4
+    },
+    {
+      "text": "salariés",
+      "start": 35.4,
+      "end": 35.86
+    },
+    {
+      "text": "et",
+      "start": 35.86,
+      "end": 36.28
+    },
+    {
+      "text": "financent",
+      "start": 36.28,
+      "end": 36.62
+    },
+    {
+      "text": "des",
+      "start": 36.62,
+      "end": 36.78
+    },
+    {
+      "text": "centres",
+      "start": 36.78,
+      "end": 36.96
+    },
+    {
+      "text": "de",
+      "start": 36.96,
+      "end": 37.18
+    },
+    {
+      "text": "sport.",
+      "start": 37.18,
+      "end": 37.46
+    },
+    {
+      "text": "Les",
+      "start": 38.28,
+      "end": 38.46
+    },
+    {
+      "text": "écoles",
+      "start": 38.46,
+      "end": 38.7
+    },
+    {
+      "text": "suédoises",
+      "start": 38.7,
+      "end": 39.26
+    },
+    {
+      "text": "ferment",
+      "start": 39.26,
+      "end": 39.64
+    },
+    {
+      "text": "chaque",
+      "start": 39.64,
+      "end": 39.92
+    },
+    {
+      "text": "année",
+      "start": 39.92,
+      "end": 40.24
+    },
+    {
+      "text": "pendant",
+      "start": 40.24,
+      "end": 40.46
+    },
+    {
+      "text": "une",
+      "start": 40.46,
+      "end": 40.68
+    },
+    {
+      "text": "semaine",
+      "start": 40.68,
+      "end": 41.0
+    },
+    {
+      "text": "en",
+      "start": 41.0,
+      "end": 41.16
+    },
+    {
+      "text": "février",
+      "start": 41.16,
+      "end": 41.56
+    },
+    {
+      "text": "pour",
+      "start": 41.56,
+      "end": 41.9
+    },
+    {
+      "text": "que",
+      "start": 41.9,
+      "end": 42.04
+    },
+    {
+      "text": "les",
+      "start": 42.04,
+      "end": 42.16
+    },
+    {
+      "text": "jeunes",
+      "start": 42.16,
+      "end": 42.38
+    },
+    {
+      "text": "puissent",
+      "start": 42.38,
+      "end": 42.7
+    },
+    {
+      "text": "faire",
+      "start": 42.7,
+      "end": 42.88
+    },
+    {
+      "text": "du",
+      "start": 42.88,
+      "end": 43.02
+    },
+    {
+      "text": "sport.",
+      "start": 43.02,
+      "end": 43.36
+    },
+    {
+      "text": "Les",
+      "start": 44.26,
+      "end": 44.42
+    },
+    {
+      "text": "familles",
+      "start": 44.42,
+      "end": 44.82
+    },
+    {
+      "text": "ou",
+      "start": 44.82,
+      "end": 44.94
+    },
+    {
+      "text": "les",
+      "start": 44.94,
+      "end": 45.04
+    },
+    {
+      "text": "groupes",
+      "start": 45.04,
+      "end": 45.26
+    },
+    {
+      "text": "d",
+      "start": 45.26,
+      "end": 45.36
+    },
+    {
+      "text": "'amis",
+      "start": 45.36,
+      "end": 45.58
+    },
+    {
+      "text": "font",
+      "start": 45.58,
+      "end": 46.18
+    },
+    {
+      "text": "alors",
+      "start": 46.18,
+      "end": 46.38
+    },
+    {
+      "text": "du",
+      "start": 46.38,
+      "end": 46.56
+    },
+    {
+      "text": "ski",
+      "start": 46.56,
+      "end": 46.76
+    },
+    {
+      "text": "dans",
+      "start": 46.76,
+      "end": 46.94
+    },
+    {
+      "text": "le",
+      "start": 46.94,
+      "end": 47.06
+    },
+    {
+      "text": "centre",
+      "start": 47.06,
+      "end": 47.34
+    },
+    {
+      "text": "et",
+      "start": 47.34,
+      "end": 47.52
+    },
+    {
+      "text": "dans",
+      "start": 47.52,
+      "end": 47.62
+    },
+    {
+      "text": "le",
+      "start": 47.62,
+      "end": 47.72
+    },
+    {
+      "text": "nord",
+      "start": 47.72,
+      "end": 47.86
+    },
+    {
+      "text": "du",
+      "start": 47.86,
+      "end": 48.04
+    },
+    {
+      "text": "pays.",
+      "start": 48.04,
+      "end": 48.28
+    },
+    {
+      "text": "Cette",
+      "start": 48.28,
+      "end": 49.16
+    },
+    {
+      "text": "passion",
+      "start": 49.16,
+      "end": 49.46
+    },
+    {
+      "text": "pour",
+      "start": 49.46,
+      "end": 49.64
+    },
+    {
+      "text": "le",
+      "start": 49.64,
+      "end": 49.74
+    },
+    {
+      "text": "sport",
+      "start": 49.74,
+      "end": 50.0
+    },
+    {
+      "text": "explique",
+      "start": 50.0,
+      "end": 50.64
+    },
+    {
+      "text": "en",
+      "start": 50.64,
+      "end": 50.74
+    },
+    {
+      "text": "partie",
+      "start": 50.74,
+      "end": 51.04
+    },
+    {
+      "text": "pourquoi",
+      "start": 51.04,
+      "end": 51.34
+    },
+    {
+      "text": "un",
+      "start": 51.34,
+      "end": 51.54
+    },
+    {
+      "text": "petit",
+      "start": 51.54,
+      "end": 51.72
+    },
+    {
+      "text": "pays",
+      "start": 51.72,
+      "end": 52.0
+    },
+    {
+      "text": "comme",
+      "start": 52.0,
+      "end": 52.22
+    },
+    {
+      "text": "la",
+      "start": 52.22,
+      "end": 52.38
+    },
+    {
+      "text": "Suède,",
+      "start": 52.38,
+      "end": 52.82
+    },
+    {
+      "text": "avec",
+      "start": 53.04,
+      "end": 53.22
+    },
+    {
+      "text": "ses",
+      "start": 53.22,
+      "end": 53.44
+    },
+    {
+      "text": "8",
+      "start": 53.44,
+      "end": 53.62
+    },
+    {
+      "text": "millions",
+      "start": 53.62,
+      "end": 53.84
+    },
+    {
+      "text": "d",
+      "start": 53.84,
+      "end": 53.98
+    },
+    {
+      "text": "'habitants,",
+      "start": 53.98,
+      "end": 54.34
+    },
+    {
+      "text": "gagne",
+      "start": 54.68,
+      "end": 54.88
+    },
+    {
+      "text": "tant",
+      "start": 54.88,
+      "end": 55.12
+    },
+    {
+      "text": "de",
+      "start": 55.12,
+      "end": 55.24
+    },
+    {
+      "text": "médailles",
+      "start": 55.24,
+      "end": 55.58
+    },
+    {
+      "text": "dans",
+      "start": 55.58,
+      "end": 55.7
+    },
+    {
+      "text": "les",
+      "start": 55.7,
+      "end": 55.82
+    },
+    {
+      "text": "compétitions",
+      "start": 55.82,
+      "end": 56.3
+    },
+    {
+      "text": "sportives",
+      "start": 56.3,
+      "end": 56.78
+    },
+    {
+      "text": "internationales.",
+      "start": 56.78,
+      "end": 57.28
+    },
+    {
+      "text": "D",
+      "start": 59.5,
+      "end": 59.96
+    },
+    {
+      "text": "'après",
+      "start": 59.96,
+      "end": 60.08
+    },
+    {
+      "text": "ce",
+      "start": 60.08,
+      "end": 60.28
+    },
+    {
+      "text": "document,",
+      "start": 60.28,
+      "end": 60.58
+    },
+    {
+      "text": "pourquoi",
+      "start": 61.2,
+      "end": 61.42
+    },
+    {
+      "text": "le",
+      "start": 61.42,
+      "end": 61.64
+    },
+    {
+      "text": "sport",
+      "start": 61.64,
+      "end": 62.02
+    },
+    {
+      "text": "a",
+      "start": 62.02,
+      "end": 62.36
+    },
+    {
+      "text": "-t",
+      "start": 62.36,
+      "end": 62.42
+    },
+    {
+      "text": "-il",
+      "start": 62.42,
+      "end": 62.48
+    },
+    {
+      "text": "une",
+      "start": 62.48,
+      "end": 62.64
+    },
+    {
+      "text": "place",
+      "start": 62.64,
+      "end": 62.94
+    },
+    {
+      "text": "si",
+      "start": 62.94,
+      "end": 63.2
+    },
+    {
+      "text": "importante",
+      "start": 63.2,
+      "end": 63.76
+    },
+    {
+      "text": "dans",
+      "start": 63.76,
+      "end": 64.14
+    },
+    {
+      "text": "la",
+      "start": 64.14,
+      "end": 64.24
+    },
+    {
+      "text": "société",
+      "start": 64.24,
+      "end": 64.66
+    },
+    {
+      "text": "suédoise",
+      "start": 64.66,
+      "end": 65.46
+    },
+    {
+      "text": "?",
+      "start": 65.46,
+      "end": 65.64
+    }
+  ]
+}

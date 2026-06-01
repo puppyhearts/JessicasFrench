@@ -1,0 +1,190 @@
+{
+  "text": "écoutez la question et les quatre réponses choisissez la réponse qui correspond le mieux à la question question 11 bonjour comment vas-tu avec plaisir bien et toi si Jean-Marc et toi bi à la bibliothèque",
+  "words": [
+    {
+      "text": "écoutez",
+      "start": 0.0,
+      "end": 0.74
+    },
+    {
+      "text": "la",
+      "start": 0.74,
+      "end": 0.92
+    },
+    {
+      "text": "question",
+      "start": 0.92,
+      "end": 1.28
+    },
+    {
+      "text": "et",
+      "start": 1.28,
+      "end": 1.66
+    },
+    {
+      "text": "les",
+      "start": 1.66,
+      "end": 1.76
+    },
+    {
+      "text": "quatre",
+      "start": 1.76,
+      "end": 2.0
+    },
+    {
+      "text": "réponses",
+      "start": 2.0,
+      "end": 2.76
+    },
+    {
+      "text": "choisissez",
+      "start": 2.76,
+      "end": 3.62
+    },
+    {
+      "text": "la",
+      "start": 3.62,
+      "end": 3.94
+    },
+    {
+      "text": "réponse",
+      "start": 3.94,
+      "end": 4.36
+    },
+    {
+      "text": "qui",
+      "start": 4.36,
+      "end": 4.6
+    },
+    {
+      "text": "correspond",
+      "start": 4.6,
+      "end": 5.02
+    },
+    {
+      "text": "le",
+      "start": 5.02,
+      "end": 5.26
+    },
+    {
+      "text": "mieux",
+      "start": 5.26,
+      "end": 5.48
+    },
+    {
+      "text": "à",
+      "start": 5.48,
+      "end": 5.86
+    },
+    {
+      "text": "la",
+      "start": 5.86,
+      "end": 5.96
+    },
+    {
+      "text": "question",
+      "start": 5.96,
+      "end": 6.34
+    },
+    {
+      "text": "question",
+      "start": 8.96,
+      "end": 9.72
+    },
+    {
+      "text": "11",
+      "start": 9.72,
+      "end": 10.34
+    },
+    {
+      "text": "bonjour",
+      "start": 10.34,
+      "end": 12.32
+    },
+    {
+      "text": "comment",
+      "start": 12.32,
+      "end": 12.62
+    },
+    {
+      "text": "vas",
+      "start": 12.62,
+      "end": 12.86
+    },
+    {
+      "text": "-tu",
+      "start": 12.86,
+      "end": 13.1
+    },
+    {
+      "text": "avec",
+      "start": 13.1,
+      "end": 14.08
+    },
+    {
+      "text": "plaisir",
+      "start": 14.08,
+      "end": 15.34
+    },
+    {
+      "text": "bien",
+      "start": 15.34,
+      "end": 16.88
+    },
+    {
+      "text": "et",
+      "start": 16.88,
+      "end": 18.1
+    },
+    {
+      "text": "toi",
+      "start": 18.1,
+      "end": 18.44
+    },
+    {
+      "text": "si",
+      "start": 18.44,
+      "end": 19.78
+    },
+    {
+      "text": "Jean",
+      "start": 19.78,
+      "end": 20.76
+    },
+    {
+      "text": "-Marc",
+      "start": 20.76,
+      "end": 21.1
+    },
+    {
+      "text": "et",
+      "start": 21.1,
+      "end": 21.54
+    },
+    {
+      "text": "toi",
+      "start": 21.54,
+      "end": 21.9
+    },
+    {
+      "text": "bi",
+      "start": 21.9,
+      "end": 22.96
+    },
+    {
+      "text": "à",
+      "start": 22.96,
+      "end": 23.72
+    },
+    {
+      "text": "la",
+      "start": 23.72,
+      "end": 23.84
+    },
+    {
+      "text": "bibliothèque",
+      "start": 23.84,
+      "end": 24.5
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "text": "Bonjour madame, je voudrais obtenir un certificat de scolarité s'il vous plaît. Oui bien sûr, mais vous ne pourrez l'obtenir qu'une fois votre inscription à l'université définitive, c'est-à-dire quand vous aurez payé vos droits d'inscription. Question 11. Que veut l'étudiant ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 2.08,
+      "end": 2.52
+    },
+    {
+      "text": "madame,",
+      "start": 2.52,
+      "end": 2.82
+    },
+    {
+      "text": "je",
+      "start": 3.02,
+      "end": 3.08
+    },
+    {
+      "text": "voudrais",
+      "start": 3.08,
+      "end": 3.32
+    },
+    {
+      "text": "obtenir",
+      "start": 3.32,
+      "end": 3.66
+    },
+    {
+      "text": "un",
+      "start": 3.66,
+      "end": 3.82
+    },
+    {
+      "text": "certificat",
+      "start": 3.82,
+      "end": 4.3
+    },
+    {
+      "text": "de",
+      "start": 4.3,
+      "end": 4.38
+    },
+    {
+      "text": "scolarité",
+      "start": 4.38,
+      "end": 4.84
+    },
+    {
+      "text": "s",
+      "start": 4.84,
+      "end": 4.98
+    },
+    {
+      "text": "'il",
+      "start": 4.98,
+      "end": 5.04
+    },
+    {
+      "text": "vous",
+      "start": 5.04,
+      "end": 5.16
+    },
+    {
+      "text": "plaît.",
+      "start": 5.16,
+      "end": 5.38
+    },
+    {
+      "text": "Oui",
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "text": "bien",
+      "start": 6.34,
+      "end": 6.58
+    },
+    {
+      "text": "sûr,",
+      "start": 6.58,
+      "end": 6.9
+    },
+    {
+      "text": "mais",
+      "start": 7.32,
+      "end": 7.4
+    },
+    {
+      "text": "vous",
+      "start": 7.4,
+      "end": 7.54
+    },
+    {
+      "text": "ne",
+      "start": 7.54,
+      "end": 7.68
+    },
+    {
+      "text": "pourrez",
+      "start": 7.68,
+      "end": 7.9
+    },
+    {
+      "text": "l",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "text": "'obtenir",
+      "start": 8.0,
+      "end": 8.38
+    },
+    {
+      "text": "qu",
+      "start": 8.38,
+      "end": 8.54
+    },
+    {
+      "text": "'une",
+      "start": 8.54,
+      "end": 8.64
+    },
+    {
+      "text": "fois",
+      "start": 8.64,
+      "end": 8.76
+    },
+    {
+      "text": "votre",
+      "start": 8.76,
+      "end": 8.98
+    },
+    {
+      "text": "inscription",
+      "start": 8.98,
+      "end": 9.42
+    },
+    {
+      "text": "à",
+      "start": 9.42,
+      "end": 9.66
+    },
+    {
+      "text": "l",
+      "start": 9.66,
+      "end": 9.74
+    },
+    {
+      "text": "'université",
+      "start": 9.74,
+      "end": 10.3
+    },
+    {
+      "text": "définitive,",
+      "start": 10.3,
+      "end": 10.96
+    },
+    {
+      "text": "c",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "text": "'est",
+      "start": 11.46,
+      "end": 11.52
+    },
+    {
+      "text": "-à",
+      "start": 11.52,
+      "end": 11.7
+    },
+    {
+      "text": "-dire",
+      "start": 11.7,
+      "end": 11.8
+    },
+    {
+      "text": "quand",
+      "start": 11.8,
+      "end": 11.98
+    },
+    {
+      "text": "vous",
+      "start": 11.98,
+      "end": 12.14
+    },
+    {
+      "text": "aurez",
+      "start": 12.14,
+      "end": 12.36
+    },
+    {
+      "text": "payé",
+      "start": 12.36,
+      "end": 12.68
+    },
+    {
+      "text": "vos",
+      "start": 12.68,
+      "end": 12.82
+    },
+    {
+      "text": "droits",
+      "start": 12.82,
+      "end": 13.0
+    },
+    {
+      "text": "d",
+      "start": 13.0,
+      "end": 13.08
+    },
+    {
+      "text": "'inscription.",
+      "start": 13.08,
+      "end": 13.54
+    },
+    {
+      "text": "Question",
+      "start": 15.86,
+      "end": 16.3
+    },
+    {
+      "text": "11.",
+      "start": 16.3,
+      "end": 16.74
+    },
+    {
+      "text": "Que",
+      "start": 17.72,
+      "end": 17.96
+    },
+    {
+      "text": "veut",
+      "start": 17.96,
+      "end": 18.1
+    },
+    {
+      "text": "l",
+      "start": 18.1,
+      "end": 18.24
+    },
+    {
+      "text": "'étudiant",
+      "start": 18.24,
+      "end": 18.66
+    },
+    {
+      "text": "?",
+      "start": 18.66,
+      "end": 18.94
+    }
+  ]
+}

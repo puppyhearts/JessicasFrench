@@ -1,0 +1,260 @@
+{
+  "text": "Question 4. Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Je joue de la guitare. Et toi, tu joues d'un instrument ? A. Oui, j'aime la musique. B. Oui, j'écoute la radio. C. Oui, je joue du piano. D. Oui, je suis au concert.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": "4.",
+      "start": 0.6,
+      "end": 1.06
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.38,
+      "end": 2.8
+    },
+    {
+      "text": "l",
+      "start": 2.8,
+      "end": 3.02
+    },
+    {
+      "text": "'extrait",
+      "start": 3.02,
+      "end": 3.38
+    },
+    {
+      "text": "sonore",
+      "start": 3.38,
+      "end": 3.98
+    },
+    {
+      "text": "et",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "text": "les",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "text": "quatre",
+      "start": 4.4,
+      "end": 4.6
+    },
+    {
+      "text": "propositions.",
+      "start": 4.6,
+      "end": 5.32
+    },
+    {
+      "text": "Choisissez",
+      "start": 6.0,
+      "end": 6.44
+    },
+    {
+      "text": "la",
+      "start": 6.44,
+      "end": 6.64
+    },
+    {
+      "text": "bonne",
+      "start": 6.64,
+      "end": 6.86
+    },
+    {
+      "text": "réponse.",
+      "start": 6.86,
+      "end": 7.24
+    },
+    {
+      "text": "Je",
+      "start": 8.84,
+      "end": 9.4
+    },
+    {
+      "text": "joue",
+      "start": 9.4,
+      "end": 9.56
+    },
+    {
+      "text": "de",
+      "start": 9.56,
+      "end": 9.66
+    },
+    {
+      "text": "la",
+      "start": 9.66,
+      "end": 9.76
+    },
+    {
+      "text": "guitare.",
+      "start": 9.76,
+      "end": 10.18
+    },
+    {
+      "text": "Et",
+      "start": 10.7,
+      "end": 10.78
+    },
+    {
+      "text": "toi,",
+      "start": 10.78,
+      "end": 10.96
+    },
+    {
+      "text": "tu",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "text": "joues",
+      "start": 11.46,
+      "end": 11.58
+    },
+    {
+      "text": "d",
+      "start": 11.58,
+      "end": 11.68
+    },
+    {
+      "text": "'un",
+      "start": 11.68,
+      "end": 11.72
+    },
+    {
+      "text": "instrument",
+      "start": 11.72,
+      "end": 12.02
+    },
+    {
+      "text": "?",
+      "start": 12.02,
+      "end": 12.58
+    },
+    {
+      "text": "A.",
+      "start": 13.1,
+      "end": 13.36
+    },
+    {
+      "text": "Oui,",
+      "start": 13.94,
+      "end": 14.22
+    },
+    {
+      "text": "j",
+      "start": 14.56,
+      "end": 14.68
+    },
+    {
+      "text": "'aime",
+      "start": 14.68,
+      "end": 14.76
+    },
+    {
+      "text": "la",
+      "start": 14.76,
+      "end": 14.9
+    },
+    {
+      "text": "musique.",
+      "start": 14.9,
+      "end": 15.14
+    },
+    {
+      "text": "B.",
+      "start": 16.88,
+      "end": 17.26
+    },
+    {
+      "text": "Oui,",
+      "start": 17.84,
+      "end": 18.16
+    },
+    {
+      "text": "j",
+      "start": 18.54,
+      "end": 18.7
+    },
+    {
+      "text": "'écoute",
+      "start": 18.7,
+      "end": 18.9
+    },
+    {
+      "text": "la",
+      "start": 18.9,
+      "end": 19.06
+    },
+    {
+      "text": "radio.",
+      "start": 19.06,
+      "end": 19.32
+    },
+    {
+      "text": "C.",
+      "start": 20.74,
+      "end": 21.36
+    },
+    {
+      "text": "Oui,",
+      "start": 21.9,
+      "end": 22.2
+    },
+    {
+      "text": "je",
+      "start": 22.52,
+      "end": 22.66
+    },
+    {
+      "text": "joue",
+      "start": 22.66,
+      "end": 22.8
+    },
+    {
+      "text": "du",
+      "start": 22.8,
+      "end": 22.94
+    },
+    {
+      "text": "piano.",
+      "start": 22.94,
+      "end": 23.14
+    },
+    {
+      "text": "D.",
+      "start": 24.7,
+      "end": 25.32
+    },
+    {
+      "text": "Oui,",
+      "start": 25.84,
+      "end": 26.18
+    },
+    {
+      "text": "je",
+      "start": 26.5,
+      "end": 26.62
+    },
+    {
+      "text": "suis",
+      "start": 26.62,
+      "end": 26.76
+    },
+    {
+      "text": "au",
+      "start": 26.76,
+      "end": 26.92
+    },
+    {
+      "text": "concert.",
+      "start": 26.92,
+      "end": 27.24
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "text": "Question 7. Allô ? Bonjour, pourrais-je parler à monsieur Duvalon s'il vous plaît ? A. Entendu, il vous attend à 14 heures. B. Non, nous ne faisons aucun remboursement, monsieur. C. Veuillez patienter s'il vous plaît. D. Oui, il est disponible pour un tennis. A.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 2.2,
+      "end": 2.76
+    },
+    {
+      "text": "7.",
+      "start": 2.76,
+      "end": 3.32
+    },
+    {
+      "text": "Allô",
+      "start": 4.32,
+      "end": 4.88
+    },
+    {
+      "text": "?",
+      "start": 4.88,
+      "end": 5.44
+    },
+    {
+      "text": "Bonjour,",
+      "start": 5.44,
+      "end": 5.84
+    },
+    {
+      "text": "pourrais",
+      "start": 6.12,
+      "end": 6.24
+    },
+    {
+      "text": "-je",
+      "start": 6.24,
+      "end": 6.3
+    },
+    {
+      "text": "parler",
+      "start": 6.3,
+      "end": 6.48
+    },
+    {
+      "text": "à",
+      "start": 6.48,
+      "end": 6.64
+    },
+    {
+      "text": "monsieur",
+      "start": 6.64,
+      "end": 6.86
+    },
+    {
+      "text": "Duvalon",
+      "start": 6.86,
+      "end": 7.46
+    },
+    {
+      "text": "s",
+      "start": 7.46,
+      "end": 7.64
+    },
+    {
+      "text": "'il",
+      "start": 7.64,
+      "end": 7.7
+    },
+    {
+      "text": "vous",
+      "start": 7.7,
+      "end": 7.84
+    },
+    {
+      "text": "plaît",
+      "start": 7.84,
+      "end": 8.18
+    },
+    {
+      "text": "?",
+      "start": 8.18,
+      "end": 9.46
+    },
+    {
+      "text": "A.",
+      "start": 9.46,
+      "end": 10.48
+    },
+    {
+      "text": "Entendu,",
+      "start": 11.1,
+      "end": 11.6
+    },
+    {
+      "text": "il",
+      "start": 11.66,
+      "end": 11.74
+    },
+    {
+      "text": "vous",
+      "start": 11.74,
+      "end": 11.86
+    },
+    {
+      "text": "attend",
+      "start": 11.86,
+      "end": 12.1
+    },
+    {
+      "text": "à",
+      "start": 12.1,
+      "end": 12.28
+    },
+    {
+      "text": "14",
+      "start": 12.28,
+      "end": 12.52
+    },
+    {
+      "text": "heures.",
+      "start": 12.52,
+      "end": 12.8
+    },
+    {
+      "text": "B.",
+      "start": 14.06,
+      "end": 14.4
+    },
+    {
+      "text": "Non,",
+      "start": 15.02,
+      "end": 15.18
+    },
+    {
+      "text": "nous",
+      "start": 15.46,
+      "end": 15.56
+    },
+    {
+      "text": "ne",
+      "start": 15.56,
+      "end": 15.7
+    },
+    {
+      "text": "faisons",
+      "start": 15.7,
+      "end": 16.02
+    },
+    {
+      "text": "aucun",
+      "start": 16.02,
+      "end": 16.52
+    },
+    {
+      "text": "remboursement,",
+      "start": 16.52,
+      "end": 17.2
+    },
+    {
+      "text": "monsieur.",
+      "start": 17.26,
+      "end": 17.46
+    },
+    {
+      "text": "C.",
+      "start": 18.74,
+      "end": 19.14
+    },
+    {
+      "text": "Veuillez",
+      "start": 19.86,
+      "end": 20.18
+    },
+    {
+      "text": "patienter",
+      "start": 20.18,
+      "end": 20.68
+    },
+    {
+      "text": "s",
+      "start": 20.68,
+      "end": 20.8
+    },
+    {
+      "text": "'il",
+      "start": 20.8,
+      "end": 20.86
+    },
+    {
+      "text": "vous",
+      "start": 20.86,
+      "end": 20.98
+    },
+    {
+      "text": "plaît.",
+      "start": 20.98,
+      "end": 21.22
+    },
+    {
+      "text": "D.",
+      "start": 22.54,
+      "end": 23.04
+    },
+    {
+      "text": "Oui,",
+      "start": 23.94,
+      "end": 24.14
+    },
+    {
+      "text": "il",
+      "start": 24.58,
+      "end": 24.68
+    },
+    {
+      "text": "est",
+      "start": 24.68,
+      "end": 24.78
+    },
+    {
+      "text": "disponible",
+      "start": 24.78,
+      "end": 25.34
+    },
+    {
+      "text": "pour",
+      "start": 25.34,
+      "end": 25.6
+    },
+    {
+      "text": "un",
+      "start": 25.6,
+      "end": 25.76
+    },
+    {
+      "text": "tennis.",
+      "start": 25.76,
+      "end": 25.94
+    },
+    {
+      "text": "A.",
+      "start": 33.0,
+      "end": 34.4
+    }
+  ]
+}

@@ -1,0 +1,1590 @@
+{
+  "text": "Bonjour Madame Fernandez, prenez place je vous prie. Bonjour Monsieur, merci de me recevoir. Oh mais c'est bien naturel, votre CV est impressionnant. J'avais quelques questions à vous poser concernant la lettre de motivation et le CV que vous nous avez envoyé. Oui, lorsque j'ai vu l'annonce pour le poste dans le journal, ni une ni deux, je me suis dit que j'avais le profil idéal pour ce travail. Justement, vous souhaitez travailler comme contrôleur de gestion au sein de notre pôle de l'administration centrale et je vois que votre expérience acquise en cabinet d'audite est plutôt grande. Vous avez travaillé chez les plus grands. Félicitations. Merci Monsieur, j'ai en effet, je peux le dire, un bon bagage de ce côté là. Et c'est justement tout cela qui me chiffonne un peu. Vous voyez, votre CV est impeccable. Vos expériences excellentes et vous postulez sur un profil qui conviendrait bien mieux à quelqu'un avec un peu moins d'expérience que vous. Qu'est-ce qui vous a tant intéressé dans cette fiche de poste ? Vous savez comme moi, Monsieur Dufran, que le marché du travail est ce qu'il est et que les places sont chères. Alors une place de contrôleur de gestion, vous pensez ? Oui, je vois, je vois. En fait, je pense que nous pourrions faire affaire ensemble, mais pas pour ce poste particulier. Je recherche aussi le responsable du pôle de l'administration centrale qui vient de nous abandonner pour aller à la concurrence. Tant plus pour lui. Sa motivation devait être bien faible pour continuer avec nous. Bon, ce poste vous conviendrait mieux. Quand pensez-vous ? On pourrait vous faire une période d'essai de deux mois ? Question 12. Selon le directeur, quel est le problème de la candidate ? Question 13. Que propose le directeur ? Question 14.",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 2.08,
+      "end": 2.48
+    },
+    {
+      "text": "Madame",
+      "start": 2.48,
+      "end": 2.74
+    },
+    {
+      "text": "Fernandez,",
+      "start": 2.74,
+      "end": 3.16
+    },
+    {
+      "text": "prenez",
+      "start": 3.36,
+      "end": 3.52
+    },
+    {
+      "text": "place",
+      "start": 3.52,
+      "end": 3.76
+    },
+    {
+      "text": "je",
+      "start": 3.76,
+      "end": 3.96
+    },
+    {
+      "text": "vous",
+      "start": 3.96,
+      "end": 4.08
+    },
+    {
+      "text": "prie.",
+      "start": 4.08,
+      "end": 4.28
+    },
+    {
+      "text": "Bonjour",
+      "start": 4.82,
+      "end": 5.16
+    },
+    {
+      "text": "Monsieur,",
+      "start": 5.16,
+      "end": 5.5
+    },
+    {
+      "text": "merci",
+      "start": 5.88,
+      "end": 6.08
+    },
+    {
+      "text": "de",
+      "start": 6.08,
+      "end": 6.28
+    },
+    {
+      "text": "me",
+      "start": 6.28,
+      "end": 6.38
+    },
+    {
+      "text": "recevoir.",
+      "start": 6.38,
+      "end": 6.84
+    },
+    {
+      "text": "Oh",
+      "start": 7.08,
+      "end": 7.26
+    },
+    {
+      "text": "mais",
+      "start": 7.26,
+      "end": 7.42
+    },
+    {
+      "text": "c",
+      "start": 7.42,
+      "end": 7.54
+    },
+    {
+      "text": "'est",
+      "start": 7.54,
+      "end": 7.56
+    },
+    {
+      "text": "bien",
+      "start": 7.56,
+      "end": 7.7
+    },
+    {
+      "text": "naturel,",
+      "start": 7.7,
+      "end": 8.22
+    },
+    {
+      "text": "votre",
+      "start": 8.58,
+      "end": 8.84
+    },
+    {
+      "text": "CV",
+      "start": 8.84,
+      "end": 9.14
+    },
+    {
+      "text": "est",
+      "start": 9.14,
+      "end": 9.38
+    },
+    {
+      "text": "impressionnant.",
+      "start": 9.38,
+      "end": 10.08
+    },
+    {
+      "text": "J",
+      "start": 10.46,
+      "end": 10.6
+    },
+    {
+      "text": "'avais",
+      "start": 10.6,
+      "end": 10.7
+    },
+    {
+      "text": "quelques",
+      "start": 10.7,
+      "end": 11.02
+    },
+    {
+      "text": "questions",
+      "start": 11.02,
+      "end": 11.56
+    },
+    {
+      "text": "à",
+      "start": 11.56,
+      "end": 11.74
+    },
+    {
+      "text": "vous",
+      "start": 11.74,
+      "end": 11.84
+    },
+    {
+      "text": "poser",
+      "start": 11.84,
+      "end": 12.12
+    },
+    {
+      "text": "concernant",
+      "start": 12.12,
+      "end": 12.72
+    },
+    {
+      "text": "la",
+      "start": 12.72,
+      "end": 12.9
+    },
+    {
+      "text": "lettre",
+      "start": 12.9,
+      "end": 13.2
+    },
+    {
+      "text": "de",
+      "start": 13.2,
+      "end": 13.38
+    },
+    {
+      "text": "motivation",
+      "start": 13.38,
+      "end": 13.9
+    },
+    {
+      "text": "et",
+      "start": 13.9,
+      "end": 14.12
+    },
+    {
+      "text": "le",
+      "start": 14.12,
+      "end": 14.26
+    },
+    {
+      "text": "CV",
+      "start": 14.26,
+      "end": 14.56
+    },
+    {
+      "text": "que",
+      "start": 14.56,
+      "end": 14.84
+    },
+    {
+      "text": "vous",
+      "start": 14.84,
+      "end": 15.0
+    },
+    {
+      "text": "nous",
+      "start": 15.0,
+      "end": 15.1
+    },
+    {
+      "text": "avez",
+      "start": 15.1,
+      "end": 15.34
+    },
+    {
+      "text": "envoyé.",
+      "start": 15.34,
+      "end": 15.8
+    },
+    {
+      "text": "Oui,",
+      "start": 16.16,
+      "end": 16.36
+    },
+    {
+      "text": "lorsque",
+      "start": 16.52,
+      "end": 16.66
+    },
+    {
+      "text": "j",
+      "start": 16.66,
+      "end": 16.9
+    },
+    {
+      "text": "'ai",
+      "start": 16.9,
+      "end": 16.96
+    },
+    {
+      "text": "vu",
+      "start": 16.96,
+      "end": 17.06
+    },
+    {
+      "text": "l",
+      "start": 17.06,
+      "end": 17.18
+    },
+    {
+      "text": "'annonce",
+      "start": 17.18,
+      "end": 17.44
+    },
+    {
+      "text": "pour",
+      "start": 17.44,
+      "end": 17.58
+    },
+    {
+      "text": "le",
+      "start": 17.58,
+      "end": 17.72
+    },
+    {
+      "text": "poste",
+      "start": 17.72,
+      "end": 18.04
+    },
+    {
+      "text": "dans",
+      "start": 18.04,
+      "end": 18.12
+    },
+    {
+      "text": "le",
+      "start": 18.12,
+      "end": 18.18
+    },
+    {
+      "text": "journal,",
+      "start": 18.18,
+      "end": 18.42
+    },
+    {
+      "text": "ni",
+      "start": 18.72,
+      "end": 18.84
+    },
+    {
+      "text": "une",
+      "start": 18.84,
+      "end": 18.98
+    },
+    {
+      "text": "ni",
+      "start": 18.98,
+      "end": 19.14
+    },
+    {
+      "text": "deux,",
+      "start": 19.14,
+      "end": 19.34
+    },
+    {
+      "text": "je",
+      "start": 19.46,
+      "end": 19.48
+    },
+    {
+      "text": "me",
+      "start": 19.48,
+      "end": 19.6
+    },
+    {
+      "text": "suis",
+      "start": 19.6,
+      "end": 19.76
+    },
+    {
+      "text": "dit",
+      "start": 19.76,
+      "end": 19.94
+    },
+    {
+      "text": "que",
+      "start": 19.94,
+      "end": 20.16
+    },
+    {
+      "text": "j",
+      "start": 20.16,
+      "end": 20.28
+    },
+    {
+      "text": "'avais",
+      "start": 20.28,
+      "end": 20.36
+    },
+    {
+      "text": "le",
+      "start": 20.36,
+      "end": 20.5
+    },
+    {
+      "text": "profil",
+      "start": 20.5,
+      "end": 20.9
+    },
+    {
+      "text": "idéal",
+      "start": 20.9,
+      "end": 21.42
+    },
+    {
+      "text": "pour",
+      "start": 21.42,
+      "end": 21.58
+    },
+    {
+      "text": "ce",
+      "start": 21.58,
+      "end": 21.74
+    },
+    {
+      "text": "travail.",
+      "start": 21.74,
+      "end": 22.12
+    },
+    {
+      "text": "Justement,",
+      "start": 22.5,
+      "end": 22.9
+    },
+    {
+      "text": "vous",
+      "start": 23.32,
+      "end": 23.56
+    },
+    {
+      "text": "souhaitez",
+      "start": 23.56,
+      "end": 23.86
+    },
+    {
+      "text": "travailler",
+      "start": 23.86,
+      "end": 24.24
+    },
+    {
+      "text": "comme",
+      "start": 24.24,
+      "end": 24.48
+    },
+    {
+      "text": "contrôleur",
+      "start": 24.48,
+      "end": 25.0
+    },
+    {
+      "text": "de",
+      "start": 25.0,
+      "end": 25.12
+    },
+    {
+      "text": "gestion",
+      "start": 25.12,
+      "end": 25.62
+    },
+    {
+      "text": "au",
+      "start": 25.62,
+      "end": 25.86
+    },
+    {
+      "text": "sein",
+      "start": 25.86,
+      "end": 25.92
+    },
+    {
+      "text": "de",
+      "start": 25.92,
+      "end": 26.1
+    },
+    {
+      "text": "notre",
+      "start": 26.1,
+      "end": 26.3
+    },
+    {
+      "text": "pôle",
+      "start": 26.3,
+      "end": 26.68
+    },
+    {
+      "text": "de",
+      "start": 26.68,
+      "end": 26.84
+    },
+    {
+      "text": "l",
+      "start": 26.84,
+      "end": 26.94
+    },
+    {
+      "text": "'administration",
+      "start": 26.94,
+      "end": 27.5
+    },
+    {
+      "text": "centrale",
+      "start": 27.5,
+      "end": 28.22
+    },
+    {
+      "text": "et",
+      "start": 28.22,
+      "end": 28.4
+    },
+    {
+      "text": "je",
+      "start": 28.4,
+      "end": 28.48
+    },
+    {
+      "text": "vois",
+      "start": 28.48,
+      "end": 28.6
+    },
+    {
+      "text": "que",
+      "start": 28.6,
+      "end": 28.68
+    },
+    {
+      "text": "votre",
+      "start": 28.68,
+      "end": 28.82
+    },
+    {
+      "text": "expérience",
+      "start": 28.82,
+      "end": 29.36
+    },
+    {
+      "text": "acquise",
+      "start": 29.36,
+      "end": 29.86
+    },
+    {
+      "text": "en",
+      "start": 29.86,
+      "end": 30.0
+    },
+    {
+      "text": "cabinet",
+      "start": 30.0,
+      "end": 30.28
+    },
+    {
+      "text": "d",
+      "start": 30.28,
+      "end": 30.58
+    },
+    {
+      "text": "'audite",
+      "start": 30.58,
+      "end": 30.78
+    },
+    {
+      "text": "est",
+      "start": 30.78,
+      "end": 31.02
+    },
+    {
+      "text": "plutôt",
+      "start": 31.02,
+      "end": 31.3
+    },
+    {
+      "text": "grande.",
+      "start": 31.3,
+      "end": 31.74
+    },
+    {
+      "text": "Vous",
+      "start": 32.22,
+      "end": 32.32
+    },
+    {
+      "text": "avez",
+      "start": 32.32,
+      "end": 32.52
+    },
+    {
+      "text": "travaillé",
+      "start": 32.52,
+      "end": 32.98
+    },
+    {
+      "text": "chez",
+      "start": 32.98,
+      "end": 33.18
+    },
+    {
+      "text": "les",
+      "start": 33.18,
+      "end": 33.32
+    },
+    {
+      "text": "plus",
+      "start": 33.32,
+      "end": 33.54
+    },
+    {
+      "text": "grands.",
+      "start": 33.54,
+      "end": 33.76
+    },
+    {
+      "text": "Félicitations.",
+      "start": 34.22,
+      "end": 34.62
+    },
+    {
+      "text": "Merci",
+      "start": 34.92,
+      "end": 35.22
+    },
+    {
+      "text": "Monsieur,",
+      "start": 35.22,
+      "end": 35.58
+    },
+    {
+      "text": "j",
+      "start": 35.78,
+      "end": 35.8
+    },
+    {
+      "text": "'ai",
+      "start": 35.8,
+      "end": 35.86
+    },
+    {
+      "text": "en",
+      "start": 35.86,
+      "end": 35.96
+    },
+    {
+      "text": "effet,",
+      "start": 35.96,
+      "end": 36.26
+    },
+    {
+      "text": "je",
+      "start": 36.38,
+      "end": 36.48
+    },
+    {
+      "text": "peux",
+      "start": 36.48,
+      "end": 36.62
+    },
+    {
+      "text": "le",
+      "start": 36.62,
+      "end": 36.76
+    },
+    {
+      "text": "dire,",
+      "start": 36.76,
+      "end": 36.96
+    },
+    {
+      "text": "un",
+      "start": 37.16,
+      "end": 37.28
+    },
+    {
+      "text": "bon",
+      "start": 37.28,
+      "end": 37.42
+    },
+    {
+      "text": "bagage",
+      "start": 37.42,
+      "end": 37.78
+    },
+    {
+      "text": "de",
+      "start": 37.78,
+      "end": 37.92
+    },
+    {
+      "text": "ce",
+      "start": 37.92,
+      "end": 38.02
+    },
+    {
+      "text": "côté",
+      "start": 38.02,
+      "end": 38.22
+    },
+    {
+      "text": "là.",
+      "start": 38.22,
+      "end": 38.4
+    },
+    {
+      "text": "Et",
+      "start": 38.46,
+      "end": 38.54
+    },
+    {
+      "text": "c",
+      "start": 38.54,
+      "end": 38.62
+    },
+    {
+      "text": "'est",
+      "start": 38.62,
+      "end": 38.66
+    },
+    {
+      "text": "justement",
+      "start": 38.66,
+      "end": 39.14
+    },
+    {
+      "text": "tout",
+      "start": 39.14,
+      "end": 39.64
+    },
+    {
+      "text": "cela",
+      "start": 39.64,
+      "end": 39.96
+    },
+    {
+      "text": "qui",
+      "start": 39.96,
+      "end": 40.14
+    },
+    {
+      "text": "me",
+      "start": 40.14,
+      "end": 40.28
+    },
+    {
+      "text": "chiffonne",
+      "start": 40.28,
+      "end": 40.74
+    },
+    {
+      "text": "un",
+      "start": 40.74,
+      "end": 40.94
+    },
+    {
+      "text": "peu.",
+      "start": 40.94,
+      "end": 41.06
+    },
+    {
+      "text": "Vous",
+      "start": 41.42,
+      "end": 41.52
+    },
+    {
+      "text": "voyez,",
+      "start": 41.52,
+      "end": 41.72
+    },
+    {
+      "text": "votre",
+      "start": 42.04,
+      "end": 42.18
+    },
+    {
+      "text": "CV",
+      "start": 42.18,
+      "end": 42.48
+    },
+    {
+      "text": "est",
+      "start": 42.48,
+      "end": 42.66
+    },
+    {
+      "text": "impeccable.",
+      "start": 42.66,
+      "end": 43.1
+    },
+    {
+      "text": "Vos",
+      "start": 43.48,
+      "end": 43.62
+    },
+    {
+      "text": "expériences",
+      "start": 43.62,
+      "end": 44.2
+    },
+    {
+      "text": "excellentes",
+      "start": 44.2,
+      "end": 44.98
+    },
+    {
+      "text": "et",
+      "start": 44.98,
+      "end": 45.14
+    },
+    {
+      "text": "vous",
+      "start": 45.14,
+      "end": 45.26
+    },
+    {
+      "text": "postulez",
+      "start": 45.26,
+      "end": 45.76
+    },
+    {
+      "text": "sur",
+      "start": 45.76,
+      "end": 45.9
+    },
+    {
+      "text": "un",
+      "start": 45.9,
+      "end": 46.02
+    },
+    {
+      "text": "profil",
+      "start": 46.02,
+      "end": 46.68
+    },
+    {
+      "text": "qui",
+      "start": 46.68,
+      "end": 46.94
+    },
+    {
+      "text": "conviendrait",
+      "start": 46.94,
+      "end": 47.66
+    },
+    {
+      "text": "bien",
+      "start": 47.66,
+      "end": 48.0
+    },
+    {
+      "text": "mieux",
+      "start": 48.0,
+      "end": 48.36
+    },
+    {
+      "text": "à",
+      "start": 48.36,
+      "end": 48.54
+    },
+    {
+      "text": "quelqu",
+      "start": 48.54,
+      "end": 48.72
+    },
+    {
+      "text": "'un",
+      "start": 48.72,
+      "end": 49.22
+    },
+    {
+      "text": "avec",
+      "start": 49.22,
+      "end": 49.42
+    },
+    {
+      "text": "un",
+      "start": 49.42,
+      "end": 49.8
+    },
+    {
+      "text": "peu",
+      "start": 49.8,
+      "end": 49.98
+    },
+    {
+      "text": "moins",
+      "start": 49.98,
+      "end": 50.18
+    },
+    {
+      "text": "d",
+      "start": 50.18,
+      "end": 50.3
+    },
+    {
+      "text": "'expérience",
+      "start": 50.3,
+      "end": 50.7
+    },
+    {
+      "text": "que",
+      "start": 50.7,
+      "end": 50.94
+    },
+    {
+      "text": "vous.",
+      "start": 50.94,
+      "end": 51.12
+    },
+    {
+      "text": "Qu",
+      "start": 51.62,
+      "end": 51.74
+    },
+    {
+      "text": "'est",
+      "start": 51.74,
+      "end": 51.78
+    },
+    {
+      "text": "-ce",
+      "start": 51.78,
+      "end": 51.84
+    },
+    {
+      "text": "qui",
+      "start": 51.84,
+      "end": 51.96
+    },
+    {
+      "text": "vous",
+      "start": 51.96,
+      "end": 52.08
+    },
+    {
+      "text": "a",
+      "start": 52.08,
+      "end": 52.24
+    },
+    {
+      "text": "tant",
+      "start": 52.24,
+      "end": 52.46
+    },
+    {
+      "text": "intéressé",
+      "start": 52.46,
+      "end": 53.06
+    },
+    {
+      "text": "dans",
+      "start": 53.06,
+      "end": 53.2
+    },
+    {
+      "text": "cette",
+      "start": 53.2,
+      "end": 53.38
+    },
+    {
+      "text": "fiche",
+      "start": 53.38,
+      "end": 53.58
+    },
+    {
+      "text": "de",
+      "start": 53.58,
+      "end": 53.76
+    },
+    {
+      "text": "poste",
+      "start": 53.76,
+      "end": 54.2
+    },
+    {
+      "text": "?",
+      "start": 54.2,
+      "end": 54.26
+    },
+    {
+      "text": "Vous",
+      "start": 54.26,
+      "end": 54.38
+    },
+    {
+      "text": "savez",
+      "start": 54.38,
+      "end": 54.6
+    },
+    {
+      "text": "comme",
+      "start": 54.6,
+      "end": 54.8
+    },
+    {
+      "text": "moi,",
+      "start": 54.8,
+      "end": 55.04
+    },
+    {
+      "text": "Monsieur",
+      "start": 55.14,
+      "end": 55.3
+    },
+    {
+      "text": "Dufran,",
+      "start": 55.3,
+      "end": 55.74
+    },
+    {
+      "text": "que",
+      "start": 55.88,
+      "end": 55.94
+    },
+    {
+      "text": "le",
+      "start": 55.94,
+      "end": 56.02
+    },
+    {
+      "text": "marché",
+      "start": 56.02,
+      "end": 56.22
+    },
+    {
+      "text": "du",
+      "start": 56.22,
+      "end": 56.36
+    },
+    {
+      "text": "travail",
+      "start": 56.36,
+      "end": 56.74
+    },
+    {
+      "text": "est",
+      "start": 56.74,
+      "end": 57.0
+    },
+    {
+      "text": "ce",
+      "start": 57.0,
+      "end": 57.12
+    },
+    {
+      "text": "qu",
+      "start": 57.12,
+      "end": 57.2
+    },
+    {
+      "text": "'il",
+      "start": 57.2,
+      "end": 57.28
+    },
+    {
+      "text": "est",
+      "start": 57.28,
+      "end": 57.46
+    },
+    {
+      "text": "et",
+      "start": 57.46,
+      "end": 57.66
+    },
+    {
+      "text": "que",
+      "start": 57.66,
+      "end": 57.78
+    },
+    {
+      "text": "les",
+      "start": 57.78,
+      "end": 57.88
+    },
+    {
+      "text": "places",
+      "start": 57.88,
+      "end": 58.04
+    },
+    {
+      "text": "sont",
+      "start": 58.04,
+      "end": 58.26
+    },
+    {
+      "text": "chères.",
+      "start": 58.26,
+      "end": 58.6
+    },
+    {
+      "text": "Alors",
+      "start": 58.72,
+      "end": 58.86
+    },
+    {
+      "text": "une",
+      "start": 58.86,
+      "end": 59.08
+    },
+    {
+      "text": "place",
+      "start": 59.08,
+      "end": 59.28
+    },
+    {
+      "text": "de",
+      "start": 59.28,
+      "end": 59.44
+    },
+    {
+      "text": "contrôleur",
+      "start": 59.44,
+      "end": 59.96
+    },
+    {
+      "text": "de",
+      "start": 59.96,
+      "end": 60.04
+    },
+    {
+      "text": "gestion,",
+      "start": 60.04,
+      "end": 60.48
+    },
+    {
+      "text": "vous",
+      "start": 60.6,
+      "end": 60.64
+    },
+    {
+      "text": "pensez",
+      "start": 60.64,
+      "end": 61.12
+    },
+    {
+      "text": "?",
+      "start": 61.12,
+      "end": 61.22
+    },
+    {
+      "text": "Oui,",
+      "start": 61.22,
+      "end": 61.36
+    },
+    {
+      "text": "je",
+      "start": 61.48,
+      "end": 61.5
+    },
+    {
+      "text": "vois,",
+      "start": 61.5,
+      "end": 61.7
+    },
+    {
+      "text": "je",
+      "start": 61.82,
+      "end": 61.9
+    },
+    {
+      "text": "vois.",
+      "start": 61.9,
+      "end": 62.08
+    },
+    {
+      "text": "En",
+      "start": 62.5,
+      "end": 62.6
+    },
+    {
+      "text": "fait,",
+      "start": 62.6,
+      "end": 62.76
+    },
+    {
+      "text": "je",
+      "start": 63.12,
+      "end": 63.28
+    },
+    {
+      "text": "pense",
+      "start": 63.28,
+      "end": 63.48
+    },
+    {
+      "text": "que",
+      "start": 63.48,
+      "end": 63.7
+    },
+    {
+      "text": "nous",
+      "start": 63.7,
+      "end": 63.8
+    },
+    {
+      "text": "pourrions",
+      "start": 63.8,
+      "end": 64.08
+    },
+    {
+      "text": "faire",
+      "start": 64.08,
+      "end": 64.32
+    },
+    {
+      "text": "affaire",
+      "start": 64.32,
+      "end": 64.7
+    },
+    {
+      "text": "ensemble,",
+      "start": 64.7,
+      "end": 65.18
+    },
+    {
+      "text": "mais",
+      "start": 65.42,
+      "end": 65.62
+    },
+    {
+      "text": "pas",
+      "start": 65.62,
+      "end": 66.24
+    },
+    {
+      "text": "pour",
+      "start": 66.24,
+      "end": 66.46
+    },
+    {
+      "text": "ce",
+      "start": 66.46,
+      "end": 66.64
+    },
+    {
+      "text": "poste",
+      "start": 66.64,
+      "end": 66.94
+    },
+    {
+      "text": "particulier.",
+      "start": 66.94,
+      "end": 67.5
+    },
+    {
+      "text": "Je",
+      "start": 67.84,
+      "end": 67.94
+    },
+    {
+      "text": "recherche",
+      "start": 67.94,
+      "end": 68.2
+    },
+    {
+      "text": "aussi",
+      "start": 68.2,
+      "end": 68.42
+    },
+    {
+      "text": "le",
+      "start": 68.42,
+      "end": 68.56
+    },
+    {
+      "text": "responsable",
+      "start": 68.56,
+      "end": 69.18
+    },
+    {
+      "text": "du",
+      "start": 69.18,
+      "end": 69.42
+    },
+    {
+      "text": "pôle",
+      "start": 69.42,
+      "end": 69.64
+    },
+    {
+      "text": "de",
+      "start": 69.64,
+      "end": 69.8
+    },
+    {
+      "text": "l",
+      "start": 69.8,
+      "end": 69.92
+    },
+    {
+      "text": "'administration",
+      "start": 69.92,
+      "end": 70.48
+    },
+    {
+      "text": "centrale",
+      "start": 70.48,
+      "end": 71.34
+    },
+    {
+      "text": "qui",
+      "start": 71.34,
+      "end": 71.58
+    },
+    {
+      "text": "vient",
+      "start": 71.58,
+      "end": 71.76
+    },
+    {
+      "text": "de",
+      "start": 71.76,
+      "end": 71.9
+    },
+    {
+      "text": "nous",
+      "start": 71.9,
+      "end": 72.02
+    },
+    {
+      "text": "abandonner",
+      "start": 72.02,
+      "end": 72.52
+    },
+    {
+      "text": "pour",
+      "start": 72.52,
+      "end": 72.72
+    },
+    {
+      "text": "aller",
+      "start": 72.72,
+      "end": 72.88
+    },
+    {
+      "text": "à",
+      "start": 72.88,
+      "end": 72.98
+    },
+    {
+      "text": "la",
+      "start": 72.98,
+      "end": 73.06
+    },
+    {
+      "text": "concurrence.",
+      "start": 73.06,
+      "end": 73.64
+    },
+    {
+      "text": "Tant",
+      "start": 73.88,
+      "end": 74.04
+    },
+    {
+      "text": "plus",
+      "start": 74.04,
+      "end": 74.16
+    },
+    {
+      "text": "pour",
+      "start": 74.16,
+      "end": 74.32
+    },
+    {
+      "text": "lui.",
+      "start": 74.32,
+      "end": 74.46
+    },
+    {
+      "text": "Sa",
+      "start": 74.96,
+      "end": 75.06
+    },
+    {
+      "text": "motivation",
+      "start": 75.06,
+      "end": 75.42
+    },
+    {
+      "text": "devait",
+      "start": 75.42,
+      "end": 75.86
+    },
+    {
+      "text": "être",
+      "start": 75.86,
+      "end": 76.06
+    },
+    {
+      "text": "bien",
+      "start": 76.06,
+      "end": 76.36
+    },
+    {
+      "text": "faible",
+      "start": 76.36,
+      "end": 76.72
+    },
+    {
+      "text": "pour",
+      "start": 76.72,
+      "end": 76.96
+    },
+    {
+      "text": "continuer",
+      "start": 76.96,
+      "end": 77.3
+    },
+    {
+      "text": "avec",
+      "start": 77.3,
+      "end": 77.54
+    },
+    {
+      "text": "nous.",
+      "start": 77.54,
+      "end": 77.76
+    },
+    {
+      "text": "Bon,",
+      "start": 78.24,
+      "end": 78.32
+    },
+    {
+      "text": "ce",
+      "start": 78.72,
+      "end": 78.82
+    },
+    {
+      "text": "poste",
+      "start": 78.82,
+      "end": 79.22
+    },
+    {
+      "text": "vous",
+      "start": 79.22,
+      "end": 79.34
+    },
+    {
+      "text": "conviendrait",
+      "start": 79.34,
+      "end": 79.76
+    },
+    {
+      "text": "mieux.",
+      "start": 79.76,
+      "end": 79.98
+    },
+    {
+      "text": "Quand",
+      "start": 79.98,
+      "end": 80.6
+    },
+    {
+      "text": "pensez",
+      "start": 80.6,
+      "end": 80.94
+    },
+    {
+      "text": "-vous",
+      "start": 80.94,
+      "end": 81.08
+    },
+    {
+      "text": "?",
+      "start": 81.08,
+      "end": 81.4
+    },
+    {
+      "text": "On",
+      "start": 81.4,
+      "end": 81.44
+    },
+    {
+      "text": "pourrait",
+      "start": 81.44,
+      "end": 81.82
+    },
+    {
+      "text": "vous",
+      "start": 81.82,
+      "end": 82.58
+    },
+    {
+      "text": "faire",
+      "start": 82.58,
+      "end": 82.74
+    },
+    {
+      "text": "une",
+      "start": 82.74,
+      "end": 82.88
+    },
+    {
+      "text": "période",
+      "start": 82.88,
+      "end": 83.12
+    },
+    {
+      "text": "d",
+      "start": 83.12,
+      "end": 83.32
+    },
+    {
+      "text": "'essai",
+      "start": 83.32,
+      "end": 83.6
+    },
+    {
+      "text": "de",
+      "start": 83.6,
+      "end": 83.86
+    },
+    {
+      "text": "deux",
+      "start": 83.86,
+      "end": 84.3
+    },
+    {
+      "text": "mois",
+      "start": 84.3,
+      "end": 84.44
+    },
+    {
+      "text": "?",
+      "start": 84.44,
+      "end": 84.76
+    },
+    {
+      "text": "Question",
+      "start": 86.54,
+      "end": 87.18
+    },
+    {
+      "text": "12.",
+      "start": 87.18,
+      "end": 87.68
+    },
+    {
+      "text": "Selon",
+      "start": 88.44,
+      "end": 89.08
+    },
+    {
+      "text": "le",
+      "start": 89.08,
+      "end": 89.22
+    },
+    {
+      "text": "directeur,",
+      "start": 89.22,
+      "end": 90.02
+    },
+    {
+      "text": "quel",
+      "start": 90.36,
+      "end": 90.48
+    },
+    {
+      "text": "est",
+      "start": 90.48,
+      "end": 90.6
+    },
+    {
+      "text": "le",
+      "start": 90.6,
+      "end": 90.78
+    },
+    {
+      "text": "problème",
+      "start": 90.78,
+      "end": 91.1
+    },
+    {
+      "text": "de",
+      "start": 91.1,
+      "end": 91.34
+    },
+    {
+      "text": "la",
+      "start": 91.34,
+      "end": 91.46
+    },
+    {
+      "text": "candidate",
+      "start": 91.46,
+      "end": 91.9
+    },
+    {
+      "text": "?",
+      "start": 91.9,
+      "end": 92.3
+    },
+    {
+      "text": "Question",
+      "start": 107.46,
+      "end": 108.86
+    },
+    {
+      "text": "13.",
+      "start": 108.86,
+      "end": 109.64
+    },
+    {
+      "text": "Que",
+      "start": 110.54,
+      "end": 110.98
+    },
+    {
+      "text": "propose",
+      "start": 110.98,
+      "end": 111.38
+    },
+    {
+      "text": "le",
+      "start": 111.38,
+      "end": 111.72
+    },
+    {
+      "text": "directeur",
+      "start": 111.72,
+      "end": 112.56
+    },
+    {
+      "text": "?",
+      "start": 112.56,
+      "end": 114.22
+    },
+    {
+      "text": "Question",
+      "start": 127.32,
+      "end": 128.72
+    },
+    {
+      "text": "14.",
+      "start": 128.72,
+      "end": 128.72
+    }
+  ]
+}

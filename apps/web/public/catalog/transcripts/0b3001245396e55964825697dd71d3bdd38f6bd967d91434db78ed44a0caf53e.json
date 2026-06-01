@@ -1,0 +1,205 @@
+{
+  "text": "Question 2. Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour, je suis Chloé. Et vous ? A. J'ai 25 ans. B. J'étudie l'économie. C. J'habite à Bordeaux. D. Je m'appelle Thomas.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "2.",
+      "start": 0.58,
+      "end": 1.14
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.82,
+      "end": 2.54
+    },
+    {
+      "text": "le",
+      "start": 2.54,
+      "end": 2.74
+    },
+    {
+      "text": "document",
+      "start": 2.74,
+      "end": 3.12
+    },
+    {
+      "text": "sonore",
+      "start": 3.12,
+      "end": 3.72
+    },
+    {
+      "text": "et",
+      "start": 3.72,
+      "end": 3.96
+    },
+    {
+      "text": "la",
+      "start": 3.96,
+      "end": 4.1
+    },
+    {
+      "text": "question.",
+      "start": 4.1,
+      "end": 4.46
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.1,
+      "end": 5.58
+    },
+    {
+      "text": "la",
+      "start": 5.58,
+      "end": 5.78
+    },
+    {
+      "text": "bonne",
+      "start": 5.78,
+      "end": 5.96
+    },
+    {
+      "text": "réponse.",
+      "start": 5.96,
+      "end": 6.3
+    },
+    {
+      "text": "Bonjour,",
+      "start": 8.0,
+      "end": 8.76
+    },
+    {
+      "text": "je",
+      "start": 9.24,
+      "end": 9.36
+    },
+    {
+      "text": "suis",
+      "start": 9.36,
+      "end": 9.54
+    },
+    {
+      "text": "Chloé.",
+      "start": 9.54,
+      "end": 9.94
+    },
+    {
+      "text": "Et",
+      "start": 10.36,
+      "end": 10.5
+    },
+    {
+      "text": "vous",
+      "start": 10.5,
+      "end": 10.68
+    },
+    {
+      "text": "?",
+      "start": 10.68,
+      "end": 12.18
+    },
+    {
+      "text": "A.",
+      "start": 12.18,
+      "end": 12.6
+    },
+    {
+      "text": "J",
+      "start": 13.18,
+      "end": 13.4
+    },
+    {
+      "text": "'ai",
+      "start": 13.4,
+      "end": 13.46
+    },
+    {
+      "text": "25",
+      "start": 13.46,
+      "end": 13.74
+    },
+    {
+      "text": "ans.",
+      "start": 13.74,
+      "end": 14.04
+    },
+    {
+      "text": "B.",
+      "start": 15.6,
+      "end": 16.0
+    },
+    {
+      "text": "J",
+      "start": 16.64,
+      "end": 16.8
+    },
+    {
+      "text": "'étudie",
+      "start": 16.8,
+      "end": 17.1
+    },
+    {
+      "text": "l",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "text": "'économie.",
+      "start": 17.22,
+      "end": 17.72
+    },
+    {
+      "text": "C.",
+      "start": 18.78,
+      "end": 19.54
+    },
+    {
+      "text": "J",
+      "start": 20.24,
+      "end": 20.44
+    },
+    {
+      "text": "'habite",
+      "start": 20.44,
+      "end": 20.6
+    },
+    {
+      "text": "à",
+      "start": 20.6,
+      "end": 20.74
+    },
+    {
+      "text": "Bordeaux.",
+      "start": 20.74,
+      "end": 21.06
+    },
+    {
+      "text": "D.",
+      "start": 22.16,
+      "end": 22.9
+    },
+    {
+      "text": "Je",
+      "start": 23.64,
+      "end": 23.86
+    },
+    {
+      "text": "m",
+      "start": 23.86,
+      "end": 23.98
+    },
+    {
+      "text": "'appelle",
+      "start": 23.98,
+      "end": 24.16
+    },
+    {
+      "text": "Thomas.",
+      "start": 24.16,
+      "end": 24.42
+    }
+  ]
+}

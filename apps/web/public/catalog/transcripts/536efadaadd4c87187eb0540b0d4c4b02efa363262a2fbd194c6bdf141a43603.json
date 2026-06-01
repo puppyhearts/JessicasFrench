@@ -1,0 +1,70 @@
+{
+  "text": "SITUATION 5 Comment avez-vous trouvé votre studio ? Parles les petites annonces.",
+  "words": [
+    {
+      "text": "SITUATION",
+      "start": 1.92,
+      "end": 2.72
+    },
+    {
+      "text": "5",
+      "start": 2.72,
+      "end": 3.44
+    },
+    {
+      "text": "Comment",
+      "start": 4.94,
+      "end": 5.74
+    },
+    {
+      "text": "avez",
+      "start": 5.74,
+      "end": 6.04
+    },
+    {
+      "text": "-vous",
+      "start": 6.04,
+      "end": 6.18
+    },
+    {
+      "text": "trouvé",
+      "start": 6.18,
+      "end": 6.4
+    },
+    {
+      "text": "votre",
+      "start": 6.4,
+      "end": 6.62
+    },
+    {
+      "text": "studio",
+      "start": 6.62,
+      "end": 7.08
+    },
+    {
+      "text": "?",
+      "start": 7.08,
+      "end": 7.66
+    },
+    {
+      "text": "Parles",
+      "start": 7.66,
+      "end": 7.86
+    },
+    {
+      "text": "les",
+      "start": 7.86,
+      "end": 8.14
+    },
+    {
+      "text": "petites",
+      "start": 8.14,
+      "end": 8.14
+    },
+    {
+      "text": "annonces.",
+      "start": 8.14,
+      "end": 8.56
+    }
+  ]
+}

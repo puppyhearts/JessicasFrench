@@ -1,0 +1,750 @@
+{
+  "text": "Question 30. Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors, en fait, nous explique Jean-François Matéhi. L'indignation, c'est une réaction émotionnelle qui marche par contagion et qui empêche de penser, qui empêche de juger. Et il prend pour exemple Jean-Paul Sartre, qui s'indigne à billes en cours et ne s'indigne pas du goulag. Or, ce qui est embêtant, c'est que l'indignation, c'est un moyen souvent utilisé pour manipuler les foules. On cherche une juste cause, on vole au secours du petit et au nom de ça, on se soumet à n'importe quelle théorie absurde, nullement autant que l'homme indigné disait Nietzsche. Donc, si vous voulez réfléchir à l'indignation, Marie-Odile Monchicourt, n'hésitez pas, lisez l'indignation de Jean-François Matéhi. Comment l'auteur, Jean-François Matéhi, envisage-t-il l'indignation ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "text": "30.",
+      "start": 0.54,
+      "end": 1.46
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.58,
+      "end": 3.1
+    },
+    {
+      "text": "le",
+      "start": 3.1,
+      "end": 3.28
+    },
+    {
+      "text": "document",
+      "start": 3.28,
+      "end": 3.64
+    },
+    {
+      "text": "sonore",
+      "start": 3.64,
+      "end": 4.22
+    },
+    {
+      "text": "et",
+      "start": 4.22,
+      "end": 4.54
+    },
+    {
+      "text": "la",
+      "start": 4.54,
+      "end": 4.68
+    },
+    {
+      "text": "question.",
+      "start": 4.68,
+      "end": 5.04
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.82,
+      "end": 6.34
+    },
+    {
+      "text": "la",
+      "start": 6.34,
+      "end": 6.56
+    },
+    {
+      "text": "bonne",
+      "start": 6.56,
+      "end": 6.74
+    },
+    {
+      "text": "réponse.",
+      "start": 6.74,
+      "end": 7.1
+    },
+    {
+      "text": "Alors,",
+      "start": 8.32,
+      "end": 9.04
+    },
+    {
+      "text": "en",
+      "start": 9.42,
+      "end": 9.62
+    },
+    {
+      "text": "fait,",
+      "start": 9.62,
+      "end": 9.82
+    },
+    {
+      "text": "nous",
+      "start": 9.92,
+      "end": 9.96
+    },
+    {
+      "text": "explique",
+      "start": 9.96,
+      "end": 10.44
+    },
+    {
+      "text": "Jean",
+      "start": 10.44,
+      "end": 10.66
+    },
+    {
+      "text": "-François",
+      "start": 10.66,
+      "end": 11.06
+    },
+    {
+      "text": "Matéhi.",
+      "start": 11.06,
+      "end": 11.54
+    },
+    {
+      "text": "L",
+      "start": 11.9,
+      "end": 12.0
+    },
+    {
+      "text": "'indignation,",
+      "start": 12.0,
+      "end": 12.58
+    },
+    {
+      "text": "c",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "text": "'est",
+      "start": 13.16,
+      "end": 13.24
+    },
+    {
+      "text": "une",
+      "start": 13.24,
+      "end": 13.4
+    },
+    {
+      "text": "réaction",
+      "start": 13.4,
+      "end": 13.92
+    },
+    {
+      "text": "émotionnelle",
+      "start": 13.92,
+      "end": 14.84
+    },
+    {
+      "text": "qui",
+      "start": 14.84,
+      "end": 15.1
+    },
+    {
+      "text": "marche",
+      "start": 15.1,
+      "end": 15.42
+    },
+    {
+      "text": "par",
+      "start": 15.42,
+      "end": 15.76
+    },
+    {
+      "text": "contagion",
+      "start": 15.76,
+      "end": 16.62
+    },
+    {
+      "text": "et",
+      "start": 16.62,
+      "end": 17.34
+    },
+    {
+      "text": "qui",
+      "start": 17.34,
+      "end": 17.48
+    },
+    {
+      "text": "empêche",
+      "start": 17.48,
+      "end": 17.98
+    },
+    {
+      "text": "de",
+      "start": 17.98,
+      "end": 18.22
+    },
+    {
+      "text": "penser,",
+      "start": 18.22,
+      "end": 18.66
+    },
+    {
+      "text": "qui",
+      "start": 18.8,
+      "end": 18.94
+    },
+    {
+      "text": "empêche",
+      "start": 18.94,
+      "end": 19.4
+    },
+    {
+      "text": "de",
+      "start": 19.4,
+      "end": 19.66
+    },
+    {
+      "text": "juger.",
+      "start": 19.66,
+      "end": 20.32
+    },
+    {
+      "text": "Et",
+      "start": 20.74,
+      "end": 20.84
+    },
+    {
+      "text": "il",
+      "start": 20.84,
+      "end": 20.94
+    },
+    {
+      "text": "prend",
+      "start": 20.94,
+      "end": 21.12
+    },
+    {
+      "text": "pour",
+      "start": 21.12,
+      "end": 21.3
+    },
+    {
+      "text": "exemple",
+      "start": 21.3,
+      "end": 21.78
+    },
+    {
+      "text": "Jean",
+      "start": 21.78,
+      "end": 22.36
+    },
+    {
+      "text": "-Paul",
+      "start": 22.36,
+      "end": 22.56
+    },
+    {
+      "text": "Sartre,",
+      "start": 22.56,
+      "end": 23.12
+    },
+    {
+      "text": "qui",
+      "start": 23.52,
+      "end": 23.62
+    },
+    {
+      "text": "s",
+      "start": 23.62,
+      "end": 23.98
+    },
+    {
+      "text": "'indigne",
+      "start": 23.98,
+      "end": 24.44
+    },
+    {
+      "text": "à",
+      "start": 24.44,
+      "end": 24.92
+    },
+    {
+      "text": "billes",
+      "start": 24.92,
+      "end": 25.14
+    },
+    {
+      "text": "en",
+      "start": 25.14,
+      "end": 25.28
+    },
+    {
+      "text": "cours",
+      "start": 25.28,
+      "end": 25.64
+    },
+    {
+      "text": "et",
+      "start": 25.64,
+      "end": 26.02
+    },
+    {
+      "text": "ne",
+      "start": 26.02,
+      "end": 26.14
+    },
+    {
+      "text": "s",
+      "start": 26.14,
+      "end": 26.32
+    },
+    {
+      "text": "'indigne",
+      "start": 26.32,
+      "end": 26.58
+    },
+    {
+      "text": "pas",
+      "start": 26.58,
+      "end": 26.96
+    },
+    {
+      "text": "du",
+      "start": 26.96,
+      "end": 27.56
+    },
+    {
+      "text": "goulag.",
+      "start": 27.56,
+      "end": 28.02
+    },
+    {
+      "text": "Or,",
+      "start": 28.02,
+      "end": 29.04
+    },
+    {
+      "text": "ce",
+      "start": 29.24,
+      "end": 29.36
+    },
+    {
+      "text": "qui",
+      "start": 29.36,
+      "end": 29.48
+    },
+    {
+      "text": "est",
+      "start": 29.48,
+      "end": 29.58
+    },
+    {
+      "text": "embêtant,",
+      "start": 29.58,
+      "end": 30.04
+    },
+    {
+      "text": "c",
+      "start": 30.12,
+      "end": 30.2
+    },
+    {
+      "text": "'est",
+      "start": 30.2,
+      "end": 30.24
+    },
+    {
+      "text": "que",
+      "start": 30.24,
+      "end": 30.32
+    },
+    {
+      "text": "l",
+      "start": 30.32,
+      "end": 30.44
+    },
+    {
+      "text": "'indignation,",
+      "start": 30.44,
+      "end": 31.04
+    },
+    {
+      "text": "c",
+      "start": 31.14,
+      "end": 31.26
+    },
+    {
+      "text": "'est",
+      "start": 31.26,
+      "end": 31.3
+    },
+    {
+      "text": "un",
+      "start": 31.3,
+      "end": 31.44
+    },
+    {
+      "text": "moyen",
+      "start": 31.44,
+      "end": 31.66
+    },
+    {
+      "text": "souvent",
+      "start": 31.66,
+      "end": 32.12
+    },
+    {
+      "text": "utilisé",
+      "start": 32.12,
+      "end": 33.0
+    },
+    {
+      "text": "pour",
+      "start": 33.0,
+      "end": 33.52
+    },
+    {
+      "text": "manipuler",
+      "start": 33.52,
+      "end": 34.1
+    },
+    {
+      "text": "les",
+      "start": 34.1,
+      "end": 34.3
+    },
+    {
+      "text": "foules.",
+      "start": 34.3,
+      "end": 34.8
+    },
+    {
+      "text": "On",
+      "start": 35.44,
+      "end": 36.0
+    },
+    {
+      "text": "cherche",
+      "start": 36.0,
+      "end": 36.54
+    },
+    {
+      "text": "une",
+      "start": 36.54,
+      "end": 36.78
+    },
+    {
+      "text": "juste",
+      "start": 36.78,
+      "end": 37.08
+    },
+    {
+      "text": "cause,",
+      "start": 37.08,
+      "end": 37.56
+    },
+    {
+      "text": "on",
+      "start": 38.04,
+      "end": 38.12
+    },
+    {
+      "text": "vole",
+      "start": 38.12,
+      "end": 38.5
+    },
+    {
+      "text": "au",
+      "start": 38.5,
+      "end": 38.74
+    },
+    {
+      "text": "secours",
+      "start": 38.74,
+      "end": 39.24
+    },
+    {
+      "text": "du",
+      "start": 39.24,
+      "end": 39.44
+    },
+    {
+      "text": "petit",
+      "start": 39.44,
+      "end": 39.78
+    },
+    {
+      "text": "et",
+      "start": 39.78,
+      "end": 40.58
+    },
+    {
+      "text": "au",
+      "start": 40.58,
+      "end": 41.1
+    },
+    {
+      "text": "nom",
+      "start": 41.1,
+      "end": 41.26
+    },
+    {
+      "text": "de",
+      "start": 41.26,
+      "end": 41.42
+    },
+    {
+      "text": "ça,",
+      "start": 41.42,
+      "end": 41.7
+    },
+    {
+      "text": "on",
+      "start": 42.06,
+      "end": 42.12
+    },
+    {
+      "text": "se",
+      "start": 42.12,
+      "end": 42.34
+    },
+    {
+      "text": "soumet",
+      "start": 42.34,
+      "end": 42.84
+    },
+    {
+      "text": "à",
+      "start": 42.84,
+      "end": 43.3
+    },
+    {
+      "text": "n",
+      "start": 43.3,
+      "end": 43.46
+    },
+    {
+      "text": "'importe",
+      "start": 43.46,
+      "end": 43.66
+    },
+    {
+      "text": "quelle",
+      "start": 43.66,
+      "end": 44.12
+    },
+    {
+      "text": "théorie",
+      "start": 44.12,
+      "end": 44.68
+    },
+    {
+      "text": "absurde,",
+      "start": 44.68,
+      "end": 45.78
+    },
+    {
+      "text": "nullement",
+      "start": 45.86,
+      "end": 46.76
+    },
+    {
+      "text": "autant",
+      "start": 46.76,
+      "end": 47.32
+    },
+    {
+      "text": "que",
+      "start": 47.32,
+      "end": 47.86
+    },
+    {
+      "text": "l",
+      "start": 47.86,
+      "end": 48.04
+    },
+    {
+      "text": "'homme",
+      "start": 48.04,
+      "end": 48.22
+    },
+    {
+      "text": "indigné",
+      "start": 48.22,
+      "end": 49.3
+    },
+    {
+      "text": "disait",
+      "start": 49.3,
+      "end": 50.0
+    },
+    {
+      "text": "Nietzsche.",
+      "start": 50.0,
+      "end": 50.62
+    },
+    {
+      "text": "Donc,",
+      "start": 51.16,
+      "end": 51.4
+    },
+    {
+      "text": "si",
+      "start": 51.68,
+      "end": 51.84
+    },
+    {
+      "text": "vous",
+      "start": 51.84,
+      "end": 52.0
+    },
+    {
+      "text": "voulez",
+      "start": 52.0,
+      "end": 52.2
+    },
+    {
+      "text": "réfléchir",
+      "start": 52.2,
+      "end": 52.82
+    },
+    {
+      "text": "à",
+      "start": 52.82,
+      "end": 53.08
+    },
+    {
+      "text": "l",
+      "start": 53.08,
+      "end": 53.18
+    },
+    {
+      "text": "'indignation,",
+      "start": 53.18,
+      "end": 53.76
+    },
+    {
+      "text": "Marie",
+      "start": 53.76,
+      "end": 54.14
+    },
+    {
+      "text": "-Odile",
+      "start": 54.14,
+      "end": 54.48
+    },
+    {
+      "text": "Monchicourt,",
+      "start": 54.48,
+      "end": 55.08
+    },
+    {
+      "text": "n",
+      "start": 55.2,
+      "end": 55.28
+    },
+    {
+      "text": "'hésitez",
+      "start": 55.28,
+      "end": 55.5
+    },
+    {
+      "text": "pas,",
+      "start": 55.5,
+      "end": 55.84
+    },
+    {
+      "text": "lisez",
+      "start": 56.24,
+      "end": 56.94
+    },
+    {
+      "text": "l",
+      "start": 56.94,
+      "end": 57.28
+    },
+    {
+      "text": "'indignation",
+      "start": 57.28,
+      "end": 57.92
+    },
+    {
+      "text": "de",
+      "start": 57.92,
+      "end": 58.32
+    },
+    {
+      "text": "Jean",
+      "start": 58.32,
+      "end": 58.58
+    },
+    {
+      "text": "-François",
+      "start": 58.58,
+      "end": 58.98
+    },
+    {
+      "text": "Matéhi.",
+      "start": 58.98,
+      "end": 59.46
+    },
+    {
+      "text": "Comment",
+      "start": 60.84,
+      "end": 61.48
+    },
+    {
+      "text": "l",
+      "start": 61.48,
+      "end": 61.72
+    },
+    {
+      "text": "'auteur,",
+      "start": 61.72,
+      "end": 62.02
+    },
+    {
+      "text": "Jean",
+      "start": 62.54,
+      "end": 62.64
+    },
+    {
+      "text": "-François",
+      "start": 62.64,
+      "end": 63.02
+    },
+    {
+      "text": "Matéhi,",
+      "start": 63.02,
+      "end": 63.54
+    },
+    {
+      "text": "envisage",
+      "start": 64.04,
+      "end": 64.42
+    },
+    {
+      "text": "-t",
+      "start": 64.42,
+      "end": 64.6
+    },
+    {
+      "text": "-il",
+      "start": 64.6,
+      "end": 64.74
+    },
+    {
+      "text": "l",
+      "start": 64.74,
+      "end": 65.02
+    },
+    {
+      "text": "'indignation",
+      "start": 65.02,
+      "end": 65.54
+    },
+    {
+      "text": "?",
+      "start": 65.54,
+      "end": 65.88
+    }
+  ]
+}

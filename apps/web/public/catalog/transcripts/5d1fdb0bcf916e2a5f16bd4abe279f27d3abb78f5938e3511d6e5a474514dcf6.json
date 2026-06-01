@@ -1,0 +1,860 @@
+{
+  "text": "Question 30. Écoutez le document sonore et la question. Choisissez la bonne réponse. Face à la demande exponentielle des patients et au nombre de plus en plus importants de praticiens qui les exercent, docteur en médecine ou non, la Commission européenne a mis sur pied un programme d'évaluation destiné à éclairer le choix des citoyens, le programme Cambrella, le docteur Campény chassier G, dans son comité consultatif. En fait, c'est pour protéger les patients, pour tirer le vrai du faux. C'est une étude qui a duré trois ans, j'étais moi-même membre de l'advisory board. Elle a tenté de voir quelles sont les statuts des médecines complémentaires en Europe, mais aussi de proposer une feuille de route pour l'horizon 2020, d'étudier leur efficacité, de proposer qu'elles soient enseignées à l'université, ou au moins que tous les médecins aient pu en prendre connaissance afin de pouvoir conseiller leurs patients au mieux. Question 40. Quelle est la finalité de l'étude européenne Cambrella ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "30.",
+      "start": 0.56,
+      "end": 1.24
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.3,
+      "end": 2.7
+    },
+    {
+      "text": "le",
+      "start": 2.7,
+      "end": 2.9
+    },
+    {
+      "text": "document",
+      "start": 2.9,
+      "end": 3.22
+    },
+    {
+      "text": "sonore",
+      "start": 3.22,
+      "end": 3.8
+    },
+    {
+      "text": "et",
+      "start": 3.8,
+      "end": 4.04
+    },
+    {
+      "text": "la",
+      "start": 4.04,
+      "end": 4.16
+    },
+    {
+      "text": "question.",
+      "start": 4.16,
+      "end": 4.5
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.26,
+      "end": 5.66
+    },
+    {
+      "text": "la",
+      "start": 5.66,
+      "end": 5.86
+    },
+    {
+      "text": "bonne",
+      "start": 5.86,
+      "end": 6.02
+    },
+    {
+      "text": "réponse.",
+      "start": 6.02,
+      "end": 6.4
+    },
+    {
+      "text": "Face",
+      "start": 7.32,
+      "end": 7.62
+    },
+    {
+      "text": "à",
+      "start": 7.62,
+      "end": 7.78
+    },
+    {
+      "text": "la",
+      "start": 7.78,
+      "end": 7.88
+    },
+    {
+      "text": "demande",
+      "start": 7.88,
+      "end": 8.1
+    },
+    {
+      "text": "exponentielle",
+      "start": 8.1,
+      "end": 8.92
+    },
+    {
+      "text": "des",
+      "start": 8.92,
+      "end": 9.12
+    },
+    {
+      "text": "patients",
+      "start": 9.12,
+      "end": 9.54
+    },
+    {
+      "text": "et",
+      "start": 9.54,
+      "end": 9.78
+    },
+    {
+      "text": "au",
+      "start": 9.78,
+      "end": 9.9
+    },
+    {
+      "text": "nombre",
+      "start": 9.9,
+      "end": 10.1
+    },
+    {
+      "text": "de",
+      "start": 10.1,
+      "end": 10.3
+    },
+    {
+      "text": "plus",
+      "start": 10.3,
+      "end": 10.48
+    },
+    {
+      "text": "en",
+      "start": 10.48,
+      "end": 10.6
+    },
+    {
+      "text": "plus",
+      "start": 10.6,
+      "end": 10.74
+    },
+    {
+      "text": "importants",
+      "start": 10.74,
+      "end": 11.34
+    },
+    {
+      "text": "de",
+      "start": 11.34,
+      "end": 11.4
+    },
+    {
+      "text": "praticiens",
+      "start": 11.4,
+      "end": 12.02
+    },
+    {
+      "text": "qui",
+      "start": 12.02,
+      "end": 12.18
+    },
+    {
+      "text": "les",
+      "start": 12.18,
+      "end": 12.34
+    },
+    {
+      "text": "exercent,",
+      "start": 12.34,
+      "end": 12.84
+    },
+    {
+      "text": "docteur",
+      "start": 12.94,
+      "end": 13.28
+    },
+    {
+      "text": "en",
+      "start": 13.28,
+      "end": 13.44
+    },
+    {
+      "text": "médecine",
+      "start": 13.44,
+      "end": 13.82
+    },
+    {
+      "text": "ou",
+      "start": 13.82,
+      "end": 13.98
+    },
+    {
+      "text": "non,",
+      "start": 13.98,
+      "end": 14.14
+    },
+    {
+      "text": "la",
+      "start": 14.54,
+      "end": 14.6
+    },
+    {
+      "text": "Commission",
+      "start": 14.6,
+      "end": 14.84
+    },
+    {
+      "text": "européenne",
+      "start": 14.84,
+      "end": 15.5
+    },
+    {
+      "text": "a",
+      "start": 15.5,
+      "end": 15.6
+    },
+    {
+      "text": "mis",
+      "start": 15.6,
+      "end": 15.74
+    },
+    {
+      "text": "sur",
+      "start": 15.74,
+      "end": 15.92
+    },
+    {
+      "text": "pied",
+      "start": 15.92,
+      "end": 16.12
+    },
+    {
+      "text": "un",
+      "start": 16.12,
+      "end": 16.32
+    },
+    {
+      "text": "programme",
+      "start": 16.32,
+      "end": 16.72
+    },
+    {
+      "text": "d",
+      "start": 16.72,
+      "end": 16.96
+    },
+    {
+      "text": "'évaluation",
+      "start": 16.96,
+      "end": 17.34
+    },
+    {
+      "text": "destiné",
+      "start": 17.34,
+      "end": 18.42
+    },
+    {
+      "text": "à",
+      "start": 18.42,
+      "end": 18.58
+    },
+    {
+      "text": "éclairer",
+      "start": 18.58,
+      "end": 19.1
+    },
+    {
+      "text": "le",
+      "start": 19.1,
+      "end": 19.26
+    },
+    {
+      "text": "choix",
+      "start": 19.26,
+      "end": 19.48
+    },
+    {
+      "text": "des",
+      "start": 19.48,
+      "end": 19.66
+    },
+    {
+      "text": "citoyens,",
+      "start": 19.66,
+      "end": 20.26
+    },
+    {
+      "text": "le",
+      "start": 20.5,
+      "end": 20.62
+    },
+    {
+      "text": "programme",
+      "start": 20.62,
+      "end": 20.96
+    },
+    {
+      "text": "Cambrella,",
+      "start": 20.96,
+      "end": 21.6
+    },
+    {
+      "text": "le",
+      "start": 21.94,
+      "end": 22.08
+    },
+    {
+      "text": "docteur",
+      "start": 22.08,
+      "end": 22.42
+    },
+    {
+      "text": "Campény",
+      "start": 22.42,
+      "end": 22.94
+    },
+    {
+      "text": "chassier",
+      "start": 22.94,
+      "end": 23.4
+    },
+    {
+      "text": "G,",
+      "start": 23.4,
+      "end": 23.56
+    },
+    {
+      "text": "dans",
+      "start": 23.68,
+      "end": 23.76
+    },
+    {
+      "text": "son",
+      "start": 23.76,
+      "end": 23.92
+    },
+    {
+      "text": "comité",
+      "start": 23.92,
+      "end": 24.32
+    },
+    {
+      "text": "consultatif.",
+      "start": 24.32,
+      "end": 25.2
+    },
+    {
+      "text": "En",
+      "start": 25.38,
+      "end": 25.48
+    },
+    {
+      "text": "fait,",
+      "start": 25.48,
+      "end": 25.68
+    },
+    {
+      "text": "c",
+      "start": 25.8,
+      "end": 25.88
+    },
+    {
+      "text": "'est",
+      "start": 25.88,
+      "end": 25.88
+    },
+    {
+      "text": "pour",
+      "start": 25.88,
+      "end": 26.02
+    },
+    {
+      "text": "protéger",
+      "start": 26.02,
+      "end": 26.38
+    },
+    {
+      "text": "les",
+      "start": 26.38,
+      "end": 26.54
+    },
+    {
+      "text": "patients,",
+      "start": 26.54,
+      "end": 26.82
+    },
+    {
+      "text": "pour",
+      "start": 27.0,
+      "end": 27.06
+    },
+    {
+      "text": "tirer",
+      "start": 27.06,
+      "end": 27.42
+    },
+    {
+      "text": "le",
+      "start": 27.42,
+      "end": 27.76
+    },
+    {
+      "text": "vrai",
+      "start": 27.76,
+      "end": 27.94
+    },
+    {
+      "text": "du",
+      "start": 27.94,
+      "end": 28.06
+    },
+    {
+      "text": "faux.",
+      "start": 28.06,
+      "end": 28.24
+    },
+    {
+      "text": "C",
+      "start": 28.24,
+      "end": 28.46
+    },
+    {
+      "text": "'est",
+      "start": 28.46,
+      "end": 28.48
+    },
+    {
+      "text": "une",
+      "start": 28.48,
+      "end": 28.6
+    },
+    {
+      "text": "étude",
+      "start": 28.6,
+      "end": 28.86
+    },
+    {
+      "text": "qui",
+      "start": 28.86,
+      "end": 29.4
+    },
+    {
+      "text": "a",
+      "start": 29.4,
+      "end": 29.5
+    },
+    {
+      "text": "duré",
+      "start": 29.5,
+      "end": 29.74
+    },
+    {
+      "text": "trois",
+      "start": 29.74,
+      "end": 30.02
+    },
+    {
+      "text": "ans,",
+      "start": 30.02,
+      "end": 30.24
+    },
+    {
+      "text": "j",
+      "start": 30.4,
+      "end": 30.44
+    },
+    {
+      "text": "'étais",
+      "start": 30.44,
+      "end": 30.56
+    },
+    {
+      "text": "moi",
+      "start": 30.56,
+      "end": 30.74
+    },
+    {
+      "text": "-même",
+      "start": 30.74,
+      "end": 30.92
+    },
+    {
+      "text": "membre",
+      "start": 30.92,
+      "end": 31.24
+    },
+    {
+      "text": "de",
+      "start": 31.24,
+      "end": 31.4
+    },
+    {
+      "text": "l",
+      "start": 31.4,
+      "end": 31.52
+    },
+    {
+      "text": "'advisory",
+      "start": 31.52,
+      "end": 31.9
+    },
+    {
+      "text": "board.",
+      "start": 31.9,
+      "end": 32.22
+    },
+    {
+      "text": "Elle",
+      "start": 32.52,
+      "end": 32.6
+    },
+    {
+      "text": "a",
+      "start": 32.6,
+      "end": 32.7
+    },
+    {
+      "text": "tenté",
+      "start": 32.7,
+      "end": 33.02
+    },
+    {
+      "text": "de",
+      "start": 33.02,
+      "end": 33.28
+    },
+    {
+      "text": "voir",
+      "start": 33.28,
+      "end": 33.52
+    },
+    {
+      "text": "quelles",
+      "start": 33.52,
+      "end": 33.96
+    },
+    {
+      "text": "sont",
+      "start": 33.96,
+      "end": 34.16
+    },
+    {
+      "text": "les",
+      "start": 34.16,
+      "end": 34.32
+    },
+    {
+      "text": "statuts",
+      "start": 34.32,
+      "end": 34.96
+    },
+    {
+      "text": "des",
+      "start": 34.96,
+      "end": 35.2
+    },
+    {
+      "text": "médecines",
+      "start": 35.2,
+      "end": 35.5
+    },
+    {
+      "text": "complémentaires",
+      "start": 35.5,
+      "end": 36.14
+    },
+    {
+      "text": "en",
+      "start": 36.14,
+      "end": 36.5
+    },
+    {
+      "text": "Europe,",
+      "start": 36.5,
+      "end": 36.84
+    },
+    {
+      "text": "mais",
+      "start": 37.04,
+      "end": 37.18
+    },
+    {
+      "text": "aussi",
+      "start": 37.18,
+      "end": 37.5
+    },
+    {
+      "text": "de",
+      "start": 37.5,
+      "end": 37.68
+    },
+    {
+      "text": "proposer",
+      "start": 37.68,
+      "end": 38.34
+    },
+    {
+      "text": "une",
+      "start": 38.34,
+      "end": 38.76
+    },
+    {
+      "text": "feuille",
+      "start": 38.76,
+      "end": 39.02
+    },
+    {
+      "text": "de",
+      "start": 39.02,
+      "end": 39.16
+    },
+    {
+      "text": "route",
+      "start": 39.16,
+      "end": 39.36
+    },
+    {
+      "text": "pour",
+      "start": 39.36,
+      "end": 39.52
+    },
+    {
+      "text": "l",
+      "start": 39.52,
+      "end": 39.64
+    },
+    {
+      "text": "'horizon",
+      "start": 39.64,
+      "end": 39.88
+    },
+    {
+      "text": "2020,",
+      "start": 39.88,
+      "end": 40.72
+    },
+    {
+      "text": "d",
+      "start": 41.0,
+      "end": 41.16
+    },
+    {
+      "text": "'étudier",
+      "start": 41.16,
+      "end": 41.6
+    },
+    {
+      "text": "leur",
+      "start": 41.6,
+      "end": 42.18
+    },
+    {
+      "text": "efficacité,",
+      "start": 42.18,
+      "end": 43.02
+    },
+    {
+      "text": "de",
+      "start": 43.3,
+      "end": 43.4
+    },
+    {
+      "text": "proposer",
+      "start": 43.4,
+      "end": 44.18
+    },
+    {
+      "text": "qu",
+      "start": 44.18,
+      "end": 44.44
+    },
+    {
+      "text": "'elles",
+      "start": 44.44,
+      "end": 44.5
+    },
+    {
+      "text": "soient",
+      "start": 44.5,
+      "end": 44.7
+    },
+    {
+      "text": "enseignées",
+      "start": 44.7,
+      "end": 45.2
+    },
+    {
+      "text": "à",
+      "start": 45.2,
+      "end": 45.4
+    },
+    {
+      "text": "l",
+      "start": 45.4,
+      "end": 45.5
+    },
+    {
+      "text": "'université,",
+      "start": 45.5,
+      "end": 46.22
+    },
+    {
+      "text": "ou",
+      "start": 46.4,
+      "end": 46.52
+    },
+    {
+      "text": "au",
+      "start": 46.52,
+      "end": 46.7
+    },
+    {
+      "text": "moins",
+      "start": 46.7,
+      "end": 47.04
+    },
+    {
+      "text": "que",
+      "start": 47.04,
+      "end": 47.26
+    },
+    {
+      "text": "tous",
+      "start": 47.26,
+      "end": 48.08
+    },
+    {
+      "text": "les",
+      "start": 48.08,
+      "end": 48.26
+    },
+    {
+      "text": "médecins",
+      "start": 48.26,
+      "end": 48.62
+    },
+    {
+      "text": "aient",
+      "start": 48.62,
+      "end": 48.98
+    },
+    {
+      "text": "pu",
+      "start": 48.98,
+      "end": 49.12
+    },
+    {
+      "text": "en",
+      "start": 49.12,
+      "end": 49.26
+    },
+    {
+      "text": "prendre",
+      "start": 49.26,
+      "end": 49.52
+    },
+    {
+      "text": "connaissance",
+      "start": 49.52,
+      "end": 50.1
+    },
+    {
+      "text": "afin",
+      "start": 50.1,
+      "end": 50.44
+    },
+    {
+      "text": "de",
+      "start": 50.44,
+      "end": 50.6
+    },
+    {
+      "text": "pouvoir",
+      "start": 50.6,
+      "end": 50.8
+    },
+    {
+      "text": "conseiller",
+      "start": 50.8,
+      "end": 51.36
+    },
+    {
+      "text": "leurs",
+      "start": 51.36,
+      "end": 51.9
+    },
+    {
+      "text": "patients",
+      "start": 51.9,
+      "end": 52.28
+    },
+    {
+      "text": "au",
+      "start": 52.28,
+      "end": 52.64
+    },
+    {
+      "text": "mieux.",
+      "start": 52.64,
+      "end": 52.82
+    },
+    {
+      "text": "Question",
+      "start": 53.16,
+      "end": 53.16
+    },
+    {
+      "text": "40.",
+      "start": 53.16,
+      "end": 54.66
+    },
+    {
+      "text": "Quelle",
+      "start": 54.66,
+      "end": 54.92
+    },
+    {
+      "text": "est",
+      "start": 54.92,
+      "end": 54.96
+    },
+    {
+      "text": "la",
+      "start": 54.96,
+      "end": 55.08
+    },
+    {
+      "text": "finalité",
+      "start": 55.08,
+      "end": 55.58
+    },
+    {
+      "text": "de",
+      "start": 55.58,
+      "end": 55.72
+    },
+    {
+      "text": "l",
+      "start": 55.72,
+      "end": 55.8
+    },
+    {
+      "text": "'étude",
+      "start": 55.8,
+      "end": 55.98
+    },
+    {
+      "text": "européenne",
+      "start": 55.98,
+      "end": 56.52
+    },
+    {
+      "text": "Cambrella",
+      "start": 56.52,
+      "end": 57.0
+    },
+    {
+      "text": "?",
+      "start": 57.0,
+      "end": 57.28
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "text": "Question 28. Écoutez le document sonore et la question. Choisissez la bonne réponse. Pourtant, comme le Montréal essaie, le touriste a mauvaise presse, surtout dans les sphères culturelles. Il ne voyage pas, il ne fait que circuler. C'est un nomade au pied plat, qui se déplace en horde. Les griefs contre lui sont innombrables. Il est destructeur, use inconsidérément les monuments ou les sites qu'il regarde à peine et ne comprend guère. Il favorise la pollution, oblige à des aménagements inutiles et coûteux. Pour lui, une visite au Louvre se borne à une course effrénée, avec Alte obligée devant l'Ajoconde et la Vénus de Milo, engorgeant les salles du musée au détriment des vrais visiteurs. C'est un adepte de la culture surgelée. Dans cet enregistrement, que dénoncent-on ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "text": "28.",
+      "start": 0.52,
+      "end": 1.36
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.1,
+      "end": 2.58
+    },
+    {
+      "text": "le",
+      "start": 2.58,
+      "end": 2.78
+    },
+    {
+      "text": "document",
+      "start": 2.78,
+      "end": 3.12
+    },
+    {
+      "text": "sonore",
+      "start": 3.12,
+      "end": 3.74
+    },
+    {
+      "text": "et",
+      "start": 3.74,
+      "end": 4.04
+    },
+    {
+      "text": "la",
+      "start": 4.04,
+      "end": 4.18
+    },
+    {
+      "text": "question.",
+      "start": 4.18,
+      "end": 4.54
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.28,
+      "end": 5.82
+    },
+    {
+      "text": "la",
+      "start": 5.82,
+      "end": 6.06
+    },
+    {
+      "text": "bonne",
+      "start": 6.06,
+      "end": 6.24
+    },
+    {
+      "text": "réponse.",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "text": "Pourtant,",
+      "start": 8.0,
+      "end": 8.64
+    },
+    {
+      "text": "comme",
+      "start": 9.18,
+      "end": 9.26
+    },
+    {
+      "text": "le",
+      "start": 9.26,
+      "end": 9.4
+    },
+    {
+      "text": "Montréal",
+      "start": 9.4,
+      "end": 9.72
+    },
+    {
+      "text": "essaie,",
+      "start": 9.72,
+      "end": 10.06
+    },
+    {
+      "text": "le",
+      "start": 10.44,
+      "end": 10.52
+    },
+    {
+      "text": "touriste",
+      "start": 10.52,
+      "end": 10.84
+    },
+    {
+      "text": "a",
+      "start": 10.84,
+      "end": 10.96
+    },
+    {
+      "text": "mauvaise",
+      "start": 10.96,
+      "end": 11.16
+    },
+    {
+      "text": "presse,",
+      "start": 11.16,
+      "end": 11.7
+    },
+    {
+      "text": "surtout",
+      "start": 11.88,
+      "end": 12.24
+    },
+    {
+      "text": "dans",
+      "start": 12.24,
+      "end": 12.46
+    },
+    {
+      "text": "les",
+      "start": 12.46,
+      "end": 12.56
+    },
+    {
+      "text": "sphères",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "text": "culturelles.",
+      "start": 12.8,
+      "end": 13.4
+    },
+    {
+      "text": "Il",
+      "start": 14.0,
+      "end": 14.14
+    },
+    {
+      "text": "ne",
+      "start": 14.14,
+      "end": 14.3
+    },
+    {
+      "text": "voyage",
+      "start": 14.3,
+      "end": 14.48
+    },
+    {
+      "text": "pas,",
+      "start": 14.48,
+      "end": 14.84
+    },
+    {
+      "text": "il",
+      "start": 15.16,
+      "end": 15.24
+    },
+    {
+      "text": "ne",
+      "start": 15.24,
+      "end": 15.38
+    },
+    {
+      "text": "fait",
+      "start": 15.38,
+      "end": 15.52
+    },
+    {
+      "text": "que",
+      "start": 15.52,
+      "end": 15.66
+    },
+    {
+      "text": "circuler.",
+      "start": 15.66,
+      "end": 16.26
+    },
+    {
+      "text": "C",
+      "start": 16.68,
+      "end": 16.84
+    },
+    {
+      "text": "'est",
+      "start": 16.84,
+      "end": 16.88
+    },
+    {
+      "text": "un",
+      "start": 16.88,
+      "end": 17.04
+    },
+    {
+      "text": "nomade",
+      "start": 17.04,
+      "end": 17.58
+    },
+    {
+      "text": "au",
+      "start": 17.58,
+      "end": 17.7
+    },
+    {
+      "text": "pied",
+      "start": 17.7,
+      "end": 17.86
+    },
+    {
+      "text": "plat,",
+      "start": 17.86,
+      "end": 18.14
+    },
+    {
+      "text": "qui",
+      "start": 18.4,
+      "end": 18.54
+    },
+    {
+      "text": "se",
+      "start": 18.54,
+      "end": 18.7
+    },
+    {
+      "text": "déplace",
+      "start": 18.7,
+      "end": 19.12
+    },
+    {
+      "text": "en",
+      "start": 19.12,
+      "end": 19.44
+    },
+    {
+      "text": "horde.",
+      "start": 19.44,
+      "end": 19.84
+    },
+    {
+      "text": "Les",
+      "start": 20.3,
+      "end": 20.44
+    },
+    {
+      "text": "griefs",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "text": "contre",
+      "start": 20.76,
+      "end": 20.98
+    },
+    {
+      "text": "lui",
+      "start": 20.98,
+      "end": 21.3
+    },
+    {
+      "text": "sont",
+      "start": 21.3,
+      "end": 21.8
+    },
+    {
+      "text": "innombrables.",
+      "start": 21.8,
+      "end": 22.7
+    },
+    {
+      "text": "Il",
+      "start": 23.16,
+      "end": 23.36
+    },
+    {
+      "text": "est",
+      "start": 23.36,
+      "end": 23.48
+    },
+    {
+      "text": "destructeur,",
+      "start": 23.48,
+      "end": 24.22
+    },
+    {
+      "text": "use",
+      "start": 24.54,
+      "end": 24.78
+    },
+    {
+      "text": "inconsidérément",
+      "start": 24.78,
+      "end": 25.82
+    },
+    {
+      "text": "les",
+      "start": 25.82,
+      "end": 25.98
+    },
+    {
+      "text": "monuments",
+      "start": 25.98,
+      "end": 26.28
+    },
+    {
+      "text": "ou",
+      "start": 26.28,
+      "end": 26.66
+    },
+    {
+      "text": "les",
+      "start": 26.66,
+      "end": 26.76
+    },
+    {
+      "text": "sites",
+      "start": 26.76,
+      "end": 27.04
+    },
+    {
+      "text": "qu",
+      "start": 27.04,
+      "end": 27.2
+    },
+    {
+      "text": "'il",
+      "start": 27.2,
+      "end": 27.24
+    },
+    {
+      "text": "regarde",
+      "start": 27.24,
+      "end": 27.52
+    },
+    {
+      "text": "à",
+      "start": 27.52,
+      "end": 27.72
+    },
+    {
+      "text": "peine",
+      "start": 27.72,
+      "end": 27.98
+    },
+    {
+      "text": "et",
+      "start": 27.98,
+      "end": 28.24
+    },
+    {
+      "text": "ne",
+      "start": 28.24,
+      "end": 28.34
+    },
+    {
+      "text": "comprend",
+      "start": 28.34,
+      "end": 28.64
+    },
+    {
+      "text": "guère.",
+      "start": 28.64,
+      "end": 29.24
+    },
+    {
+      "text": "Il",
+      "start": 29.58,
+      "end": 29.68
+    },
+    {
+      "text": "favorise",
+      "start": 29.68,
+      "end": 30.08
+    },
+    {
+      "text": "la",
+      "start": 30.08,
+      "end": 30.22
+    },
+    {
+      "text": "pollution,",
+      "start": 30.22,
+      "end": 30.6
+    },
+    {
+      "text": "oblige",
+      "start": 31.06,
+      "end": 31.68
+    },
+    {
+      "text": "à",
+      "start": 31.68,
+      "end": 31.94
+    },
+    {
+      "text": "des",
+      "start": 31.94,
+      "end": 32.1
+    },
+    {
+      "text": "aménagements",
+      "start": 32.1,
+      "end": 32.68
+    },
+    {
+      "text": "inutiles",
+      "start": 32.68,
+      "end": 33.34
+    },
+    {
+      "text": "et",
+      "start": 33.34,
+      "end": 33.46
+    },
+    {
+      "text": "coûteux.",
+      "start": 33.46,
+      "end": 33.76
+    },
+    {
+      "text": "Pour",
+      "start": 34.28,
+      "end": 34.48
+    },
+    {
+      "text": "lui,",
+      "start": 34.48,
+      "end": 34.72
+    },
+    {
+      "text": "une",
+      "start": 35.2,
+      "end": 35.34
+    },
+    {
+      "text": "visite",
+      "start": 35.34,
+      "end": 35.76
+    },
+    {
+      "text": "au",
+      "start": 35.76,
+      "end": 35.88
+    },
+    {
+      "text": "Louvre",
+      "start": 35.88,
+      "end": 36.16
+    },
+    {
+      "text": "se",
+      "start": 36.16,
+      "end": 36.4
+    },
+    {
+      "text": "borne",
+      "start": 36.4,
+      "end": 36.64
+    },
+    {
+      "text": "à",
+      "start": 36.64,
+      "end": 36.7
+    },
+    {
+      "text": "une",
+      "start": 36.7,
+      "end": 36.8
+    },
+    {
+      "text": "course",
+      "start": 36.8,
+      "end": 37.1
+    },
+    {
+      "text": "effrénée,",
+      "start": 37.1,
+      "end": 37.8
+    },
+    {
+      "text": "avec",
+      "start": 37.92,
+      "end": 38.1
+    },
+    {
+      "text": "Alte",
+      "start": 38.1,
+      "end": 38.48
+    },
+    {
+      "text": "obligée",
+      "start": 38.48,
+      "end": 38.88
+    },
+    {
+      "text": "devant",
+      "start": 38.88,
+      "end": 39.1
+    },
+    {
+      "text": "l",
+      "start": 39.1,
+      "end": 39.36
+    },
+    {
+      "text": "'Ajoconde",
+      "start": 39.36,
+      "end": 39.86
+    },
+    {
+      "text": "et",
+      "start": 39.86,
+      "end": 40.14
+    },
+    {
+      "text": "la",
+      "start": 40.14,
+      "end": 40.24
+    },
+    {
+      "text": "Vénus",
+      "start": 40.24,
+      "end": 40.48
+    },
+    {
+      "text": "de",
+      "start": 40.48,
+      "end": 40.64
+    },
+    {
+      "text": "Milo,",
+      "start": 40.64,
+      "end": 40.96
+    },
+    {
+      "text": "engorgeant",
+      "start": 41.38,
+      "end": 41.92
+    },
+    {
+      "text": "les",
+      "start": 41.92,
+      "end": 42.04
+    },
+    {
+      "text": "salles",
+      "start": 42.04,
+      "end": 42.34
+    },
+    {
+      "text": "du",
+      "start": 42.34,
+      "end": 42.5
+    },
+    {
+      "text": "musée",
+      "start": 42.5,
+      "end": 42.84
+    },
+    {
+      "text": "au",
+      "start": 42.84,
+      "end": 43.1
+    },
+    {
+      "text": "détriment",
+      "start": 43.1,
+      "end": 43.5
+    },
+    {
+      "text": "des",
+      "start": 43.5,
+      "end": 43.74
+    },
+    {
+      "text": "vrais",
+      "start": 43.74,
+      "end": 44.06
+    },
+    {
+      "text": "visiteurs.",
+      "start": 44.06,
+      "end": 44.62
+    },
+    {
+      "text": "C",
+      "start": 45.02,
+      "end": 45.18
+    },
+    {
+      "text": "'est",
+      "start": 45.18,
+      "end": 45.26
+    },
+    {
+      "text": "un",
+      "start": 45.26,
+      "end": 45.38
+    },
+    {
+      "text": "adepte",
+      "start": 45.38,
+      "end": 45.8
+    },
+    {
+      "text": "de",
+      "start": 45.8,
+      "end": 46.08
+    },
+    {
+      "text": "la",
+      "start": 46.08,
+      "end": 46.18
+    },
+    {
+      "text": "culture",
+      "start": 46.18,
+      "end": 46.62
+    },
+    {
+      "text": "surgelée.",
+      "start": 46.62,
+      "end": 47.2
+    },
+    {
+      "text": "Dans",
+      "start": 48.68,
+      "end": 49.24
+    },
+    {
+      "text": "cet",
+      "start": 49.24,
+      "end": 49.46
+    },
+    {
+      "text": "enregistrement,",
+      "start": 49.46,
+      "end": 50.2
+    },
+    {
+      "text": "que",
+      "start": 50.72,
+      "end": 51.0
+    },
+    {
+      "text": "dénoncent",
+      "start": 51.0,
+      "end": 51.38
+    },
+    {
+      "text": "-on",
+      "start": 51.38,
+      "end": 51.54
+    },
+    {
+      "text": "?",
+      "start": 51.54,
+      "end": 51.84
+    }
+  ]
+}

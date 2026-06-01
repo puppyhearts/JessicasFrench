@@ -1,0 +1,125 @@
+{
+  "text": "Chers clients, le magasin fermera ses portes dans dix minutes. Nous vous remercions de bien vouloir vous diriger vers la sortie. Canons, le magasin.",
+  "words": [
+    {
+      "text": "Chers",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "clients,",
+      "start": 0.66,
+      "end": 1.04
+    },
+    {
+      "text": "le",
+      "start": 1.66,
+      "end": 1.88
+    },
+    {
+      "text": "magasin",
+      "start": 1.88,
+      "end": 2.38
+    },
+    {
+      "text": "fermera",
+      "start": 2.38,
+      "end": 2.76
+    },
+    {
+      "text": "ses",
+      "start": 2.76,
+      "end": 3.0
+    },
+    {
+      "text": "portes",
+      "start": 3.0,
+      "end": 3.4
+    },
+    {
+      "text": "dans",
+      "start": 3.4,
+      "end": 3.56
+    },
+    {
+      "text": "dix",
+      "start": 3.56,
+      "end": 3.86
+    },
+    {
+      "text": "minutes.",
+      "start": 3.86,
+      "end": 4.22
+    },
+    {
+      "text": "Nous",
+      "start": 4.74,
+      "end": 4.88
+    },
+    {
+      "text": "vous",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "text": "remercions",
+      "start": 5.04,
+      "end": 5.56
+    },
+    {
+      "text": "de",
+      "start": 5.56,
+      "end": 5.68
+    },
+    {
+      "text": "bien",
+      "start": 5.68,
+      "end": 5.84
+    },
+    {
+      "text": "vouloir",
+      "start": 5.84,
+      "end": 6.22
+    },
+    {
+      "text": "vous",
+      "start": 6.22,
+      "end": 6.34
+    },
+    {
+      "text": "diriger",
+      "start": 6.34,
+      "end": 6.74
+    },
+    {
+      "text": "vers",
+      "start": 6.74,
+      "end": 6.92
+    },
+    {
+      "text": "la",
+      "start": 6.92,
+      "end": 7.04
+    },
+    {
+      "text": "sortie.",
+      "start": 7.04,
+      "end": 7.52
+    },
+    {
+      "text": "Canons,",
+      "start": 8.82,
+      "end": 9.58
+    },
+    {
+      "text": "le",
+      "start": 9.7,
+      "end": 9.82
+    },
+    {
+      "text": "magasin.",
+      "start": 9.82,
+      "end": 10.36
+    }
+  ]
+}

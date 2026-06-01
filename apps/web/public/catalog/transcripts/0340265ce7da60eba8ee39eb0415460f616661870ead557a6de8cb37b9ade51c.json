@@ -1,0 +1,375 @@
+{
+  "text": "Question 10. Écoutez le document sonore et la question. Choisissez la bonne réponse. Vous êtes étudiants en France ? Vous voulez gagner un peu d'argent ? Vous cherchez un travail pendant les vacances des mois de juillet et d'août ? Venez rencontrer des chefs d'entreprise au Forum pour les Jeunes, qui a lieu du 23 au 25 mai à l'université de Nantes. Que propose le Forum pour les Jeunes ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "text": "10.",
+      "start": 0.64,
+      "end": 1.1
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.58,
+      "end": 2.96
+    },
+    {
+      "text": "le",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "text": "document",
+      "start": 3.16,
+      "end": 3.5
+    },
+    {
+      "text": "sonore",
+      "start": 3.5,
+      "end": 4.08
+    },
+    {
+      "text": "et",
+      "start": 4.08,
+      "end": 4.3
+    },
+    {
+      "text": "la",
+      "start": 4.3,
+      "end": 4.42
+    },
+    {
+      "text": "question.",
+      "start": 4.42,
+      "end": 4.78
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.46,
+      "end": 5.94
+    },
+    {
+      "text": "la",
+      "start": 5.94,
+      "end": 6.14
+    },
+    {
+      "text": "bonne",
+      "start": 6.14,
+      "end": 6.3
+    },
+    {
+      "text": "réponse.",
+      "start": 6.3,
+      "end": 6.66
+    },
+    {
+      "text": "Vous",
+      "start": 7.82,
+      "end": 8.3
+    },
+    {
+      "text": "êtes",
+      "start": 8.3,
+      "end": 8.48
+    },
+    {
+      "text": "étudiants",
+      "start": 8.48,
+      "end": 8.92
+    },
+    {
+      "text": "en",
+      "start": 8.92,
+      "end": 9.04
+    },
+    {
+      "text": "France",
+      "start": 9.04,
+      "end": 9.24
+    },
+    {
+      "text": "?",
+      "start": 9.24,
+      "end": 9.76
+    },
+    {
+      "text": "Vous",
+      "start": 9.76,
+      "end": 9.84
+    },
+    {
+      "text": "voulez",
+      "start": 9.84,
+      "end": 10.04
+    },
+    {
+      "text": "gagner",
+      "start": 10.04,
+      "end": 10.28
+    },
+    {
+      "text": "un",
+      "start": 10.28,
+      "end": 10.48
+    },
+    {
+      "text": "peu",
+      "start": 10.48,
+      "end": 10.56
+    },
+    {
+      "text": "d",
+      "start": 10.56,
+      "end": 10.68
+    },
+    {
+      "text": "'argent",
+      "start": 10.68,
+      "end": 10.86
+    },
+    {
+      "text": "?",
+      "start": 10.86,
+      "end": 11.34
+    },
+    {
+      "text": "Vous",
+      "start": 11.34,
+      "end": 11.48
+    },
+    {
+      "text": "cherchez",
+      "start": 11.48,
+      "end": 11.78
+    },
+    {
+      "text": "un",
+      "start": 11.78,
+      "end": 11.9
+    },
+    {
+      "text": "travail",
+      "start": 11.9,
+      "end": 12.18
+    },
+    {
+      "text": "pendant",
+      "start": 12.18,
+      "end": 12.42
+    },
+    {
+      "text": "les",
+      "start": 12.42,
+      "end": 12.6
+    },
+    {
+      "text": "vacances",
+      "start": 12.6,
+      "end": 12.94
+    },
+    {
+      "text": "des",
+      "start": 12.94,
+      "end": 13.1
+    },
+    {
+      "text": "mois",
+      "start": 13.1,
+      "end": 13.26
+    },
+    {
+      "text": "de",
+      "start": 13.26,
+      "end": 13.42
+    },
+    {
+      "text": "juillet",
+      "start": 13.42,
+      "end": 13.8
+    },
+    {
+      "text": "et",
+      "start": 13.8,
+      "end": 14.02
+    },
+    {
+      "text": "d",
+      "start": 14.02,
+      "end": 14.18
+    },
+    {
+      "text": "'août",
+      "start": 14.18,
+      "end": 14.34
+    },
+    {
+      "text": "?",
+      "start": 14.34,
+      "end": 14.76
+    },
+    {
+      "text": "Venez",
+      "start": 14.76,
+      "end": 15.04
+    },
+    {
+      "text": "rencontrer",
+      "start": 15.04,
+      "end": 15.56
+    },
+    {
+      "text": "des",
+      "start": 15.56,
+      "end": 15.72
+    },
+    {
+      "text": "chefs",
+      "start": 15.72,
+      "end": 15.88
+    },
+    {
+      "text": "d",
+      "start": 15.88,
+      "end": 16.0
+    },
+    {
+      "text": "'entreprise",
+      "start": 16.0,
+      "end": 16.52
+    },
+    {
+      "text": "au",
+      "start": 16.52,
+      "end": 16.84
+    },
+    {
+      "text": "Forum",
+      "start": 16.84,
+      "end": 17.16
+    },
+    {
+      "text": "pour",
+      "start": 17.16,
+      "end": 17.42
+    },
+    {
+      "text": "les",
+      "start": 17.42,
+      "end": 17.54
+    },
+    {
+      "text": "Jeunes,",
+      "start": 17.54,
+      "end": 17.88
+    },
+    {
+      "text": "qui",
+      "start": 18.16,
+      "end": 18.2
+    },
+    {
+      "text": "a",
+      "start": 18.2,
+      "end": 18.3
+    },
+    {
+      "text": "lieu",
+      "start": 18.3,
+      "end": 18.48
+    },
+    {
+      "text": "du",
+      "start": 18.48,
+      "end": 18.68
+    },
+    {
+      "text": "23",
+      "start": 18.68,
+      "end": 19.1
+    },
+    {
+      "text": "au",
+      "start": 19.1,
+      "end": 19.46
+    },
+    {
+      "text": "25",
+      "start": 19.46,
+      "end": 19.82
+    },
+    {
+      "text": "mai",
+      "start": 19.82,
+      "end": 20.18
+    },
+    {
+      "text": "à",
+      "start": 20.18,
+      "end": 20.4
+    },
+    {
+      "text": "l",
+      "start": 20.4,
+      "end": 20.5
+    },
+    {
+      "text": "'université",
+      "start": 20.5,
+      "end": 21.0
+    },
+    {
+      "text": "de",
+      "start": 21.0,
+      "end": 21.1
+    },
+    {
+      "text": "Nantes.",
+      "start": 21.1,
+      "end": 21.44
+    },
+    {
+      "text": "Que",
+      "start": 23.18,
+      "end": 23.74
+    },
+    {
+      "text": "propose",
+      "start": 23.74,
+      "end": 24.14
+    },
+    {
+      "text": "le",
+      "start": 24.14,
+      "end": 24.46
+    },
+    {
+      "text": "Forum",
+      "start": 24.46,
+      "end": 24.74
+    },
+    {
+      "text": "pour",
+      "start": 24.74,
+      "end": 25.06
+    },
+    {
+      "text": "les",
+      "start": 25.06,
+      "end": 25.2
+    },
+    {
+      "text": "Jeunes",
+      "start": 25.2,
+      "end": 25.48
+    },
+    {
+      "text": "?",
+      "start": 25.48,
+      "end": 25.8
+    }
+  ]
+}

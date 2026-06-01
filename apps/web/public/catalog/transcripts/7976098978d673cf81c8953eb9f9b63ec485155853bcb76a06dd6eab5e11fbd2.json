@@ -1,0 +1,680 @@
+{
+  "text": "Question 15. Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Festival d'Avignon est probablement le festival le plus populaire du sud de la France. Il regroupe des centaines d'artistes, des comédiens, des musiciens, des acrobates et aussi des chanteurs. Mais Avignon reste avant tout le festival de théâtre par excellence. Si vous avez le temps et de l'argent, vous aurez la chance d'assister à des spectacles de grande qualité dans les plus beaux théâtres de la ville. Cependant, si vous n'avez pas pris le temps de réserver vos places, ou que votre porte-monnaie est vide, vous pourrez toujours assister aux spectacles de rue. La qualité sera au rendez-vous aussi. Mais pas le confort. D'après le journaliste, le Festival d'Avignon est fait pour...",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "text": "15.",
+      "start": 0.64,
+      "end": 1.3
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.26,
+      "end": 2.74
+    },
+    {
+      "text": "le",
+      "start": 2.74,
+      "end": 2.94
+    },
+    {
+      "text": "document",
+      "start": 2.94,
+      "end": 3.28
+    },
+    {
+      "text": "sonore",
+      "start": 3.28,
+      "end": 3.9
+    },
+    {
+      "text": "et",
+      "start": 3.9,
+      "end": 4.2
+    },
+    {
+      "text": "la",
+      "start": 4.2,
+      "end": 4.34
+    },
+    {
+      "text": "question.",
+      "start": 4.34,
+      "end": 4.68
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.52,
+      "end": 6.0
+    },
+    {
+      "text": "la",
+      "start": 6.0,
+      "end": 6.22
+    },
+    {
+      "text": "bonne",
+      "start": 6.22,
+      "end": 6.4
+    },
+    {
+      "text": "réponse.",
+      "start": 6.4,
+      "end": 6.76
+    },
+    {
+      "text": "Le",
+      "start": 7.82,
+      "end": 8.3
+    },
+    {
+      "text": "Festival",
+      "start": 8.3,
+      "end": 8.64
+    },
+    {
+      "text": "d",
+      "start": 8.64,
+      "end": 8.84
+    },
+    {
+      "text": "'Avignon",
+      "start": 8.84,
+      "end": 9.1
+    },
+    {
+      "text": "est",
+      "start": 9.1,
+      "end": 9.3
+    },
+    {
+      "text": "probablement",
+      "start": 9.3,
+      "end": 9.86
+    },
+    {
+      "text": "le",
+      "start": 9.86,
+      "end": 9.98
+    },
+    {
+      "text": "festival",
+      "start": 9.98,
+      "end": 10.36
+    },
+    {
+      "text": "le",
+      "start": 10.36,
+      "end": 10.56
+    },
+    {
+      "text": "plus",
+      "start": 10.56,
+      "end": 10.68
+    },
+    {
+      "text": "populaire",
+      "start": 10.68,
+      "end": 11.18
+    },
+    {
+      "text": "du",
+      "start": 11.18,
+      "end": 11.34
+    },
+    {
+      "text": "sud",
+      "start": 11.34,
+      "end": 11.52
+    },
+    {
+      "text": "de",
+      "start": 11.52,
+      "end": 11.68
+    },
+    {
+      "text": "la",
+      "start": 11.68,
+      "end": 11.78
+    },
+    {
+      "text": "France.",
+      "start": 11.78,
+      "end": 12.06
+    },
+    {
+      "text": "Il",
+      "start": 12.7,
+      "end": 12.84
+    },
+    {
+      "text": "regroupe",
+      "start": 12.84,
+      "end": 13.24
+    },
+    {
+      "text": "des",
+      "start": 13.24,
+      "end": 13.38
+    },
+    {
+      "text": "centaines",
+      "start": 13.38,
+      "end": 13.76
+    },
+    {
+      "text": "d",
+      "start": 13.76,
+      "end": 13.9
+    },
+    {
+      "text": "'artistes,",
+      "start": 13.9,
+      "end": 14.28
+    },
+    {
+      "text": "des",
+      "start": 14.52,
+      "end": 14.68
+    },
+    {
+      "text": "comédiens,",
+      "start": 14.68,
+      "end": 15.22
+    },
+    {
+      "text": "des",
+      "start": 15.4,
+      "end": 15.48
+    },
+    {
+      "text": "musiciens,",
+      "start": 15.48,
+      "end": 16.08
+    },
+    {
+      "text": "des",
+      "start": 16.32,
+      "end": 16.4
+    },
+    {
+      "text": "acrobates",
+      "start": 16.4,
+      "end": 16.96
+    },
+    {
+      "text": "et",
+      "start": 16.96,
+      "end": 17.12
+    },
+    {
+      "text": "aussi",
+      "start": 17.12,
+      "end": 17.4
+    },
+    {
+      "text": "des",
+      "start": 17.4,
+      "end": 17.56
+    },
+    {
+      "text": "chanteurs.",
+      "start": 17.56,
+      "end": 18.08
+    },
+    {
+      "text": "Mais",
+      "start": 18.66,
+      "end": 18.78
+    },
+    {
+      "text": "Avignon",
+      "start": 18.78,
+      "end": 19.1
+    },
+    {
+      "text": "reste",
+      "start": 19.1,
+      "end": 19.4
+    },
+    {
+      "text": "avant",
+      "start": 19.4,
+      "end": 19.64
+    },
+    {
+      "text": "tout",
+      "start": 19.64,
+      "end": 19.84
+    },
+    {
+      "text": "le",
+      "start": 19.84,
+      "end": 20.0
+    },
+    {
+      "text": "festival",
+      "start": 20.0,
+      "end": 20.36
+    },
+    {
+      "text": "de",
+      "start": 20.36,
+      "end": 20.58
+    },
+    {
+      "text": "théâtre",
+      "start": 20.58,
+      "end": 20.92
+    },
+    {
+      "text": "par",
+      "start": 20.92,
+      "end": 21.12
+    },
+    {
+      "text": "excellence.",
+      "start": 21.12,
+      "end": 21.44
+    },
+    {
+      "text": "Si",
+      "start": 22.28,
+      "end": 22.48
+    },
+    {
+      "text": "vous",
+      "start": 22.48,
+      "end": 22.6
+    },
+    {
+      "text": "avez",
+      "start": 22.6,
+      "end": 22.78
+    },
+    {
+      "text": "le",
+      "start": 22.78,
+      "end": 22.92
+    },
+    {
+      "text": "temps",
+      "start": 22.92,
+      "end": 23.16
+    },
+    {
+      "text": "et",
+      "start": 23.16,
+      "end": 23.36
+    },
+    {
+      "text": "de",
+      "start": 23.36,
+      "end": 23.54
+    },
+    {
+      "text": "l",
+      "start": 23.54,
+      "end": 23.62
+    },
+    {
+      "text": "'argent,",
+      "start": 23.62,
+      "end": 23.9
+    },
+    {
+      "text": "vous",
+      "start": 24.42,
+      "end": 24.44
+    },
+    {
+      "text": "aurez",
+      "start": 24.44,
+      "end": 24.72
+    },
+    {
+      "text": "la",
+      "start": 24.72,
+      "end": 24.86
+    },
+    {
+      "text": "chance",
+      "start": 24.86,
+      "end": 25.16
+    },
+    {
+      "text": "d",
+      "start": 25.16,
+      "end": 25.56
+    },
+    {
+      "text": "'assister",
+      "start": 25.56,
+      "end": 25.92
+    },
+    {
+      "text": "à",
+      "start": 25.92,
+      "end": 26.1
+    },
+    {
+      "text": "des",
+      "start": 26.1,
+      "end": 26.2
+    },
+    {
+      "text": "spectacles",
+      "start": 26.2,
+      "end": 26.7
+    },
+    {
+      "text": "de",
+      "start": 26.7,
+      "end": 26.86
+    },
+    {
+      "text": "grande",
+      "start": 26.86,
+      "end": 27.12
+    },
+    {
+      "text": "qualité",
+      "start": 27.12,
+      "end": 27.62
+    },
+    {
+      "text": "dans",
+      "start": 27.62,
+      "end": 27.82
+    },
+    {
+      "text": "les",
+      "start": 27.82,
+      "end": 27.94
+    },
+    {
+      "text": "plus",
+      "start": 27.94,
+      "end": 28.1
+    },
+    {
+      "text": "beaux",
+      "start": 28.1,
+      "end": 28.36
+    },
+    {
+      "text": "théâtres",
+      "start": 28.36,
+      "end": 28.76
+    },
+    {
+      "text": "de",
+      "start": 28.76,
+      "end": 28.88
+    },
+    {
+      "text": "la",
+      "start": 28.88,
+      "end": 29.0
+    },
+    {
+      "text": "ville.",
+      "start": 29.0,
+      "end": 29.22
+    },
+    {
+      "text": "Cependant,",
+      "start": 29.92,
+      "end": 30.32
+    },
+    {
+      "text": "si",
+      "start": 30.4,
+      "end": 30.46
+    },
+    {
+      "text": "vous",
+      "start": 30.46,
+      "end": 30.62
+    },
+    {
+      "text": "n",
+      "start": 30.62,
+      "end": 30.72
+    },
+    {
+      "text": "'avez",
+      "start": 30.72,
+      "end": 30.8
+    },
+    {
+      "text": "pas",
+      "start": 30.8,
+      "end": 30.98
+    },
+    {
+      "text": "pris",
+      "start": 30.98,
+      "end": 31.2
+    },
+    {
+      "text": "le",
+      "start": 31.2,
+      "end": 31.32
+    },
+    {
+      "text": "temps",
+      "start": 31.32,
+      "end": 31.54
+    },
+    {
+      "text": "de",
+      "start": 31.54,
+      "end": 31.68
+    },
+    {
+      "text": "réserver",
+      "start": 31.68,
+      "end": 32.02
+    },
+    {
+      "text": "vos",
+      "start": 32.02,
+      "end": 32.2
+    },
+    {
+      "text": "places,",
+      "start": 32.2,
+      "end": 32.54
+    },
+    {
+      "text": "ou",
+      "start": 33.06,
+      "end": 33.12
+    },
+    {
+      "text": "que",
+      "start": 33.12,
+      "end": 33.3
+    },
+    {
+      "text": "votre",
+      "start": 33.3,
+      "end": 33.48
+    },
+    {
+      "text": "porte",
+      "start": 33.48,
+      "end": 33.78
+    },
+    {
+      "text": "-monnaie",
+      "start": 33.78,
+      "end": 34.2
+    },
+    {
+      "text": "est",
+      "start": 34.2,
+      "end": 34.32
+    },
+    {
+      "text": "vide,",
+      "start": 34.32,
+      "end": 34.52
+    },
+    {
+      "text": "vous",
+      "start": 35.02,
+      "end": 35.12
+    },
+    {
+      "text": "pourrez",
+      "start": 35.12,
+      "end": 35.38
+    },
+    {
+      "text": "toujours",
+      "start": 35.38,
+      "end": 35.54
+    },
+    {
+      "text": "assister",
+      "start": 35.54,
+      "end": 36.0
+    },
+    {
+      "text": "aux",
+      "start": 36.0,
+      "end": 36.14
+    },
+    {
+      "text": "spectacles",
+      "start": 36.14,
+      "end": 36.58
+    },
+    {
+      "text": "de",
+      "start": 36.58,
+      "end": 36.74
+    },
+    {
+      "text": "rue.",
+      "start": 36.74,
+      "end": 36.94
+    },
+    {
+      "text": "La",
+      "start": 37.52,
+      "end": 37.62
+    },
+    {
+      "text": "qualité",
+      "start": 37.62,
+      "end": 37.96
+    },
+    {
+      "text": "sera",
+      "start": 37.96,
+      "end": 38.32
+    },
+    {
+      "text": "au",
+      "start": 38.32,
+      "end": 38.48
+    },
+    {
+      "text": "rendez",
+      "start": 38.48,
+      "end": 38.62
+    },
+    {
+      "text": "-vous",
+      "start": 38.62,
+      "end": 38.84
+    },
+    {
+      "text": "aussi.",
+      "start": 38.84,
+      "end": 39.14
+    },
+    {
+      "text": "Mais",
+      "start": 39.74,
+      "end": 39.88
+    },
+    {
+      "text": "pas",
+      "start": 39.88,
+      "end": 40.02
+    },
+    {
+      "text": "le",
+      "start": 40.02,
+      "end": 40.08
+    },
+    {
+      "text": "confort.",
+      "start": 40.08,
+      "end": 40.4
+    },
+    {
+      "text": "D",
+      "start": 42.0,
+      "end": 42.4
+    },
+    {
+      "text": "'après",
+      "start": 42.4,
+      "end": 42.56
+    },
+    {
+      "text": "le",
+      "start": 42.56,
+      "end": 42.72
+    },
+    {
+      "text": "journaliste,",
+      "start": 42.72,
+      "end": 43.32
+    },
+    {
+      "text": "le",
+      "start": 43.7,
+      "end": 43.76
+    },
+    {
+      "text": "Festival",
+      "start": 43.76,
+      "end": 44.12
+    },
+    {
+      "text": "d",
+      "start": 44.12,
+      "end": 44.32
+    },
+    {
+      "text": "'Avignon",
+      "start": 44.32,
+      "end": 44.66
+    },
+    {
+      "text": "est",
+      "start": 44.66,
+      "end": 44.96
+    },
+    {
+      "text": "fait",
+      "start": 44.96,
+      "end": 45.08
+    },
+    {
+      "text": "pour...",
+      "start": 45.08,
+      "end": 45.28
+    }
+  ]
+}

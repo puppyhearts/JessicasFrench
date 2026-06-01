@@ -1,0 +1,1170 @@
+{
+  "text": "Bonjour monsieur, je recherche un appartement à louer dans le quatrième. Qu'est-ce que vous pouvez me proposer ? Il vous faut combien de pièces ? Au moins F4 ou F5, 80 m2 minimum, bien situé, calme, en étage élevé et avec ascenseur. Pas facile à trouver dans ce quartier. J'ai très peu d'annonce, surtout pour cette catégorie de logement. En revanche, à la vente, j'ai plusieurs biens à vous proposer. Ce sont des immeubles neufs où les charges sont réduites. C'est pas exactement ce que je prévoyais, mais on peut creuser la question. C'est où exactement ? Oh, vous allez voir, je pense justement à un superbe 5 pièces sur l'île Saint Louis. C'est au cinquième étage, sans vis-à-vis, sur la scène avec une vis plan dite sur Paris. L'appartement a vraiment beaucoup de cachets. Tenez, voici sa fiche descriptive. Vous vous souhaitez visiter ? En bas à droite, c'est le prix de l'appartement ? Oui, mais c'est le prix demandé. Le propriétaire est sans doute prêt à négocier. Bon, ben, écoutez, je vais réfléchir. J'en parle à mon mari et je vous recontacte si nous sommes intéressés. C'est parfait, on fait comme ça. À bientôt alors. Question 1. Quelle phrase correspond le mieux à la situation ? Question 2. Comment se termine l'échange ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 6.5,
+      "end": 6.98
+    },
+    {
+      "text": "monsieur,",
+      "start": 6.98,
+      "end": 7.38
+    },
+    {
+      "text": "je",
+      "start": 7.68,
+      "end": 7.8
+    },
+    {
+      "text": "recherche",
+      "start": 7.8,
+      "end": 8.14
+    },
+    {
+      "text": "un",
+      "start": 8.14,
+      "end": 8.3
+    },
+    {
+      "text": "appartement",
+      "start": 8.3,
+      "end": 8.76
+    },
+    {
+      "text": "à",
+      "start": 8.76,
+      "end": 8.94
+    },
+    {
+      "text": "louer",
+      "start": 8.94,
+      "end": 9.1
+    },
+    {
+      "text": "dans",
+      "start": 9.1,
+      "end": 9.22
+    },
+    {
+      "text": "le",
+      "start": 9.22,
+      "end": 9.36
+    },
+    {
+      "text": "quatrième.",
+      "start": 9.36,
+      "end": 9.9
+    },
+    {
+      "text": "Qu",
+      "start": 10.3,
+      "end": 10.4
+    },
+    {
+      "text": "'est",
+      "start": 10.4,
+      "end": 10.42
+    },
+    {
+      "text": "-ce",
+      "start": 10.42,
+      "end": 10.5
+    },
+    {
+      "text": "que",
+      "start": 10.5,
+      "end": 10.58
+    },
+    {
+      "text": "vous",
+      "start": 10.58,
+      "end": 10.68
+    },
+    {
+      "text": "pouvez",
+      "start": 10.68,
+      "end": 10.9
+    },
+    {
+      "text": "me",
+      "start": 10.9,
+      "end": 10.98
+    },
+    {
+      "text": "proposer",
+      "start": 10.98,
+      "end": 11.48
+    },
+    {
+      "text": "?",
+      "start": 11.48,
+      "end": 12.04
+    },
+    {
+      "text": "Il",
+      "start": 12.04,
+      "end": 12.18
+    },
+    {
+      "text": "vous",
+      "start": 12.18,
+      "end": 12.34
+    },
+    {
+      "text": "faut",
+      "start": 12.34,
+      "end": 12.52
+    },
+    {
+      "text": "combien",
+      "start": 12.52,
+      "end": 12.78
+    },
+    {
+      "text": "de",
+      "start": 12.78,
+      "end": 12.92
+    },
+    {
+      "text": "pièces",
+      "start": 12.92,
+      "end": 13.2
+    },
+    {
+      "text": "?",
+      "start": 13.2,
+      "end": 13.9
+    },
+    {
+      "text": "Au",
+      "start": 13.9,
+      "end": 14.04
+    },
+    {
+      "text": "moins",
+      "start": 14.04,
+      "end": 14.32
+    },
+    {
+      "text": "F4",
+      "start": 14.32,
+      "end": 15.14
+    },
+    {
+      "text": "ou",
+      "start": 15.14,
+      "end": 15.34
+    },
+    {
+      "text": "F5,",
+      "start": 15.34,
+      "end": 15.8
+    },
+    {
+      "text": "80",
+      "start": 16.26,
+      "end": 16.66
+    },
+    {
+      "text": "m2",
+      "start": 16.66,
+      "end": 17.08
+    },
+    {
+      "text": "minimum,",
+      "start": 17.08,
+      "end": 17.64
+    },
+    {
+      "text": "bien",
+      "start": 17.96,
+      "end": 18.14
+    },
+    {
+      "text": "situé,",
+      "start": 18.14,
+      "end": 18.7
+    },
+    {
+      "text": "calme,",
+      "start": 18.98,
+      "end": 19.38
+    },
+    {
+      "text": "en",
+      "start": 19.46,
+      "end": 19.52
+    },
+    {
+      "text": "étage",
+      "start": 19.52,
+      "end": 19.78
+    },
+    {
+      "text": "élevé",
+      "start": 19.78,
+      "end": 20.16
+    },
+    {
+      "text": "et",
+      "start": 20.16,
+      "end": 20.54
+    },
+    {
+      "text": "avec",
+      "start": 20.54,
+      "end": 20.78
+    },
+    {
+      "text": "ascenseur.",
+      "start": 20.78,
+      "end": 21.4
+    },
+    {
+      "text": "Pas",
+      "start": 21.82,
+      "end": 22.16
+    },
+    {
+      "text": "facile",
+      "start": 22.16,
+      "end": 22.48
+    },
+    {
+      "text": "à",
+      "start": 22.48,
+      "end": 22.58
+    },
+    {
+      "text": "trouver",
+      "start": 22.58,
+      "end": 22.78
+    },
+    {
+      "text": "dans",
+      "start": 22.78,
+      "end": 22.96
+    },
+    {
+      "text": "ce",
+      "start": 22.96,
+      "end": 23.06
+    },
+    {
+      "text": "quartier.",
+      "start": 23.06,
+      "end": 23.4
+    },
+    {
+      "text": "J",
+      "start": 23.94,
+      "end": 24.18
+    },
+    {
+      "text": "'ai",
+      "start": 24.18,
+      "end": 24.24
+    },
+    {
+      "text": "très",
+      "start": 24.24,
+      "end": 24.38
+    },
+    {
+      "text": "peu",
+      "start": 24.38,
+      "end": 24.54
+    },
+    {
+      "text": "d",
+      "start": 24.54,
+      "end": 24.64
+    },
+    {
+      "text": "'annonce,",
+      "start": 24.64,
+      "end": 24.86
+    },
+    {
+      "text": "surtout",
+      "start": 24.86,
+      "end": 25.12
+    },
+    {
+      "text": "pour",
+      "start": 25.12,
+      "end": 25.32
+    },
+    {
+      "text": "cette",
+      "start": 25.32,
+      "end": 25.48
+    },
+    {
+      "text": "catégorie",
+      "start": 25.48,
+      "end": 25.98
+    },
+    {
+      "text": "de",
+      "start": 25.98,
+      "end": 26.06
+    },
+    {
+      "text": "logement.",
+      "start": 26.06,
+      "end": 26.36
+    },
+    {
+      "text": "En",
+      "start": 26.86,
+      "end": 26.96
+    },
+    {
+      "text": "revanche,",
+      "start": 26.96,
+      "end": 27.34
+    },
+    {
+      "text": "à",
+      "start": 27.44,
+      "end": 27.52
+    },
+    {
+      "text": "la",
+      "start": 27.52,
+      "end": 27.6
+    },
+    {
+      "text": "vente,",
+      "start": 27.6,
+      "end": 27.9
+    },
+    {
+      "text": "j",
+      "start": 28.2,
+      "end": 28.24
+    },
+    {
+      "text": "'ai",
+      "start": 28.24,
+      "end": 28.28
+    },
+    {
+      "text": "plusieurs",
+      "start": 28.28,
+      "end": 28.58
+    },
+    {
+      "text": "biens",
+      "start": 28.58,
+      "end": 28.84
+    },
+    {
+      "text": "à",
+      "start": 28.84,
+      "end": 28.94
+    },
+    {
+      "text": "vous",
+      "start": 28.94,
+      "end": 29.0
+    },
+    {
+      "text": "proposer.",
+      "start": 29.0,
+      "end": 29.54
+    },
+    {
+      "text": "Ce",
+      "start": 29.96,
+      "end": 30.14
+    },
+    {
+      "text": "sont",
+      "start": 30.14,
+      "end": 30.32
+    },
+    {
+      "text": "des",
+      "start": 30.32,
+      "end": 30.5
+    },
+    {
+      "text": "immeubles",
+      "start": 30.5,
+      "end": 30.82
+    },
+    {
+      "text": "neufs",
+      "start": 30.82,
+      "end": 31.42
+    },
+    {
+      "text": "où",
+      "start": 31.42,
+      "end": 31.52
+    },
+    {
+      "text": "les",
+      "start": 31.52,
+      "end": 31.64
+    },
+    {
+      "text": "charges",
+      "start": 31.64,
+      "end": 31.78
+    },
+    {
+      "text": "sont",
+      "start": 31.78,
+      "end": 31.94
+    },
+    {
+      "text": "réduites.",
+      "start": 31.94,
+      "end": 32.32
+    },
+    {
+      "text": "C",
+      "start": 33.08,
+      "end": 33.38
+    },
+    {
+      "text": "'est",
+      "start": 33.38,
+      "end": 33.4
+    },
+    {
+      "text": "pas",
+      "start": 33.4,
+      "end": 33.54
+    },
+    {
+      "text": "exactement",
+      "start": 33.54,
+      "end": 33.88
+    },
+    {
+      "text": "ce",
+      "start": 33.88,
+      "end": 34.1
+    },
+    {
+      "text": "que",
+      "start": 34.1,
+      "end": 34.2
+    },
+    {
+      "text": "je",
+      "start": 34.2,
+      "end": 34.3
+    },
+    {
+      "text": "prévoyais,",
+      "start": 34.3,
+      "end": 34.72
+    },
+    {
+      "text": "mais",
+      "start": 34.8,
+      "end": 34.86
+    },
+    {
+      "text": "on",
+      "start": 34.86,
+      "end": 34.96
+    },
+    {
+      "text": "peut",
+      "start": 34.96,
+      "end": 35.08
+    },
+    {
+      "text": "creuser",
+      "start": 35.08,
+      "end": 35.36
+    },
+    {
+      "text": "la",
+      "start": 35.36,
+      "end": 35.52
+    },
+    {
+      "text": "question.",
+      "start": 35.52,
+      "end": 35.86
+    },
+    {
+      "text": "C",
+      "start": 36.36,
+      "end": 36.48
+    },
+    {
+      "text": "'est",
+      "start": 36.48,
+      "end": 36.52
+    },
+    {
+      "text": "où",
+      "start": 36.52,
+      "end": 36.68
+    },
+    {
+      "text": "exactement",
+      "start": 36.68,
+      "end": 37.02
+    },
+    {
+      "text": "?",
+      "start": 37.02,
+      "end": 37.6
+    },
+    {
+      "text": "Oh,",
+      "start": 37.6,
+      "end": 37.86
+    },
+    {
+      "text": "vous",
+      "start": 38.22,
+      "end": 38.38
+    },
+    {
+      "text": "allez",
+      "start": 38.38,
+      "end": 38.54
+    },
+    {
+      "text": "voir,",
+      "start": 38.54,
+      "end": 38.76
+    },
+    {
+      "text": "je",
+      "start": 39.2,
+      "end": 39.34
+    },
+    {
+      "text": "pense",
+      "start": 39.34,
+      "end": 39.54
+    },
+    {
+      "text": "justement",
+      "start": 39.54,
+      "end": 39.98
+    },
+    {
+      "text": "à",
+      "start": 39.98,
+      "end": 40.16
+    },
+    {
+      "text": "un",
+      "start": 40.16,
+      "end": 40.28
+    },
+    {
+      "text": "superbe",
+      "start": 40.28,
+      "end": 40.84
+    },
+    {
+      "text": "5",
+      "start": 40.84,
+      "end": 41.06
+    },
+    {
+      "text": "pièces",
+      "start": 41.06,
+      "end": 41.38
+    },
+    {
+      "text": "sur",
+      "start": 41.38,
+      "end": 41.52
+    },
+    {
+      "text": "l",
+      "start": 41.52,
+      "end": 41.64
+    },
+    {
+      "text": "'île",
+      "start": 41.64,
+      "end": 41.72
+    },
+    {
+      "text": "Saint",
+      "start": 41.72,
+      "end": 41.9
+    },
+    {
+      "text": "Louis.",
+      "start": 41.9,
+      "end": 42.08
+    },
+    {
+      "text": "C",
+      "start": 42.42,
+      "end": 42.58
+    },
+    {
+      "text": "'est",
+      "start": 42.58,
+      "end": 42.62
+    },
+    {
+      "text": "au",
+      "start": 42.62,
+      "end": 42.74
+    },
+    {
+      "text": "cinquième",
+      "start": 42.74,
+      "end": 43.14
+    },
+    {
+      "text": "étage,",
+      "start": 43.14,
+      "end": 43.5
+    },
+    {
+      "text": "sans",
+      "start": 43.62,
+      "end": 43.78
+    },
+    {
+      "text": "vis",
+      "start": 43.78,
+      "end": 43.96
+    },
+    {
+      "text": "-à",
+      "start": 43.96,
+      "end": 44.1
+    },
+    {
+      "text": "-vis,",
+      "start": 44.1,
+      "end": 44.26
+    },
+    {
+      "text": "sur",
+      "start": 44.4,
+      "end": 44.56
+    },
+    {
+      "text": "la",
+      "start": 44.56,
+      "end": 44.7
+    },
+    {
+      "text": "scène",
+      "start": 44.7,
+      "end": 45.1
+    },
+    {
+      "text": "avec",
+      "start": 45.1,
+      "end": 45.32
+    },
+    {
+      "text": "une",
+      "start": 45.32,
+      "end": 45.56
+    },
+    {
+      "text": "vis",
+      "start": 45.56,
+      "end": 45.72
+    },
+    {
+      "text": "plan",
+      "start": 45.72,
+      "end": 46.02
+    },
+    {
+      "text": "dite",
+      "start": 46.02,
+      "end": 46.24
+    },
+    {
+      "text": "sur",
+      "start": 46.24,
+      "end": 46.4
+    },
+    {
+      "text": "Paris.",
+      "start": 46.4,
+      "end": 46.64
+    },
+    {
+      "text": "L",
+      "start": 47.44,
+      "end": 47.7
+    },
+    {
+      "text": "'appartement",
+      "start": 47.7,
+      "end": 48.06
+    },
+    {
+      "text": "a",
+      "start": 48.06,
+      "end": 48.26
+    },
+    {
+      "text": "vraiment",
+      "start": 48.26,
+      "end": 48.56
+    },
+    {
+      "text": "beaucoup",
+      "start": 48.56,
+      "end": 48.86
+    },
+    {
+      "text": "de",
+      "start": 48.86,
+      "end": 49.02
+    },
+    {
+      "text": "cachets.",
+      "start": 49.02,
+      "end": 49.36
+    },
+    {
+      "text": "Tenez,",
+      "start": 49.86,
+      "end": 50.1
+    },
+    {
+      "text": "voici",
+      "start": 50.6,
+      "end": 51.04
+    },
+    {
+      "text": "sa",
+      "start": 51.04,
+      "end": 51.28
+    },
+    {
+      "text": "fiche",
+      "start": 51.28,
+      "end": 51.44
+    },
+    {
+      "text": "descriptive.",
+      "start": 51.44,
+      "end": 51.9
+    },
+    {
+      "text": "Vous",
+      "start": 52.62,
+      "end": 52.88
+    },
+    {
+      "text": "vous",
+      "start": 52.88,
+      "end": 52.98
+    },
+    {
+      "text": "souhaitez",
+      "start": 52.98,
+      "end": 53.2
+    },
+    {
+      "text": "visiter",
+      "start": 53.2,
+      "end": 53.6
+    },
+    {
+      "text": "?",
+      "start": 53.6,
+      "end": 54.72
+    },
+    {
+      "text": "En",
+      "start": 54.72,
+      "end": 55.48
+    },
+    {
+      "text": "bas",
+      "start": 55.48,
+      "end": 56.04
+    },
+    {
+      "text": "à",
+      "start": 56.04,
+      "end": 56.16
+    },
+    {
+      "text": "droite,",
+      "start": 56.16,
+      "end": 56.34
+    },
+    {
+      "text": "c",
+      "start": 56.76,
+      "end": 57.0
+    },
+    {
+      "text": "'est",
+      "start": 57.0,
+      "end": 57.02
+    },
+    {
+      "text": "le",
+      "start": 57.02,
+      "end": 57.12
+    },
+    {
+      "text": "prix",
+      "start": 57.12,
+      "end": 57.24
+    },
+    {
+      "text": "de",
+      "start": 57.24,
+      "end": 57.32
+    },
+    {
+      "text": "l",
+      "start": 57.32,
+      "end": 57.38
+    },
+    {
+      "text": "'appartement",
+      "start": 57.38,
+      "end": 57.78
+    },
+    {
+      "text": "?",
+      "start": 57.78,
+      "end": 58.12
+    },
+    {
+      "text": "Oui,",
+      "start": 58.12,
+      "end": 58.34
+    },
+    {
+      "text": "mais",
+      "start": 59.08,
+      "end": 59.26
+    },
+    {
+      "text": "c",
+      "start": 59.26,
+      "end": 59.38
+    },
+    {
+      "text": "'est",
+      "start": 59.38,
+      "end": 59.4
+    },
+    {
+      "text": "le",
+      "start": 59.4,
+      "end": 59.56
+    },
+    {
+      "text": "prix",
+      "start": 59.56,
+      "end": 59.8
+    },
+    {
+      "text": "demandé.",
+      "start": 59.8,
+      "end": 60.22
+    },
+    {
+      "text": "Le",
+      "start": 60.88,
+      "end": 61.1
+    },
+    {
+      "text": "propriétaire",
+      "start": 61.1,
+      "end": 61.8
+    },
+    {
+      "text": "est",
+      "start": 61.8,
+      "end": 61.92
+    },
+    {
+      "text": "sans",
+      "start": 61.92,
+      "end": 62.02
+    },
+    {
+      "text": "doute",
+      "start": 62.02,
+      "end": 62.16
+    },
+    {
+      "text": "prêt",
+      "start": 62.16,
+      "end": 62.48
+    },
+    {
+      "text": "à",
+      "start": 62.48,
+      "end": 62.72
+    },
+    {
+      "text": "négocier.",
+      "start": 62.72,
+      "end": 63.14
+    },
+    {
+      "text": "Bon,",
+      "start": 64.12,
+      "end": 64.4
+    },
+    {
+      "text": "ben,",
+      "start": 64.56,
+      "end": 64.62
+    },
+    {
+      "text": "écoutez,",
+      "start": 64.9,
+      "end": 65.26
+    },
+    {
+      "text": "je",
+      "start": 65.44,
+      "end": 65.5
+    },
+    {
+      "text": "vais",
+      "start": 65.5,
+      "end": 65.6
+    },
+    {
+      "text": "réfléchir.",
+      "start": 65.6,
+      "end": 66.16
+    },
+    {
+      "text": "J",
+      "start": 66.3,
+      "end": 66.32
+    },
+    {
+      "text": "'en",
+      "start": 66.32,
+      "end": 66.38
+    },
+    {
+      "text": "parle",
+      "start": 66.38,
+      "end": 66.56
+    },
+    {
+      "text": "à",
+      "start": 66.56,
+      "end": 66.66
+    },
+    {
+      "text": "mon",
+      "start": 66.66,
+      "end": 66.76
+    },
+    {
+      "text": "mari",
+      "start": 66.76,
+      "end": 67.0
+    },
+    {
+      "text": "et",
+      "start": 67.0,
+      "end": 67.22
+    },
+    {
+      "text": "je",
+      "start": 67.22,
+      "end": 67.3
+    },
+    {
+      "text": "vous",
+      "start": 67.3,
+      "end": 67.4
+    },
+    {
+      "text": "recontacte",
+      "start": 67.4,
+      "end": 67.98
+    },
+    {
+      "text": "si",
+      "start": 67.98,
+      "end": 68.06
+    },
+    {
+      "text": "nous",
+      "start": 68.06,
+      "end": 68.16
+    },
+    {
+      "text": "sommes",
+      "start": 68.16,
+      "end": 68.36
+    },
+    {
+      "text": "intéressés.",
+      "start": 68.36,
+      "end": 68.96
+    },
+    {
+      "text": "C",
+      "start": 69.44,
+      "end": 69.6
+    },
+    {
+      "text": "'est",
+      "start": 69.6,
+      "end": 69.66
+    },
+    {
+      "text": "parfait,",
+      "start": 69.66,
+      "end": 69.92
+    },
+    {
+      "text": "on",
+      "start": 70.36,
+      "end": 70.46
+    },
+    {
+      "text": "fait",
+      "start": 70.46,
+      "end": 70.6
+    },
+    {
+      "text": "comme",
+      "start": 70.6,
+      "end": 70.74
+    },
+    {
+      "text": "ça.",
+      "start": 70.74,
+      "end": 70.92
+    },
+    {
+      "text": "À",
+      "start": 71.38,
+      "end": 71.48
+    },
+    {
+      "text": "bientôt",
+      "start": 71.48,
+      "end": 71.68
+    },
+    {
+      "text": "alors.",
+      "start": 71.68,
+      "end": 71.96
+    },
+    {
+      "text": "Question",
+      "start": 77.14,
+      "end": 77.58
+    },
+    {
+      "text": "1.",
+      "start": 77.58,
+      "end": 78.02
+    },
+    {
+      "text": "Quelle",
+      "start": 79.24,
+      "end": 79.54
+    },
+    {
+      "text": "phrase",
+      "start": 79.54,
+      "end": 79.76
+    },
+    {
+      "text": "correspond",
+      "start": 79.76,
+      "end": 80.3
+    },
+    {
+      "text": "le",
+      "start": 80.3,
+      "end": 80.48
+    },
+    {
+      "text": "mieux",
+      "start": 80.48,
+      "end": 80.7
+    },
+    {
+      "text": "à",
+      "start": 80.7,
+      "end": 80.88
+    },
+    {
+      "text": "la",
+      "start": 80.88,
+      "end": 80.96
+    },
+    {
+      "text": "situation",
+      "start": 80.96,
+      "end": 81.5
+    },
+    {
+      "text": "?",
+      "start": 81.5,
+      "end": 81.82
+    },
+    {
+      "text": "Question",
+      "start": 97.5,
+      "end": 98.42
+    },
+    {
+      "text": "2.",
+      "start": 98.42,
+      "end": 99.0
+    },
+    {
+      "text": "Comment",
+      "start": 99.62,
+      "end": 100.54
+    },
+    {
+      "text": "se",
+      "start": 100.54,
+      "end": 100.74
+    },
+    {
+      "text": "termine",
+      "start": 100.74,
+      "end": 101.12
+    },
+    {
+      "text": "l",
+      "start": 101.12,
+      "end": 101.26
+    },
+    {
+      "text": "'échange",
+      "start": 101.26,
+      "end": 101.52
+    },
+    {
+      "text": "?",
+      "start": 101.52,
+      "end": 103.08
+    }
+  ]
+}

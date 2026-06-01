@@ -1,0 +1,75 @@
+{
+  "text": "Situation 3. Ça met combien de temps pour aller à pot en TGV ?",
+  "words": [
+    {
+      "text": "Situation",
+      "start": 2.22,
+      "end": 2.7
+    },
+    {
+      "text": "3.",
+      "start": 2.7,
+      "end": 3.18
+    },
+    {
+      "text": "Ça",
+      "start": 4.96,
+      "end": 5.44
+    },
+    {
+      "text": "met",
+      "start": 5.44,
+      "end": 5.56
+    },
+    {
+      "text": "combien",
+      "start": 5.56,
+      "end": 5.78
+    },
+    {
+      "text": "de",
+      "start": 5.78,
+      "end": 5.96
+    },
+    {
+      "text": "temps",
+      "start": 5.96,
+      "end": 6.08
+    },
+    {
+      "text": "pour",
+      "start": 6.08,
+      "end": 6.3
+    },
+    {
+      "text": "aller",
+      "start": 6.3,
+      "end": 6.46
+    },
+    {
+      "text": "à",
+      "start": 6.46,
+      "end": 6.6
+    },
+    {
+      "text": "pot",
+      "start": 6.6,
+      "end": 6.88
+    },
+    {
+      "text": "en",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "text": "TGV",
+      "start": 7.12,
+      "end": 7.46
+    },
+    {
+      "text": "?",
+      "start": 7.46,
+      "end": 8.08
+    }
+  ]
+}

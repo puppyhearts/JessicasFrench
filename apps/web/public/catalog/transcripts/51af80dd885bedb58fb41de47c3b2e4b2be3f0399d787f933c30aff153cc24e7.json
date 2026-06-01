@@ -1,0 +1,645 @@
+{
+  "text": "Bonjour à tous, aujourd'hui, Priorité Santé vous emmène au Mozambique, suivre la fin de l'expédition Zambès. Depuis le mois de mars, 4 zodiacs descendent les 2500 km du Zambès à travers 6 pays de la source du fleuve en angola jusqu'à l'embouchure au Mozambique. Une expédition patronée par le rollback malaria est financée par des entreprises privées, à bord une dizaine de personnes dont des journalistes et du personnel médical local avec un objectif, sensibiliser les populations à la lutte contre le paludisme, distribution de moustiquaires imprégnés, tests de dépistage et conseils de prévention. Question 13. Quel est l'objectif de l'expédition Zambès ? Question 14. Qu'est-ce que vous avez fait pour les personnes qui ont été mises en place ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 8.74,
+      "end": 9.32
+    },
+    {
+      "text": "à",
+      "start": 9.32,
+      "end": 9.46
+    },
+    {
+      "text": "tous,",
+      "start": 9.46,
+      "end": 13.5
+    },
+    {
+      "text": "aujourd",
+      "start": 13.8,
+      "end": 13.9
+    },
+    {
+      "text": "'hui,",
+      "start": 13.9,
+      "end": 14.16
+    },
+    {
+      "text": "Priorité",
+      "start": 14.26,
+      "end": 14.62
+    },
+    {
+      "text": "Santé",
+      "start": 14.62,
+      "end": 14.98
+    },
+    {
+      "text": "vous",
+      "start": 14.98,
+      "end": 15.1
+    },
+    {
+      "text": "emmène",
+      "start": 15.1,
+      "end": 15.38
+    },
+    {
+      "text": "au",
+      "start": 15.38,
+      "end": 15.5
+    },
+    {
+      "text": "Mozambique,",
+      "start": 15.5,
+      "end": 16.16
+    },
+    {
+      "text": "suivre",
+      "start": 16.26,
+      "end": 16.58
+    },
+    {
+      "text": "la",
+      "start": 16.58,
+      "end": 16.9
+    },
+    {
+      "text": "fin",
+      "start": 16.9,
+      "end": 17.1
+    },
+    {
+      "text": "de",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "text": "l",
+      "start": 17.22,
+      "end": 17.32
+    },
+    {
+      "text": "'expédition",
+      "start": 17.32,
+      "end": 17.84
+    },
+    {
+      "text": "Zambès.",
+      "start": 17.84,
+      "end": 18.38
+    },
+    {
+      "text": "Depuis",
+      "start": 18.8,
+      "end": 19.38
+    },
+    {
+      "text": "le",
+      "start": 19.38,
+      "end": 19.5
+    },
+    {
+      "text": "mois",
+      "start": 19.5,
+      "end": 19.62
+    },
+    {
+      "text": "de",
+      "start": 19.62,
+      "end": 19.76
+    },
+    {
+      "text": "mars,",
+      "start": 19.76,
+      "end": 20.02
+    },
+    {
+      "text": "4",
+      "start": 20.4,
+      "end": 20.54
+    },
+    {
+      "text": "zodiacs",
+      "start": 20.54,
+      "end": 21.26
+    },
+    {
+      "text": "descendent",
+      "start": 21.26,
+      "end": 21.58
+    },
+    {
+      "text": "les",
+      "start": 21.58,
+      "end": 21.66
+    },
+    {
+      "text": "2500",
+      "start": 21.66,
+      "end": 22.04
+    },
+    {
+      "text": "km",
+      "start": 22.04,
+      "end": 22.46
+    },
+    {
+      "text": "du",
+      "start": 22.46,
+      "end": 22.9
+    },
+    {
+      "text": "Zambès",
+      "start": 22.9,
+      "end": 23.3
+    },
+    {
+      "text": "à",
+      "start": 23.3,
+      "end": 23.56
+    },
+    {
+      "text": "travers",
+      "start": 23.56,
+      "end": 23.82
+    },
+    {
+      "text": "6",
+      "start": 23.82,
+      "end": 24.14
+    },
+    {
+      "text": "pays",
+      "start": 24.14,
+      "end": 24.46
+    },
+    {
+      "text": "de",
+      "start": 24.46,
+      "end": 25.02
+    },
+    {
+      "text": "la",
+      "start": 25.02,
+      "end": 25.12
+    },
+    {
+      "text": "source",
+      "start": 25.12,
+      "end": 25.36
+    },
+    {
+      "text": "du",
+      "start": 25.36,
+      "end": 25.6
+    },
+    {
+      "text": "fleuve",
+      "start": 25.6,
+      "end": 25.9
+    },
+    {
+      "text": "en",
+      "start": 25.9,
+      "end": 26.04
+    },
+    {
+      "text": "angola",
+      "start": 26.04,
+      "end": 26.32
+    },
+    {
+      "text": "jusqu",
+      "start": 26.32,
+      "end": 26.66
+    },
+    {
+      "text": "'à",
+      "start": 26.66,
+      "end": 26.84
+    },
+    {
+      "text": "l",
+      "start": 26.84,
+      "end": 26.94
+    },
+    {
+      "text": "'embouchure",
+      "start": 26.94,
+      "end": 27.4
+    },
+    {
+      "text": "au",
+      "start": 27.4,
+      "end": 27.64
+    },
+    {
+      "text": "Mozambique.",
+      "start": 27.64,
+      "end": 28.18
+    },
+    {
+      "text": "Une",
+      "start": 28.18,
+      "end": 28.8
+    },
+    {
+      "text": "expédition",
+      "start": 28.8,
+      "end": 29.32
+    },
+    {
+      "text": "patronée",
+      "start": 29.32,
+      "end": 29.8
+    },
+    {
+      "text": "par",
+      "start": 29.8,
+      "end": 30.0
+    },
+    {
+      "text": "le",
+      "start": 30.0,
+      "end": 30.14
+    },
+    {
+      "text": "rollback",
+      "start": 30.14,
+      "end": 30.4
+    },
+    {
+      "text": "malaria",
+      "start": 30.4,
+      "end": 30.8
+    },
+    {
+      "text": "est",
+      "start": 30.8,
+      "end": 31.04
+    },
+    {
+      "text": "financée",
+      "start": 31.04,
+      "end": 31.44
+    },
+    {
+      "text": "par",
+      "start": 31.44,
+      "end": 31.6
+    },
+    {
+      "text": "des",
+      "start": 31.6,
+      "end": 31.76
+    },
+    {
+      "text": "entreprises",
+      "start": 31.76,
+      "end": 32.08
+    },
+    {
+      "text": "privées,",
+      "start": 32.08,
+      "end": 32.66
+    },
+    {
+      "text": "à",
+      "start": 33.22,
+      "end": 33.32
+    },
+    {
+      "text": "bord",
+      "start": 33.32,
+      "end": 33.52
+    },
+    {
+      "text": "une",
+      "start": 33.52,
+      "end": 33.8
+    },
+    {
+      "text": "dizaine",
+      "start": 33.8,
+      "end": 34.02
+    },
+    {
+      "text": "de",
+      "start": 34.02,
+      "end": 34.16
+    },
+    {
+      "text": "personnes",
+      "start": 34.16,
+      "end": 34.5
+    },
+    {
+      "text": "dont",
+      "start": 34.5,
+      "end": 34.82
+    },
+    {
+      "text": "des",
+      "start": 34.82,
+      "end": 35.04
+    },
+    {
+      "text": "journalistes",
+      "start": 35.04,
+      "end": 35.54
+    },
+    {
+      "text": "et",
+      "start": 35.54,
+      "end": 35.6
+    },
+    {
+      "text": "du",
+      "start": 35.6,
+      "end": 35.72
+    },
+    {
+      "text": "personnel",
+      "start": 35.72,
+      "end": 36.02
+    },
+    {
+      "text": "médical",
+      "start": 36.02,
+      "end": 36.6
+    },
+    {
+      "text": "local",
+      "start": 36.6,
+      "end": 36.94
+    },
+    {
+      "text": "avec",
+      "start": 36.94,
+      "end": 37.52
+    },
+    {
+      "text": "un",
+      "start": 37.52,
+      "end": 37.88
+    },
+    {
+      "text": "objectif,",
+      "start": 37.88,
+      "end": 38.6
+    },
+    {
+      "text": "sensibiliser",
+      "start": 39.02,
+      "end": 39.78
+    },
+    {
+      "text": "les",
+      "start": 39.78,
+      "end": 39.92
+    },
+    {
+      "text": "populations",
+      "start": 39.92,
+      "end": 40.28
+    },
+    {
+      "text": "à",
+      "start": 40.28,
+      "end": 40.64
+    },
+    {
+      "text": "la",
+      "start": 40.64,
+      "end": 40.72
+    },
+    {
+      "text": "lutte",
+      "start": 40.72,
+      "end": 40.94
+    },
+    {
+      "text": "contre",
+      "start": 40.94,
+      "end": 41.14
+    },
+    {
+      "text": "le",
+      "start": 41.14,
+      "end": 41.32
+    },
+    {
+      "text": "paludisme,",
+      "start": 41.32,
+      "end": 41.96
+    },
+    {
+      "text": "distribution",
+      "start": 42.28,
+      "end": 42.64
+    },
+    {
+      "text": "de",
+      "start": 42.64,
+      "end": 42.94
+    },
+    {
+      "text": "moustiquaires",
+      "start": 42.94,
+      "end": 43.38
+    },
+    {
+      "text": "imprégnés,",
+      "start": 43.38,
+      "end": 43.9
+    },
+    {
+      "text": "tests",
+      "start": 44.06,
+      "end": 44.2
+    },
+    {
+      "text": "de",
+      "start": 44.2,
+      "end": 44.44
+    },
+    {
+      "text": "dépistage",
+      "start": 44.44,
+      "end": 45.04
+    },
+    {
+      "text": "et",
+      "start": 45.04,
+      "end": 45.26
+    },
+    {
+      "text": "conseils",
+      "start": 45.26,
+      "end": 45.62
+    },
+    {
+      "text": "de",
+      "start": 45.62,
+      "end": 45.74
+    },
+    {
+      "text": "prévention.",
+      "start": 45.74,
+      "end": 46.22
+    },
+    {
+      "text": "Question",
+      "start": 50.0,
+      "end": 50.64
+    },
+    {
+      "text": "13.",
+      "start": 50.64,
+      "end": 51.28
+    },
+    {
+      "text": "Quel",
+      "start": 52.32,
+      "end": 52.46
+    },
+    {
+      "text": "est",
+      "start": 52.46,
+      "end": 52.58
+    },
+    {
+      "text": "l",
+      "start": 52.58,
+      "end": 52.7
+    },
+    {
+      "text": "'objectif",
+      "start": 52.7,
+      "end": 53.24
+    },
+    {
+      "text": "de",
+      "start": 53.24,
+      "end": 53.38
+    },
+    {
+      "text": "l",
+      "start": 53.38,
+      "end": 53.46
+    },
+    {
+      "text": "'expédition",
+      "start": 53.46,
+      "end": 54.12
+    },
+    {
+      "text": "Zambès",
+      "start": 54.12,
+      "end": 54.64
+    },
+    {
+      "text": "?",
+      "start": 54.64,
+      "end": 55.04
+    },
+    {
+      "text": "Question",
+      "start": 70.08,
+      "end": 70.8
+    },
+    {
+      "text": "14.",
+      "start": 70.8,
+      "end": 70.8
+    },
+    {
+      "text": "Qu",
+      "start": 71.16,
+      "end": 71.18
+    },
+    {
+      "text": "'est",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "-ce",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "que",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "vous",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "avez",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "fait",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "pour",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "les",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "personnes",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "qui",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "ont",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "été",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "mises",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "en",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "place",
+      "start": 71.18,
+      "end": 71.18
+    },
+    {
+      "text": "?",
+      "start": 71.18,
+      "end": 71.18
+    }
+  ]
+}

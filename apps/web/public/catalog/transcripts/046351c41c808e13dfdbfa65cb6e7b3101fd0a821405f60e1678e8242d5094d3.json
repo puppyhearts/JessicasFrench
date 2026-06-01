@@ -1,0 +1,420 @@
+{
+  "text": "Question 9. Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour, madame Plichon. Comment allez-vous ? Ce n'est pas la grande forme. Qu'est-ce qui ne va pas ? Toujours vos jambes qui vous font souffrir ? Et vos pieds ? Non, ça, ça va mieux. Mon mâle de tête va mieux aussi. C'est mon dos maintenant qui me fait mal. Bon, je vais vous ausculter. Venez avec moi. De quoi souffre maintenant madame Plichon ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.5
+    },
+    {
+      "text": "9.",
+      "start": 0.5,
+      "end": 1.0
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.88,
+      "end": 2.26
+    },
+    {
+      "text": "le",
+      "start": 2.26,
+      "end": 2.44
+    },
+    {
+      "text": "document",
+      "start": 2.44,
+      "end": 2.8
+    },
+    {
+      "text": "sonore",
+      "start": 2.8,
+      "end": 3.4
+    },
+    {
+      "text": "et",
+      "start": 3.4,
+      "end": 3.7
+    },
+    {
+      "text": "la",
+      "start": 3.7,
+      "end": 3.84
+    },
+    {
+      "text": "question.",
+      "start": 3.84,
+      "end": 4.2
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.04,
+      "end": 5.48
+    },
+    {
+      "text": "la",
+      "start": 5.48,
+      "end": 5.7
+    },
+    {
+      "text": "bonne",
+      "start": 5.7,
+      "end": 5.9
+    },
+    {
+      "text": "réponse.",
+      "start": 5.9,
+      "end": 6.26
+    },
+    {
+      "text": "Bonjour,",
+      "start": 7.22,
+      "end": 7.66
+    },
+    {
+      "text": "madame",
+      "start": 7.76,
+      "end": 7.94
+    },
+    {
+      "text": "Plichon.",
+      "start": 7.94,
+      "end": 8.3
+    },
+    {
+      "text": "Comment",
+      "start": 8.62,
+      "end": 8.76
+    },
+    {
+      "text": "allez",
+      "start": 8.76,
+      "end": 8.96
+    },
+    {
+      "text": "-vous",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "text": "?",
+      "start": 9.16,
+      "end": 9.84
+    },
+    {
+      "text": "Ce",
+      "start": 9.84,
+      "end": 10.12
+    },
+    {
+      "text": "n",
+      "start": 10.12,
+      "end": 10.18
+    },
+    {
+      "text": "'est",
+      "start": 10.18,
+      "end": 10.24
+    },
+    {
+      "text": "pas",
+      "start": 10.24,
+      "end": 10.4
+    },
+    {
+      "text": "la",
+      "start": 10.4,
+      "end": 10.54
+    },
+    {
+      "text": "grande",
+      "start": 10.54,
+      "end": 10.7
+    },
+    {
+      "text": "forme.",
+      "start": 10.7,
+      "end": 11.02
+    },
+    {
+      "text": "Qu",
+      "start": 11.62,
+      "end": 12.0
+    },
+    {
+      "text": "'est",
+      "start": 12.0,
+      "end": 12.02
+    },
+    {
+      "text": "-ce",
+      "start": 12.02,
+      "end": 12.1
+    },
+    {
+      "text": "qui",
+      "start": 12.1,
+      "end": 12.2
+    },
+    {
+      "text": "ne",
+      "start": 12.2,
+      "end": 12.3
+    },
+    {
+      "text": "va",
+      "start": 12.3,
+      "end": 12.38
+    },
+    {
+      "text": "pas",
+      "start": 12.38,
+      "end": 12.58
+    },
+    {
+      "text": "?",
+      "start": 12.58,
+      "end": 13.08
+    },
+    {
+      "text": "Toujours",
+      "start": 13.08,
+      "end": 13.36
+    },
+    {
+      "text": "vos",
+      "start": 13.36,
+      "end": 13.54
+    },
+    {
+      "text": "jambes",
+      "start": 13.54,
+      "end": 13.76
+    },
+    {
+      "text": "qui",
+      "start": 13.76,
+      "end": 13.84
+    },
+    {
+      "text": "vous",
+      "start": 13.84,
+      "end": 13.98
+    },
+    {
+      "text": "font",
+      "start": 13.98,
+      "end": 14.14
+    },
+    {
+      "text": "souffrir",
+      "start": 14.14,
+      "end": 14.5
+    },
+    {
+      "text": "?",
+      "start": 14.5,
+      "end": 15.18
+    },
+    {
+      "text": "Et",
+      "start": 15.18,
+      "end": 15.4
+    },
+    {
+      "text": "vos",
+      "start": 15.4,
+      "end": 15.52
+    },
+    {
+      "text": "pieds",
+      "start": 15.52,
+      "end": 15.72
+    },
+    {
+      "text": "?",
+      "start": 15.72,
+      "end": 16.38
+    },
+    {
+      "text": "Non,",
+      "start": 16.38,
+      "end": 16.66
+    },
+    {
+      "text": "ça,",
+      "start": 16.96,
+      "end": 17.16
+    },
+    {
+      "text": "ça",
+      "start": 17.38,
+      "end": 17.54
+    },
+    {
+      "text": "va",
+      "start": 17.54,
+      "end": 17.64
+    },
+    {
+      "text": "mieux.",
+      "start": 17.64,
+      "end": 17.84
+    },
+    {
+      "text": "Mon",
+      "start": 18.52,
+      "end": 18.8
+    },
+    {
+      "text": "mâle",
+      "start": 18.8,
+      "end": 19.0
+    },
+    {
+      "text": "de",
+      "start": 19.0,
+      "end": 19.08
+    },
+    {
+      "text": "tête",
+      "start": 19.08,
+      "end": 19.26
+    },
+    {
+      "text": "va",
+      "start": 19.26,
+      "end": 19.44
+    },
+    {
+      "text": "mieux",
+      "start": 19.44,
+      "end": 19.66
+    },
+    {
+      "text": "aussi.",
+      "start": 19.66,
+      "end": 19.9
+    },
+    {
+      "text": "C",
+      "start": 20.5,
+      "end": 20.8
+    },
+    {
+      "text": "'est",
+      "start": 20.8,
+      "end": 20.9
+    },
+    {
+      "text": "mon",
+      "start": 20.9,
+      "end": 21.06
+    },
+    {
+      "text": "dos",
+      "start": 21.06,
+      "end": 21.44
+    },
+    {
+      "text": "maintenant",
+      "start": 21.44,
+      "end": 21.84
+    },
+    {
+      "text": "qui",
+      "start": 21.84,
+      "end": 22.06
+    },
+    {
+      "text": "me",
+      "start": 22.06,
+      "end": 22.2
+    },
+    {
+      "text": "fait",
+      "start": 22.2,
+      "end": 22.34
+    },
+    {
+      "text": "mal.",
+      "start": 22.34,
+      "end": 22.7
+    },
+    {
+      "text": "Bon,",
+      "start": 23.3,
+      "end": 23.56
+    },
+    {
+      "text": "je",
+      "start": 24.08,
+      "end": 24.18
+    },
+    {
+      "text": "vais",
+      "start": 24.18,
+      "end": 24.28
+    },
+    {
+      "text": "vous",
+      "start": 24.28,
+      "end": 24.44
+    },
+    {
+      "text": "ausculter.",
+      "start": 24.44,
+      "end": 24.92
+    },
+    {
+      "text": "Venez",
+      "start": 25.44,
+      "end": 25.54
+    },
+    {
+      "text": "avec",
+      "start": 25.54,
+      "end": 25.74
+    },
+    {
+      "text": "moi.",
+      "start": 25.74,
+      "end": 25.92
+    },
+    {
+      "text": "De",
+      "start": 27.66,
+      "end": 28.54
+    },
+    {
+      "text": "quoi",
+      "start": 28.54,
+      "end": 28.72
+    },
+    {
+      "text": "souffre",
+      "start": 28.72,
+      "end": 29.16
+    },
+    {
+      "text": "maintenant",
+      "start": 29.16,
+      "end": 29.58
+    },
+    {
+      "text": "madame",
+      "start": 29.58,
+      "end": 30.08
+    },
+    {
+      "text": "Plichon",
+      "start": 30.08,
+      "end": 30.54
+    },
+    {
+      "text": "?",
+      "start": 30.54,
+      "end": 30.84
+    }
+  ]
+}

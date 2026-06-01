@@ -1,0 +1,185 @@
+{
+  "text": "Question 6 Bonjour ! A. Une baguette s'il vous plaît. B. 2 kilos de tomates s'il vous plaît. C. 3 côtelettes s'il vous plaît. D. Un bouquet de roses s'il vous plaît.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 2.16,
+      "end": 2.68
+    },
+    {
+      "text": "6",
+      "start": 2.68,
+      "end": 3.06
+    },
+    {
+      "text": "Bonjour",
+      "start": 3.06,
+      "end": 4.68
+    },
+    {
+      "text": "!",
+      "start": 4.68,
+      "end": 5.0
+    },
+    {
+      "text": "A.",
+      "start": 5.62,
+      "end": 6.14
+    },
+    {
+      "text": "Une",
+      "start": 6.6,
+      "end": 6.94
+    },
+    {
+      "text": "baguette",
+      "start": 6.94,
+      "end": 7.32
+    },
+    {
+      "text": "s",
+      "start": 7.32,
+      "end": 7.42
+    },
+    {
+      "text": "'il",
+      "start": 7.42,
+      "end": 7.44
+    },
+    {
+      "text": "vous",
+      "start": 7.44,
+      "end": 7.56
+    },
+    {
+      "text": "plaît.",
+      "start": 7.56,
+      "end": 7.82
+    },
+    {
+      "text": "B.",
+      "start": 8.7,
+      "end": 9.22
+    },
+    {
+      "text": "2",
+      "start": 10.02,
+      "end": 10.34
+    },
+    {
+      "text": "kilos",
+      "start": 10.34,
+      "end": 10.56
+    },
+    {
+      "text": "de",
+      "start": 10.56,
+      "end": 10.78
+    },
+    {
+      "text": "tomates",
+      "start": 10.78,
+      "end": 11.14
+    },
+    {
+      "text": "s",
+      "start": 11.14,
+      "end": 11.26
+    },
+    {
+      "text": "'il",
+      "start": 11.26,
+      "end": 11.3
+    },
+    {
+      "text": "vous",
+      "start": 11.3,
+      "end": 11.4
+    },
+    {
+      "text": "plaît.",
+      "start": 11.4,
+      "end": 11.64
+    },
+    {
+      "text": "C.",
+      "start": 12.22,
+      "end": 12.74
+    },
+    {
+      "text": "3",
+      "start": 13.34,
+      "end": 13.66
+    },
+    {
+      "text": "côtelettes",
+      "start": 13.66,
+      "end": 14.1
+    },
+    {
+      "text": "s",
+      "start": 14.1,
+      "end": 14.36
+    },
+    {
+      "text": "'il",
+      "start": 14.36,
+      "end": 14.4
+    },
+    {
+      "text": "vous",
+      "start": 14.4,
+      "end": 14.52
+    },
+    {
+      "text": "plaît.",
+      "start": 14.52,
+      "end": 14.76
+    },
+    {
+      "text": "D.",
+      "start": 15.38,
+      "end": 15.9
+    },
+    {
+      "text": "Un",
+      "start": 16.56,
+      "end": 16.7
+    },
+    {
+      "text": "bouquet",
+      "start": 16.7,
+      "end": 16.9
+    },
+    {
+      "text": "de",
+      "start": 16.9,
+      "end": 17.02
+    },
+    {
+      "text": "roses",
+      "start": 17.02,
+      "end": 17.2
+    },
+    {
+      "text": "s",
+      "start": 17.2,
+      "end": 17.4
+    },
+    {
+      "text": "'il",
+      "start": 17.4,
+      "end": 17.46
+    },
+    {
+      "text": "vous",
+      "start": 17.46,
+      "end": 17.54
+    },
+    {
+      "text": "plaît.",
+      "start": 17.54,
+      "end": 17.78
+    }
+  ]
+}

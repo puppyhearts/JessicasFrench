@@ -1,0 +1,700 @@
+{
+  "text": "La crise du logement a des effets directs sur l'autonomie des jeunes qui restent plus longtemps chez leurs parents et sont souvent confrontés lorsqu'ils quittent leur famille à des situations de précarité. Pierre Durand est président de la région Pays de la Loire pour l'Union nationale de l'habitat des jeunes. Pour lui, les foyers de jeunes travailleurs apportent une réponse moderne à cette demande nouvelle des jeunes. Les foyers de jeunes travailleurs qui pourtant ont été construits ou pensés en définitive dans une période extrêmement faste, qui était la période des 30 glorieuses, aujourd'hui ont su s'adapter pour prendre en compte les nouvelles problématiques de la société. Donc, il constitue une opportunité extrêmement importante pour répondre à cette question de la mobilité, qu'elle soit volontaire ou au contraire subie selon les circonstances.",
+  "words": [
+    {
+      "text": "La",
+      "start": 3.1,
+      "end": 3.62
+    },
+    {
+      "text": "crise",
+      "start": 3.62,
+      "end": 3.8
+    },
+    {
+      "text": "du",
+      "start": 3.8,
+      "end": 3.98
+    },
+    {
+      "text": "logement",
+      "start": 3.98,
+      "end": 4.24
+    },
+    {
+      "text": "a",
+      "start": 4.24,
+      "end": 4.42
+    },
+    {
+      "text": "des",
+      "start": 4.42,
+      "end": 4.56
+    },
+    {
+      "text": "effets",
+      "start": 4.56,
+      "end": 4.8
+    },
+    {
+      "text": "directs",
+      "start": 4.8,
+      "end": 5.48
+    },
+    {
+      "text": "sur",
+      "start": 5.48,
+      "end": 5.64
+    },
+    {
+      "text": "l",
+      "start": 5.64,
+      "end": 5.76
+    },
+    {
+      "text": "'autonomie",
+      "start": 5.76,
+      "end": 6.12
+    },
+    {
+      "text": "des",
+      "start": 6.12,
+      "end": 6.26
+    },
+    {
+      "text": "jeunes",
+      "start": 6.26,
+      "end": 6.46
+    },
+    {
+      "text": "qui",
+      "start": 6.46,
+      "end": 6.72
+    },
+    {
+      "text": "restent",
+      "start": 6.72,
+      "end": 7.12
+    },
+    {
+      "text": "plus",
+      "start": 7.12,
+      "end": 7.32
+    },
+    {
+      "text": "longtemps",
+      "start": 7.32,
+      "end": 7.58
+    },
+    {
+      "text": "chez",
+      "start": 7.58,
+      "end": 7.82
+    },
+    {
+      "text": "leurs",
+      "start": 7.82,
+      "end": 7.94
+    },
+    {
+      "text": "parents",
+      "start": 7.94,
+      "end": 8.3
+    },
+    {
+      "text": "et",
+      "start": 8.3,
+      "end": 8.86
+    },
+    {
+      "text": "sont",
+      "start": 8.86,
+      "end": 8.98
+    },
+    {
+      "text": "souvent",
+      "start": 8.98,
+      "end": 9.32
+    },
+    {
+      "text": "confrontés",
+      "start": 9.32,
+      "end": 9.94
+    },
+    {
+      "text": "lorsqu",
+      "start": 9.94,
+      "end": 10.1
+    },
+    {
+      "text": "'ils",
+      "start": 10.1,
+      "end": 10.4
+    },
+    {
+      "text": "quittent",
+      "start": 10.4,
+      "end": 10.72
+    },
+    {
+      "text": "leur",
+      "start": 10.72,
+      "end": 10.84
+    },
+    {
+      "text": "famille",
+      "start": 10.84,
+      "end": 11.2
+    },
+    {
+      "text": "à",
+      "start": 11.2,
+      "end": 11.54
+    },
+    {
+      "text": "des",
+      "start": 11.54,
+      "end": 11.68
+    },
+    {
+      "text": "situations",
+      "start": 11.68,
+      "end": 11.98
+    },
+    {
+      "text": "de",
+      "start": 11.98,
+      "end": 12.26
+    },
+    {
+      "text": "précarité.",
+      "start": 12.26,
+      "end": 12.88
+    },
+    {
+      "text": "Pierre",
+      "start": 13.3,
+      "end": 13.56
+    },
+    {
+      "text": "Durand",
+      "start": 13.56,
+      "end": 13.9
+    },
+    {
+      "text": "est",
+      "start": 13.9,
+      "end": 14.06
+    },
+    {
+      "text": "président",
+      "start": 14.06,
+      "end": 14.42
+    },
+    {
+      "text": "de",
+      "start": 14.42,
+      "end": 14.66
+    },
+    {
+      "text": "la",
+      "start": 14.66,
+      "end": 14.76
+    },
+    {
+      "text": "région",
+      "start": 14.76,
+      "end": 15.04
+    },
+    {
+      "text": "Pays",
+      "start": 15.04,
+      "end": 15.44
+    },
+    {
+      "text": "de",
+      "start": 15.44,
+      "end": 15.56
+    },
+    {
+      "text": "la",
+      "start": 15.56,
+      "end": 15.68
+    },
+    {
+      "text": "Loire",
+      "start": 15.68,
+      "end": 16.02
+    },
+    {
+      "text": "pour",
+      "start": 16.02,
+      "end": 16.26
+    },
+    {
+      "text": "l",
+      "start": 16.26,
+      "end": 16.4
+    },
+    {
+      "text": "'Union",
+      "start": 16.4,
+      "end": 16.58
+    },
+    {
+      "text": "nationale",
+      "start": 16.58,
+      "end": 17.14
+    },
+    {
+      "text": "de",
+      "start": 17.14,
+      "end": 17.8
+    },
+    {
+      "text": "l",
+      "start": 17.8,
+      "end": 17.94
+    },
+    {
+      "text": "'habitat",
+      "start": 17.94,
+      "end": 18.18
+    },
+    {
+      "text": "des",
+      "start": 18.18,
+      "end": 18.4
+    },
+    {
+      "text": "jeunes.",
+      "start": 18.4,
+      "end": 18.66
+    },
+    {
+      "text": "Pour",
+      "start": 19.14,
+      "end": 19.2
+    },
+    {
+      "text": "lui,",
+      "start": 19.2,
+      "end": 19.44
+    },
+    {
+      "text": "les",
+      "start": 19.58,
+      "end": 19.6
+    },
+    {
+      "text": "foyers",
+      "start": 19.6,
+      "end": 19.84
+    },
+    {
+      "text": "de",
+      "start": 19.84,
+      "end": 19.98
+    },
+    {
+      "text": "jeunes",
+      "start": 19.98,
+      "end": 20.12
+    },
+    {
+      "text": "travailleurs",
+      "start": 20.12,
+      "end": 20.7
+    },
+    {
+      "text": "apportent",
+      "start": 20.7,
+      "end": 21.18
+    },
+    {
+      "text": "une",
+      "start": 21.18,
+      "end": 21.3
+    },
+    {
+      "text": "réponse",
+      "start": 21.3,
+      "end": 21.58
+    },
+    {
+      "text": "moderne",
+      "start": 21.58,
+      "end": 22.22
+    },
+    {
+      "text": "à",
+      "start": 22.22,
+      "end": 22.72
+    },
+    {
+      "text": "cette",
+      "start": 22.72,
+      "end": 22.88
+    },
+    {
+      "text": "demande",
+      "start": 22.88,
+      "end": 23.2
+    },
+    {
+      "text": "nouvelle",
+      "start": 23.2,
+      "end": 23.84
+    },
+    {
+      "text": "des",
+      "start": 23.84,
+      "end": 24.24
+    },
+    {
+      "text": "jeunes.",
+      "start": 24.24,
+      "end": 24.52
+    },
+    {
+      "text": "Les",
+      "start": 24.52,
+      "end": 24.84
+    },
+    {
+      "text": "foyers",
+      "start": 24.84,
+      "end": 24.96
+    },
+    {
+      "text": "de",
+      "start": 24.96,
+      "end": 25.06
+    },
+    {
+      "text": "jeunes",
+      "start": 25.06,
+      "end": 25.12
+    },
+    {
+      "text": "travailleurs",
+      "start": 25.12,
+      "end": 25.58
+    },
+    {
+      "text": "qui",
+      "start": 25.58,
+      "end": 26.22
+    },
+    {
+      "text": "pourtant",
+      "start": 26.22,
+      "end": 26.5
+    },
+    {
+      "text": "ont",
+      "start": 26.5,
+      "end": 26.64
+    },
+    {
+      "text": "été",
+      "start": 26.64,
+      "end": 26.8
+    },
+    {
+      "text": "construits",
+      "start": 26.8,
+      "end": 27.52
+    },
+    {
+      "text": "ou",
+      "start": 27.52,
+      "end": 27.74
+    },
+    {
+      "text": "pensés",
+      "start": 27.74,
+      "end": 28.42
+    },
+    {
+      "text": "en",
+      "start": 28.42,
+      "end": 28.52
+    },
+    {
+      "text": "définitive",
+      "start": 28.52,
+      "end": 28.88
+    },
+    {
+      "text": "dans",
+      "start": 28.88,
+      "end": 29.06
+    },
+    {
+      "text": "une",
+      "start": 29.06,
+      "end": 29.22
+    },
+    {
+      "text": "période",
+      "start": 29.22,
+      "end": 29.62
+    },
+    {
+      "text": "extrêmement",
+      "start": 29.62,
+      "end": 30.38
+    },
+    {
+      "text": "faste,",
+      "start": 30.38,
+      "end": 31.02
+    },
+    {
+      "text": "qui",
+      "start": 31.02,
+      "end": 31.1
+    },
+    {
+      "text": "était",
+      "start": 31.1,
+      "end": 31.28
+    },
+    {
+      "text": "la",
+      "start": 31.28,
+      "end": 31.4
+    },
+    {
+      "text": "période",
+      "start": 31.4,
+      "end": 31.58
+    },
+    {
+      "text": "des",
+      "start": 31.58,
+      "end": 31.76
+    },
+    {
+      "text": "30",
+      "start": 31.76,
+      "end": 31.86
+    },
+    {
+      "text": "glorieuses,",
+      "start": 31.86,
+      "end": 32.48
+    },
+    {
+      "text": "aujourd",
+      "start": 32.98,
+      "end": 33.1
+    },
+    {
+      "text": "'hui",
+      "start": 33.1,
+      "end": 33.4
+    },
+    {
+      "text": "ont",
+      "start": 33.4,
+      "end": 33.54
+    },
+    {
+      "text": "su",
+      "start": 33.54,
+      "end": 33.74
+    },
+    {
+      "text": "s",
+      "start": 33.74,
+      "end": 33.86
+    },
+    {
+      "text": "'adapter",
+      "start": 33.86,
+      "end": 34.18
+    },
+    {
+      "text": "pour",
+      "start": 34.18,
+      "end": 34.5
+    },
+    {
+      "text": "prendre",
+      "start": 34.5,
+      "end": 34.72
+    },
+    {
+      "text": "en",
+      "start": 34.72,
+      "end": 34.84
+    },
+    {
+      "text": "compte",
+      "start": 34.84,
+      "end": 35.0
+    },
+    {
+      "text": "les",
+      "start": 35.0,
+      "end": 35.24
+    },
+    {
+      "text": "nouvelles",
+      "start": 35.24,
+      "end": 35.5
+    },
+    {
+      "text": "problématiques",
+      "start": 35.5,
+      "end": 36.02
+    },
+    {
+      "text": "de",
+      "start": 36.02,
+      "end": 36.2
+    },
+    {
+      "text": "la",
+      "start": 36.2,
+      "end": 36.26
+    },
+    {
+      "text": "société.",
+      "start": 36.26,
+      "end": 36.54
+    },
+    {
+      "text": "Donc,",
+      "start": 36.86,
+      "end": 36.94
+    },
+    {
+      "text": "il",
+      "start": 36.98,
+      "end": 37.1
+    },
+    {
+      "text": "constitue",
+      "start": 37.1,
+      "end": 37.6
+    },
+    {
+      "text": "une",
+      "start": 37.6,
+      "end": 37.76
+    },
+    {
+      "text": "opportunité",
+      "start": 37.76,
+      "end": 38.4
+    },
+    {
+      "text": "extrêmement",
+      "start": 38.4,
+      "end": 39.02
+    },
+    {
+      "text": "importante",
+      "start": 39.02,
+      "end": 39.58
+    },
+    {
+      "text": "pour",
+      "start": 39.58,
+      "end": 39.8
+    },
+    {
+      "text": "répondre",
+      "start": 39.8,
+      "end": 40.02
+    },
+    {
+      "text": "à",
+      "start": 40.02,
+      "end": 40.16
+    },
+    {
+      "text": "cette",
+      "start": 40.16,
+      "end": 40.28
+    },
+    {
+      "text": "question",
+      "start": 40.28,
+      "end": 40.54
+    },
+    {
+      "text": "de",
+      "start": 40.54,
+      "end": 40.66
+    },
+    {
+      "text": "la",
+      "start": 40.66,
+      "end": 40.7
+    },
+    {
+      "text": "mobilité,",
+      "start": 40.7,
+      "end": 41.2
+    },
+    {
+      "text": "qu",
+      "start": 41.38,
+      "end": 41.72
+    },
+    {
+      "text": "'elle",
+      "start": 41.72,
+      "end": 41.76
+    },
+    {
+      "text": "soit",
+      "start": 41.76,
+      "end": 41.94
+    },
+    {
+      "text": "volontaire",
+      "start": 41.94,
+      "end": 42.44
+    },
+    {
+      "text": "ou",
+      "start": 42.44,
+      "end": 42.58
+    },
+    {
+      "text": "au",
+      "start": 42.58,
+      "end": 42.68
+    },
+    {
+      "text": "contraire",
+      "start": 42.68,
+      "end": 43.06
+    },
+    {
+      "text": "subie",
+      "start": 43.06,
+      "end": 43.66
+    },
+    {
+      "text": "selon",
+      "start": 43.66,
+      "end": 43.94
+    },
+    {
+      "text": "les",
+      "start": 43.94,
+      "end": 44.24
+    },
+    {
+      "text": "circonstances.",
+      "start": 44.24,
+      "end": 45.02
+    }
+  ]
+}

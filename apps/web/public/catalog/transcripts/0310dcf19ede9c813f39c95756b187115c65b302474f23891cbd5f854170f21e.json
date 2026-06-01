@@ -1,0 +1,155 @@
+{
+  "text": "question 12 aimeriez vous une autre tasse de thé à certainement j'adore le café b je vous en prie c je n'ai plus faim merci d volontiers merci",
+  "words": [
+    {
+      "text": "question",
+      "start": 2.22,
+      "end": 2.84
+    },
+    {
+      "text": "12",
+      "start": 2.84,
+      "end": 3.3
+    },
+    {
+      "text": "aimeriez",
+      "start": 3.3,
+      "end": 5.08
+    },
+    {
+      "text": "vous",
+      "start": 5.08,
+      "end": 5.2
+    },
+    {
+      "text": "une",
+      "start": 5.2,
+      "end": 5.42
+    },
+    {
+      "text": "autre",
+      "start": 5.42,
+      "end": 5.58
+    },
+    {
+      "text": "tasse",
+      "start": 5.58,
+      "end": 5.88
+    },
+    {
+      "text": "de",
+      "start": 5.88,
+      "end": 6.0
+    },
+    {
+      "text": "thé",
+      "start": 6.0,
+      "end": 6.16
+    },
+    {
+      "text": "à",
+      "start": 6.16,
+      "end": 7.58
+    },
+    {
+      "text": "certainement",
+      "start": 7.58,
+      "end": 8.9
+    },
+    {
+      "text": "j",
+      "start": 8.9,
+      "end": 9.32
+    },
+    {
+      "text": "'adore",
+      "start": 9.32,
+      "end": 9.58
+    },
+    {
+      "text": "le",
+      "start": 9.58,
+      "end": 9.78
+    },
+    {
+      "text": "café",
+      "start": 9.78,
+      "end": 10.04
+    },
+    {
+      "text": "b",
+      "start": 11.28,
+      "end": 11.9
+    },
+    {
+      "text": "je",
+      "start": 11.9,
+      "end": 12.52
+    },
+    {
+      "text": "vous",
+      "start": 12.52,
+      "end": 12.7
+    },
+    {
+      "text": "en",
+      "start": 12.7,
+      "end": 12.86
+    },
+    {
+      "text": "prie",
+      "start": 12.86,
+      "end": 13.2
+    },
+    {
+      "text": "c",
+      "start": 13.2,
+      "end": 14.32
+    },
+    {
+      "text": "je",
+      "start": 14.32,
+      "end": 15.0
+    },
+    {
+      "text": "n",
+      "start": 15.0,
+      "end": 15.08
+    },
+    {
+      "text": "'ai",
+      "start": 15.08,
+      "end": 15.14
+    },
+    {
+      "text": "plus",
+      "start": 15.14,
+      "end": 15.28
+    },
+    {
+      "text": "faim",
+      "start": 15.28,
+      "end": 15.58
+    },
+    {
+      "text": "merci",
+      "start": 15.58,
+      "end": 15.9
+    },
+    {
+      "text": "d",
+      "start": 15.9,
+      "end": 17.22
+    },
+    {
+      "text": "volontiers",
+      "start": 17.22,
+      "end": 18.4
+    },
+    {
+      "text": "merci",
+      "start": 18.4,
+      "end": 18.92
+    }
+  ]
+}

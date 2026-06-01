@@ -1,0 +1,125 @@
+{
+  "text": "question 13 quel temps fait-il à il neige b il est huit heures c il y a trois heures d cet après-midi",
+  "words": [
+    {
+      "text": "question",
+      "start": 1.8,
+      "end": 2.74
+    },
+    {
+      "text": "13",
+      "start": 2.74,
+      "end": 3.4
+    },
+    {
+      "text": "quel",
+      "start": 3.4,
+      "end": 4.76
+    },
+    {
+      "text": "temps",
+      "start": 4.76,
+      "end": 4.98
+    },
+    {
+      "text": "fait",
+      "start": 4.98,
+      "end": 5.18
+    },
+    {
+      "text": "-il",
+      "start": 5.18,
+      "end": 5.44
+    },
+    {
+      "text": "à",
+      "start": 5.44,
+      "end": 6.54
+    },
+    {
+      "text": "il",
+      "start": 6.54,
+      "end": 7.12
+    },
+    {
+      "text": "neige",
+      "start": 7.12,
+      "end": 7.82
+    },
+    {
+      "text": "b",
+      "start": 7.82,
+      "end": 8.66
+    },
+    {
+      "text": "il",
+      "start": 8.66,
+      "end": 9.66
+    },
+    {
+      "text": "est",
+      "start": 9.66,
+      "end": 9.8
+    },
+    {
+      "text": "huit",
+      "start": 9.8,
+      "end": 9.98
+    },
+    {
+      "text": "heures",
+      "start": 9.98,
+      "end": 10.3
+    },
+    {
+      "text": "c",
+      "start": 10.3,
+      "end": 11.68
+    },
+    {
+      "text": "il",
+      "start": 11.68,
+      "end": 12.54
+    },
+    {
+      "text": "y",
+      "start": 12.54,
+      "end": 12.66
+    },
+    {
+      "text": "a",
+      "start": 12.66,
+      "end": 12.7
+    },
+    {
+      "text": "trois",
+      "start": 12.7,
+      "end": 12.86
+    },
+    {
+      "text": "heures",
+      "start": 12.86,
+      "end": 13.22
+    },
+    {
+      "text": "d",
+      "start": 13.22,
+      "end": 14.42
+    },
+    {
+      "text": "cet",
+      "start": 14.42,
+      "end": 15.34
+    },
+    {
+      "text": "après",
+      "start": 15.34,
+      "end": 15.52
+    },
+    {
+      "text": "-midi",
+      "start": 15.52,
+      "end": 15.8
+    }
+  ]
+}

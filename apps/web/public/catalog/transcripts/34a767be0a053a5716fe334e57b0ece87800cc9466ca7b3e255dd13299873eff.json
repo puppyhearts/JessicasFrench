@@ -1,0 +1,115 @@
+{
+  "text": "question 2 cet homme a attend le train b a manqué son train c va prendre le train d descend du train",
+  "words": [
+    {
+      "text": "question",
+      "start": 1.78,
+      "end": 2.72
+    },
+    {
+      "text": "2",
+      "start": 2.72,
+      "end": 3.18
+    },
+    {
+      "text": "cet",
+      "start": 3.18,
+      "end": 5.6
+    },
+    {
+      "text": "homme",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "text": "a",
+      "start": 6.08,
+      "end": 7.32
+    },
+    {
+      "text": "attend",
+      "start": 7.32,
+      "end": 8.04
+    },
+    {
+      "text": "le",
+      "start": 8.04,
+      "end": 8.22
+    },
+    {
+      "text": "train",
+      "start": 8.22,
+      "end": 8.52
+    },
+    {
+      "text": "b",
+      "start": 8.52,
+      "end": 9.8
+    },
+    {
+      "text": "a",
+      "start": 9.8,
+      "end": 10.42
+    },
+    {
+      "text": "manqué",
+      "start": 10.42,
+      "end": 10.74
+    },
+    {
+      "text": "son",
+      "start": 10.74,
+      "end": 11.02
+    },
+    {
+      "text": "train",
+      "start": 11.02,
+      "end": 11.32
+    },
+    {
+      "text": "c",
+      "start": 11.32,
+      "end": 12.6
+    },
+    {
+      "text": "va",
+      "start": 12.6,
+      "end": 13.36
+    },
+    {
+      "text": "prendre",
+      "start": 13.36,
+      "end": 13.78
+    },
+    {
+      "text": "le",
+      "start": 13.78,
+      "end": 14.08
+    },
+    {
+      "text": "train",
+      "start": 14.08,
+      "end": 14.42
+    },
+    {
+      "text": "d",
+      "start": 14.42,
+      "end": 15.84
+    },
+    {
+      "text": "descend",
+      "start": 15.84,
+      "end": 17.08
+    },
+    {
+      "text": "du",
+      "start": 17.08,
+      "end": 17.32
+    },
+    {
+      "text": "train",
+      "start": 17.32,
+      "end": 17.56
+    }
+  ]
+}

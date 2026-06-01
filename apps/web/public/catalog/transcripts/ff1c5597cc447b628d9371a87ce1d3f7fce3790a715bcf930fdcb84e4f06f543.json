@@ -1,0 +1,95 @@
+{
+  "text": "Question 7. A. J'ai faim. B. J'ai soif. C. J'ai sommeil. D. J'ai chaud.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 1.72,
+      "end": 2.6
+    },
+    {
+      "text": "7.",
+      "start": 2.6,
+      "end": 3.12
+    },
+    {
+      "text": "A.",
+      "start": 4.14,
+      "end": 5.02
+    },
+    {
+      "text": "J",
+      "start": 5.4,
+      "end": 5.62
+    },
+    {
+      "text": "'ai",
+      "start": 5.62,
+      "end": 5.8
+    },
+    {
+      "text": "faim.",
+      "start": 5.8,
+      "end": 6.08
+    },
+    {
+      "text": "B.",
+      "start": 6.68,
+      "end": 7.18
+    },
+    {
+      "text": "J",
+      "start": 7.82,
+      "end": 7.92
+    },
+    {
+      "text": "'ai",
+      "start": 7.92,
+      "end": 8.02
+    },
+    {
+      "text": "soif.",
+      "start": 8.02,
+      "end": 8.48
+    },
+    {
+      "text": "C.",
+      "start": 8.98,
+      "end": 9.6
+    },
+    {
+      "text": "J",
+      "start": 10.02,
+      "end": 10.2
+    },
+    {
+      "text": "'ai",
+      "start": 10.2,
+      "end": 10.32
+    },
+    {
+      "text": "sommeil.",
+      "start": 10.32,
+      "end": 10.84
+    },
+    {
+      "text": "D.",
+      "start": 11.3,
+      "end": 11.66
+    },
+    {
+      "text": "J",
+      "start": 12.1,
+      "end": 12.34
+    },
+    {
+      "text": "'ai",
+      "start": 12.34,
+      "end": 12.44
+    },
+    {
+      "text": "chaud.",
+      "start": 12.44,
+      "end": 12.7
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "text": "Question 4 La vraie salade niçoise se compose d'anchois et d'artichaut. La préparation d'un magré de canard exige une grande concentration. La soupe aux champignons est ma spécialité. Pour la tartatin, il me faut des pommes et du sucre.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 1.9,
+      "end": 2.68
+    },
+    {
+      "text": "4",
+      "start": 2.68,
+      "end": 3.26
+    },
+    {
+      "text": "La",
+      "start": 5.84,
+      "end": 6.62
+    },
+    {
+      "text": "vraie",
+      "start": 6.62,
+      "end": 7.4
+    },
+    {
+      "text": "salade",
+      "start": 7.4,
+      "end": 7.72
+    },
+    {
+      "text": "niçoise",
+      "start": 7.72,
+      "end": 8.32
+    },
+    {
+      "text": "se",
+      "start": 8.32,
+      "end": 8.54
+    },
+    {
+      "text": "compose",
+      "start": 8.54,
+      "end": 8.86
+    },
+    {
+      "text": "d",
+      "start": 8.86,
+      "end": 9.1
+    },
+    {
+      "text": "'anchois",
+      "start": 9.1,
+      "end": 9.5
+    },
+    {
+      "text": "et",
+      "start": 9.5,
+      "end": 9.82
+    },
+    {
+      "text": "d",
+      "start": 9.82,
+      "end": 9.96
+    },
+    {
+      "text": "'artichaut.",
+      "start": 9.96,
+      "end": 10.36
+    },
+    {
+      "text": "La",
+      "start": 12.5,
+      "end": 13.28
+    },
+    {
+      "text": "préparation",
+      "start": 13.28,
+      "end": 14.06
+    },
+    {
+      "text": "d",
+      "start": 14.06,
+      "end": 14.24
+    },
+    {
+      "text": "'un",
+      "start": 14.24,
+      "end": 14.32
+    },
+    {
+      "text": "magré",
+      "start": 14.32,
+      "end": 14.6
+    },
+    {
+      "text": "de",
+      "start": 14.6,
+      "end": 14.74
+    },
+    {
+      "text": "canard",
+      "start": 14.74,
+      "end": 15.14
+    },
+    {
+      "text": "exige",
+      "start": 15.14,
+      "end": 15.68
+    },
+    {
+      "text": "une",
+      "start": 15.68,
+      "end": 15.88
+    },
+    {
+      "text": "grande",
+      "start": 15.88,
+      "end": 16.26
+    },
+    {
+      "text": "concentration.",
+      "start": 16.26,
+      "end": 17.04
+    },
+    {
+      "text": "La",
+      "start": 19.68,
+      "end": 20.46
+    },
+    {
+      "text": "soupe",
+      "start": 20.46,
+      "end": 20.84
+    },
+    {
+      "text": "aux",
+      "start": 20.84,
+      "end": 20.94
+    },
+    {
+      "text": "champignons",
+      "start": 20.94,
+      "end": 21.56
+    },
+    {
+      "text": "est",
+      "start": 21.56,
+      "end": 21.68
+    },
+    {
+      "text": "ma",
+      "start": 21.68,
+      "end": 21.76
+    },
+    {
+      "text": "spécialité.",
+      "start": 21.76,
+      "end": 22.52
+    },
+    {
+      "text": "Pour",
+      "start": 24.62,
+      "end": 24.62
+    },
+    {
+      "text": "la",
+      "start": 24.62,
+      "end": 25.64
+    },
+    {
+      "text": "tartatin,",
+      "start": 25.64,
+      "end": 26.2
+    },
+    {
+      "text": "il",
+      "start": 26.62,
+      "end": 26.68
+    },
+    {
+      "text": "me",
+      "start": 26.68,
+      "end": 26.8
+    },
+    {
+      "text": "faut",
+      "start": 26.8,
+      "end": 26.96
+    },
+    {
+      "text": "des",
+      "start": 26.96,
+      "end": 27.12
+    },
+    {
+      "text": "pommes",
+      "start": 27.12,
+      "end": 27.52
+    },
+    {
+      "text": "et",
+      "start": 27.52,
+      "end": 27.86
+    },
+    {
+      "text": "du",
+      "start": 27.86,
+      "end": 27.98
+    },
+    {
+      "text": "sucre.",
+      "start": 27.98,
+      "end": 28.26
+    }
+  ]
+}

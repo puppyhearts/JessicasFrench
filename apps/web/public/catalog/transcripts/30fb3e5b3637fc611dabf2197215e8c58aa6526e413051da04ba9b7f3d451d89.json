@@ -1,0 +1,125 @@
+{
+  "text": "Question 6. Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. A quel porte les passagers doivent-ils se présenter ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "6.",
+      "start": 0.56,
+      "end": 1.04
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.12,
+      "end": 2.54
+    },
+    {
+      "text": "l",
+      "start": 2.54,
+      "end": 2.76
+    },
+    {
+      "text": "'extrait",
+      "start": 2.76,
+      "end": 3.1
+    },
+    {
+      "text": "sonore",
+      "start": 3.1,
+      "end": 3.7
+    },
+    {
+      "text": "et",
+      "start": 3.7,
+      "end": 3.98
+    },
+    {
+      "text": "les",
+      "start": 3.98,
+      "end": 4.1
+    },
+    {
+      "text": "quatre",
+      "start": 4.1,
+      "end": 4.34
+    },
+    {
+      "text": "propositions.",
+      "start": 4.34,
+      "end": 5.06
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.68,
+      "end": 6.2
+    },
+    {
+      "text": "la",
+      "start": 6.2,
+      "end": 6.38
+    },
+    {
+      "text": "bonne",
+      "start": 6.38,
+      "end": 6.58
+    },
+    {
+      "text": "réponse.",
+      "start": 6.58,
+      "end": 6.94
+    },
+    {
+      "text": "A",
+      "start": 35.72,
+      "end": 36.54
+    },
+    {
+      "text": "quel",
+      "start": 36.54,
+      "end": 37.36
+    },
+    {
+      "text": "porte",
+      "start": 37.36,
+      "end": 37.84
+    },
+    {
+      "text": "les",
+      "start": 37.84,
+      "end": 38.22
+    },
+    {
+      "text": "passagers",
+      "start": 38.22,
+      "end": 38.62
+    },
+    {
+      "text": "doivent",
+      "start": 38.62,
+      "end": 38.84
+    },
+    {
+      "text": "-ils",
+      "start": 38.84,
+      "end": 39.02
+    },
+    {
+      "text": "se",
+      "start": 39.02,
+      "end": 39.22
+    },
+    {
+      "text": "présenter",
+      "start": 39.22,
+      "end": 39.64
+    },
+    {
+      "text": "?",
+      "start": 39.64,
+      "end": 40.05
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "text": "En raison d'un incident technique, ce train ne prend plus de voyageurs. Pour continuer votre voyage vers Strasbourg, le départ se fait sur le quai en face. Nous vous remercions de votre compréhension. Canons ce message.",
+  "words": [
+    {
+      "text": "En",
+      "start": 0.0,
+      "end": 0.62
+    },
+    {
+      "text": "raison",
+      "start": 0.62,
+      "end": 1.04
+    },
+    {
+      "text": "d",
+      "start": 1.04,
+      "end": 1.28
+    },
+    {
+      "text": "'un",
+      "start": 1.28,
+      "end": 1.36
+    },
+    {
+      "text": "incident",
+      "start": 1.36,
+      "end": 1.74
+    },
+    {
+      "text": "technique,",
+      "start": 1.74,
+      "end": 2.28
+    },
+    {
+      "text": "ce",
+      "start": 2.86,
+      "end": 2.96
+    },
+    {
+      "text": "train",
+      "start": 2.96,
+      "end": 3.2
+    },
+    {
+      "text": "ne",
+      "start": 3.2,
+      "end": 3.36
+    },
+    {
+      "text": "prend",
+      "start": 3.36,
+      "end": 3.52
+    },
+    {
+      "text": "plus",
+      "start": 3.52,
+      "end": 3.78
+    },
+    {
+      "text": "de",
+      "start": 3.78,
+      "end": 3.9
+    },
+    {
+      "text": "voyageurs.",
+      "start": 3.9,
+      "end": 4.54
+    },
+    {
+      "text": "Pour",
+      "start": 5.06,
+      "end": 5.34
+    },
+    {
+      "text": "continuer",
+      "start": 5.34,
+      "end": 5.82
+    },
+    {
+      "text": "votre",
+      "start": 5.82,
+      "end": 6.12
+    },
+    {
+      "text": "voyage",
+      "start": 6.12,
+      "end": 6.58
+    },
+    {
+      "text": "vers",
+      "start": 6.58,
+      "end": 6.88
+    },
+    {
+      "text": "Strasbourg,",
+      "start": 6.88,
+      "end": 7.44
+    },
+    {
+      "text": "le",
+      "start": 8.16,
+      "end": 8.24
+    },
+    {
+      "text": "départ",
+      "start": 8.24,
+      "end": 8.52
+    },
+    {
+      "text": "se",
+      "start": 8.52,
+      "end": 8.74
+    },
+    {
+      "text": "fait",
+      "start": 8.74,
+      "end": 8.96
+    },
+    {
+      "text": "sur",
+      "start": 8.96,
+      "end": 9.16
+    },
+    {
+      "text": "le",
+      "start": 9.16,
+      "end": 9.34
+    },
+    {
+      "text": "quai",
+      "start": 9.34,
+      "end": 9.56
+    },
+    {
+      "text": "en",
+      "start": 9.56,
+      "end": 9.84
+    },
+    {
+      "text": "face.",
+      "start": 9.84,
+      "end": 10.26
+    },
+    {
+      "text": "Nous",
+      "start": 10.88,
+      "end": 10.98
+    },
+    {
+      "text": "vous",
+      "start": 10.98,
+      "end": 11.16
+    },
+    {
+      "text": "remercions",
+      "start": 11.16,
+      "end": 11.66
+    },
+    {
+      "text": "de",
+      "start": 11.66,
+      "end": 11.78
+    },
+    {
+      "text": "votre",
+      "start": 11.78,
+      "end": 11.96
+    },
+    {
+      "text": "compréhension.",
+      "start": 11.96,
+      "end": 12.62
+    },
+    {
+      "text": "Canons",
+      "start": 14.08,
+      "end": 14.64
+    },
+    {
+      "text": "ce",
+      "start": 14.64,
+      "end": 14.88
+    },
+    {
+      "text": "message.",
+      "start": 14.88,
+      "end": 15.28
+    }
+  ]
+}

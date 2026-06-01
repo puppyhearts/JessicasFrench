@@ -1,0 +1,1215 @@
+{
+  "text": "Bonjour François Sveck, merci beaucoup d'être avec nous. Vous avez fait paraître il y a peu aux éditions de l'Arméatan, un petit livre qui s'appelle Putain d'Axen, vous voyez que je le dis en pointu, et qui est sous-titré, Comment les méridionnaux vivent leur langue avec des dessins de Thierry Ruiz. Alors d'abord, est-ce que vous êtes d'accord avec moi ? Est-ce que vous avez l'impression que petit à petit l'accent qu'on appelle de façon globale, l'accent du midi, bien qu'on sache bien que à Toulouse on ne parle pas comme à Nice, ni à Marseille, ni dans les campagnes. Est-ce que vous avez l'impression que c'est quelque chose qui a moins d'importance, qui espère un peu ? Non, je n'en serai tout ça. Il est bien évident que la grande majorité des méridionnaux ont encore l'accent, et fort heureusement, tous ceux qui d'ailleurs n'ont pas dans leur vie un espace pour avoir des états d'âme linguistiques, cela porte haut et fort leur accent avec beaucoup de bonheur, beaucoup de brio, mais bien sûr qu'il y a certains milieux qui sont atteints par cette gangrène, et qui donc sont quasiment obsédés par la perte de cet accent. Question 7. Que déclare la personne interviewée ? Question 8. Quelle est l'opinion de l'auteur du livre évoqué ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 3.42,
+      "end": 3.78
+    },
+    {
+      "text": "François",
+      "start": 3.78,
+      "end": 4.14
+    },
+    {
+      "text": "Sveck,",
+      "start": 4.14,
+      "end": 4.4
+    },
+    {
+      "text": "merci",
+      "start": 4.48,
+      "end": 4.6
+    },
+    {
+      "text": "beaucoup",
+      "start": 4.6,
+      "end": 4.88
+    },
+    {
+      "text": "d",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "text": "'être",
+      "start": 5.04,
+      "end": 5.08
+    },
+    {
+      "text": "avec",
+      "start": 5.08,
+      "end": 5.32
+    },
+    {
+      "text": "nous.",
+      "start": 5.32,
+      "end": 5.52
+    },
+    {
+      "text": "Vous",
+      "start": 5.98,
+      "end": 6.06
+    },
+    {
+      "text": "avez",
+      "start": 6.06,
+      "end": 6.22
+    },
+    {
+      "text": "fait",
+      "start": 6.22,
+      "end": 6.38
+    },
+    {
+      "text": "paraître",
+      "start": 6.38,
+      "end": 6.82
+    },
+    {
+      "text": "il",
+      "start": 6.82,
+      "end": 7.1
+    },
+    {
+      "text": "y",
+      "start": 7.1,
+      "end": 7.2
+    },
+    {
+      "text": "a",
+      "start": 7.2,
+      "end": 7.24
+    },
+    {
+      "text": "peu",
+      "start": 7.24,
+      "end": 7.44
+    },
+    {
+      "text": "aux",
+      "start": 7.44,
+      "end": 7.6
+    },
+    {
+      "text": "éditions",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "text": "de",
+      "start": 7.86,
+      "end": 8.0
+    },
+    {
+      "text": "l",
+      "start": 8.0,
+      "end": 8.06
+    },
+    {
+      "text": "'Arméatan,",
+      "start": 8.06,
+      "end": 8.52
+    },
+    {
+      "text": "un",
+      "start": 8.86,
+      "end": 9.06
+    },
+    {
+      "text": "petit",
+      "start": 9.06,
+      "end": 9.18
+    },
+    {
+      "text": "livre",
+      "start": 9.18,
+      "end": 9.32
+    },
+    {
+      "text": "qui",
+      "start": 9.32,
+      "end": 9.44
+    },
+    {
+      "text": "s",
+      "start": 9.44,
+      "end": 9.56
+    },
+    {
+      "text": "'appelle",
+      "start": 9.56,
+      "end": 9.78
+    },
+    {
+      "text": "Putain",
+      "start": 9.78,
+      "end": 10.12
+    },
+    {
+      "text": "d",
+      "start": 10.12,
+      "end": 10.26
+    },
+    {
+      "text": "'Axen,",
+      "start": 10.26,
+      "end": 10.54
+    },
+    {
+      "text": "vous",
+      "start": 10.72,
+      "end": 10.84
+    },
+    {
+      "text": "voyez",
+      "start": 10.84,
+      "end": 10.98
+    },
+    {
+      "text": "que",
+      "start": 10.98,
+      "end": 11.1
+    },
+    {
+      "text": "je",
+      "start": 11.1,
+      "end": 11.22
+    },
+    {
+      "text": "le",
+      "start": 11.22,
+      "end": 11.34
+    },
+    {
+      "text": "dis",
+      "start": 11.34,
+      "end": 11.56
+    },
+    {
+      "text": "en",
+      "start": 11.56,
+      "end": 12.22
+    },
+    {
+      "text": "pointu,",
+      "start": 12.22,
+      "end": 12.62
+    },
+    {
+      "text": "et",
+      "start": 12.86,
+      "end": 12.96
+    },
+    {
+      "text": "qui",
+      "start": 12.96,
+      "end": 13.06
+    },
+    {
+      "text": "est",
+      "start": 13.06,
+      "end": 13.14
+    },
+    {
+      "text": "sous",
+      "start": 13.14,
+      "end": 13.26
+    },
+    {
+      "text": "-titré,",
+      "start": 13.26,
+      "end": 13.66
+    },
+    {
+      "text": "Comment",
+      "start": 14.28,
+      "end": 14.48
+    },
+    {
+      "text": "les",
+      "start": 14.48,
+      "end": 14.86
+    },
+    {
+      "text": "méridionnaux",
+      "start": 14.86,
+      "end": 15.6
+    },
+    {
+      "text": "vivent",
+      "start": 15.6,
+      "end": 16.0
+    },
+    {
+      "text": "leur",
+      "start": 16.0,
+      "end": 16.18
+    },
+    {
+      "text": "langue",
+      "start": 16.18,
+      "end": 16.58
+    },
+    {
+      "text": "avec",
+      "start": 16.58,
+      "end": 17.04
+    },
+    {
+      "text": "des",
+      "start": 17.04,
+      "end": 17.34
+    },
+    {
+      "text": "dessins",
+      "start": 17.34,
+      "end": 17.72
+    },
+    {
+      "text": "de",
+      "start": 17.72,
+      "end": 17.98
+    },
+    {
+      "text": "Thierry",
+      "start": 17.98,
+      "end": 18.66
+    },
+    {
+      "text": "Ruiz.",
+      "start": 18.66,
+      "end": 19.28
+    },
+    {
+      "text": "Alors",
+      "start": 19.9,
+      "end": 20.02
+    },
+    {
+      "text": "d",
+      "start": 20.02,
+      "end": 20.18
+    },
+    {
+      "text": "'abord,",
+      "start": 20.18,
+      "end": 20.44
+    },
+    {
+      "text": "est",
+      "start": 21.12,
+      "end": 21.2
+    },
+    {
+      "text": "-ce",
+      "start": 21.2,
+      "end": 21.24
+    },
+    {
+      "text": "que",
+      "start": 21.24,
+      "end": 21.34
+    },
+    {
+      "text": "vous",
+      "start": 21.34,
+      "end": 21.42
+    },
+    {
+      "text": "êtes",
+      "start": 21.42,
+      "end": 21.56
+    },
+    {
+      "text": "d",
+      "start": 21.56,
+      "end": 21.72
+    },
+    {
+      "text": "'accord",
+      "start": 21.72,
+      "end": 21.82
+    },
+    {
+      "text": "avec",
+      "start": 21.82,
+      "end": 22.06
+    },
+    {
+      "text": "moi",
+      "start": 22.06,
+      "end": 22.24
+    },
+    {
+      "text": "?",
+      "start": 22.24,
+      "end": 22.28
+    },
+    {
+      "text": "Est",
+      "start": 22.28,
+      "end": 22.36
+    },
+    {
+      "text": "-ce",
+      "start": 22.36,
+      "end": 22.42
+    },
+    {
+      "text": "que",
+      "start": 22.42,
+      "end": 22.48
+    },
+    {
+      "text": "vous",
+      "start": 22.48,
+      "end": 22.58
+    },
+    {
+      "text": "avez",
+      "start": 22.58,
+      "end": 22.76
+    },
+    {
+      "text": "l",
+      "start": 22.76,
+      "end": 22.9
+    },
+    {
+      "text": "'impression",
+      "start": 22.9,
+      "end": 23.24
+    },
+    {
+      "text": "que",
+      "start": 23.24,
+      "end": 23.68
+    },
+    {
+      "text": "petit",
+      "start": 23.68,
+      "end": 24.3
+    },
+    {
+      "text": "à",
+      "start": 24.3,
+      "end": 24.56
+    },
+    {
+      "text": "petit",
+      "start": 24.56,
+      "end": 24.82
+    },
+    {
+      "text": "l",
+      "start": 24.82,
+      "end": 25.04
+    },
+    {
+      "text": "'accent",
+      "start": 25.04,
+      "end": 25.42
+    },
+    {
+      "text": "qu",
+      "start": 25.42,
+      "end": 25.8
+    },
+    {
+      "text": "'on",
+      "start": 25.8,
+      "end": 25.86
+    },
+    {
+      "text": "appelle",
+      "start": 25.86,
+      "end": 26.1
+    },
+    {
+      "text": "de",
+      "start": 26.1,
+      "end": 26.32
+    },
+    {
+      "text": "façon",
+      "start": 26.32,
+      "end": 26.58
+    },
+    {
+      "text": "globale,",
+      "start": 26.58,
+      "end": 27.86
+    },
+    {
+      "text": "l",
+      "start": 28.0,
+      "end": 28.06
+    },
+    {
+      "text": "'accent",
+      "start": 28.06,
+      "end": 28.2
+    },
+    {
+      "text": "du",
+      "start": 28.2,
+      "end": 28.4
+    },
+    {
+      "text": "midi,",
+      "start": 28.4,
+      "end": 28.66
+    },
+    {
+      "text": "bien",
+      "start": 28.74,
+      "end": 28.82
+    },
+    {
+      "text": "qu",
+      "start": 28.82,
+      "end": 28.98
+    },
+    {
+      "text": "'on",
+      "start": 28.98,
+      "end": 29.04
+    },
+    {
+      "text": "sache",
+      "start": 29.04,
+      "end": 29.28
+    },
+    {
+      "text": "bien",
+      "start": 29.28,
+      "end": 29.48
+    },
+    {
+      "text": "que",
+      "start": 29.48,
+      "end": 29.68
+    },
+    {
+      "text": "à",
+      "start": 29.68,
+      "end": 30.2
+    },
+    {
+      "text": "Toulouse",
+      "start": 30.2,
+      "end": 30.48
+    },
+    {
+      "text": "on",
+      "start": 30.48,
+      "end": 30.58
+    },
+    {
+      "text": "ne",
+      "start": 30.58,
+      "end": 30.7
+    },
+    {
+      "text": "parle",
+      "start": 30.7,
+      "end": 30.78
+    },
+    {
+      "text": "pas",
+      "start": 30.78,
+      "end": 30.98
+    },
+    {
+      "text": "comme",
+      "start": 30.98,
+      "end": 31.24
+    },
+    {
+      "text": "à",
+      "start": 31.24,
+      "end": 31.82
+    },
+    {
+      "text": "Nice,",
+      "start": 31.82,
+      "end": 32.1
+    },
+    {
+      "text": "ni",
+      "start": 32.7,
+      "end": 32.98
+    },
+    {
+      "text": "à",
+      "start": 32.98,
+      "end": 33.06
+    },
+    {
+      "text": "Marseille,",
+      "start": 33.06,
+      "end": 33.68
+    },
+    {
+      "text": "ni",
+      "start": 33.88,
+      "end": 34.0
+    },
+    {
+      "text": "dans",
+      "start": 34.0,
+      "end": 34.66
+    },
+    {
+      "text": "les",
+      "start": 34.66,
+      "end": 34.78
+    },
+    {
+      "text": "campagnes.",
+      "start": 34.78,
+      "end": 35.18
+    },
+    {
+      "text": "Est",
+      "start": 35.42,
+      "end": 35.66
+    },
+    {
+      "text": "-ce",
+      "start": 35.66,
+      "end": 35.72
+    },
+    {
+      "text": "que",
+      "start": 35.72,
+      "end": 35.76
+    },
+    {
+      "text": "vous",
+      "start": 35.76,
+      "end": 35.86
+    },
+    {
+      "text": "avez",
+      "start": 35.86,
+      "end": 36.0
+    },
+    {
+      "text": "l",
+      "start": 36.0,
+      "end": 36.12
+    },
+    {
+      "text": "'impression",
+      "start": 36.12,
+      "end": 36.38
+    },
+    {
+      "text": "que",
+      "start": 36.38,
+      "end": 36.58
+    },
+    {
+      "text": "c",
+      "start": 36.58,
+      "end": 36.6
+    },
+    {
+      "text": "'est",
+      "start": 36.6,
+      "end": 36.68
+    },
+    {
+      "text": "quelque",
+      "start": 36.68,
+      "end": 36.86
+    },
+    {
+      "text": "chose",
+      "start": 36.86,
+      "end": 37.18
+    },
+    {
+      "text": "qui",
+      "start": 37.18,
+      "end": 37.5
+    },
+    {
+      "text": "a",
+      "start": 37.5,
+      "end": 38.74
+    },
+    {
+      "text": "moins",
+      "start": 38.74,
+      "end": 38.86
+    },
+    {
+      "text": "d",
+      "start": 38.86,
+      "end": 38.98
+    },
+    {
+      "text": "'importance,",
+      "start": 38.98,
+      "end": 39.42
+    },
+    {
+      "text": "qui",
+      "start": 39.56,
+      "end": 39.58
+    },
+    {
+      "text": "espère",
+      "start": 39.58,
+      "end": 40.98
+    },
+    {
+      "text": "un",
+      "start": 40.98,
+      "end": 40.98
+    },
+    {
+      "text": "peu",
+      "start": 40.98,
+      "end": 40.98
+    },
+    {
+      "text": "?",
+      "start": 40.98,
+      "end": 40.98
+    },
+    {
+      "text": "Non,",
+      "start": 41.84,
+      "end": 42.3
+    },
+    {
+      "text": "je",
+      "start": 42.4,
+      "end": 42.48
+    },
+    {
+      "text": "n",
+      "start": 42.48,
+      "end": 42.58
+    },
+    {
+      "text": "'en",
+      "start": 42.58,
+      "end": 42.64
+    },
+    {
+      "text": "serai",
+      "start": 42.64,
+      "end": 42.88
+    },
+    {
+      "text": "tout",
+      "start": 42.88,
+      "end": 42.98
+    },
+    {
+      "text": "ça.",
+      "start": 42.98,
+      "end": 43.14
+    },
+    {
+      "text": "Il",
+      "start": 43.52,
+      "end": 43.64
+    },
+    {
+      "text": "est",
+      "start": 43.64,
+      "end": 43.66
+    },
+    {
+      "text": "bien",
+      "start": 43.66,
+      "end": 43.76
+    },
+    {
+      "text": "évident",
+      "start": 43.76,
+      "end": 44.0
+    },
+    {
+      "text": "que",
+      "start": 44.0,
+      "end": 44.16
+    },
+    {
+      "text": "la",
+      "start": 44.16,
+      "end": 44.26
+    },
+    {
+      "text": "grande",
+      "start": 44.26,
+      "end": 44.54
+    },
+    {
+      "text": "majorité",
+      "start": 44.54,
+      "end": 45.22
+    },
+    {
+      "text": "des",
+      "start": 45.22,
+      "end": 45.5
+    },
+    {
+      "text": "méridionnaux",
+      "start": 45.5,
+      "end": 46.1
+    },
+    {
+      "text": "ont",
+      "start": 46.1,
+      "end": 46.3
+    },
+    {
+      "text": "encore",
+      "start": 46.3,
+      "end": 46.58
+    },
+    {
+      "text": "l",
+      "start": 46.58,
+      "end": 46.72
+    },
+    {
+      "text": "'accent,",
+      "start": 46.72,
+      "end": 47.06
+    },
+    {
+      "text": "et",
+      "start": 47.22,
+      "end": 47.3
+    },
+    {
+      "text": "fort",
+      "start": 47.3,
+      "end": 47.5
+    },
+    {
+      "text": "heureusement,",
+      "start": 47.5,
+      "end": 48.02
+    },
+    {
+      "text": "tous",
+      "start": 49.0,
+      "end": 49.28
+    },
+    {
+      "text": "ceux",
+      "start": 49.28,
+      "end": 49.56
+    },
+    {
+      "text": "qui",
+      "start": 49.56,
+      "end": 49.9
+    },
+    {
+      "text": "d",
+      "start": 49.9,
+      "end": 50.02
+    },
+    {
+      "text": "'ailleurs",
+      "start": 50.02,
+      "end": 50.28
+    },
+    {
+      "text": "n",
+      "start": 50.28,
+      "end": 50.98
+    },
+    {
+      "text": "'ont",
+      "start": 50.98,
+      "end": 51.06
+    },
+    {
+      "text": "pas",
+      "start": 51.06,
+      "end": 51.28
+    },
+    {
+      "text": "dans",
+      "start": 51.28,
+      "end": 51.58
+    },
+    {
+      "text": "leur",
+      "start": 51.58,
+      "end": 52.44
+    },
+    {
+      "text": "vie",
+      "start": 52.44,
+      "end": 52.82
+    },
+    {
+      "text": "un",
+      "start": 52.82,
+      "end": 53.78
+    },
+    {
+      "text": "espace",
+      "start": 53.78,
+      "end": 54.42
+    },
+    {
+      "text": "pour",
+      "start": 54.42,
+      "end": 54.7
+    },
+    {
+      "text": "avoir",
+      "start": 54.7,
+      "end": 54.9
+    },
+    {
+      "text": "des",
+      "start": 54.9,
+      "end": 55.2
+    },
+    {
+      "text": "états",
+      "start": 55.2,
+      "end": 55.44
+    },
+    {
+      "text": "d",
+      "start": 55.44,
+      "end": 55.58
+    },
+    {
+      "text": "'âme",
+      "start": 55.58,
+      "end": 55.62
+    },
+    {
+      "text": "linguistiques,",
+      "start": 55.62,
+      "end": 56.44
+    },
+    {
+      "text": "cela",
+      "start": 56.92,
+      "end": 57.28
+    },
+    {
+      "text": "porte",
+      "start": 57.28,
+      "end": 58.18
+    },
+    {
+      "text": "haut",
+      "start": 58.18,
+      "end": 58.5
+    },
+    {
+      "text": "et",
+      "start": 58.5,
+      "end": 58.66
+    },
+    {
+      "text": "fort",
+      "start": 58.66,
+      "end": 58.82
+    },
+    {
+      "text": "leur",
+      "start": 58.82,
+      "end": 59.0
+    },
+    {
+      "text": "accent",
+      "start": 59.0,
+      "end": 59.38
+    },
+    {
+      "text": "avec",
+      "start": 59.38,
+      "end": 59.58
+    },
+    {
+      "text": "beaucoup",
+      "start": 59.58,
+      "end": 59.86
+    },
+    {
+      "text": "de",
+      "start": 59.86,
+      "end": 60.02
+    },
+    {
+      "text": "bonheur,",
+      "start": 60.02,
+      "end": 60.32
+    },
+    {
+      "text": "beaucoup",
+      "start": 60.46,
+      "end": 60.54
+    },
+    {
+      "text": "de",
+      "start": 60.54,
+      "end": 60.7
+    },
+    {
+      "text": "brio,",
+      "start": 60.7,
+      "end": 61.0
+    },
+    {
+      "text": "mais",
+      "start": 61.62,
+      "end": 61.98
+    },
+    {
+      "text": "bien",
+      "start": 61.98,
+      "end": 62.76
+    },
+    {
+      "text": "sûr",
+      "start": 62.76,
+      "end": 63.0
+    },
+    {
+      "text": "qu",
+      "start": 63.0,
+      "end": 63.2
+    },
+    {
+      "text": "'il",
+      "start": 63.2,
+      "end": 63.24
+    },
+    {
+      "text": "y",
+      "start": 63.24,
+      "end": 63.36
+    },
+    {
+      "text": "a",
+      "start": 63.36,
+      "end": 63.38
+    },
+    {
+      "text": "certains",
+      "start": 63.38,
+      "end": 63.68
+    },
+    {
+      "text": "milieux",
+      "start": 63.68,
+      "end": 64.28
+    },
+    {
+      "text": "qui",
+      "start": 64.28,
+      "end": 64.48
+    },
+    {
+      "text": "sont",
+      "start": 64.48,
+      "end": 64.78
+    },
+    {
+      "text": "atteints",
+      "start": 64.78,
+      "end": 65.22
+    },
+    {
+      "text": "par",
+      "start": 65.22,
+      "end": 65.38
+    },
+    {
+      "text": "cette",
+      "start": 65.38,
+      "end": 65.54
+    },
+    {
+      "text": "gangrène,",
+      "start": 65.54,
+      "end": 66.24
+    },
+    {
+      "text": "et",
+      "start": 66.66,
+      "end": 67.12
+    },
+    {
+      "text": "qui",
+      "start": 67.12,
+      "end": 67.46
+    },
+    {
+      "text": "donc",
+      "start": 67.46,
+      "end": 67.74
+    },
+    {
+      "text": "sont",
+      "start": 67.74,
+      "end": 68.88
+    },
+    {
+      "text": "quasiment",
+      "start": 68.88,
+      "end": 69.98
+    },
+    {
+      "text": "obsédés",
+      "start": 69.98,
+      "end": 70.42
+    },
+    {
+      "text": "par",
+      "start": 70.42,
+      "end": 70.58
+    },
+    {
+      "text": "la",
+      "start": 70.58,
+      "end": 71.06
+    },
+    {
+      "text": "perte",
+      "start": 71.06,
+      "end": 71.34
+    },
+    {
+      "text": "de",
+      "start": 71.34,
+      "end": 71.42
+    },
+    {
+      "text": "cet",
+      "start": 71.42,
+      "end": 71.54
+    },
+    {
+      "text": "accent.",
+      "start": 71.54,
+      "end": 71.88
+    },
+    {
+      "text": "Question",
+      "start": 73.94,
+      "end": 74.54
+    },
+    {
+      "text": "7.",
+      "start": 74.54,
+      "end": 75.1
+    },
+    {
+      "text": "Que",
+      "start": 75.8,
+      "end": 76.04
+    },
+    {
+      "text": "déclare",
+      "start": 76.04,
+      "end": 76.5
+    },
+    {
+      "text": "la",
+      "start": 76.5,
+      "end": 76.66
+    },
+    {
+      "text": "personne",
+      "start": 76.66,
+      "end": 76.96
+    },
+    {
+      "text": "interviewée",
+      "start": 76.96,
+      "end": 77.62
+    },
+    {
+      "text": "?",
+      "start": 77.62,
+      "end": 77.78
+    },
+    {
+      "text": "Question",
+      "start": 92.6,
+      "end": 93.24
+    },
+    {
+      "text": "8.",
+      "start": 93.24,
+      "end": 93.82
+    },
+    {
+      "text": "Quelle",
+      "start": 94.58,
+      "end": 95.22
+    },
+    {
+      "text": "est",
+      "start": 95.22,
+      "end": 95.26
+    },
+    {
+      "text": "l",
+      "start": 95.26,
+      "end": 95.4
+    },
+    {
+      "text": "'opinion",
+      "start": 95.4,
+      "end": 95.78
+    },
+    {
+      "text": "de",
+      "start": 95.78,
+      "end": 95.94
+    },
+    {
+      "text": "l",
+      "start": 95.94,
+      "end": 96.06
+    },
+    {
+      "text": "'auteur",
+      "start": 96.06,
+      "end": 96.28
+    },
+    {
+      "text": "du",
+      "start": 96.28,
+      "end": 96.5
+    },
+    {
+      "text": "livre",
+      "start": 96.5,
+      "end": 96.76
+    },
+    {
+      "text": "évoqué",
+      "start": 96.76,
+      "end": 97.16
+    },
+    {
+      "text": "?",
+      "start": 97.16,
+      "end": 98.14
+    }
+  ]
+}

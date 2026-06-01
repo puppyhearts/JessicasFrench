@@ -1,0 +1,355 @@
+{
+  "text": "Écoutez la question et les quatre réponses. Choisissez la réponse qui correspond le mieux à la question. Question 5. Pardon monsieur, vous savez où je peux trouver un distributeur automatique dans le quartier ? A. Combien vous voulez ? B. A, je n'ai pas de bonnet sur moi. C. Un peu plus loin, au bout de la rue. D. Non, non, mais il n'y a pas de mal.",
+  "words": [
+    {
+      "text": "Écoutez",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "la",
+      "start": 0.58,
+      "end": 0.76
+    },
+    {
+      "text": "question",
+      "start": 0.76,
+      "end": 1.2
+    },
+    {
+      "text": "et",
+      "start": 1.2,
+      "end": 1.54
+    },
+    {
+      "text": "les",
+      "start": 1.54,
+      "end": 1.66
+    },
+    {
+      "text": "quatre",
+      "start": 1.66,
+      "end": 1.9
+    },
+    {
+      "text": "réponses.",
+      "start": 1.9,
+      "end": 2.66
+    },
+    {
+      "text": "Choisissez",
+      "start": 3.2,
+      "end": 3.68
+    },
+    {
+      "text": "la",
+      "start": 3.68,
+      "end": 3.92
+    },
+    {
+      "text": "réponse",
+      "start": 3.92,
+      "end": 4.36
+    },
+    {
+      "text": "qui",
+      "start": 4.36,
+      "end": 4.6
+    },
+    {
+      "text": "correspond",
+      "start": 4.6,
+      "end": 5.0
+    },
+    {
+      "text": "le",
+      "start": 5.0,
+      "end": 5.28
+    },
+    {
+      "text": "mieux",
+      "start": 5.28,
+      "end": 5.52
+    },
+    {
+      "text": "à",
+      "start": 5.52,
+      "end": 5.86
+    },
+    {
+      "text": "la",
+      "start": 5.86,
+      "end": 5.98
+    },
+    {
+      "text": "question.",
+      "start": 5.98,
+      "end": 6.34
+    },
+    {
+      "text": "Question",
+      "start": 10.44,
+      "end": 10.92
+    },
+    {
+      "text": "5.",
+      "start": 10.92,
+      "end": 11.4
+    },
+    {
+      "text": "Pardon",
+      "start": 12.56,
+      "end": 12.8
+    },
+    {
+      "text": "monsieur,",
+      "start": 12.8,
+      "end": 13.12
+    },
+    {
+      "text": "vous",
+      "start": 13.6,
+      "end": 13.7
+    },
+    {
+      "text": "savez",
+      "start": 13.7,
+      "end": 13.92
+    },
+    {
+      "text": "où",
+      "start": 13.92,
+      "end": 14.06
+    },
+    {
+      "text": "je",
+      "start": 14.06,
+      "end": 14.14
+    },
+    {
+      "text": "peux",
+      "start": 14.14,
+      "end": 14.22
+    },
+    {
+      "text": "trouver",
+      "start": 14.22,
+      "end": 14.46
+    },
+    {
+      "text": "un",
+      "start": 14.46,
+      "end": 14.58
+    },
+    {
+      "text": "distributeur",
+      "start": 14.58,
+      "end": 15.16
+    },
+    {
+      "text": "automatique",
+      "start": 15.16,
+      "end": 15.6
+    },
+    {
+      "text": "dans",
+      "start": 15.6,
+      "end": 15.8
+    },
+    {
+      "text": "le",
+      "start": 15.8,
+      "end": 15.88
+    },
+    {
+      "text": "quartier",
+      "start": 15.88,
+      "end": 16.24
+    },
+    {
+      "text": "?",
+      "start": 16.24,
+      "end": 17.0
+    },
+    {
+      "text": "A.",
+      "start": 18.02,
+      "end": 18.5
+    },
+    {
+      "text": "Combien",
+      "start": 19.32,
+      "end": 19.6
+    },
+    {
+      "text": "vous",
+      "start": 19.6,
+      "end": 19.72
+    },
+    {
+      "text": "voulez",
+      "start": 19.72,
+      "end": 19.96
+    },
+    {
+      "text": "?",
+      "start": 19.96,
+      "end": 21.04
+    },
+    {
+      "text": "B.",
+      "start": 21.04,
+      "end": 21.64
+    },
+    {
+      "text": "A,",
+      "start": 22.52,
+      "end": 22.68
+    },
+    {
+      "text": "je",
+      "start": 22.82,
+      "end": 22.92
+    },
+    {
+      "text": "n",
+      "start": 22.92,
+      "end": 22.98
+    },
+    {
+      "text": "'ai",
+      "start": 22.98,
+      "end": 23.02
+    },
+    {
+      "text": "pas",
+      "start": 23.02,
+      "end": 23.12
+    },
+    {
+      "text": "de",
+      "start": 23.12,
+      "end": 23.24
+    },
+    {
+      "text": "bonnet",
+      "start": 23.24,
+      "end": 23.4
+    },
+    {
+      "text": "sur",
+      "start": 23.4,
+      "end": 23.58
+    },
+    {
+      "text": "moi.",
+      "start": 23.58,
+      "end": 23.76
+    },
+    {
+      "text": "C.",
+      "start": 24.84,
+      "end": 25.32
+    },
+    {
+      "text": "Un",
+      "start": 26.04,
+      "end": 26.18
+    },
+    {
+      "text": "peu",
+      "start": 26.18,
+      "end": 26.3
+    },
+    {
+      "text": "plus",
+      "start": 26.3,
+      "end": 26.44
+    },
+    {
+      "text": "loin,",
+      "start": 26.44,
+      "end": 26.66
+    },
+    {
+      "text": "au",
+      "start": 26.76,
+      "end": 26.82
+    },
+    {
+      "text": "bout",
+      "start": 26.82,
+      "end": 26.9
+    },
+    {
+      "text": "de",
+      "start": 26.9,
+      "end": 26.98
+    },
+    {
+      "text": "la",
+      "start": 26.98,
+      "end": 27.08
+    },
+    {
+      "text": "rue.",
+      "start": 27.08,
+      "end": 27.22
+    },
+    {
+      "text": "D.",
+      "start": 28.28,
+      "end": 28.76
+    },
+    {
+      "text": "Non,",
+      "start": 29.42,
+      "end": 29.78
+    },
+    {
+      "text": "non,",
+      "start": 30.02,
+      "end": 30.02
+    },
+    {
+      "text": "mais",
+      "start": 30.42,
+      "end": 30.66
+    },
+    {
+      "text": "il",
+      "start": 30.66,
+      "end": 30.8
+    },
+    {
+      "text": "n",
+      "start": 30.8,
+      "end": 30.86
+    },
+    {
+      "text": "'y",
+      "start": 30.86,
+      "end": 30.88
+    },
+    {
+      "text": "a",
+      "start": 30.88,
+      "end": 30.88
+    },
+    {
+      "text": "pas",
+      "start": 30.88,
+      "end": 31.0
+    },
+    {
+      "text": "de",
+      "start": 31.0,
+      "end": 31.06
+    },
+    {
+      "text": "mal.",
+      "start": 31.06,
+      "end": 31.24
+    }
+  ]
+}

@@ -1,0 +1,1145 @@
+{
+  "text": "Écoutez le document sonore et la question, puis choisissez la bonne réponse. Service clientèle, bonjour ! Allô ? Bonjour, ici Madame Duval, voilà ! Depuis ce matin, je n'ai plus de connexion internet. Je ne sais pas ce qui se passe. J'ai essayé plusieurs fois de me connecter, mais j'y arrive pas. À chaque fois, j'ai un message d'erreur. Mon ordinateur ne reconnaît plus la connexion internet. Et quelle est votre... Puis vous comprenez, ce n'est pas la première fois que ça arrive, il y a vraiment un problème. Je comprends bien Madame, mais quelle est... Il faut absolument que j'ai une connexion avant la fin de la matinée. C'est mon outil de travail. Oui mais il faut... Non, parce que dans ces conditions, moi je change d'opérateur. Écoutez Madame, depuis tout à l'heure, j'essaie de vous dire qu'il faut en fait vous adresser directement au service technique. Vous êtes ici au service clientèle et je ne peux rien faire pour vous. Oh là là, c'est pas vrai ! Il faut que je m'adresse à quelqu'un d'autre, alors ? Je peux vous transférer si vous voulez. Et comment ? Question 3 Quelle est l'objet de cet appel ? Question 4 Qu'est-ce qui explique l'énervement de Madame Duval ?",
+  "words": [
+    {
+      "text": "Écoutez",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "le",
+      "start": 0.66,
+      "end": 0.86
+    },
+    {
+      "text": "document",
+      "start": 0.86,
+      "end": 1.2
+    },
+    {
+      "text": "sonore",
+      "start": 1.2,
+      "end": 1.7
+    },
+    {
+      "text": "et",
+      "start": 1.7,
+      "end": 1.92
+    },
+    {
+      "text": "la",
+      "start": 1.92,
+      "end": 2.04
+    },
+    {
+      "text": "question,",
+      "start": 2.04,
+      "end": 2.42
+    },
+    {
+      "text": "puis",
+      "start": 2.88,
+      "end": 2.94
+    },
+    {
+      "text": "choisissez",
+      "start": 2.94,
+      "end": 3.46
+    },
+    {
+      "text": "la",
+      "start": 3.46,
+      "end": 3.64
+    },
+    {
+      "text": "bonne",
+      "start": 3.64,
+      "end": 3.84
+    },
+    {
+      "text": "réponse.",
+      "start": 3.84,
+      "end": 4.38
+    },
+    {
+      "text": "Service",
+      "start": 7.54,
+      "end": 7.94
+    },
+    {
+      "text": "clientèle,",
+      "start": 7.94,
+      "end": 8.34
+    },
+    {
+      "text": "bonjour",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "!",
+      "start": 8.8,
+      "end": 9.52
+    },
+    {
+      "text": "Allô",
+      "start": 9.52,
+      "end": 9.9
+    },
+    {
+      "text": "?",
+      "start": 9.9,
+      "end": 10.52
+    },
+    {
+      "text": "Bonjour,",
+      "start": 10.52,
+      "end": 10.84
+    },
+    {
+      "text": "ici",
+      "start": 11.24,
+      "end": 11.4
+    },
+    {
+      "text": "Madame",
+      "start": 11.4,
+      "end": 11.66
+    },
+    {
+      "text": "Duval,",
+      "start": 11.66,
+      "end": 12.08
+    },
+    {
+      "text": "voilà",
+      "start": 12.34,
+      "end": 12.48
+    },
+    {
+      "text": "!",
+      "start": 12.48,
+      "end": 13.12
+    },
+    {
+      "text": "Depuis",
+      "start": 13.12,
+      "end": 13.36
+    },
+    {
+      "text": "ce",
+      "start": 13.36,
+      "end": 13.52
+    },
+    {
+      "text": "matin,",
+      "start": 13.52,
+      "end": 13.8
+    },
+    {
+      "text": "je",
+      "start": 14.02,
+      "end": 14.08
+    },
+    {
+      "text": "n",
+      "start": 14.08,
+      "end": 14.14
+    },
+    {
+      "text": "'ai",
+      "start": 14.14,
+      "end": 14.22
+    },
+    {
+      "text": "plus",
+      "start": 14.22,
+      "end": 14.42
+    },
+    {
+      "text": "de",
+      "start": 14.42,
+      "end": 14.54
+    },
+    {
+      "text": "connexion",
+      "start": 14.54,
+      "end": 14.96
+    },
+    {
+      "text": "internet.",
+      "start": 14.96,
+      "end": 15.3
+    },
+    {
+      "text": "Je",
+      "start": 15.7,
+      "end": 15.86
+    },
+    {
+      "text": "ne",
+      "start": 15.86,
+      "end": 15.94
+    },
+    {
+      "text": "sais",
+      "start": 15.94,
+      "end": 16.04
+    },
+    {
+      "text": "pas",
+      "start": 16.04,
+      "end": 16.22
+    },
+    {
+      "text": "ce",
+      "start": 16.22,
+      "end": 16.32
+    },
+    {
+      "text": "qui",
+      "start": 16.32,
+      "end": 16.42
+    },
+    {
+      "text": "se",
+      "start": 16.42,
+      "end": 16.56
+    },
+    {
+      "text": "passe.",
+      "start": 16.56,
+      "end": 16.78
+    },
+    {
+      "text": "J",
+      "start": 16.96,
+      "end": 17.0
+    },
+    {
+      "text": "'ai",
+      "start": 17.0,
+      "end": 17.04
+    },
+    {
+      "text": "essayé",
+      "start": 17.04,
+      "end": 17.34
+    },
+    {
+      "text": "plusieurs",
+      "start": 17.34,
+      "end": 17.62
+    },
+    {
+      "text": "fois",
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "text": "de",
+      "start": 17.86,
+      "end": 17.96
+    },
+    {
+      "text": "me",
+      "start": 17.96,
+      "end": 18.04
+    },
+    {
+      "text": "connecter,",
+      "start": 18.04,
+      "end": 18.48
+    },
+    {
+      "text": "mais",
+      "start": 18.56,
+      "end": 18.62
+    },
+    {
+      "text": "j",
+      "start": 18.62,
+      "end": 18.76
+    },
+    {
+      "text": "'y",
+      "start": 18.76,
+      "end": 18.76
+    },
+    {
+      "text": "arrive",
+      "start": 18.76,
+      "end": 18.86
+    },
+    {
+      "text": "pas.",
+      "start": 18.86,
+      "end": 19.2
+    },
+    {
+      "text": "À",
+      "start": 19.64,
+      "end": 19.8
+    },
+    {
+      "text": "chaque",
+      "start": 19.8,
+      "end": 20.02
+    },
+    {
+      "text": "fois,",
+      "start": 20.02,
+      "end": 20.28
+    },
+    {
+      "text": "j",
+      "start": 20.38,
+      "end": 20.44
+    },
+    {
+      "text": "'ai",
+      "start": 20.44,
+      "end": 20.46
+    },
+    {
+      "text": "un",
+      "start": 20.46,
+      "end": 20.54
+    },
+    {
+      "text": "message",
+      "start": 20.54,
+      "end": 20.84
+    },
+    {
+      "text": "d",
+      "start": 20.84,
+      "end": 21.02
+    },
+    {
+      "text": "'erreur.",
+      "start": 21.02,
+      "end": 21.32
+    },
+    {
+      "text": "Mon",
+      "start": 21.64,
+      "end": 21.76
+    },
+    {
+      "text": "ordinateur",
+      "start": 21.76,
+      "end": 22.44
+    },
+    {
+      "text": "ne",
+      "start": 22.44,
+      "end": 22.58
+    },
+    {
+      "text": "reconnaît",
+      "start": 22.58,
+      "end": 23.0
+    },
+    {
+      "text": "plus",
+      "start": 23.0,
+      "end": 23.2
+    },
+    {
+      "text": "la",
+      "start": 23.2,
+      "end": 23.36
+    },
+    {
+      "text": "connexion",
+      "start": 23.36,
+      "end": 23.78
+    },
+    {
+      "text": "internet.",
+      "start": 23.78,
+      "end": 24.14
+    },
+    {
+      "text": "Et",
+      "start": 24.42,
+      "end": 24.56
+    },
+    {
+      "text": "quelle",
+      "start": 24.56,
+      "end": 24.7
+    },
+    {
+      "text": "est",
+      "start": 24.7,
+      "end": 24.78
+    },
+    {
+      "text": "votre...",
+      "start": 24.78,
+      "end": 25.32
+    },
+    {
+      "text": "Puis",
+      "start": 25.32,
+      "end": 25.44
+    },
+    {
+      "text": "vous",
+      "start": 25.44,
+      "end": 25.6
+    },
+    {
+      "text": "comprenez,",
+      "start": 25.6,
+      "end": 26.02
+    },
+    {
+      "text": "ce",
+      "start": 26.1,
+      "end": 26.18
+    },
+    {
+      "text": "n",
+      "start": 26.18,
+      "end": 26.24
+    },
+    {
+      "text": "'est",
+      "start": 26.24,
+      "end": 26.24
+    },
+    {
+      "text": "pas",
+      "start": 26.24,
+      "end": 26.34
+    },
+    {
+      "text": "la",
+      "start": 26.34,
+      "end": 26.44
+    },
+    {
+      "text": "première",
+      "start": 26.44,
+      "end": 26.66
+    },
+    {
+      "text": "fois",
+      "start": 26.66,
+      "end": 26.9
+    },
+    {
+      "text": "que",
+      "start": 26.9,
+      "end": 26.96
+    },
+    {
+      "text": "ça",
+      "start": 26.96,
+      "end": 27.06
+    },
+    {
+      "text": "arrive,",
+      "start": 27.06,
+      "end": 27.26
+    },
+    {
+      "text": "il",
+      "start": 27.36,
+      "end": 27.38
+    },
+    {
+      "text": "y",
+      "start": 27.38,
+      "end": 27.52
+    },
+    {
+      "text": "a",
+      "start": 27.52,
+      "end": 27.58
+    },
+    {
+      "text": "vraiment",
+      "start": 27.58,
+      "end": 27.86
+    },
+    {
+      "text": "un",
+      "start": 27.86,
+      "end": 28.04
+    },
+    {
+      "text": "problème.",
+      "start": 28.04,
+      "end": 28.48
+    },
+    {
+      "text": "Je",
+      "start": 28.48,
+      "end": 28.84
+    },
+    {
+      "text": "comprends",
+      "start": 28.84,
+      "end": 29.24
+    },
+    {
+      "text": "bien",
+      "start": 29.24,
+      "end": 29.38
+    },
+    {
+      "text": "Madame,",
+      "start": 29.38,
+      "end": 29.66
+    },
+    {
+      "text": "mais",
+      "start": 30.06,
+      "end": 30.16
+    },
+    {
+      "text": "quelle",
+      "start": 30.16,
+      "end": 30.32
+    },
+    {
+      "text": "est...",
+      "start": 30.32,
+      "end": 30.8
+    },
+    {
+      "text": "Il",
+      "start": 30.8,
+      "end": 30.92
+    },
+    {
+      "text": "faut",
+      "start": 30.92,
+      "end": 31.06
+    },
+    {
+      "text": "absolument",
+      "start": 31.06,
+      "end": 31.62
+    },
+    {
+      "text": "que",
+      "start": 31.62,
+      "end": 31.92
+    },
+    {
+      "text": "j",
+      "start": 31.92,
+      "end": 32.0
+    },
+    {
+      "text": "'ai",
+      "start": 32.0,
+      "end": 32.02
+    },
+    {
+      "text": "une",
+      "start": 32.02,
+      "end": 32.14
+    },
+    {
+      "text": "connexion",
+      "start": 32.14,
+      "end": 32.68
+    },
+    {
+      "text": "avant",
+      "start": 32.68,
+      "end": 32.86
+    },
+    {
+      "text": "la",
+      "start": 32.86,
+      "end": 33.02
+    },
+    {
+      "text": "fin",
+      "start": 33.02,
+      "end": 33.22
+    },
+    {
+      "text": "de",
+      "start": 33.22,
+      "end": 33.3
+    },
+    {
+      "text": "la",
+      "start": 33.3,
+      "end": 33.36
+    },
+    {
+      "text": "matinée.",
+      "start": 33.36,
+      "end": 33.8
+    },
+    {
+      "text": "C",
+      "start": 34.04,
+      "end": 34.12
+    },
+    {
+      "text": "'est",
+      "start": 34.12,
+      "end": 34.14
+    },
+    {
+      "text": "mon",
+      "start": 34.14,
+      "end": 34.28
+    },
+    {
+      "text": "outil",
+      "start": 34.28,
+      "end": 34.56
+    },
+    {
+      "text": "de",
+      "start": 34.56,
+      "end": 34.64
+    },
+    {
+      "text": "travail.",
+      "start": 34.64,
+      "end": 34.96
+    },
+    {
+      "text": "Oui",
+      "start": 35.28,
+      "end": 35.5
+    },
+    {
+      "text": "mais",
+      "start": 35.5,
+      "end": 35.74
+    },
+    {
+      "text": "il",
+      "start": 35.74,
+      "end": 35.96
+    },
+    {
+      "text": "faut...",
+      "start": 35.96,
+      "end": 36.52
+    },
+    {
+      "text": "Non,",
+      "start": 36.52,
+      "end": 36.64
+    },
+    {
+      "text": "parce",
+      "start": 36.78,
+      "end": 36.9
+    },
+    {
+      "text": "que",
+      "start": 36.9,
+      "end": 37.06
+    },
+    {
+      "text": "dans",
+      "start": 37.06,
+      "end": 37.26
+    },
+    {
+      "text": "ces",
+      "start": 37.26,
+      "end": 37.44
+    },
+    {
+      "text": "conditions,",
+      "start": 37.44,
+      "end": 37.98
+    },
+    {
+      "text": "moi",
+      "start": 38.1,
+      "end": 38.2
+    },
+    {
+      "text": "je",
+      "start": 38.2,
+      "end": 38.34
+    },
+    {
+      "text": "change",
+      "start": 38.34,
+      "end": 38.6
+    },
+    {
+      "text": "d",
+      "start": 38.6,
+      "end": 38.78
+    },
+    {
+      "text": "'opérateur.",
+      "start": 38.78,
+      "end": 39.24
+    },
+    {
+      "text": "Écoutez",
+      "start": 39.74,
+      "end": 40.0
+    },
+    {
+      "text": "Madame,",
+      "start": 40.0,
+      "end": 40.28
+    },
+    {
+      "text": "depuis",
+      "start": 41.14,
+      "end": 41.34
+    },
+    {
+      "text": "tout",
+      "start": 41.34,
+      "end": 41.54
+    },
+    {
+      "text": "à",
+      "start": 41.54,
+      "end": 41.74
+    },
+    {
+      "text": "l",
+      "start": 41.74,
+      "end": 41.78
+    },
+    {
+      "text": "'heure,",
+      "start": 41.78,
+      "end": 41.9
+    },
+    {
+      "text": "j",
+      "start": 42.02,
+      "end": 42.08
+    },
+    {
+      "text": "'essaie",
+      "start": 42.08,
+      "end": 42.26
+    },
+    {
+      "text": "de",
+      "start": 42.26,
+      "end": 42.42
+    },
+    {
+      "text": "vous",
+      "start": 42.42,
+      "end": 42.56
+    },
+    {
+      "text": "dire",
+      "start": 42.56,
+      "end": 42.9
+    },
+    {
+      "text": "qu",
+      "start": 42.9,
+      "end": 43.14
+    },
+    {
+      "text": "'il",
+      "start": 43.14,
+      "end": 43.2
+    },
+    {
+      "text": "faut",
+      "start": 43.2,
+      "end": 43.44
+    },
+    {
+      "text": "en",
+      "start": 43.44,
+      "end": 43.58
+    },
+    {
+      "text": "fait",
+      "start": 43.58,
+      "end": 43.86
+    },
+    {
+      "text": "vous",
+      "start": 43.86,
+      "end": 44.22
+    },
+    {
+      "text": "adresser",
+      "start": 44.22,
+      "end": 44.6
+    },
+    {
+      "text": "directement",
+      "start": 44.6,
+      "end": 45.2
+    },
+    {
+      "text": "au",
+      "start": 45.2,
+      "end": 45.38
+    },
+    {
+      "text": "service",
+      "start": 45.38,
+      "end": 45.72
+    },
+    {
+      "text": "technique.",
+      "start": 45.72,
+      "end": 46.18
+    },
+    {
+      "text": "Vous",
+      "start": 46.86,
+      "end": 47.04
+    },
+    {
+      "text": "êtes",
+      "start": 47.04,
+      "end": 47.2
+    },
+    {
+      "text": "ici",
+      "start": 47.2,
+      "end": 47.42
+    },
+    {
+      "text": "au",
+      "start": 47.42,
+      "end": 47.52
+    },
+    {
+      "text": "service",
+      "start": 47.52,
+      "end": 47.72
+    },
+    {
+      "text": "clientèle",
+      "start": 47.72,
+      "end": 48.46
+    },
+    {
+      "text": "et",
+      "start": 48.46,
+      "end": 48.84
+    },
+    {
+      "text": "je",
+      "start": 48.84,
+      "end": 48.96
+    },
+    {
+      "text": "ne",
+      "start": 48.96,
+      "end": 49.06
+    },
+    {
+      "text": "peux",
+      "start": 49.06,
+      "end": 49.18
+    },
+    {
+      "text": "rien",
+      "start": 49.18,
+      "end": 49.44
+    },
+    {
+      "text": "faire",
+      "start": 49.44,
+      "end": 49.68
+    },
+    {
+      "text": "pour",
+      "start": 49.68,
+      "end": 49.9
+    },
+    {
+      "text": "vous.",
+      "start": 49.9,
+      "end": 50.12
+    },
+    {
+      "text": "Oh",
+      "start": 50.66,
+      "end": 50.88
+    },
+    {
+      "text": "là",
+      "start": 50.88,
+      "end": 50.98
+    },
+    {
+      "text": "là,",
+      "start": 50.98,
+      "end": 51.2
+    },
+    {
+      "text": "c",
+      "start": 51.36,
+      "end": 51.48
+    },
+    {
+      "text": "'est",
+      "start": 51.48,
+      "end": 51.56
+    },
+    {
+      "text": "pas",
+      "start": 51.56,
+      "end": 51.76
+    },
+    {
+      "text": "vrai",
+      "start": 51.76,
+      "end": 52.1
+    },
+    {
+      "text": "!",
+      "start": 52.1,
+      "end": 52.56
+    },
+    {
+      "text": "Il",
+      "start": 52.56,
+      "end": 52.78
+    },
+    {
+      "text": "faut",
+      "start": 52.78,
+      "end": 52.9
+    },
+    {
+      "text": "que",
+      "start": 52.9,
+      "end": 52.98
+    },
+    {
+      "text": "je",
+      "start": 52.98,
+      "end": 53.04
+    },
+    {
+      "text": "m",
+      "start": 53.04,
+      "end": 53.12
+    },
+    {
+      "text": "'adresse",
+      "start": 53.12,
+      "end": 53.34
+    },
+    {
+      "text": "à",
+      "start": 53.34,
+      "end": 53.48
+    },
+    {
+      "text": "quelqu",
+      "start": 53.48,
+      "end": 53.62
+    },
+    {
+      "text": "'un",
+      "start": 53.62,
+      "end": 53.8
+    },
+    {
+      "text": "d",
+      "start": 53.8,
+      "end": 53.92
+    },
+    {
+      "text": "'autre,",
+      "start": 53.92,
+      "end": 54.08
+    },
+    {
+      "text": "alors",
+      "start": 54.14,
+      "end": 54.38
+    },
+    {
+      "text": "?",
+      "start": 54.38,
+      "end": 54.72
+    },
+    {
+      "text": "Je",
+      "start": 54.72,
+      "end": 54.96
+    },
+    {
+      "text": "peux",
+      "start": 54.96,
+      "end": 55.1
+    },
+    {
+      "text": "vous",
+      "start": 55.1,
+      "end": 55.24
+    },
+    {
+      "text": "transférer",
+      "start": 55.24,
+      "end": 55.72
+    },
+    {
+      "text": "si",
+      "start": 55.72,
+      "end": 55.92
+    },
+    {
+      "text": "vous",
+      "start": 55.92,
+      "end": 56.06
+    },
+    {
+      "text": "voulez.",
+      "start": 56.06,
+      "end": 56.32
+    },
+    {
+      "text": "Et",
+      "start": 56.44,
+      "end": 56.58
+    },
+    {
+      "text": "comment",
+      "start": 56.58,
+      "end": 56.88
+    },
+    {
+      "text": "?",
+      "start": 56.88,
+      "end": 57.18
+    },
+    {
+      "text": "Question",
+      "start": 58.7,
+      "end": 59.14
+    },
+    {
+      "text": "3",
+      "start": 59.14,
+      "end": 59.58
+    },
+    {
+      "text": "Quelle",
+      "start": 60.74,
+      "end": 61.18
+    },
+    {
+      "text": "est",
+      "start": 61.18,
+      "end": 61.22
+    },
+    {
+      "text": "l",
+      "start": 61.22,
+      "end": 61.36
+    },
+    {
+      "text": "'objet",
+      "start": 61.36,
+      "end": 61.56
+    },
+    {
+      "text": "de",
+      "start": 61.56,
+      "end": 61.7
+    },
+    {
+      "text": "cet",
+      "start": 61.7,
+      "end": 61.84
+    },
+    {
+      "text": "appel",
+      "start": 61.84,
+      "end": 62.18
+    },
+    {
+      "text": "?",
+      "start": 62.18,
+      "end": 62.48
+    },
+    {
+      "text": "Question",
+      "start": 77.62,
+      "end": 78.06
+    },
+    {
+      "text": "4",
+      "start": 78.06,
+      "end": 78.5
+    },
+    {
+      "text": "Qu",
+      "start": 79.5,
+      "end": 79.94
+    },
+    {
+      "text": "'est",
+      "start": 79.94,
+      "end": 79.98
+    },
+    {
+      "text": "-ce",
+      "start": 79.98,
+      "end": 80.08
+    },
+    {
+      "text": "qui",
+      "start": 80.08,
+      "end": 80.18
+    },
+    {
+      "text": "explique",
+      "start": 80.18,
+      "end": 80.7
+    },
+    {
+      "text": "l",
+      "start": 80.7,
+      "end": 80.86
+    },
+    {
+      "text": "'énervement",
+      "start": 80.86,
+      "end": 81.3
+    },
+    {
+      "text": "de",
+      "start": 81.3,
+      "end": 81.44
+    },
+    {
+      "text": "Madame",
+      "start": 81.44,
+      "end": 81.64
+    },
+    {
+      "text": "Duval",
+      "start": 81.64,
+      "end": 82.1
+    },
+    {
+      "text": "?",
+      "start": 82.1,
+      "end": 82.32
+    }
+  ]
+}

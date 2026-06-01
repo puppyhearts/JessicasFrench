@@ -1,0 +1,800 @@
+{
+  "text": "Question 24. Écoutez le document sonore et la question. Choisissez la bonne réponse. Pour nous occidentaux, c'est quelque chose qui peut paraître récent. Il faut savoir qu'en Asie, en Asie du Sud-Est, il y a déjà une grande consommation d'insectes. Il y a des études qui sont menées là aussi pour voir au niveau protéinique ce que les insectes peuvent nous apporter. Quelle est la comparaison par rapport à la viande, mais en tout cas, c'est une vraie voie possible. Alors, il y a un petit marché, émergeant en France, qui reste encore un petit peu rigolo, sympathique, de l'amusement avec des gens qui se font un petit peu peur, en mangeant des grillons et des sauterelles. On se dit, tiens, c'est étrange, on a l'impression d'être dans un jeu de télé-réalité. Et pourtant, il y a déjà des populations, des gens qui en mangent régulièrement depuis des millénaires.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "24.",
+      "start": 0.66,
+      "end": 1.62
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.54,
+      "end": 3.0
+    },
+    {
+      "text": "le",
+      "start": 3.0,
+      "end": 3.2
+    },
+    {
+      "text": "document",
+      "start": 3.2,
+      "end": 3.56
+    },
+    {
+      "text": "sonore",
+      "start": 3.56,
+      "end": 4.16
+    },
+    {
+      "text": "et",
+      "start": 4.16,
+      "end": 4.46
+    },
+    {
+      "text": "la",
+      "start": 4.46,
+      "end": 4.58
+    },
+    {
+      "text": "question.",
+      "start": 4.58,
+      "end": 4.94
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.74,
+      "end": 6.22
+    },
+    {
+      "text": "la",
+      "start": 6.22,
+      "end": 6.46
+    },
+    {
+      "text": "bonne",
+      "start": 6.46,
+      "end": 6.64
+    },
+    {
+      "text": "réponse.",
+      "start": 6.64,
+      "end": 7.02
+    },
+    {
+      "text": "Pour",
+      "start": 7.96,
+      "end": 8.32
+    },
+    {
+      "text": "nous",
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "text": "occidentaux,",
+      "start": 8.48,
+      "end": 9.1
+    },
+    {
+      "text": "c",
+      "start": 9.28,
+      "end": 9.32
+    },
+    {
+      "text": "'est",
+      "start": 9.32,
+      "end": 9.36
+    },
+    {
+      "text": "quelque",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "chose",
+      "start": 9.52,
+      "end": 9.84
+    },
+    {
+      "text": "qui",
+      "start": 9.84,
+      "end": 10.02
+    },
+    {
+      "text": "peut",
+      "start": 10.02,
+      "end": 10.18
+    },
+    {
+      "text": "paraître",
+      "start": 10.18,
+      "end": 10.52
+    },
+    {
+      "text": "récent.",
+      "start": 10.52,
+      "end": 11.08
+    },
+    {
+      "text": "Il",
+      "start": 11.62,
+      "end": 11.76
+    },
+    {
+      "text": "faut",
+      "start": 11.76,
+      "end": 11.86
+    },
+    {
+      "text": "savoir",
+      "start": 11.86,
+      "end": 12.08
+    },
+    {
+      "text": "qu",
+      "start": 12.08,
+      "end": 12.24
+    },
+    {
+      "text": "'en",
+      "start": 12.24,
+      "end": 12.28
+    },
+    {
+      "text": "Asie,",
+      "start": 12.28,
+      "end": 12.56
+    },
+    {
+      "text": "en",
+      "start": 12.64,
+      "end": 12.7
+    },
+    {
+      "text": "Asie",
+      "start": 12.7,
+      "end": 12.92
+    },
+    {
+      "text": "du",
+      "start": 12.92,
+      "end": 13.06
+    },
+    {
+      "text": "Sud",
+      "start": 13.06,
+      "end": 13.24
+    },
+    {
+      "text": "-Est,",
+      "start": 13.24,
+      "end": 13.5
+    },
+    {
+      "text": "il",
+      "start": 13.9,
+      "end": 14.02
+    },
+    {
+      "text": "y",
+      "start": 14.02,
+      "end": 14.14
+    },
+    {
+      "text": "a",
+      "start": 14.14,
+      "end": 14.18
+    },
+    {
+      "text": "déjà",
+      "start": 14.18,
+      "end": 14.42
+    },
+    {
+      "text": "une",
+      "start": 14.42,
+      "end": 14.58
+    },
+    {
+      "text": "grande",
+      "start": 14.58,
+      "end": 14.86
+    },
+    {
+      "text": "consommation",
+      "start": 14.86,
+      "end": 15.38
+    },
+    {
+      "text": "d",
+      "start": 15.38,
+      "end": 15.58
+    },
+    {
+      "text": "'insectes.",
+      "start": 15.58,
+      "end": 16.1
+    },
+    {
+      "text": "Il",
+      "start": 16.48,
+      "end": 16.64
+    },
+    {
+      "text": "y",
+      "start": 16.64,
+      "end": 16.74
+    },
+    {
+      "text": "a",
+      "start": 16.74,
+      "end": 16.78
+    },
+    {
+      "text": "des",
+      "start": 16.78,
+      "end": 16.9
+    },
+    {
+      "text": "études",
+      "start": 16.9,
+      "end": 17.18
+    },
+    {
+      "text": "qui",
+      "start": 17.18,
+      "end": 17.34
+    },
+    {
+      "text": "sont",
+      "start": 17.34,
+      "end": 17.52
+    },
+    {
+      "text": "menées",
+      "start": 17.52,
+      "end": 17.86
+    },
+    {
+      "text": "là",
+      "start": 17.86,
+      "end": 18.04
+    },
+    {
+      "text": "aussi",
+      "start": 18.04,
+      "end": 18.38
+    },
+    {
+      "text": "pour",
+      "start": 18.38,
+      "end": 18.7
+    },
+    {
+      "text": "voir",
+      "start": 18.7,
+      "end": 19.1
+    },
+    {
+      "text": "au",
+      "start": 19.1,
+      "end": 19.34
+    },
+    {
+      "text": "niveau",
+      "start": 19.34,
+      "end": 19.52
+    },
+    {
+      "text": "protéinique",
+      "start": 19.52,
+      "end": 20.44
+    },
+    {
+      "text": "ce",
+      "start": 20.44,
+      "end": 20.7
+    },
+    {
+      "text": "que",
+      "start": 20.7,
+      "end": 20.82
+    },
+    {
+      "text": "les",
+      "start": 20.82,
+      "end": 20.94
+    },
+    {
+      "text": "insectes",
+      "start": 20.94,
+      "end": 21.4
+    },
+    {
+      "text": "peuvent",
+      "start": 21.4,
+      "end": 21.64
+    },
+    {
+      "text": "nous",
+      "start": 21.64,
+      "end": 21.86
+    },
+    {
+      "text": "apporter.",
+      "start": 21.86,
+      "end": 22.22
+    },
+    {
+      "text": "Quelle",
+      "start": 23.0,
+      "end": 23.24
+    },
+    {
+      "text": "est",
+      "start": 23.24,
+      "end": 23.3
+    },
+    {
+      "text": "la",
+      "start": 23.3,
+      "end": 23.44
+    },
+    {
+      "text": "comparaison",
+      "start": 23.44,
+      "end": 24.0
+    },
+    {
+      "text": "par",
+      "start": 24.0,
+      "end": 24.2
+    },
+    {
+      "text": "rapport",
+      "start": 24.2,
+      "end": 24.46
+    },
+    {
+      "text": "à",
+      "start": 24.46,
+      "end": 24.6
+    },
+    {
+      "text": "la",
+      "start": 24.6,
+      "end": 24.64
+    },
+    {
+      "text": "viande,",
+      "start": 24.64,
+      "end": 24.88
+    },
+    {
+      "text": "mais",
+      "start": 24.98,
+      "end": 25.04
+    },
+    {
+      "text": "en",
+      "start": 25.04,
+      "end": 25.14
+    },
+    {
+      "text": "tout",
+      "start": 25.14,
+      "end": 25.28
+    },
+    {
+      "text": "cas,",
+      "start": 25.28,
+      "end": 25.54
+    },
+    {
+      "text": "c",
+      "start": 25.78,
+      "end": 25.92
+    },
+    {
+      "text": "'est",
+      "start": 25.92,
+      "end": 25.94
+    },
+    {
+      "text": "une",
+      "start": 25.94,
+      "end": 26.12
+    },
+    {
+      "text": "vraie",
+      "start": 26.12,
+      "end": 26.44
+    },
+    {
+      "text": "voie",
+      "start": 26.44,
+      "end": 26.7
+    },
+    {
+      "text": "possible.",
+      "start": 26.7,
+      "end": 27.08
+    },
+    {
+      "text": "Alors,",
+      "start": 27.88,
+      "end": 28.24
+    },
+    {
+      "text": "il",
+      "start": 28.56,
+      "end": 28.84
+    },
+    {
+      "text": "y",
+      "start": 28.84,
+      "end": 28.96
+    },
+    {
+      "text": "a",
+      "start": 28.96,
+      "end": 29.0
+    },
+    {
+      "text": "un",
+      "start": 29.0,
+      "end": 29.12
+    },
+    {
+      "text": "petit",
+      "start": 29.12,
+      "end": 29.24
+    },
+    {
+      "text": "marché,",
+      "start": 29.24,
+      "end": 29.62
+    },
+    {
+      "text": "émergeant",
+      "start": 30.0,
+      "end": 30.6
+    },
+    {
+      "text": "en",
+      "start": 30.6,
+      "end": 30.72
+    },
+    {
+      "text": "France,",
+      "start": 30.72,
+      "end": 31.08
+    },
+    {
+      "text": "qui",
+      "start": 31.48,
+      "end": 31.52
+    },
+    {
+      "text": "reste",
+      "start": 31.52,
+      "end": 31.76
+    },
+    {
+      "text": "encore",
+      "start": 31.76,
+      "end": 32.04
+    },
+    {
+      "text": "un",
+      "start": 32.04,
+      "end": 32.48
+    },
+    {
+      "text": "petit",
+      "start": 32.48,
+      "end": 32.76
+    },
+    {
+      "text": "peu",
+      "start": 32.76,
+      "end": 32.94
+    },
+    {
+      "text": "rigolo,",
+      "start": 32.94,
+      "end": 33.36
+    },
+    {
+      "text": "sympathique,",
+      "start": 33.68,
+      "end": 34.44
+    },
+    {
+      "text": "de",
+      "start": 34.68,
+      "end": 34.76
+    },
+    {
+      "text": "l",
+      "start": 34.76,
+      "end": 34.84
+    },
+    {
+      "text": "'amusement",
+      "start": 34.84,
+      "end": 35.1
+    },
+    {
+      "text": "avec",
+      "start": 35.1,
+      "end": 35.36
+    },
+    {
+      "text": "des",
+      "start": 35.36,
+      "end": 35.52
+    },
+    {
+      "text": "gens",
+      "start": 35.52,
+      "end": 35.7
+    },
+    {
+      "text": "qui",
+      "start": 35.7,
+      "end": 35.84
+    },
+    {
+      "text": "se",
+      "start": 35.84,
+      "end": 36.0
+    },
+    {
+      "text": "font",
+      "start": 36.0,
+      "end": 36.16
+    },
+    {
+      "text": "un",
+      "start": 36.16,
+      "end": 36.28
+    },
+    {
+      "text": "petit",
+      "start": 36.28,
+      "end": 36.46
+    },
+    {
+      "text": "peu",
+      "start": 36.46,
+      "end": 36.62
+    },
+    {
+      "text": "peur,",
+      "start": 36.62,
+      "end": 36.94
+    },
+    {
+      "text": "en",
+      "start": 37.1,
+      "end": 37.16
+    },
+    {
+      "text": "mangeant",
+      "start": 37.16,
+      "end": 37.44
+    },
+    {
+      "text": "des",
+      "start": 37.44,
+      "end": 37.54
+    },
+    {
+      "text": "grillons",
+      "start": 37.54,
+      "end": 37.88
+    },
+    {
+      "text": "et",
+      "start": 37.88,
+      "end": 38.04
+    },
+    {
+      "text": "des",
+      "start": 38.04,
+      "end": 38.16
+    },
+    {
+      "text": "sauterelles.",
+      "start": 38.16,
+      "end": 38.7
+    },
+    {
+      "text": "On",
+      "start": 39.04,
+      "end": 39.16
+    },
+    {
+      "text": "se",
+      "start": 39.16,
+      "end": 39.26
+    },
+    {
+      "text": "dit,",
+      "start": 39.26,
+      "end": 39.38
+    },
+    {
+      "text": "tiens,",
+      "start": 39.52,
+      "end": 39.64
+    },
+    {
+      "text": "c",
+      "start": 39.74,
+      "end": 39.82
+    },
+    {
+      "text": "'est",
+      "start": 39.82,
+      "end": 39.88
+    },
+    {
+      "text": "étrange,",
+      "start": 39.88,
+      "end": 40.28
+    },
+    {
+      "text": "on",
+      "start": 40.52,
+      "end": 40.6
+    },
+    {
+      "text": "a",
+      "start": 40.6,
+      "end": 40.68
+    },
+    {
+      "text": "l",
+      "start": 40.68,
+      "end": 40.74
+    },
+    {
+      "text": "'impression",
+      "start": 40.74,
+      "end": 40.98
+    },
+    {
+      "text": "d",
+      "start": 40.98,
+      "end": 41.18
+    },
+    {
+      "text": "'être",
+      "start": 41.18,
+      "end": 41.32
+    },
+    {
+      "text": "dans",
+      "start": 41.32,
+      "end": 41.62
+    },
+    {
+      "text": "un",
+      "start": 41.62,
+      "end": 41.82
+    },
+    {
+      "text": "jeu",
+      "start": 41.82,
+      "end": 41.96
+    },
+    {
+      "text": "de",
+      "start": 41.96,
+      "end": 42.1
+    },
+    {
+      "text": "télé",
+      "start": 42.1,
+      "end": 42.28
+    },
+    {
+      "text": "-réalité.",
+      "start": 42.28,
+      "end": 42.8
+    },
+    {
+      "text": "Et",
+      "start": 43.16,
+      "end": 43.24
+    },
+    {
+      "text": "pourtant,",
+      "start": 43.24,
+      "end": 43.56
+    },
+    {
+      "text": "il",
+      "start": 43.74,
+      "end": 43.86
+    },
+    {
+      "text": "y",
+      "start": 43.86,
+      "end": 43.96
+    },
+    {
+      "text": "a",
+      "start": 43.96,
+      "end": 44.0
+    },
+    {
+      "text": "déjà",
+      "start": 44.0,
+      "end": 44.22
+    },
+    {
+      "text": "des",
+      "start": 44.22,
+      "end": 44.34
+    },
+    {
+      "text": "populations,",
+      "start": 44.34,
+      "end": 44.82
+    },
+    {
+      "text": "des",
+      "start": 45.04,
+      "end": 45.12
+    },
+    {
+      "text": "gens",
+      "start": 45.12,
+      "end": 45.32
+    },
+    {
+      "text": "qui",
+      "start": 45.32,
+      "end": 45.5
+    },
+    {
+      "text": "en",
+      "start": 45.5,
+      "end": 45.66
+    },
+    {
+      "text": "mangent",
+      "start": 45.66,
+      "end": 45.98
+    },
+    {
+      "text": "régulièrement",
+      "start": 45.98,
+      "end": 46.6
+    },
+    {
+      "text": "depuis",
+      "start": 46.6,
+      "end": 46.94
+    },
+    {
+      "text": "des",
+      "start": 46.94,
+      "end": 47.28
+    },
+    {
+      "text": "millénaires.",
+      "start": 47.28,
+      "end": 47.8
+    }
+  ]
+}

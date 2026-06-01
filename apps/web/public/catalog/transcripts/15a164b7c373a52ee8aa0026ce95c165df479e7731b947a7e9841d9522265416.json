@@ -1,0 +1,360 @@
+{
+  "text": "Question 1. A. Faises-vous, laissez-moi écouter la conférence. B. Viens, on repart, il y a vraiment trop de monde ici. C. Tout est prêt, il ne reste plus que le conférencier qui ne va pas tarder à arriver. D. Je voudrais une table pour trois personnes s'il vous plaît, c'est pour dîner. C'est un peu trop de monde, mais c'est un peu trop de monde.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 2.24,
+      "end": 2.72
+    },
+    {
+      "text": "1.",
+      "start": 2.72,
+      "end": 3.18
+    },
+    {
+      "text": "A.",
+      "start": 4.44,
+      "end": 4.9
+    },
+    {
+      "text": "Faises",
+      "start": 5.66,
+      "end": 5.88
+    },
+    {
+      "text": "-vous,",
+      "start": 5.88,
+      "end": 6.22
+    },
+    {
+      "text": "laissez",
+      "start": 6.4,
+      "end": 6.66
+    },
+    {
+      "text": "-moi",
+      "start": 6.66,
+      "end": 6.76
+    },
+    {
+      "text": "écouter",
+      "start": 6.76,
+      "end": 7.06
+    },
+    {
+      "text": "la",
+      "start": 7.06,
+      "end": 7.24
+    },
+    {
+      "text": "conférence.",
+      "start": 7.24,
+      "end": 7.74
+    },
+    {
+      "text": "B.",
+      "start": 9.1,
+      "end": 9.58
+    },
+    {
+      "text": "Viens,",
+      "start": 10.24,
+      "end": 10.54
+    },
+    {
+      "text": "on",
+      "start": 10.78,
+      "end": 10.86
+    },
+    {
+      "text": "repart,",
+      "start": 10.86,
+      "end": 11.26
+    },
+    {
+      "text": "il",
+      "start": 11.46,
+      "end": 11.54
+    },
+    {
+      "text": "y",
+      "start": 11.54,
+      "end": 11.56
+    },
+    {
+      "text": "a",
+      "start": 11.56,
+      "end": 11.56
+    },
+    {
+      "text": "vraiment",
+      "start": 11.56,
+      "end": 11.82
+    },
+    {
+      "text": "trop",
+      "start": 11.82,
+      "end": 12.2
+    },
+    {
+      "text": "de",
+      "start": 12.2,
+      "end": 12.36
+    },
+    {
+      "text": "monde",
+      "start": 12.36,
+      "end": 12.48
+    },
+    {
+      "text": "ici.",
+      "start": 12.48,
+      "end": 12.8
+    },
+    {
+      "text": "C.",
+      "start": 14.3,
+      "end": 14.78
+    },
+    {
+      "text": "Tout",
+      "start": 15.44,
+      "end": 15.6
+    },
+    {
+      "text": "est",
+      "start": 15.6,
+      "end": 15.8
+    },
+    {
+      "text": "prêt,",
+      "start": 15.8,
+      "end": 15.98
+    },
+    {
+      "text": "il",
+      "start": 16.4,
+      "end": 16.46
+    },
+    {
+      "text": "ne",
+      "start": 16.46,
+      "end": 16.56
+    },
+    {
+      "text": "reste",
+      "start": 16.56,
+      "end": 16.74
+    },
+    {
+      "text": "plus",
+      "start": 16.74,
+      "end": 17.06
+    },
+    {
+      "text": "que",
+      "start": 17.06,
+      "end": 17.2
+    },
+    {
+      "text": "le",
+      "start": 17.2,
+      "end": 17.32
+    },
+    {
+      "text": "conférencier",
+      "start": 17.32,
+      "end": 17.94
+    },
+    {
+      "text": "qui",
+      "start": 17.94,
+      "end": 18.12
+    },
+    {
+      "text": "ne",
+      "start": 18.12,
+      "end": 18.24
+    },
+    {
+      "text": "va",
+      "start": 18.24,
+      "end": 18.34
+    },
+    {
+      "text": "pas",
+      "start": 18.34,
+      "end": 18.54
+    },
+    {
+      "text": "tarder",
+      "start": 18.54,
+      "end": 18.86
+    },
+    {
+      "text": "à",
+      "start": 18.86,
+      "end": 18.96
+    },
+    {
+      "text": "arriver.",
+      "start": 18.96,
+      "end": 19.2
+    },
+    {
+      "text": "D.",
+      "start": 20.36,
+      "end": 20.58
+    },
+    {
+      "text": "Je",
+      "start": 21.18,
+      "end": 21.28
+    },
+    {
+      "text": "voudrais",
+      "start": 21.28,
+      "end": 21.46
+    },
+    {
+      "text": "une",
+      "start": 21.46,
+      "end": 21.62
+    },
+    {
+      "text": "table",
+      "start": 21.62,
+      "end": 21.86
+    },
+    {
+      "text": "pour",
+      "start": 21.86,
+      "end": 22.1
+    },
+    {
+      "text": "trois",
+      "start": 22.1,
+      "end": 22.32
+    },
+    {
+      "text": "personnes",
+      "start": 22.32,
+      "end": 22.76
+    },
+    {
+      "text": "s",
+      "start": 22.76,
+      "end": 22.92
+    },
+    {
+      "text": "'il",
+      "start": 22.92,
+      "end": 22.94
+    },
+    {
+      "text": "vous",
+      "start": 22.94,
+      "end": 23.1
+    },
+    {
+      "text": "plaît,",
+      "start": 23.1,
+      "end": 23.36
+    },
+    {
+      "text": "c",
+      "start": 23.64,
+      "end": 23.74
+    },
+    {
+      "text": "'est",
+      "start": 23.74,
+      "end": 23.78
+    },
+    {
+      "text": "pour",
+      "start": 23.78,
+      "end": 23.94
+    },
+    {
+      "text": "dîner.",
+      "start": 23.94,
+      "end": 24.2
+    },
+    {
+      "text": "C",
+      "start": 31.22,
+      "end": 32.62
+    },
+    {
+      "text": "'est",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "un",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "peu",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "trop",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "de",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "monde,",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "mais",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "c",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "'est",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "un",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "peu",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "trop",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "de",
+      "start": 32.62,
+      "end": 32.62
+    },
+    {
+      "text": "monde.",
+      "start": 32.62,
+      "end": 32.62
+    }
+  ]
+}

@@ -1,0 +1,910 @@
+{
+  "text": "Question 35. Écoutez le document sonore et la question. Choisissez la bonne réponse. Prendre l'avion avec HOP, la filiale d'Air France, à partir de 55 euros, ou le train avec le WeGo de la CNCF, pour 10 euros seulement, ces dernières semaines, il semblerait bien que les transporteurs historiques se soient mis à casser les prix. Signe que la révolution low-cost et ses prix toujours plus bas déferlent dans tous les secteurs, l'alimentaire, l'optique, la téléphonie, les soins dentaires, jusqu'au pompe-funaire. Ombra de tout et invent un nouveau modèle économique. Et les succès ne manquent pas à l'appel, selon Jean-Paul Trégert, président du club des entreprises low-cost. Les entreprises qui réussissent dans le low-cost, ce sont des entreprises innovatrices, innovantes, qui sont partis de zéro, qui ont remis complètement à plat le mode de fonctionnement du secteur. L'un des exemples plus foudroyants de succès, c'est Dacia avec la Logan, et ensuite toutes les voitures qui ont suivi. Comment est présenté le modèle économique évoqué dans ce reportage ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "35.",
+      "start": 0.66,
+      "end": 1.34
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.54,
+      "end": 2.9
+    },
+    {
+      "text": "le",
+      "start": 2.9,
+      "end": 3.12
+    },
+    {
+      "text": "document",
+      "start": 3.12,
+      "end": 3.44
+    },
+    {
+      "text": "sonore",
+      "start": 3.44,
+      "end": 4.02
+    },
+    {
+      "text": "et",
+      "start": 4.02,
+      "end": 4.26
+    },
+    {
+      "text": "la",
+      "start": 4.26,
+      "end": 4.38
+    },
+    {
+      "text": "question.",
+      "start": 4.38,
+      "end": 4.74
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.42,
+      "end": 5.9
+    },
+    {
+      "text": "la",
+      "start": 5.9,
+      "end": 6.08
+    },
+    {
+      "text": "bonne",
+      "start": 6.08,
+      "end": 6.26
+    },
+    {
+      "text": "réponse.",
+      "start": 6.26,
+      "end": 6.6
+    },
+    {
+      "text": "Prendre",
+      "start": 7.64,
+      "end": 8.12
+    },
+    {
+      "text": "l",
+      "start": 8.12,
+      "end": 8.3
+    },
+    {
+      "text": "'avion",
+      "start": 8.3,
+      "end": 8.46
+    },
+    {
+      "text": "avec",
+      "start": 8.46,
+      "end": 8.74
+    },
+    {
+      "text": "HOP,",
+      "start": 8.74,
+      "end": 9.08
+    },
+    {
+      "text": "la",
+      "start": 9.26,
+      "end": 9.38
+    },
+    {
+      "text": "filiale",
+      "start": 9.38,
+      "end": 9.72
+    },
+    {
+      "text": "d",
+      "start": 9.72,
+      "end": 9.9
+    },
+    {
+      "text": "'Air",
+      "start": 9.9,
+      "end": 9.96
+    },
+    {
+      "text": "France,",
+      "start": 9.96,
+      "end": 10.24
+    },
+    {
+      "text": "à",
+      "start": 10.38,
+      "end": 10.48
+    },
+    {
+      "text": "partir",
+      "start": 10.48,
+      "end": 10.66
+    },
+    {
+      "text": "de",
+      "start": 10.66,
+      "end": 10.88
+    },
+    {
+      "text": "55",
+      "start": 10.88,
+      "end": 11.16
+    },
+    {
+      "text": "euros,",
+      "start": 11.16,
+      "end": 11.68
+    },
+    {
+      "text": "ou",
+      "start": 12.06,
+      "end": 12.16
+    },
+    {
+      "text": "le",
+      "start": 12.16,
+      "end": 12.28
+    },
+    {
+      "text": "train",
+      "start": 12.28,
+      "end": 12.52
+    },
+    {
+      "text": "avec",
+      "start": 12.52,
+      "end": 12.8
+    },
+    {
+      "text": "le",
+      "start": 12.8,
+      "end": 13.02
+    },
+    {
+      "text": "WeGo",
+      "start": 13.02,
+      "end": 13.42
+    },
+    {
+      "text": "de",
+      "start": 13.42,
+      "end": 13.68
+    },
+    {
+      "text": "la",
+      "start": 13.68,
+      "end": 13.78
+    },
+    {
+      "text": "CNCF,",
+      "start": 13.78,
+      "end": 14.48
+    },
+    {
+      "text": "pour",
+      "start": 14.5,
+      "end": 14.76
+    },
+    {
+      "text": "10",
+      "start": 14.76,
+      "end": 15.0
+    },
+    {
+      "text": "euros",
+      "start": 15.0,
+      "end": 15.2
+    },
+    {
+      "text": "seulement,",
+      "start": 15.2,
+      "end": 15.54
+    },
+    {
+      "text": "ces",
+      "start": 15.98,
+      "end": 16.08
+    },
+    {
+      "text": "dernières",
+      "start": 16.08,
+      "end": 16.4
+    },
+    {
+      "text": "semaines,",
+      "start": 16.4,
+      "end": 16.7
+    },
+    {
+      "text": "il",
+      "start": 16.88,
+      "end": 16.94
+    },
+    {
+      "text": "semblerait",
+      "start": 16.94,
+      "end": 17.42
+    },
+    {
+      "text": "bien",
+      "start": 17.42,
+      "end": 17.62
+    },
+    {
+      "text": "que",
+      "start": 17.62,
+      "end": 17.82
+    },
+    {
+      "text": "les",
+      "start": 17.82,
+      "end": 17.96
+    },
+    {
+      "text": "transporteurs",
+      "start": 17.96,
+      "end": 18.66
+    },
+    {
+      "text": "historiques",
+      "start": 18.66,
+      "end": 19.22
+    },
+    {
+      "text": "se",
+      "start": 19.22,
+      "end": 19.48
+    },
+    {
+      "text": "soient",
+      "start": 19.48,
+      "end": 19.62
+    },
+    {
+      "text": "mis",
+      "start": 19.62,
+      "end": 19.74
+    },
+    {
+      "text": "à",
+      "start": 19.74,
+      "end": 19.9
+    },
+    {
+      "text": "casser",
+      "start": 19.9,
+      "end": 20.18
+    },
+    {
+      "text": "les",
+      "start": 20.18,
+      "end": 20.36
+    },
+    {
+      "text": "prix.",
+      "start": 20.36,
+      "end": 20.54
+    },
+    {
+      "text": "Signe",
+      "start": 20.88,
+      "end": 21.3
+    },
+    {
+      "text": "que",
+      "start": 21.3,
+      "end": 21.42
+    },
+    {
+      "text": "la",
+      "start": 21.42,
+      "end": 21.54
+    },
+    {
+      "text": "révolution",
+      "start": 21.54,
+      "end": 22.06
+    },
+    {
+      "text": "low",
+      "start": 22.06,
+      "end": 22.36
+    },
+    {
+      "text": "-cost",
+      "start": 22.36,
+      "end": 22.58
+    },
+    {
+      "text": "et",
+      "start": 22.58,
+      "end": 22.8
+    },
+    {
+      "text": "ses",
+      "start": 22.8,
+      "end": 22.94
+    },
+    {
+      "text": "prix",
+      "start": 22.94,
+      "end": 23.1
+    },
+    {
+      "text": "toujours",
+      "start": 23.1,
+      "end": 23.34
+    },
+    {
+      "text": "plus",
+      "start": 23.34,
+      "end": 23.62
+    },
+    {
+      "text": "bas",
+      "start": 23.62,
+      "end": 23.8
+    },
+    {
+      "text": "déferlent",
+      "start": 23.8,
+      "end": 24.32
+    },
+    {
+      "text": "dans",
+      "start": 24.32,
+      "end": 24.46
+    },
+    {
+      "text": "tous",
+      "start": 24.46,
+      "end": 24.62
+    },
+    {
+      "text": "les",
+      "start": 24.62,
+      "end": 24.76
+    },
+    {
+      "text": "secteurs,",
+      "start": 24.76,
+      "end": 25.22
+    },
+    {
+      "text": "l",
+      "start": 25.62,
+      "end": 25.72
+    },
+    {
+      "text": "'alimentaire,",
+      "start": 25.72,
+      "end": 26.32
+    },
+    {
+      "text": "l",
+      "start": 26.52,
+      "end": 26.62
+    },
+    {
+      "text": "'optique,",
+      "start": 26.62,
+      "end": 26.96
+    },
+    {
+      "text": "la",
+      "start": 27.1,
+      "end": 27.18
+    },
+    {
+      "text": "téléphonie,",
+      "start": 27.18,
+      "end": 27.7
+    },
+    {
+      "text": "les",
+      "start": 27.8,
+      "end": 27.86
+    },
+    {
+      "text": "soins",
+      "start": 27.86,
+      "end": 28.1
+    },
+    {
+      "text": "dentaires,",
+      "start": 28.1,
+      "end": 28.52
+    },
+    {
+      "text": "jusqu",
+      "start": 28.52,
+      "end": 29.06
+    },
+    {
+      "text": "'au",
+      "start": 29.06,
+      "end": 29.3
+    },
+    {
+      "text": "pompe",
+      "start": 29.3,
+      "end": 29.62
+    },
+    {
+      "text": "-funaire.",
+      "start": 29.62,
+      "end": 29.94
+    },
+    {
+      "text": "Ombra",
+      "start": 30.16,
+      "end": 30.58
+    },
+    {
+      "text": "de",
+      "start": 30.58,
+      "end": 30.78
+    },
+    {
+      "text": "tout",
+      "start": 30.78,
+      "end": 30.96
+    },
+    {
+      "text": "et",
+      "start": 30.96,
+      "end": 31.28
+    },
+    {
+      "text": "invent",
+      "start": 31.28,
+      "end": 31.5
+    },
+    {
+      "text": "un",
+      "start": 31.5,
+      "end": 31.7
+    },
+    {
+      "text": "nouveau",
+      "start": 31.7,
+      "end": 31.9
+    },
+    {
+      "text": "modèle",
+      "start": 31.9,
+      "end": 32.2
+    },
+    {
+      "text": "économique.",
+      "start": 32.2,
+      "end": 32.68
+    },
+    {
+      "text": "Et",
+      "start": 33.04,
+      "end": 33.22
+    },
+    {
+      "text": "les",
+      "start": 33.22,
+      "end": 33.32
+    },
+    {
+      "text": "succès",
+      "start": 33.32,
+      "end": 33.66
+    },
+    {
+      "text": "ne",
+      "start": 33.66,
+      "end": 33.76
+    },
+    {
+      "text": "manquent",
+      "start": 33.76,
+      "end": 33.94
+    },
+    {
+      "text": "pas",
+      "start": 33.94,
+      "end": 34.12
+    },
+    {
+      "text": "à",
+      "start": 34.12,
+      "end": 34.22
+    },
+    {
+      "text": "l",
+      "start": 34.22,
+      "end": 34.26
+    },
+    {
+      "text": "'appel,",
+      "start": 34.26,
+      "end": 34.48
+    },
+    {
+      "text": "selon",
+      "start": 34.6,
+      "end": 34.74
+    },
+    {
+      "text": "Jean",
+      "start": 34.74,
+      "end": 34.96
+    },
+    {
+      "text": "-Paul",
+      "start": 34.96,
+      "end": 35.14
+    },
+    {
+      "text": "Trégert,",
+      "start": 35.14,
+      "end": 35.56
+    },
+    {
+      "text": "président",
+      "start": 35.68,
+      "end": 36.0
+    },
+    {
+      "text": "du",
+      "start": 36.0,
+      "end": 36.2
+    },
+    {
+      "text": "club",
+      "start": 36.2,
+      "end": 36.4
+    },
+    {
+      "text": "des",
+      "start": 36.4,
+      "end": 36.56
+    },
+    {
+      "text": "entreprises",
+      "start": 36.56,
+      "end": 36.98
+    },
+    {
+      "text": "low",
+      "start": 36.98,
+      "end": 37.2
+    },
+    {
+      "text": "-cost.",
+      "start": 37.2,
+      "end": 37.38
+    },
+    {
+      "text": "Les",
+      "start": 37.68,
+      "end": 37.86
+    },
+    {
+      "text": "entreprises",
+      "start": 37.86,
+      "end": 38.3
+    },
+    {
+      "text": "qui",
+      "start": 38.3,
+      "end": 38.52
+    },
+    {
+      "text": "réussissent",
+      "start": 38.52,
+      "end": 38.9
+    },
+    {
+      "text": "dans",
+      "start": 38.9,
+      "end": 39.08
+    },
+    {
+      "text": "le",
+      "start": 39.08,
+      "end": 39.16
+    },
+    {
+      "text": "low",
+      "start": 39.16,
+      "end": 39.28
+    },
+    {
+      "text": "-cost,",
+      "start": 39.28,
+      "end": 39.52
+    },
+    {
+      "text": "ce",
+      "start": 39.74,
+      "end": 39.78
+    },
+    {
+      "text": "sont",
+      "start": 39.78,
+      "end": 40.04
+    },
+    {
+      "text": "des",
+      "start": 40.04,
+      "end": 40.68
+    },
+    {
+      "text": "entreprises",
+      "start": 40.68,
+      "end": 41.08
+    },
+    {
+      "text": "innovatrices,",
+      "start": 41.08,
+      "end": 42.22
+    },
+    {
+      "text": "innovantes,",
+      "start": 42.42,
+      "end": 42.88
+    },
+    {
+      "text": "qui",
+      "start": 43.18,
+      "end": 43.5
+    },
+    {
+      "text": "sont",
+      "start": 43.5,
+      "end": 43.66
+    },
+    {
+      "text": "partis",
+      "start": 43.66,
+      "end": 43.94
+    },
+    {
+      "text": "de",
+      "start": 43.94,
+      "end": 44.12
+    },
+    {
+      "text": "zéro,",
+      "start": 44.12,
+      "end": 44.44
+    },
+    {
+      "text": "qui",
+      "start": 44.62,
+      "end": 44.66
+    },
+    {
+      "text": "ont",
+      "start": 44.66,
+      "end": 44.78
+    },
+    {
+      "text": "remis",
+      "start": 44.78,
+      "end": 45.04
+    },
+    {
+      "text": "complètement",
+      "start": 45.04,
+      "end": 45.38
+    },
+    {
+      "text": "à",
+      "start": 45.38,
+      "end": 45.6
+    },
+    {
+      "text": "plat",
+      "start": 45.6,
+      "end": 45.72
+    },
+    {
+      "text": "le",
+      "start": 45.72,
+      "end": 46.94
+    },
+    {
+      "text": "mode",
+      "start": 46.94,
+      "end": 47.12
+    },
+    {
+      "text": "de",
+      "start": 47.12,
+      "end": 47.26
+    },
+    {
+      "text": "fonctionnement",
+      "start": 47.26,
+      "end": 47.68
+    },
+    {
+      "text": "du",
+      "start": 47.68,
+      "end": 47.84
+    },
+    {
+      "text": "secteur.",
+      "start": 47.84,
+      "end": 48.3
+    },
+    {
+      "text": "L",
+      "start": 48.56,
+      "end": 48.66
+    },
+    {
+      "text": "'un",
+      "start": 48.66,
+      "end": 48.7
+    },
+    {
+      "text": "des",
+      "start": 48.7,
+      "end": 48.82
+    },
+    {
+      "text": "exemples",
+      "start": 48.82,
+      "end": 49.22
+    },
+    {
+      "text": "plus",
+      "start": 49.22,
+      "end": 49.5
+    },
+    {
+      "text": "foudroyants",
+      "start": 49.5,
+      "end": 50.36
+    },
+    {
+      "text": "de",
+      "start": 50.36,
+      "end": 50.5
+    },
+    {
+      "text": "succès,",
+      "start": 50.5,
+      "end": 50.88
+    },
+    {
+      "text": "c",
+      "start": 51.0,
+      "end": 51.12
+    },
+    {
+      "text": "'est",
+      "start": 51.12,
+      "end": 51.22
+    },
+    {
+      "text": "Dacia",
+      "start": 51.22,
+      "end": 51.8
+    },
+    {
+      "text": "avec",
+      "start": 51.8,
+      "end": 52.08
+    },
+    {
+      "text": "la",
+      "start": 52.08,
+      "end": 52.26
+    },
+    {
+      "text": "Logan,",
+      "start": 52.26,
+      "end": 52.5
+    },
+    {
+      "text": "et",
+      "start": 52.84,
+      "end": 53.12
+    },
+    {
+      "text": "ensuite",
+      "start": 53.12,
+      "end": 53.36
+    },
+    {
+      "text": "toutes",
+      "start": 53.36,
+      "end": 53.62
+    },
+    {
+      "text": "les",
+      "start": 53.62,
+      "end": 53.74
+    },
+    {
+      "text": "voitures",
+      "start": 53.74,
+      "end": 54.12
+    },
+    {
+      "text": "qui",
+      "start": 54.12,
+      "end": 54.34
+    },
+    {
+      "text": "ont",
+      "start": 54.34,
+      "end": 54.46
+    },
+    {
+      "text": "suivi.",
+      "start": 54.46,
+      "end": 55.12
+    },
+    {
+      "text": "Comment",
+      "start": 56.64,
+      "end": 57.16
+    },
+    {
+      "text": "est",
+      "start": 57.16,
+      "end": 57.34
+    },
+    {
+      "text": "présenté",
+      "start": 57.34,
+      "end": 57.78
+    },
+    {
+      "text": "le",
+      "start": 57.78,
+      "end": 57.88
+    },
+    {
+      "text": "modèle",
+      "start": 57.88,
+      "end": 58.14
+    },
+    {
+      "text": "économique",
+      "start": 58.14,
+      "end": 58.68
+    },
+    {
+      "text": "évoqué",
+      "start": 58.68,
+      "end": 59.28
+    },
+    {
+      "text": "dans",
+      "start": 59.28,
+      "end": 59.42
+    },
+    {
+      "text": "ce",
+      "start": 59.42,
+      "end": 59.56
+    },
+    {
+      "text": "reportage",
+      "start": 59.56,
+      "end": 60.16
+    },
+    {
+      "text": "?",
+      "start": 60.16,
+      "end": 60.36
+    }
+  ]
+}

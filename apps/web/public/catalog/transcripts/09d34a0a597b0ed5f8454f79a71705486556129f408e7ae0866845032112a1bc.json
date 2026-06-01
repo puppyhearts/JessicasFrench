@@ -1,0 +1,220 @@
+{
+  "text": "Salut Martine, alors est-ce que tu te sens mieux ce matin ? Oui un peu je te remercie mais ce voyage m'a épuisé, je crois que je vais faire une bonne sieste cet après-midi. Question 15. Comment va Martine ?",
+  "words": [
+    {
+      "text": "Salut",
+      "start": 2.46,
+      "end": 2.94
+    },
+    {
+      "text": "Martine,",
+      "start": 2.94,
+      "end": 3.24
+    },
+    {
+      "text": "alors",
+      "start": 3.86,
+      "end": 3.96
+    },
+    {
+      "text": "est",
+      "start": 3.96,
+      "end": 4.38
+    },
+    {
+      "text": "-ce",
+      "start": 4.38,
+      "end": 4.42
+    },
+    {
+      "text": "que",
+      "start": 4.42,
+      "end": 4.52
+    },
+    {
+      "text": "tu",
+      "start": 4.52,
+      "end": 4.62
+    },
+    {
+      "text": "te",
+      "start": 4.62,
+      "end": 4.7
+    },
+    {
+      "text": "sens",
+      "start": 4.7,
+      "end": 4.78
+    },
+    {
+      "text": "mieux",
+      "start": 4.78,
+      "end": 5.06
+    },
+    {
+      "text": "ce",
+      "start": 5.06,
+      "end": 5.24
+    },
+    {
+      "text": "matin",
+      "start": 5.24,
+      "end": 5.42
+    },
+    {
+      "text": "?",
+      "start": 5.42,
+      "end": 6.22
+    },
+    {
+      "text": "Oui",
+      "start": 6.22,
+      "end": 6.52
+    },
+    {
+      "text": "un",
+      "start": 6.52,
+      "end": 6.72
+    },
+    {
+      "text": "peu",
+      "start": 6.72,
+      "end": 6.88
+    },
+    {
+      "text": "je",
+      "start": 6.88,
+      "end": 7.06
+    },
+    {
+      "text": "te",
+      "start": 7.06,
+      "end": 7.12
+    },
+    {
+      "text": "remercie",
+      "start": 7.12,
+      "end": 7.62
+    },
+    {
+      "text": "mais",
+      "start": 7.62,
+      "end": 7.96
+    },
+    {
+      "text": "ce",
+      "start": 7.96,
+      "end": 8.16
+    },
+    {
+      "text": "voyage",
+      "start": 8.16,
+      "end": 8.42
+    },
+    {
+      "text": "m",
+      "start": 8.42,
+      "end": 8.72
+    },
+    {
+      "text": "'a",
+      "start": 8.72,
+      "end": 8.8
+    },
+    {
+      "text": "épuisé,",
+      "start": 8.8,
+      "end": 9.54
+    },
+    {
+      "text": "je",
+      "start": 10.04,
+      "end": 10.14
+    },
+    {
+      "text": "crois",
+      "start": 10.14,
+      "end": 10.34
+    },
+    {
+      "text": "que",
+      "start": 10.34,
+      "end": 10.42
+    },
+    {
+      "text": "je",
+      "start": 10.42,
+      "end": 10.48
+    },
+    {
+      "text": "vais",
+      "start": 10.48,
+      "end": 10.54
+    },
+    {
+      "text": "faire",
+      "start": 10.54,
+      "end": 10.74
+    },
+    {
+      "text": "une",
+      "start": 10.74,
+      "end": 10.9
+    },
+    {
+      "text": "bonne",
+      "start": 10.9,
+      "end": 11.14
+    },
+    {
+      "text": "sieste",
+      "start": 11.14,
+      "end": 11.54
+    },
+    {
+      "text": "cet",
+      "start": 11.54,
+      "end": 11.76
+    },
+    {
+      "text": "après",
+      "start": 11.76,
+      "end": 11.88
+    },
+    {
+      "text": "-midi.",
+      "start": 11.88,
+      "end": 12.18
+    },
+    {
+      "text": "Question",
+      "start": 13.88,
+      "end": 14.36
+    },
+    {
+      "text": "15.",
+      "start": 14.36,
+      "end": 14.84
+    },
+    {
+      "text": "Comment",
+      "start": 16.0,
+      "end": 16.4
+    },
+    {
+      "text": "va",
+      "start": 16.4,
+      "end": 16.64
+    },
+    {
+      "text": "Martine",
+      "start": 16.64,
+      "end": 17.0
+    },
+    {
+      "text": "?",
+      "start": 17.0,
+      "end": 17.48
+    }
+  ]
+}

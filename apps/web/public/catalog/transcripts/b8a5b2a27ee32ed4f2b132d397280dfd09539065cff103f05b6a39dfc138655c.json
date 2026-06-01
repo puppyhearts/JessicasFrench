@@ -1,0 +1,430 @@
+{
+  "text": "Question 14. Écoutez le document sonore et la question. Choisissez la bonne réponse. Selon vous, quelle est la meilleure solution pour trouver un emploi actuellement ? Il ne faut pas oublier les vieilles méthodes, comme l'envoi de lettres de motivation, les rencontres, et répondre aux annonces dans les journaux. Mais il faut surtout donner la priorité aux nouvelles technologies. Les forums, les réseaux sociaux, les sites spécialisés, les blocs personnels, tous ces moyens sont essentiels. Que conseille cette personne pour trouver un emploi ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "text": "14.",
+      "start": 0.54,
+      "end": 1.46
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.04,
+      "end": 2.42
+    },
+    {
+      "text": "le",
+      "start": 2.42,
+      "end": 2.62
+    },
+    {
+      "text": "document",
+      "start": 2.62,
+      "end": 2.98
+    },
+    {
+      "text": "sonore",
+      "start": 2.98,
+      "end": 3.58
+    },
+    {
+      "text": "et",
+      "start": 3.58,
+      "end": 3.88
+    },
+    {
+      "text": "la",
+      "start": 3.88,
+      "end": 4.0
+    },
+    {
+      "text": "question.",
+      "start": 4.0,
+      "end": 4.36
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.16,
+      "end": 5.66
+    },
+    {
+      "text": "la",
+      "start": 5.66,
+      "end": 5.9
+    },
+    {
+      "text": "bonne",
+      "start": 5.9,
+      "end": 6.08
+    },
+    {
+      "text": "réponse.",
+      "start": 6.08,
+      "end": 6.48
+    },
+    {
+      "text": "Selon",
+      "start": 7.68,
+      "end": 8.14
+    },
+    {
+      "text": "vous,",
+      "start": 8.14,
+      "end": 8.42
+    },
+    {
+      "text": "quelle",
+      "start": 9.06,
+      "end": 9.24
+    },
+    {
+      "text": "est",
+      "start": 9.24,
+      "end": 9.36
+    },
+    {
+      "text": "la",
+      "start": 9.36,
+      "end": 9.5
+    },
+    {
+      "text": "meilleure",
+      "start": 9.5,
+      "end": 9.84
+    },
+    {
+      "text": "solution",
+      "start": 9.84,
+      "end": 10.3
+    },
+    {
+      "text": "pour",
+      "start": 10.3,
+      "end": 10.6
+    },
+    {
+      "text": "trouver",
+      "start": 10.6,
+      "end": 10.88
+    },
+    {
+      "text": "un",
+      "start": 10.88,
+      "end": 11.04
+    },
+    {
+      "text": "emploi",
+      "start": 11.04,
+      "end": 11.38
+    },
+    {
+      "text": "actuellement",
+      "start": 11.38,
+      "end": 11.9
+    },
+    {
+      "text": "?",
+      "start": 11.9,
+      "end": 12.18
+    },
+    {
+      "text": "Il",
+      "start": 12.52,
+      "end": 12.68
+    },
+    {
+      "text": "ne",
+      "start": 12.68,
+      "end": 12.8
+    },
+    {
+      "text": "faut",
+      "start": 12.8,
+      "end": 12.9
+    },
+    {
+      "text": "pas",
+      "start": 12.9,
+      "end": 13.04
+    },
+    {
+      "text": "oublier",
+      "start": 13.04,
+      "end": 13.32
+    },
+    {
+      "text": "les",
+      "start": 13.32,
+      "end": 13.54
+    },
+    {
+      "text": "vieilles",
+      "start": 13.54,
+      "end": 13.86
+    },
+    {
+      "text": "méthodes,",
+      "start": 13.86,
+      "end": 14.34
+    },
+    {
+      "text": "comme",
+      "start": 14.54,
+      "end": 14.8
+    },
+    {
+      "text": "l",
+      "start": 14.8,
+      "end": 14.96
+    },
+    {
+      "text": "'envoi",
+      "start": 14.96,
+      "end": 15.12
+    },
+    {
+      "text": "de",
+      "start": 15.12,
+      "end": 15.26
+    },
+    {
+      "text": "lettres",
+      "start": 15.26,
+      "end": 15.44
+    },
+    {
+      "text": "de",
+      "start": 15.44,
+      "end": 15.6
+    },
+    {
+      "text": "motivation,",
+      "start": 15.6,
+      "end": 16.1
+    },
+    {
+      "text": "les",
+      "start": 16.62,
+      "end": 16.72
+    },
+    {
+      "text": "rencontres,",
+      "start": 16.72,
+      "end": 17.36
+    },
+    {
+      "text": "et",
+      "start": 17.68,
+      "end": 17.76
+    },
+    {
+      "text": "répondre",
+      "start": 17.76,
+      "end": 18.02
+    },
+    {
+      "text": "aux",
+      "start": 18.02,
+      "end": 18.2
+    },
+    {
+      "text": "annonces",
+      "start": 18.2,
+      "end": 18.52
+    },
+    {
+      "text": "dans",
+      "start": 18.52,
+      "end": 18.66
+    },
+    {
+      "text": "les",
+      "start": 18.66,
+      "end": 18.78
+    },
+    {
+      "text": "journaux.",
+      "start": 18.78,
+      "end": 19.1
+    },
+    {
+      "text": "Mais",
+      "start": 19.74,
+      "end": 20.0
+    },
+    {
+      "text": "il",
+      "start": 20.0,
+      "end": 20.14
+    },
+    {
+      "text": "faut",
+      "start": 20.14,
+      "end": 20.34
+    },
+    {
+      "text": "surtout",
+      "start": 20.34,
+      "end": 20.94
+    },
+    {
+      "text": "donner",
+      "start": 20.94,
+      "end": 21.36
+    },
+    {
+      "text": "la",
+      "start": 21.36,
+      "end": 21.56
+    },
+    {
+      "text": "priorité",
+      "start": 21.56,
+      "end": 22.02
+    },
+    {
+      "text": "aux",
+      "start": 22.02,
+      "end": 22.14
+    },
+    {
+      "text": "nouvelles",
+      "start": 22.14,
+      "end": 22.4
+    },
+    {
+      "text": "technologies.",
+      "start": 22.4,
+      "end": 23.04
+    },
+    {
+      "text": "Les",
+      "start": 23.04,
+      "end": 23.62
+    },
+    {
+      "text": "forums,",
+      "start": 23.62,
+      "end": 23.94
+    },
+    {
+      "text": "les",
+      "start": 24.38,
+      "end": 24.46
+    },
+    {
+      "text": "réseaux",
+      "start": 24.46,
+      "end": 24.74
+    },
+    {
+      "text": "sociaux,",
+      "start": 24.74,
+      "end": 25.1
+    },
+    {
+      "text": "les",
+      "start": 25.56,
+      "end": 25.66
+    },
+    {
+      "text": "sites",
+      "start": 25.66,
+      "end": 25.9
+    },
+    {
+      "text": "spécialisés,",
+      "start": 25.9,
+      "end": 26.54
+    },
+    {
+      "text": "les",
+      "start": 26.66,
+      "end": 26.7
+    },
+    {
+      "text": "blocs",
+      "start": 26.7,
+      "end": 27.04
+    },
+    {
+      "text": "personnels,",
+      "start": 27.04,
+      "end": 27.7
+    },
+    {
+      "text": "tous",
+      "start": 28.2,
+      "end": 28.3
+    },
+    {
+      "text": "ces",
+      "start": 28.3,
+      "end": 28.5
+    },
+    {
+      "text": "moyens",
+      "start": 28.5,
+      "end": 28.74
+    },
+    {
+      "text": "sont",
+      "start": 28.74,
+      "end": 29.06
+    },
+    {
+      "text": "essentiels.",
+      "start": 29.06,
+      "end": 29.64
+    },
+    {
+      "text": "Que",
+      "start": 30.62,
+      "end": 31.26
+    },
+    {
+      "text": "conseille",
+      "start": 31.26,
+      "end": 31.78
+    },
+    {
+      "text": "cette",
+      "start": 31.78,
+      "end": 31.96
+    },
+    {
+      "text": "personne",
+      "start": 31.96,
+      "end": 32.46
+    },
+    {
+      "text": "pour",
+      "start": 32.46,
+      "end": 32.86
+    },
+    {
+      "text": "trouver",
+      "start": 32.86,
+      "end": 33.18
+    },
+    {
+      "text": "un",
+      "start": 33.18,
+      "end": 33.4
+    },
+    {
+      "text": "emploi",
+      "start": 33.4,
+      "end": 33.72
+    },
+    {
+      "text": "?",
+      "start": 33.72,
+      "end": 34.0
+    }
+  ]
+}

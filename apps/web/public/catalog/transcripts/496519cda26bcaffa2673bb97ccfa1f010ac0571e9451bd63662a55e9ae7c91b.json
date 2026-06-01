@@ -1,0 +1,250 @@
+{
+  "text": "Question 7. Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Bonjour Monsieur le directeur, c'est Nadia. Je suis malade aujourd'hui, je ne peux pas venir travailler. Je vais prendre rendez-vous chez le docteur, je suis désolé. Qui Nadia appelle-t-elle ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "text": "7.",
+      "start": 0.54,
+      "end": 1.06
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.9,
+      "end": 2.3
+    },
+    {
+      "text": "l",
+      "start": 2.3,
+      "end": 2.52
+    },
+    {
+      "text": "'extrait",
+      "start": 2.52,
+      "end": 2.86
+    },
+    {
+      "text": "sonore",
+      "start": 2.86,
+      "end": 3.42
+    },
+    {
+      "text": "et",
+      "start": 3.42,
+      "end": 3.74
+    },
+    {
+      "text": "les",
+      "start": 3.74,
+      "end": 3.88
+    },
+    {
+      "text": "quatre",
+      "start": 3.88,
+      "end": 4.08
+    },
+    {
+      "text": "propositions.",
+      "start": 4.08,
+      "end": 4.82
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.5,
+      "end": 5.94
+    },
+    {
+      "text": "la",
+      "start": 5.94,
+      "end": 6.14
+    },
+    {
+      "text": "bonne",
+      "start": 6.14,
+      "end": 6.34
+    },
+    {
+      "text": "réponse.",
+      "start": 6.34,
+      "end": 6.7
+    },
+    {
+      "text": "Bonjour",
+      "start": 8.16,
+      "end": 8.8
+    },
+    {
+      "text": "Monsieur",
+      "start": 8.8,
+      "end": 9.1
+    },
+    {
+      "text": "le",
+      "start": 9.1,
+      "end": 9.28
+    },
+    {
+      "text": "directeur,",
+      "start": 9.28,
+      "end": 9.84
+    },
+    {
+      "text": "c",
+      "start": 10.32,
+      "end": 10.38
+    },
+    {
+      "text": "'est",
+      "start": 10.38,
+      "end": 10.44
+    },
+    {
+      "text": "Nadia.",
+      "start": 10.44,
+      "end": 10.72
+    },
+    {
+      "text": "Je",
+      "start": 11.3,
+      "end": 11.8
+    },
+    {
+      "text": "suis",
+      "start": 11.8,
+      "end": 12.0
+    },
+    {
+      "text": "malade",
+      "start": 12.0,
+      "end": 12.36
+    },
+    {
+      "text": "aujourd",
+      "start": 12.36,
+      "end": 12.52
+    },
+    {
+      "text": "'hui,",
+      "start": 12.52,
+      "end": 12.86
+    },
+    {
+      "text": "je",
+      "start": 13.18,
+      "end": 13.32
+    },
+    {
+      "text": "ne",
+      "start": 13.32,
+      "end": 13.42
+    },
+    {
+      "text": "peux",
+      "start": 13.42,
+      "end": 13.54
+    },
+    {
+      "text": "pas",
+      "start": 13.54,
+      "end": 13.7
+    },
+    {
+      "text": "venir",
+      "start": 13.7,
+      "end": 13.92
+    },
+    {
+      "text": "travailler.",
+      "start": 13.92,
+      "end": 14.32
+    },
+    {
+      "text": "Je",
+      "start": 15.14,
+      "end": 15.42
+    },
+    {
+      "text": "vais",
+      "start": 15.42,
+      "end": 15.54
+    },
+    {
+      "text": "prendre",
+      "start": 15.54,
+      "end": 15.76
+    },
+    {
+      "text": "rendez",
+      "start": 15.76,
+      "end": 16.1
+    },
+    {
+      "text": "-vous",
+      "start": 16.1,
+      "end": 16.28
+    },
+    {
+      "text": "chez",
+      "start": 16.28,
+      "end": 16.44
+    },
+    {
+      "text": "le",
+      "start": 16.44,
+      "end": 16.54
+    },
+    {
+      "text": "docteur,",
+      "start": 16.54,
+      "end": 16.94
+    },
+    {
+      "text": "je",
+      "start": 17.3,
+      "end": 17.42
+    },
+    {
+      "text": "suis",
+      "start": 17.42,
+      "end": 17.56
+    },
+    {
+      "text": "désolé.",
+      "start": 17.56,
+      "end": 17.9
+    },
+    {
+      "text": "Qui",
+      "start": 19.26,
+      "end": 19.8
+    },
+    {
+      "text": "Nadia",
+      "start": 19.8,
+      "end": 20.44
+    },
+    {
+      "text": "appelle",
+      "start": 20.44,
+      "end": 20.74
+    },
+    {
+      "text": "-t",
+      "start": 20.74,
+      "end": 21.0
+    },
+    {
+      "text": "-elle",
+      "start": 21.0,
+      "end": 21.14
+    },
+    {
+      "text": "?",
+      "start": 21.14,
+      "end": 21.76
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "text": "Question 29. Écoutez le document sonore et la question. Choisissez la bonne réponse. La Société nationale des chemins de fer vient de franchir une étape supplémentaire dans son projet de refonte du réseau déficitaire des trains interrégionaux, les TIR. Dans une lettre adressée à Jacques Oxyette, président du Conseil régional des Pays de la Loire, le directeur du transport public de l'entreprise ferroviaire, Bernard Sinou, prévient que faute d'un accord sur le mode de financement de ces services actuellement à la charge de la SNCF, une réduction du nombre de trains sur les lignes concernées dans sa région, pourrait entrer en vigueur dès la mi-décembre, date à laquelle l'entreprise doit passer aux horaires d'hiver. Pour les experts de la SNCF, la rentabilité d'une ligne interrégionale se mesure en particulier au nombre de personnes l'empruntant quotidiennement d'un bout à l'autre. En-deçà de 200 passagers par jour, estime-t-elle, elle n'est pas rentable. Qu'est-ce qui incitera la SNCF à réduire le nombre de trains régionaux dans les pays de la Loire ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "29.",
+      "start": 0.56,
+      "end": 1.18
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.04,
+      "end": 2.44
+    },
+    {
+      "text": "le",
+      "start": 2.44,
+      "end": 2.64
+    },
+    {
+      "text": "document",
+      "start": 2.64,
+      "end": 2.98
+    },
+    {
+      "text": "sonore",
+      "start": 2.98,
+      "end": 3.54
+    },
+    {
+      "text": "et",
+      "start": 3.54,
+      "end": 3.78
+    },
+    {
+      "text": "la",
+      "start": 3.78,
+      "end": 3.92
+    },
+    {
+      "text": "question.",
+      "start": 3.92,
+      "end": 4.26
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.92,
+      "end": 5.42
+    },
+    {
+      "text": "la",
+      "start": 5.42,
+      "end": 5.62
+    },
+    {
+      "text": "bonne",
+      "start": 5.62,
+      "end": 5.78
+    },
+    {
+      "text": "réponse.",
+      "start": 5.78,
+      "end": 6.12
+    },
+    {
+      "text": "La",
+      "start": 7.08,
+      "end": 7.6
+    },
+    {
+      "text": "Société",
+      "start": 7.6,
+      "end": 7.96
+    },
+    {
+      "text": "nationale",
+      "start": 7.96,
+      "end": 8.2
+    },
+    {
+      "text": "des",
+      "start": 8.2,
+      "end": 8.48
+    },
+    {
+      "text": "chemins",
+      "start": 8.48,
+      "end": 8.68
+    },
+    {
+      "text": "de",
+      "start": 8.68,
+      "end": 8.8
+    },
+    {
+      "text": "fer",
+      "start": 8.8,
+      "end": 8.92
+    },
+    {
+      "text": "vient",
+      "start": 8.92,
+      "end": 9.14
+    },
+    {
+      "text": "de",
+      "start": 9.14,
+      "end": 9.26
+    },
+    {
+      "text": "franchir",
+      "start": 9.26,
+      "end": 9.6
+    },
+    {
+      "text": "une",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "text": "étape",
+      "start": 9.76,
+      "end": 10.04
+    },
+    {
+      "text": "supplémentaire",
+      "start": 10.04,
+      "end": 10.74
+    },
+    {
+      "text": "dans",
+      "start": 10.74,
+      "end": 10.9
+    },
+    {
+      "text": "son",
+      "start": 10.9,
+      "end": 11.08
+    },
+    {
+      "text": "projet",
+      "start": 11.08,
+      "end": 11.42
+    },
+    {
+      "text": "de",
+      "start": 11.42,
+      "end": 11.56
+    },
+    {
+      "text": "refonte",
+      "start": 11.56,
+      "end": 12.06
+    },
+    {
+      "text": "du",
+      "start": 12.06,
+      "end": 12.34
+    },
+    {
+      "text": "réseau",
+      "start": 12.34,
+      "end": 12.7
+    },
+    {
+      "text": "déficitaire",
+      "start": 12.7,
+      "end": 13.36
+    },
+    {
+      "text": "des",
+      "start": 13.36,
+      "end": 13.6
+    },
+    {
+      "text": "trains",
+      "start": 13.6,
+      "end": 13.86
+    },
+    {
+      "text": "interrégionaux,",
+      "start": 13.86,
+      "end": 14.82
+    },
+    {
+      "text": "les",
+      "start": 15.1,
+      "end": 15.2
+    },
+    {
+      "text": "TIR.",
+      "start": 15.2,
+      "end": 15.82
+    },
+    {
+      "text": "Dans",
+      "start": 16.34,
+      "end": 16.54
+    },
+    {
+      "text": "une",
+      "start": 16.54,
+      "end": 16.72
+    },
+    {
+      "text": "lettre",
+      "start": 16.72,
+      "end": 16.94
+    },
+    {
+      "text": "adressée",
+      "start": 16.94,
+      "end": 17.34
+    },
+    {
+      "text": "à",
+      "start": 17.34,
+      "end": 17.46
+    },
+    {
+      "text": "Jacques",
+      "start": 17.46,
+      "end": 17.62
+    },
+    {
+      "text": "Oxyette,",
+      "start": 17.62,
+      "end": 18.12
+    },
+    {
+      "text": "président",
+      "start": 18.34,
+      "end": 18.6
+    },
+    {
+      "text": "du",
+      "start": 18.6,
+      "end": 18.8
+    },
+    {
+      "text": "Conseil",
+      "start": 18.8,
+      "end": 19.1
+    },
+    {
+      "text": "régional",
+      "start": 19.1,
+      "end": 19.46
+    },
+    {
+      "text": "des",
+      "start": 19.46,
+      "end": 19.74
+    },
+    {
+      "text": "Pays",
+      "start": 19.74,
+      "end": 19.92
+    },
+    {
+      "text": "de",
+      "start": 19.92,
+      "end": 20.02
+    },
+    {
+      "text": "la",
+      "start": 20.02,
+      "end": 20.12
+    },
+    {
+      "text": "Loire,",
+      "start": 20.12,
+      "end": 20.5
+    },
+    {
+      "text": "le",
+      "start": 20.96,
+      "end": 21.06
+    },
+    {
+      "text": "directeur",
+      "start": 21.06,
+      "end": 21.44
+    },
+    {
+      "text": "du",
+      "start": 21.44,
+      "end": 21.56
+    },
+    {
+      "text": "transport",
+      "start": 21.56,
+      "end": 21.84
+    },
+    {
+      "text": "public",
+      "start": 21.84,
+      "end": 22.28
+    },
+    {
+      "text": "de",
+      "start": 22.28,
+      "end": 22.48
+    },
+    {
+      "text": "l",
+      "start": 22.48,
+      "end": 22.58
+    },
+    {
+      "text": "'entreprise",
+      "start": 22.58,
+      "end": 22.9
+    },
+    {
+      "text": "ferroviaire,",
+      "start": 22.9,
+      "end": 23.56
+    },
+    {
+      "text": "Bernard",
+      "start": 23.78,
+      "end": 24.06
+    },
+    {
+      "text": "Sinou,",
+      "start": 24.06,
+      "end": 24.56
+    },
+    {
+      "text": "prévient",
+      "start": 24.56,
+      "end": 25.18
+    },
+    {
+      "text": "que",
+      "start": 25.18,
+      "end": 25.38
+    },
+    {
+      "text": "faute",
+      "start": 25.38,
+      "end": 25.68
+    },
+    {
+      "text": "d",
+      "start": 25.68,
+      "end": 25.8
+    },
+    {
+      "text": "'un",
+      "start": 25.8,
+      "end": 25.84
+    },
+    {
+      "text": "accord",
+      "start": 25.84,
+      "end": 26.12
+    },
+    {
+      "text": "sur",
+      "start": 26.12,
+      "end": 26.36
+    },
+    {
+      "text": "le",
+      "start": 26.36,
+      "end": 26.52
+    },
+    {
+      "text": "mode",
+      "start": 26.52,
+      "end": 26.76
+    },
+    {
+      "text": "de",
+      "start": 26.76,
+      "end": 26.9
+    },
+    {
+      "text": "financement",
+      "start": 26.9,
+      "end": 27.46
+    },
+    {
+      "text": "de",
+      "start": 27.46,
+      "end": 27.58
+    },
+    {
+      "text": "ces",
+      "start": 27.58,
+      "end": 27.74
+    },
+    {
+      "text": "services",
+      "start": 27.74,
+      "end": 28.08
+    },
+    {
+      "text": "actuellement",
+      "start": 28.08,
+      "end": 28.54
+    },
+    {
+      "text": "à",
+      "start": 28.54,
+      "end": 28.66
+    },
+    {
+      "text": "la",
+      "start": 28.66,
+      "end": 28.74
+    },
+    {
+      "text": "charge",
+      "start": 28.74,
+      "end": 28.98
+    },
+    {
+      "text": "de",
+      "start": 28.98,
+      "end": 29.12
+    },
+    {
+      "text": "la",
+      "start": 29.12,
+      "end": 29.22
+    },
+    {
+      "text": "SNCF,",
+      "start": 29.22,
+      "end": 29.92
+    },
+    {
+      "text": "une",
+      "start": 30.26,
+      "end": 30.38
+    },
+    {
+      "text": "réduction",
+      "start": 30.38,
+      "end": 30.78
+    },
+    {
+      "text": "du",
+      "start": 30.78,
+      "end": 31.04
+    },
+    {
+      "text": "nombre",
+      "start": 31.04,
+      "end": 31.24
+    },
+    {
+      "text": "de",
+      "start": 31.24,
+      "end": 31.38
+    },
+    {
+      "text": "trains",
+      "start": 31.38,
+      "end": 31.66
+    },
+    {
+      "text": "sur",
+      "start": 31.66,
+      "end": 31.96
+    },
+    {
+      "text": "les",
+      "start": 31.96,
+      "end": 32.12
+    },
+    {
+      "text": "lignes",
+      "start": 32.12,
+      "end": 32.32
+    },
+    {
+      "text": "concernées",
+      "start": 32.32,
+      "end": 32.8
+    },
+    {
+      "text": "dans",
+      "start": 32.8,
+      "end": 32.98
+    },
+    {
+      "text": "sa",
+      "start": 32.98,
+      "end": 33.14
+    },
+    {
+      "text": "région,",
+      "start": 33.14,
+      "end": 33.46
+    },
+    {
+      "text": "pourrait",
+      "start": 33.78,
+      "end": 34.06
+    },
+    {
+      "text": "entrer",
+      "start": 34.06,
+      "end": 34.44
+    },
+    {
+      "text": "en",
+      "start": 34.44,
+      "end": 34.54
+    },
+    {
+      "text": "vigueur",
+      "start": 34.54,
+      "end": 34.94
+    },
+    {
+      "text": "dès",
+      "start": 34.94,
+      "end": 35.12
+    },
+    {
+      "text": "la",
+      "start": 35.12,
+      "end": 35.24
+    },
+    {
+      "text": "mi",
+      "start": 35.24,
+      "end": 35.42
+    },
+    {
+      "text": "-décembre,",
+      "start": 35.42,
+      "end": 35.96
+    },
+    {
+      "text": "date",
+      "start": 36.26,
+      "end": 36.4
+    },
+    {
+      "text": "à",
+      "start": 36.4,
+      "end": 36.54
+    },
+    {
+      "text": "laquelle",
+      "start": 36.54,
+      "end": 36.74
+    },
+    {
+      "text": "l",
+      "start": 36.74,
+      "end": 36.92
+    },
+    {
+      "text": "'entreprise",
+      "start": 36.92,
+      "end": 37.34
+    },
+    {
+      "text": "doit",
+      "start": 37.34,
+      "end": 37.62
+    },
+    {
+      "text": "passer",
+      "start": 37.62,
+      "end": 37.98
+    },
+    {
+      "text": "aux",
+      "start": 37.98,
+      "end": 38.2
+    },
+    {
+      "text": "horaires",
+      "start": 38.2,
+      "end": 38.42
+    },
+    {
+      "text": "d",
+      "start": 38.42,
+      "end": 38.62
+    },
+    {
+      "text": "'hiver.",
+      "start": 38.62,
+      "end": 38.74
+    },
+    {
+      "text": "Pour",
+      "start": 39.6,
+      "end": 39.86
+    },
+    {
+      "text": "les",
+      "start": 39.86,
+      "end": 40.0
+    },
+    {
+      "text": "experts",
+      "start": 40.0,
+      "end": 40.28
+    },
+    {
+      "text": "de",
+      "start": 40.28,
+      "end": 40.4
+    },
+    {
+      "text": "la",
+      "start": 40.4,
+      "end": 40.48
+    },
+    {
+      "text": "SNCF,",
+      "start": 40.48,
+      "end": 41.08
+    },
+    {
+      "text": "la",
+      "start": 41.34,
+      "end": 41.42
+    },
+    {
+      "text": "rentabilité",
+      "start": 41.42,
+      "end": 41.98
+    },
+    {
+      "text": "d",
+      "start": 41.98,
+      "end": 42.1
+    },
+    {
+      "text": "'une",
+      "start": 42.1,
+      "end": 42.18
+    },
+    {
+      "text": "ligne",
+      "start": 42.18,
+      "end": 42.38
+    },
+    {
+      "text": "interrégionale",
+      "start": 42.38,
+      "end": 43.2
+    },
+    {
+      "text": "se",
+      "start": 43.2,
+      "end": 43.5
+    },
+    {
+      "text": "mesure",
+      "start": 43.5,
+      "end": 43.78
+    },
+    {
+      "text": "en",
+      "start": 43.78,
+      "end": 43.92
+    },
+    {
+      "text": "particulier",
+      "start": 43.92,
+      "end": 44.36
+    },
+    {
+      "text": "au",
+      "start": 44.36,
+      "end": 44.78
+    },
+    {
+      "text": "nombre",
+      "start": 44.78,
+      "end": 45.04
+    },
+    {
+      "text": "de",
+      "start": 45.04,
+      "end": 45.22
+    },
+    {
+      "text": "personnes",
+      "start": 45.22,
+      "end": 45.46
+    },
+    {
+      "text": "l",
+      "start": 45.46,
+      "end": 45.7
+    },
+    {
+      "text": "'empruntant",
+      "start": 45.7,
+      "end": 46.1
+    },
+    {
+      "text": "quotidiennement",
+      "start": 46.1,
+      "end": 46.9
+    },
+    {
+      "text": "d",
+      "start": 46.9,
+      "end": 47.1
+    },
+    {
+      "text": "'un",
+      "start": 47.1,
+      "end": 47.18
+    },
+    {
+      "text": "bout",
+      "start": 47.18,
+      "end": 47.34
+    },
+    {
+      "text": "à",
+      "start": 47.34,
+      "end": 47.5
+    },
+    {
+      "text": "l",
+      "start": 47.5,
+      "end": 47.62
+    },
+    {
+      "text": "'autre.",
+      "start": 47.62,
+      "end": 47.82
+    },
+    {
+      "text": "En",
+      "start": 48.26,
+      "end": 48.44
+    },
+    {
+      "text": "-deçà",
+      "start": 48.44,
+      "end": 48.78
+    },
+    {
+      "text": "de",
+      "start": 48.78,
+      "end": 48.96
+    },
+    {
+      "text": "200",
+      "start": 48.96,
+      "end": 49.24
+    },
+    {
+      "text": "passagers",
+      "start": 49.24,
+      "end": 49.68
+    },
+    {
+      "text": "par",
+      "start": 49.68,
+      "end": 49.86
+    },
+    {
+      "text": "jour,",
+      "start": 49.86,
+      "end": 50.14
+    },
+    {
+      "text": "estime",
+      "start": 50.3,
+      "end": 50.62
+    },
+    {
+      "text": "-t",
+      "start": 50.62,
+      "end": 50.72
+    },
+    {
+      "text": "-elle,",
+      "start": 50.72,
+      "end": 50.88
+    },
+    {
+      "text": "elle",
+      "start": 51.28,
+      "end": 51.36
+    },
+    {
+      "text": "n",
+      "start": 51.36,
+      "end": 51.48
+    },
+    {
+      "text": "'est",
+      "start": 51.48,
+      "end": 51.5
+    },
+    {
+      "text": "pas",
+      "start": 51.5,
+      "end": 51.66
+    },
+    {
+      "text": "rentable.",
+      "start": 51.66,
+      "end": 52.04
+    },
+    {
+      "text": "Qu",
+      "start": 53.54,
+      "end": 53.98
+    },
+    {
+      "text": "'est",
+      "start": 53.98,
+      "end": 54.06
+    },
+    {
+      "text": "-ce",
+      "start": 54.06,
+      "end": 54.18
+    },
+    {
+      "text": "qui",
+      "start": 54.18,
+      "end": 54.3
+    },
+    {
+      "text": "incitera",
+      "start": 54.3,
+      "end": 54.84
+    },
+    {
+      "text": "la",
+      "start": 54.84,
+      "end": 54.98
+    },
+    {
+      "text": "SNCF",
+      "start": 54.98,
+      "end": 55.74
+    },
+    {
+      "text": "à",
+      "start": 55.74,
+      "end": 56.26
+    },
+    {
+      "text": "réduire",
+      "start": 56.26,
+      "end": 56.68
+    },
+    {
+      "text": "le",
+      "start": 56.68,
+      "end": 56.8
+    },
+    {
+      "text": "nombre",
+      "start": 56.8,
+      "end": 57.04
+    },
+    {
+      "text": "de",
+      "start": 57.04,
+      "end": 57.22
+    },
+    {
+      "text": "trains",
+      "start": 57.22,
+      "end": 57.46
+    },
+    {
+      "text": "régionaux",
+      "start": 57.46,
+      "end": 58.02
+    },
+    {
+      "text": "dans",
+      "start": 58.02,
+      "end": 58.22
+    },
+    {
+      "text": "les",
+      "start": 58.22,
+      "end": 58.34
+    },
+    {
+      "text": "pays",
+      "start": 58.34,
+      "end": 58.56
+    },
+    {
+      "text": "de",
+      "start": 58.56,
+      "end": 58.66
+    },
+    {
+      "text": "la",
+      "start": 58.66,
+      "end": 58.76
+    },
+    {
+      "text": "Loire",
+      "start": 58.76,
+      "end": 59.08
+    },
+    {
+      "text": "?",
+      "start": 59.08,
+      "end": 59.48
+    }
+  ]
+}

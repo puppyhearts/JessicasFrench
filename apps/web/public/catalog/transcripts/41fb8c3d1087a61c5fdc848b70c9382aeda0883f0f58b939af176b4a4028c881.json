@@ -1,0 +1,860 @@
+{
+  "text": "Question 17. Écoutez le document sonore et la question. Choisissez la bonne réponse. Elle s'appelle Lucille Rénaire. C'est une blogueuse française. Elle s'occupe du site blogardéco.fr consacrée, comme son nom l'indique, à la décoration. Blogardéco, on parle beaucoup de ce site en ce moment, non pas tant pour son contenu, que parce qu'il s'agit du millionième site web en .fr. Le domaine, c'est ce qui identifie un site sur Internet. Le web est largement dominé par l'appellation américaine.com, ouvert à tous. Mais depuis quelques années, le .fr représentant la France tente de se faire une place au soleil. En délivrant ces jours-ci son millionième .fr à Lucille Rénaire, l'Afrique, l'organisme qui gère les noms de domaine en .fr, ne cache pas sa satisfaction, car plus il y aura de sites en .fr, plus cela donnera de visibilité à la France sur le net. Que nous apprend le journaliste sur l'utilisation des noms de domaine en France ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "text": "17.",
+      "start": 0.64,
+      "end": 1.32
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.2,
+      "end": 2.84
+    },
+    {
+      "text": "le",
+      "start": 2.84,
+      "end": 3.04
+    },
+    {
+      "text": "document",
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "text": "sonore",
+      "start": 3.36,
+      "end": 3.94
+    },
+    {
+      "text": "et",
+      "start": 3.94,
+      "end": 4.18
+    },
+    {
+      "text": "la",
+      "start": 4.18,
+      "end": 4.3
+    },
+    {
+      "text": "question.",
+      "start": 4.3,
+      "end": 4.66
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.32,
+      "end": 5.82
+    },
+    {
+      "text": "la",
+      "start": 5.82,
+      "end": 6.0
+    },
+    {
+      "text": "bonne",
+      "start": 6.0,
+      "end": 6.18
+    },
+    {
+      "text": "réponse.",
+      "start": 6.18,
+      "end": 6.54
+    },
+    {
+      "text": "Elle",
+      "start": 7.96,
+      "end": 8.6
+    },
+    {
+      "text": "s",
+      "start": 8.6,
+      "end": 8.78
+    },
+    {
+      "text": "'appelle",
+      "start": 8.78,
+      "end": 9.08
+    },
+    {
+      "text": "Lucille",
+      "start": 9.08,
+      "end": 9.88
+    },
+    {
+      "text": "Rénaire.",
+      "start": 9.88,
+      "end": 10.5
+    },
+    {
+      "text": "C",
+      "start": 10.98,
+      "end": 11.14
+    },
+    {
+      "text": "'est",
+      "start": 11.14,
+      "end": 11.18
+    },
+    {
+      "text": "une",
+      "start": 11.18,
+      "end": 11.36
+    },
+    {
+      "text": "blogueuse",
+      "start": 11.36,
+      "end": 11.76
+    },
+    {
+      "text": "française.",
+      "start": 11.76,
+      "end": 12.08
+    },
+    {
+      "text": "Elle",
+      "start": 12.94,
+      "end": 13.1
+    },
+    {
+      "text": "s",
+      "start": 13.1,
+      "end": 13.26
+    },
+    {
+      "text": "'occupe",
+      "start": 13.26,
+      "end": 13.48
+    },
+    {
+      "text": "du",
+      "start": 13.48,
+      "end": 13.62
+    },
+    {
+      "text": "site",
+      "start": 13.62,
+      "end": 13.94
+    },
+    {
+      "text": "blogardéco",
+      "start": 13.94,
+      "end": 14.9
+    },
+    {
+      "text": ".fr",
+      "start": 14.9,
+      "end": 15.44
+    },
+    {
+      "text": "consacrée,",
+      "start": 16.0,
+      "end": 16.44
+    },
+    {
+      "text": "comme",
+      "start": 16.72,
+      "end": 16.92
+    },
+    {
+      "text": "son",
+      "start": 16.92,
+      "end": 17.1
+    },
+    {
+      "text": "nom",
+      "start": 17.1,
+      "end": 17.26
+    },
+    {
+      "text": "l",
+      "start": 17.26,
+      "end": 17.38
+    },
+    {
+      "text": "'indique,",
+      "start": 17.38,
+      "end": 17.72
+    },
+    {
+      "text": "à",
+      "start": 18.12,
+      "end": 18.28
+    },
+    {
+      "text": "la",
+      "start": 18.28,
+      "end": 18.38
+    },
+    {
+      "text": "décoration.",
+      "start": 18.38,
+      "end": 18.78
+    },
+    {
+      "text": "Blogardéco,",
+      "start": 20.56,
+      "end": 21.2
+    },
+    {
+      "text": "on",
+      "start": 21.64,
+      "end": 21.84
+    },
+    {
+      "text": "parle",
+      "start": 21.84,
+      "end": 22.16
+    },
+    {
+      "text": "beaucoup",
+      "start": 22.16,
+      "end": 22.5
+    },
+    {
+      "text": "de",
+      "start": 22.5,
+      "end": 22.66
+    },
+    {
+      "text": "ce",
+      "start": 22.66,
+      "end": 22.76
+    },
+    {
+      "text": "site",
+      "start": 22.76,
+      "end": 23.02
+    },
+    {
+      "text": "en",
+      "start": 23.02,
+      "end": 23.16
+    },
+    {
+      "text": "ce",
+      "start": 23.16,
+      "end": 23.3
+    },
+    {
+      "text": "moment,",
+      "start": 23.3,
+      "end": 23.62
+    },
+    {
+      "text": "non",
+      "start": 24.16,
+      "end": 24.48
+    },
+    {
+      "text": "pas",
+      "start": 24.48,
+      "end": 24.72
+    },
+    {
+      "text": "tant",
+      "start": 24.72,
+      "end": 24.92
+    },
+    {
+      "text": "pour",
+      "start": 24.92,
+      "end": 25.16
+    },
+    {
+      "text": "son",
+      "start": 25.16,
+      "end": 25.38
+    },
+    {
+      "text": "contenu,",
+      "start": 25.38,
+      "end": 26.36
+    },
+    {
+      "text": "que",
+      "start": 26.36,
+      "end": 26.6
+    },
+    {
+      "text": "parce",
+      "start": 26.6,
+      "end": 26.8
+    },
+    {
+      "text": "qu",
+      "start": 26.8,
+      "end": 27.02
+    },
+    {
+      "text": "'il",
+      "start": 27.02,
+      "end": 27.08
+    },
+    {
+      "text": "s",
+      "start": 27.08,
+      "end": 27.28
+    },
+    {
+      "text": "'agit",
+      "start": 27.28,
+      "end": 27.44
+    },
+    {
+      "text": "du",
+      "start": 27.44,
+      "end": 27.64
+    },
+    {
+      "text": "millionième",
+      "start": 27.64,
+      "end": 28.3
+    },
+    {
+      "text": "site",
+      "start": 28.3,
+      "end": 28.74
+    },
+    {
+      "text": "web",
+      "start": 28.74,
+      "end": 29.12
+    },
+    {
+      "text": "en",
+      "start": 29.12,
+      "end": 29.62
+    },
+    {
+      "text": ".fr.",
+      "start": 29.62,
+      "end": 30.2
+    },
+    {
+      "text": "Le",
+      "start": 31.04,
+      "end": 31.58
+    },
+    {
+      "text": "domaine,",
+      "start": 31.58,
+      "end": 32.02
+    },
+    {
+      "text": "c",
+      "start": 32.32,
+      "end": 32.66
+    },
+    {
+      "text": "'est",
+      "start": 32.66,
+      "end": 32.7
+    },
+    {
+      "text": "ce",
+      "start": 32.7,
+      "end": 32.82
+    },
+    {
+      "text": "qui",
+      "start": 32.82,
+      "end": 33.0
+    },
+    {
+      "text": "identifie",
+      "start": 33.0,
+      "end": 33.62
+    },
+    {
+      "text": "un",
+      "start": 33.62,
+      "end": 33.84
+    },
+    {
+      "text": "site",
+      "start": 33.84,
+      "end": 34.04
+    },
+    {
+      "text": "sur",
+      "start": 34.04,
+      "end": 34.28
+    },
+    {
+      "text": "Internet.",
+      "start": 34.28,
+      "end": 34.66
+    },
+    {
+      "text": "Le",
+      "start": 35.68,
+      "end": 35.88
+    },
+    {
+      "text": "web",
+      "start": 35.88,
+      "end": 36.24
+    },
+    {
+      "text": "est",
+      "start": 36.24,
+      "end": 36.8
+    },
+    {
+      "text": "largement",
+      "start": 36.8,
+      "end": 37.26
+    },
+    {
+      "text": "dominé",
+      "start": 37.26,
+      "end": 37.7
+    },
+    {
+      "text": "par",
+      "start": 37.7,
+      "end": 37.94
+    },
+    {
+      "text": "l",
+      "start": 37.94,
+      "end": 38.04
+    },
+    {
+      "text": "'appellation",
+      "start": 38.04,
+      "end": 38.4
+    },
+    {
+      "text": "américaine",
+      "start": 38.4,
+      "end": 39.04
+    },
+    {
+      "text": ".com,",
+      "start": 39.04,
+      "end": 39.82
+    },
+    {
+      "text": "ouvert",
+      "start": 40.06,
+      "end": 40.3
+    },
+    {
+      "text": "à",
+      "start": 40.3,
+      "end": 40.5
+    },
+    {
+      "text": "tous.",
+      "start": 40.5,
+      "end": 40.72
+    },
+    {
+      "text": "Mais",
+      "start": 41.82,
+      "end": 42.0
+    },
+    {
+      "text": "depuis",
+      "start": 42.0,
+      "end": 42.22
+    },
+    {
+      "text": "quelques",
+      "start": 42.22,
+      "end": 42.6
+    },
+    {
+      "text": "années,",
+      "start": 42.6,
+      "end": 43.06
+    },
+    {
+      "text": "le",
+      "start": 43.56,
+      "end": 43.64
+    },
+    {
+      "text": ".fr",
+      "start": 43.64,
+      "end": 44.14
+    },
+    {
+      "text": "représentant",
+      "start": 44.14,
+      "end": 44.88
+    },
+    {
+      "text": "la",
+      "start": 44.88,
+      "end": 45.0
+    },
+    {
+      "text": "France",
+      "start": 45.0,
+      "end": 45.38
+    },
+    {
+      "text": "tente",
+      "start": 45.38,
+      "end": 46.14
+    },
+    {
+      "text": "de",
+      "start": 46.14,
+      "end": 46.32
+    },
+    {
+      "text": "se",
+      "start": 46.32,
+      "end": 46.46
+    },
+    {
+      "text": "faire",
+      "start": 46.46,
+      "end": 46.66
+    },
+    {
+      "text": "une",
+      "start": 46.66,
+      "end": 46.82
+    },
+    {
+      "text": "place",
+      "start": 46.82,
+      "end": 47.12
+    },
+    {
+      "text": "au",
+      "start": 47.12,
+      "end": 47.3
+    },
+    {
+      "text": "soleil.",
+      "start": 47.3,
+      "end": 47.74
+    },
+    {
+      "text": "En",
+      "start": 48.58,
+      "end": 48.9
+    },
+    {
+      "text": "délivrant",
+      "start": 48.9,
+      "end": 49.26
+    },
+    {
+      "text": "ces",
+      "start": 49.26,
+      "end": 49.46
+    },
+    {
+      "text": "jours",
+      "start": 49.46,
+      "end": 49.62
+    },
+    {
+      "text": "-ci",
+      "start": 49.62,
+      "end": 49.92
+    },
+    {
+      "text": "son",
+      "start": 49.92,
+      "end": 50.3
+    },
+    {
+      "text": "millionième",
+      "start": 50.3,
+      "end": 51.04
+    },
+    {
+      "text": ".fr",
+      "start": 51.04,
+      "end": 51.82
+    },
+    {
+      "text": "à",
+      "start": 51.82,
+      "end": 52.08
+    },
+    {
+      "text": "Lucille",
+      "start": 52.08,
+      "end": 52.48
+    },
+    {
+      "text": "Rénaire,",
+      "start": 52.48,
+      "end": 53.04
+    },
+    {
+      "text": "l",
+      "start": 53.04,
+      "end": 53.84
+    },
+    {
+      "text": "'Afrique,",
+      "start": 53.84,
+      "end": 54.12
+    },
+    {
+      "text": "l",
+      "start": 54.48,
+      "end": 54.64
+    },
+    {
+      "text": "'organisme",
+      "start": 54.64,
+      "end": 55.02
+    },
+    {
+      "text": "qui",
+      "start": 55.02,
+      "end": 55.22
+    },
+    {
+      "text": "gère",
+      "start": 55.22,
+      "end": 55.6
+    },
+    {
+      "text": "les",
+      "start": 55.6,
+      "end": 55.72
+    },
+    {
+      "text": "noms",
+      "start": 55.72,
+      "end": 55.88
+    },
+    {
+      "text": "de",
+      "start": 55.88,
+      "end": 56.0
+    },
+    {
+      "text": "domaine",
+      "start": 56.0,
+      "end": 56.3
+    },
+    {
+      "text": "en",
+      "start": 56.3,
+      "end": 56.44
+    },
+    {
+      "text": ".fr,",
+      "start": 56.44,
+      "end": 57.0
+    },
+    {
+      "text": "ne",
+      "start": 57.52,
+      "end": 57.6
+    },
+    {
+      "text": "cache",
+      "start": 57.6,
+      "end": 57.82
+    },
+    {
+      "text": "pas",
+      "start": 57.82,
+      "end": 58.02
+    },
+    {
+      "text": "sa",
+      "start": 58.02,
+      "end": 58.2
+    },
+    {
+      "text": "satisfaction,",
+      "start": 58.2,
+      "end": 58.94
+    },
+    {
+      "text": "car",
+      "start": 59.3,
+      "end": 59.56
+    },
+    {
+      "text": "plus",
+      "start": 59.56,
+      "end": 59.82
+    },
+    {
+      "text": "il",
+      "start": 59.82,
+      "end": 60.0
+    },
+    {
+      "text": "y",
+      "start": 60.0,
+      "end": 60.1
+    },
+    {
+      "text": "aura",
+      "start": 60.1,
+      "end": 60.2
+    },
+    {
+      "text": "de",
+      "start": 60.2,
+      "end": 60.34
+    },
+    {
+      "text": "sites",
+      "start": 60.34,
+      "end": 60.54
+    },
+    {
+      "text": "en",
+      "start": 60.54,
+      "end": 60.72
+    },
+    {
+      "text": ".fr,",
+      "start": 60.72,
+      "end": 61.26
+    },
+    {
+      "text": "plus",
+      "start": 61.7,
+      "end": 61.86
+    },
+    {
+      "text": "cela",
+      "start": 61.86,
+      "end": 62.1
+    },
+    {
+      "text": "donnera",
+      "start": 62.1,
+      "end": 62.42
+    },
+    {
+      "text": "de",
+      "start": 62.42,
+      "end": 62.52
+    },
+    {
+      "text": "visibilité",
+      "start": 62.52,
+      "end": 63.16
+    },
+    {
+      "text": "à",
+      "start": 63.16,
+      "end": 63.26
+    },
+    {
+      "text": "la",
+      "start": 63.26,
+      "end": 63.34
+    },
+    {
+      "text": "France",
+      "start": 63.34,
+      "end": 63.6
+    },
+    {
+      "text": "sur",
+      "start": 63.6,
+      "end": 63.8
+    },
+    {
+      "text": "le",
+      "start": 63.8,
+      "end": 63.92
+    },
+    {
+      "text": "net.",
+      "start": 63.92,
+      "end": 64.12
+    },
+    {
+      "text": "Que",
+      "start": 66.06,
+      "end": 66.54
+    },
+    {
+      "text": "nous",
+      "start": 66.54,
+      "end": 66.72
+    },
+    {
+      "text": "apprend",
+      "start": 66.72,
+      "end": 67.1
+    },
+    {
+      "text": "le",
+      "start": 67.1,
+      "end": 67.26
+    },
+    {
+      "text": "journaliste",
+      "start": 67.26,
+      "end": 67.96
+    },
+    {
+      "text": "sur",
+      "start": 67.96,
+      "end": 68.42
+    },
+    {
+      "text": "l",
+      "start": 68.42,
+      "end": 68.54
+    },
+    {
+      "text": "'utilisation",
+      "start": 68.54,
+      "end": 69.14
+    },
+    {
+      "text": "des",
+      "start": 69.14,
+      "end": 69.4
+    },
+    {
+      "text": "noms",
+      "start": 69.4,
+      "end": 69.64
+    },
+    {
+      "text": "de",
+      "start": 69.64,
+      "end": 69.78
+    },
+    {
+      "text": "domaine",
+      "start": 69.78,
+      "end": 70.2
+    },
+    {
+      "text": "en",
+      "start": 70.2,
+      "end": 70.48
+    },
+    {
+      "text": "France",
+      "start": 70.48,
+      "end": 70.8
+    },
+    {
+      "text": "?",
+      "start": 70.8,
+      "end": 71.3
+    }
+  ]
+}

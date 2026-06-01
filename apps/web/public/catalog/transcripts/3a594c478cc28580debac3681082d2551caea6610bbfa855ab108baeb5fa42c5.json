@@ -1,0 +1,670 @@
+{
+  "text": "Question 21. Écoutez le document sonore et la question. Choisissez la bonne réponse. Les numéros de téléphone et les adresses de courrier de quelques 6 millions d'utilisateurs de Facebook ont été involontairement partagés ces dernières heures en raison d'une panne de logiciel. La direction du réseau social se dit, je cite, « irrité et embarrassé par ce problème ». Les utilisateurs concernés ont été prévenus par courriel et l'impact sera minimal à sur Facebook. D'après le groupe américain, une panne informatique sur un logiciel serait à l'origine de ce problème. Concrètement, ce partage non voulu a pu se produire quand un utilisateur Facebook a enregistré une archive de son compte via l'outil d'un réseau de téléchargement. Que s'est-il passé sur ce réseau social ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "21.",
+      "start": 0.58,
+      "end": 1.46
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.1,
+      "end": 2.68
+    },
+    {
+      "text": "le",
+      "start": 2.68,
+      "end": 2.86
+    },
+    {
+      "text": "document",
+      "start": 2.86,
+      "end": 3.22
+    },
+    {
+      "text": "sonore",
+      "start": 3.22,
+      "end": 3.84
+    },
+    {
+      "text": "et",
+      "start": 3.84,
+      "end": 4.12
+    },
+    {
+      "text": "la",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "text": "question.",
+      "start": 4.26,
+      "end": 4.62
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.38,
+      "end": 5.92
+    },
+    {
+      "text": "la",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "text": "bonne",
+      "start": 6.16,
+      "end": 6.32
+    },
+    {
+      "text": "réponse.",
+      "start": 6.32,
+      "end": 6.7
+    },
+    {
+      "text": "Les",
+      "start": 7.62,
+      "end": 8.22
+    },
+    {
+      "text": "numéros",
+      "start": 8.22,
+      "end": 8.56
+    },
+    {
+      "text": "de",
+      "start": 8.56,
+      "end": 8.66
+    },
+    {
+      "text": "téléphone",
+      "start": 8.66,
+      "end": 9.1
+    },
+    {
+      "text": "et",
+      "start": 9.1,
+      "end": 9.4
+    },
+    {
+      "text": "les",
+      "start": 9.4,
+      "end": 9.54
+    },
+    {
+      "text": "adresses",
+      "start": 9.54,
+      "end": 9.82
+    },
+    {
+      "text": "de",
+      "start": 9.82,
+      "end": 10.02
+    },
+    {
+      "text": "courrier",
+      "start": 10.02,
+      "end": 10.32
+    },
+    {
+      "text": "de",
+      "start": 10.32,
+      "end": 10.48
+    },
+    {
+      "text": "quelques",
+      "start": 10.48,
+      "end": 10.72
+    },
+    {
+      "text": "6",
+      "start": 10.72,
+      "end": 11.2
+    },
+    {
+      "text": "millions",
+      "start": 11.2,
+      "end": 11.46
+    },
+    {
+      "text": "d",
+      "start": 11.46,
+      "end": 11.62
+    },
+    {
+      "text": "'utilisateurs",
+      "start": 11.62,
+      "end": 12.1
+    },
+    {
+      "text": "de",
+      "start": 12.1,
+      "end": 12.32
+    },
+    {
+      "text": "Facebook",
+      "start": 12.32,
+      "end": 12.7
+    },
+    {
+      "text": "ont",
+      "start": 12.7,
+      "end": 13.32
+    },
+    {
+      "text": "été",
+      "start": 13.32,
+      "end": 13.56
+    },
+    {
+      "text": "involontairement",
+      "start": 13.56,
+      "end": 14.46
+    },
+    {
+      "text": "partagés",
+      "start": 14.46,
+      "end": 15.04
+    },
+    {
+      "text": "ces",
+      "start": 15.04,
+      "end": 15.26
+    },
+    {
+      "text": "dernières",
+      "start": 15.26,
+      "end": 15.68
+    },
+    {
+      "text": "heures",
+      "start": 15.68,
+      "end": 15.98
+    },
+    {
+      "text": "en",
+      "start": 15.98,
+      "end": 16.42
+    },
+    {
+      "text": "raison",
+      "start": 16.42,
+      "end": 16.66
+    },
+    {
+      "text": "d",
+      "start": 16.66,
+      "end": 16.82
+    },
+    {
+      "text": "'une",
+      "start": 16.82,
+      "end": 16.9
+    },
+    {
+      "text": "panne",
+      "start": 16.9,
+      "end": 17.22
+    },
+    {
+      "text": "de",
+      "start": 17.22,
+      "end": 17.3
+    },
+    {
+      "text": "logiciel.",
+      "start": 17.3,
+      "end": 17.9
+    },
+    {
+      "text": "La",
+      "start": 18.4,
+      "end": 18.7
+    },
+    {
+      "text": "direction",
+      "start": 18.7,
+      "end": 19.06
+    },
+    {
+      "text": "du",
+      "start": 19.06,
+      "end": 19.28
+    },
+    {
+      "text": "réseau",
+      "start": 19.28,
+      "end": 19.58
+    },
+    {
+      "text": "social",
+      "start": 19.58,
+      "end": 19.94
+    },
+    {
+      "text": "se",
+      "start": 19.94,
+      "end": 20.18
+    },
+    {
+      "text": "dit,",
+      "start": 20.18,
+      "end": 20.36
+    },
+    {
+      "text": "je",
+      "start": 20.6,
+      "end": 20.86
+    },
+    {
+      "text": "cite,",
+      "start": 20.86,
+      "end": 21.18
+    },
+    {
+      "text": "«",
+      "start": 21.62,
+      "end": 21.62
+    },
+    {
+      "text": "irrité",
+      "start": 21.62,
+      "end": 22.3
+    },
+    {
+      "text": "et",
+      "start": 22.3,
+      "end": 22.52
+    },
+    {
+      "text": "embarrassé",
+      "start": 22.52,
+      "end": 23.18
+    },
+    {
+      "text": "par",
+      "start": 23.18,
+      "end": 23.32
+    },
+    {
+      "text": "ce",
+      "start": 23.32,
+      "end": 23.46
+    },
+    {
+      "text": "problème",
+      "start": 23.46,
+      "end": 23.86
+    },
+    {
+      "text": "».",
+      "start": 23.86,
+      "end": 24.17
+    },
+    {
+      "text": "Les",
+      "start": 24.17,
+      "end": 24.95
+    },
+    {
+      "text": "utilisateurs",
+      "start": 24.95,
+      "end": 25.55
+    },
+    {
+      "text": "concernés",
+      "start": 25.55,
+      "end": 26.21
+    },
+    {
+      "text": "ont",
+      "start": 26.21,
+      "end": 26.45
+    },
+    {
+      "text": "été",
+      "start": 26.45,
+      "end": 26.65
+    },
+    {
+      "text": "prévenus",
+      "start": 26.65,
+      "end": 27.05
+    },
+    {
+      "text": "par",
+      "start": 27.05,
+      "end": 27.21
+    },
+    {
+      "text": "courriel",
+      "start": 27.21,
+      "end": 27.69
+    },
+    {
+      "text": "et",
+      "start": 27.69,
+      "end": 28.15
+    },
+    {
+      "text": "l",
+      "start": 28.15,
+      "end": 28.27
+    },
+    {
+      "text": "'impact",
+      "start": 28.27,
+      "end": 28.55
+    },
+    {
+      "text": "sera",
+      "start": 28.55,
+      "end": 28.89
+    },
+    {
+      "text": "minimal",
+      "start": 28.89,
+      "end": 29.35
+    },
+    {
+      "text": "à",
+      "start": 29.35,
+      "end": 29.71
+    },
+    {
+      "text": "sur",
+      "start": 29.71,
+      "end": 29.89
+    },
+    {
+      "text": "Facebook.",
+      "start": 29.89,
+      "end": 30.29
+    },
+    {
+      "text": "D",
+      "start": 31.15,
+      "end": 31.41
+    },
+    {
+      "text": "'après",
+      "start": 31.41,
+      "end": 31.55
+    },
+    {
+      "text": "le",
+      "start": 31.55,
+      "end": 31.71
+    },
+    {
+      "text": "groupe",
+      "start": 31.71,
+      "end": 31.87
+    },
+    {
+      "text": "américain,",
+      "start": 31.87,
+      "end": 32.45
+    },
+    {
+      "text": "une",
+      "start": 32.79,
+      "end": 32.91
+    },
+    {
+      "text": "panne",
+      "start": 32.91,
+      "end": 33.27
+    },
+    {
+      "text": "informatique",
+      "start": 33.27,
+      "end": 33.67
+    },
+    {
+      "text": "sur",
+      "start": 33.67,
+      "end": 33.93
+    },
+    {
+      "text": "un",
+      "start": 33.93,
+      "end": 34.03
+    },
+    {
+      "text": "logiciel",
+      "start": 34.03,
+      "end": 34.53
+    },
+    {
+      "text": "serait",
+      "start": 34.53,
+      "end": 35.01
+    },
+    {
+      "text": "à",
+      "start": 35.01,
+      "end": 35.15
+    },
+    {
+      "text": "l",
+      "start": 35.15,
+      "end": 35.19
+    },
+    {
+      "text": "'origine",
+      "start": 35.19,
+      "end": 35.39
+    },
+    {
+      "text": "de",
+      "start": 35.39,
+      "end": 35.59
+    },
+    {
+      "text": "ce",
+      "start": 35.59,
+      "end": 35.71
+    },
+    {
+      "text": "problème.",
+      "start": 35.71,
+      "end": 36.09
+    },
+    {
+      "text": "Concrètement,",
+      "start": 36.87,
+      "end": 37.43
+    },
+    {
+      "text": "ce",
+      "start": 37.91,
+      "end": 38.01
+    },
+    {
+      "text": "partage",
+      "start": 38.01,
+      "end": 38.47
+    },
+    {
+      "text": "non",
+      "start": 38.47,
+      "end": 38.65
+    },
+    {
+      "text": "voulu",
+      "start": 38.65,
+      "end": 39.03
+    },
+    {
+      "text": "a",
+      "start": 39.03,
+      "end": 39.33
+    },
+    {
+      "text": "pu",
+      "start": 39.33,
+      "end": 39.41
+    },
+    {
+      "text": "se",
+      "start": 39.41,
+      "end": 39.57
+    },
+    {
+      "text": "produire",
+      "start": 39.57,
+      "end": 40.03
+    },
+    {
+      "text": "quand",
+      "start": 40.03,
+      "end": 40.19
+    },
+    {
+      "text": "un",
+      "start": 40.19,
+      "end": 40.35
+    },
+    {
+      "text": "utilisateur",
+      "start": 40.35,
+      "end": 40.93
+    },
+    {
+      "text": "Facebook",
+      "start": 40.93,
+      "end": 41.37
+    },
+    {
+      "text": "a",
+      "start": 41.37,
+      "end": 41.69
+    },
+    {
+      "text": "enregistré",
+      "start": 41.69,
+      "end": 42.23
+    },
+    {
+      "text": "une",
+      "start": 42.23,
+      "end": 42.35
+    },
+    {
+      "text": "archive",
+      "start": 42.35,
+      "end": 42.63
+    },
+    {
+      "text": "de",
+      "start": 42.63,
+      "end": 42.79
+    },
+    {
+      "text": "son",
+      "start": 42.79,
+      "end": 42.93
+    },
+    {
+      "text": "compte",
+      "start": 42.93,
+      "end": 43.29
+    },
+    {
+      "text": "via",
+      "start": 43.29,
+      "end": 43.73
+    },
+    {
+      "text": "l",
+      "start": 43.73,
+      "end": 43.91
+    },
+    {
+      "text": "'outil",
+      "start": 43.91,
+      "end": 44.11
+    },
+    {
+      "text": "d",
+      "start": 44.11,
+      "end": 44.21
+    },
+    {
+      "text": "'un",
+      "start": 44.21,
+      "end": 44.27
+    },
+    {
+      "text": "réseau",
+      "start": 44.27,
+      "end": 44.49
+    },
+    {
+      "text": "de",
+      "start": 44.49,
+      "end": 44.57
+    },
+    {
+      "text": "téléchargement.",
+      "start": 44.57,
+      "end": 45.27
+    },
+    {
+      "text": "Que",
+      "start": 46.25,
+      "end": 46.81
+    },
+    {
+      "text": "s",
+      "start": 46.81,
+      "end": 46.93
+    },
+    {
+      "text": "'est",
+      "start": 46.93,
+      "end": 46.97
+    },
+    {
+      "text": "-il",
+      "start": 46.97,
+      "end": 47.09
+    },
+    {
+      "text": "passé",
+      "start": 47.09,
+      "end": 47.41
+    },
+    {
+      "text": "sur",
+      "start": 47.41,
+      "end": 47.69
+    },
+    {
+      "text": "ce",
+      "start": 47.69,
+      "end": 47.85
+    },
+    {
+      "text": "réseau",
+      "start": 47.85,
+      "end": 48.15
+    },
+    {
+      "text": "social",
+      "start": 48.15,
+      "end": 48.43
+    },
+    {
+      "text": "?",
+      "start": 48.43,
+      "end": 48.93
+    }
+  ]
+}

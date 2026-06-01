@@ -1,0 +1,485 @@
+{
+  "text": "Melting Pot au cas Branly. La soirée intitulée Melting Pot, imaginée par le musée du cas de Branly, met la gomme samedi 21 juin dans le cadre de la fête de la musique. Une programmation qui a tout d'un feu d'artifice tendance, culture urbaine et hip-hop, tap-dance, percussion corporelle, rap, slam, jing et beatbox. On peut noter aussi pour les amoureux des arts que les collections du musée seront accès libres. A noter donc sur vos agendas le 21 juin de 17h à 21h. Question 2. Que propose cette annonce radiophonique ?",
+  "words": [
+    {
+      "text": "Melting",
+      "start": 7.12,
+      "end": 7.6
+    },
+    {
+      "text": "Pot",
+      "start": 7.6,
+      "end": 7.86
+    },
+    {
+      "text": "au",
+      "start": 7.86,
+      "end": 8.12
+    },
+    {
+      "text": "cas",
+      "start": 8.12,
+      "end": 8.22
+    },
+    {
+      "text": "Branly.",
+      "start": 8.22,
+      "end": 8.66
+    },
+    {
+      "text": "La",
+      "start": 8.8,
+      "end": 9.12
+    },
+    {
+      "text": "soirée",
+      "start": 9.12,
+      "end": 9.5
+    },
+    {
+      "text": "intitulée",
+      "start": 9.5,
+      "end": 10.04
+    },
+    {
+      "text": "Melting",
+      "start": 10.04,
+      "end": 10.46
+    },
+    {
+      "text": "Pot,",
+      "start": 10.46,
+      "end": 10.74
+    },
+    {
+      "text": "imaginée",
+      "start": 10.92,
+      "end": 11.34
+    },
+    {
+      "text": "par",
+      "start": 11.34,
+      "end": 11.52
+    },
+    {
+      "text": "le",
+      "start": 11.52,
+      "end": 11.64
+    },
+    {
+      "text": "musée",
+      "start": 11.64,
+      "end": 11.92
+    },
+    {
+      "text": "du",
+      "start": 11.92,
+      "end": 12.06
+    },
+    {
+      "text": "cas",
+      "start": 12.06,
+      "end": 12.22
+    },
+    {
+      "text": "de",
+      "start": 12.22,
+      "end": 12.32
+    },
+    {
+      "text": "Branly,",
+      "start": 12.32,
+      "end": 12.74
+    },
+    {
+      "text": "met",
+      "start": 12.8,
+      "end": 12.88
+    },
+    {
+      "text": "la",
+      "start": 12.88,
+      "end": 12.98
+    },
+    {
+      "text": "gomme",
+      "start": 12.98,
+      "end": 13.32
+    },
+    {
+      "text": "samedi",
+      "start": 13.32,
+      "end": 13.72
+    },
+    {
+      "text": "21",
+      "start": 13.72,
+      "end": 14.02
+    },
+    {
+      "text": "juin",
+      "start": 14.02,
+      "end": 14.5
+    },
+    {
+      "text": "dans",
+      "start": 14.5,
+      "end": 14.96
+    },
+    {
+      "text": "le",
+      "start": 14.96,
+      "end": 15.08
+    },
+    {
+      "text": "cadre",
+      "start": 15.08,
+      "end": 15.3
+    },
+    {
+      "text": "de",
+      "start": 15.3,
+      "end": 15.54
+    },
+    {
+      "text": "la",
+      "start": 15.54,
+      "end": 15.64
+    },
+    {
+      "text": "fête",
+      "start": 15.64,
+      "end": 15.84
+    },
+    {
+      "text": "de",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "text": "la",
+      "start": 16.0,
+      "end": 16.08
+    },
+    {
+      "text": "musique.",
+      "start": 16.08,
+      "end": 16.32
+    },
+    {
+      "text": "Une",
+      "start": 16.86,
+      "end": 17.22
+    },
+    {
+      "text": "programmation",
+      "start": 17.22,
+      "end": 18.08
+    },
+    {
+      "text": "qui",
+      "start": 18.08,
+      "end": 18.36
+    },
+    {
+      "text": "a",
+      "start": 18.36,
+      "end": 18.46
+    },
+    {
+      "text": "tout",
+      "start": 18.46,
+      "end": 18.7
+    },
+    {
+      "text": "d",
+      "start": 18.7,
+      "end": 18.86
+    },
+    {
+      "text": "'un",
+      "start": 18.86,
+      "end": 18.92
+    },
+    {
+      "text": "feu",
+      "start": 18.92,
+      "end": 19.12
+    },
+    {
+      "text": "d",
+      "start": 19.12,
+      "end": 19.22
+    },
+    {
+      "text": "'artifice",
+      "start": 19.22,
+      "end": 19.58
+    },
+    {
+      "text": "tendance,",
+      "start": 19.58,
+      "end": 20.24
+    },
+    {
+      "text": "culture",
+      "start": 20.46,
+      "end": 20.7
+    },
+    {
+      "text": "urbaine",
+      "start": 20.7,
+      "end": 21.46
+    },
+    {
+      "text": "et",
+      "start": 21.46,
+      "end": 21.58
+    },
+    {
+      "text": "hip",
+      "start": 21.58,
+      "end": 21.84
+    },
+    {
+      "text": "-hop,",
+      "start": 21.84,
+      "end": 22.08
+    },
+    {
+      "text": "tap",
+      "start": 22.52,
+      "end": 22.64
+    },
+    {
+      "text": "-dance,",
+      "start": 22.64,
+      "end": 23.04
+    },
+    {
+      "text": "percussion",
+      "start": 23.26,
+      "end": 23.6
+    },
+    {
+      "text": "corporelle,",
+      "start": 23.6,
+      "end": 24.38
+    },
+    {
+      "text": "rap,",
+      "start": 24.54,
+      "end": 24.7
+    },
+    {
+      "text": "slam,",
+      "start": 24.96,
+      "end": 25.06
+    },
+    {
+      "text": "jing",
+      "start": 25.42,
+      "end": 25.58
+    },
+    {
+      "text": "et",
+      "start": 25.58,
+      "end": 25.84
+    },
+    {
+      "text": "beatbox.",
+      "start": 25.84,
+      "end": 26.3
+    },
+    {
+      "text": "On",
+      "start": 27.16,
+      "end": 27.36
+    },
+    {
+      "text": "peut",
+      "start": 27.36,
+      "end": 27.5
+    },
+    {
+      "text": "noter",
+      "start": 27.5,
+      "end": 27.8
+    },
+    {
+      "text": "aussi",
+      "start": 27.8,
+      "end": 28.14
+    },
+    {
+      "text": "pour",
+      "start": 28.14,
+      "end": 28.36
+    },
+    {
+      "text": "les",
+      "start": 28.36,
+      "end": 28.46
+    },
+    {
+      "text": "amoureux",
+      "start": 28.46,
+      "end": 28.82
+    },
+    {
+      "text": "des",
+      "start": 28.82,
+      "end": 29.04
+    },
+    {
+      "text": "arts",
+      "start": 29.04,
+      "end": 29.32
+    },
+    {
+      "text": "que",
+      "start": 29.32,
+      "end": 29.56
+    },
+    {
+      "text": "les",
+      "start": 29.56,
+      "end": 29.7
+    },
+    {
+      "text": "collections",
+      "start": 29.7,
+      "end": 30.04
+    },
+    {
+      "text": "du",
+      "start": 30.04,
+      "end": 30.24
+    },
+    {
+      "text": "musée",
+      "start": 30.24,
+      "end": 30.56
+    },
+    {
+      "text": "seront",
+      "start": 30.56,
+      "end": 30.84
+    },
+    {
+      "text": "accès",
+      "start": 30.84,
+      "end": 31.3
+    },
+    {
+      "text": "libres.",
+      "start": 31.3,
+      "end": 31.84
+    },
+    {
+      "text": "A",
+      "start": 32.0,
+      "end": 32.28
+    },
+    {
+      "text": "noter",
+      "start": 32.28,
+      "end": 32.66
+    },
+    {
+      "text": "donc",
+      "start": 32.66,
+      "end": 32.96
+    },
+    {
+      "text": "sur",
+      "start": 32.96,
+      "end": 33.18
+    },
+    {
+      "text": "vos",
+      "start": 33.18,
+      "end": 33.34
+    },
+    {
+      "text": "agendas",
+      "start": 33.34,
+      "end": 33.76
+    },
+    {
+      "text": "le",
+      "start": 33.76,
+      "end": 34.26
+    },
+    {
+      "text": "21",
+      "start": 34.26,
+      "end": 34.56
+    },
+    {
+      "text": "juin",
+      "start": 34.56,
+      "end": 35.06
+    },
+    {
+      "text": "de",
+      "start": 35.06,
+      "end": 35.24
+    },
+    {
+      "text": "17h",
+      "start": 35.24,
+      "end": 36.0
+    },
+    {
+      "text": "à",
+      "start": 36.0,
+      "end": 36.1
+    },
+    {
+      "text": "21h.",
+      "start": 36.1,
+      "end": 36.72
+    },
+    {
+      "text": "Question",
+      "start": 40.14,
+      "end": 40.88
+    },
+    {
+      "text": "2.",
+      "start": 40.88,
+      "end": 41.54
+    },
+    {
+      "text": "Que",
+      "start": 42.72,
+      "end": 43.08
+    },
+    {
+      "text": "propose",
+      "start": 43.08,
+      "end": 43.48
+    },
+    {
+      "text": "cette",
+      "start": 43.48,
+      "end": 43.88
+    },
+    {
+      "text": "annonce",
+      "start": 43.88,
+      "end": 44.3
+    },
+    {
+      "text": "radiophonique",
+      "start": 44.3,
+      "end": 45.26
+    },
+    {
+      "text": "?",
+      "start": 45.26,
+      "end": 45.63
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "text": "Question 39. Écoutez le document sonore et la question. Choisissez la bonne réponse. Le président de la République s'est engagé samedi 8 juin à Tokyo à agir activement pour caboutisse les discussions en vue d'un accord économique entre le Japon et l'Union européenne et n'a pas ménagé ses efforts pour renforcer la relation franco-japonaises. L'Europe exige du Japon, très pointilleux et attachée à protéger son économie, la réciprocité pour la levée des barrières tarifaires et réglementaires qui entravent les échanges. Pour le président, un partenariat Japon-Europe serait bon économiquement pour l'Europe et excellent pour le Japon. Chantre de la diplomatie économique, le président a aussi venté les partenariats entre les entreprises des deux pays et promis de les accélérer. Question 40. Quelle est l'une des conditions pour qu'un accord économique entre le Japon et l'Union européenne puisse aboutir ? ...",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.64
+    },
+    {
+      "text": "39.",
+      "start": 0.64,
+      "end": 1.4
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.52,
+      "end": 3.0
+    },
+    {
+      "text": "le",
+      "start": 3.0,
+      "end": 3.2
+    },
+    {
+      "text": "document",
+      "start": 3.2,
+      "end": 3.54
+    },
+    {
+      "text": "sonore",
+      "start": 3.54,
+      "end": 4.1
+    },
+    {
+      "text": "et",
+      "start": 4.1,
+      "end": 4.34
+    },
+    {
+      "text": "la",
+      "start": 4.34,
+      "end": 4.46
+    },
+    {
+      "text": "question.",
+      "start": 4.46,
+      "end": 4.82
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.5,
+      "end": 5.98
+    },
+    {
+      "text": "la",
+      "start": 5.98,
+      "end": 6.16
+    },
+    {
+      "text": "bonne",
+      "start": 6.16,
+      "end": 6.34
+    },
+    {
+      "text": "réponse.",
+      "start": 6.34,
+      "end": 6.68
+    },
+    {
+      "text": "Le",
+      "start": 8.04,
+      "end": 8.68
+    },
+    {
+      "text": "président",
+      "start": 8.68,
+      "end": 9.12
+    },
+    {
+      "text": "de",
+      "start": 9.12,
+      "end": 9.28
+    },
+    {
+      "text": "la",
+      "start": 9.28,
+      "end": 9.32
+    },
+    {
+      "text": "République",
+      "start": 9.32,
+      "end": 9.64
+    },
+    {
+      "text": "s",
+      "start": 9.64,
+      "end": 9.92
+    },
+    {
+      "text": "'est",
+      "start": 9.92,
+      "end": 9.96
+    },
+    {
+      "text": "engagé",
+      "start": 9.96,
+      "end": 10.38
+    },
+    {
+      "text": "samedi",
+      "start": 10.38,
+      "end": 10.86
+    },
+    {
+      "text": "8",
+      "start": 10.86,
+      "end": 11.16
+    },
+    {
+      "text": "juin",
+      "start": 11.16,
+      "end": 11.42
+    },
+    {
+      "text": "à",
+      "start": 11.42,
+      "end": 11.5
+    },
+    {
+      "text": "Tokyo",
+      "start": 11.5,
+      "end": 11.78
+    },
+    {
+      "text": "à",
+      "start": 11.78,
+      "end": 12.24
+    },
+    {
+      "text": "agir",
+      "start": 12.24,
+      "end": 12.6
+    },
+    {
+      "text": "activement",
+      "start": 12.6,
+      "end": 13.3
+    },
+    {
+      "text": "pour",
+      "start": 13.3,
+      "end": 13.48
+    },
+    {
+      "text": "caboutisse",
+      "start": 13.48,
+      "end": 14.0
+    },
+    {
+      "text": "les",
+      "start": 14.0,
+      "end": 14.14
+    },
+    {
+      "text": "discussions",
+      "start": 14.14,
+      "end": 14.48
+    },
+    {
+      "text": "en",
+      "start": 14.48,
+      "end": 14.8
+    },
+    {
+      "text": "vue",
+      "start": 14.8,
+      "end": 14.88
+    },
+    {
+      "text": "d",
+      "start": 14.88,
+      "end": 15.0
+    },
+    {
+      "text": "'un",
+      "start": 15.0,
+      "end": 15.06
+    },
+    {
+      "text": "accord",
+      "start": 15.06,
+      "end": 15.3
+    },
+    {
+      "text": "économique",
+      "start": 15.3,
+      "end": 15.8
+    },
+    {
+      "text": "entre",
+      "start": 15.8,
+      "end": 16.22
+    },
+    {
+      "text": "le",
+      "start": 16.22,
+      "end": 16.4
+    },
+    {
+      "text": "Japon",
+      "start": 16.4,
+      "end": 16.66
+    },
+    {
+      "text": "et",
+      "start": 16.66,
+      "end": 17.1
+    },
+    {
+      "text": "l",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "text": "'Union",
+      "start": 17.22,
+      "end": 17.38
+    },
+    {
+      "text": "européenne",
+      "start": 17.38,
+      "end": 17.96
+    },
+    {
+      "text": "et",
+      "start": 17.96,
+      "end": 18.38
+    },
+    {
+      "text": "n",
+      "start": 18.38,
+      "end": 18.46
+    },
+    {
+      "text": "'a",
+      "start": 18.46,
+      "end": 18.48
+    },
+    {
+      "text": "pas",
+      "start": 18.48,
+      "end": 18.62
+    },
+    {
+      "text": "ménagé",
+      "start": 18.62,
+      "end": 19.0
+    },
+    {
+      "text": "ses",
+      "start": 19.0,
+      "end": 19.14
+    },
+    {
+      "text": "efforts",
+      "start": 19.14,
+      "end": 19.46
+    },
+    {
+      "text": "pour",
+      "start": 19.46,
+      "end": 19.74
+    },
+    {
+      "text": "renforcer",
+      "start": 19.74,
+      "end": 20.34
+    },
+    {
+      "text": "la",
+      "start": 20.34,
+      "end": 20.54
+    },
+    {
+      "text": "relation",
+      "start": 20.54,
+      "end": 20.88
+    },
+    {
+      "text": "franco",
+      "start": 20.88,
+      "end": 21.28
+    },
+    {
+      "text": "-japonaises.",
+      "start": 21.28,
+      "end": 22.0
+    },
+    {
+      "text": "L",
+      "start": 22.64,
+      "end": 22.86
+    },
+    {
+      "text": "'Europe",
+      "start": 22.86,
+      "end": 22.96
+    },
+    {
+      "text": "exige",
+      "start": 22.96,
+      "end": 23.34
+    },
+    {
+      "text": "du",
+      "start": 23.34,
+      "end": 23.5
+    },
+    {
+      "text": "Japon,",
+      "start": 23.5,
+      "end": 23.8
+    },
+    {
+      "text": "très",
+      "start": 24.14,
+      "end": 24.34
+    },
+    {
+      "text": "pointilleux",
+      "start": 24.34,
+      "end": 24.9
+    },
+    {
+      "text": "et",
+      "start": 24.9,
+      "end": 25.04
+    },
+    {
+      "text": "attachée",
+      "start": 25.04,
+      "end": 25.42
+    },
+    {
+      "text": "à",
+      "start": 25.42,
+      "end": 25.52
+    },
+    {
+      "text": "protéger",
+      "start": 25.52,
+      "end": 25.92
+    },
+    {
+      "text": "son",
+      "start": 25.92,
+      "end": 26.12
+    },
+    {
+      "text": "économie,",
+      "start": 26.12,
+      "end": 26.6
+    },
+    {
+      "text": "la",
+      "start": 26.6,
+      "end": 27.0
+    },
+    {
+      "text": "réciprocité",
+      "start": 27.0,
+      "end": 27.72
+    },
+    {
+      "text": "pour",
+      "start": 27.72,
+      "end": 27.9
+    },
+    {
+      "text": "la",
+      "start": 27.9,
+      "end": 28.02
+    },
+    {
+      "text": "levée",
+      "start": 28.02,
+      "end": 28.3
+    },
+    {
+      "text": "des",
+      "start": 28.3,
+      "end": 28.4
+    },
+    {
+      "text": "barrières",
+      "start": 28.4,
+      "end": 28.76
+    },
+    {
+      "text": "tarifaires",
+      "start": 28.76,
+      "end": 29.3
+    },
+    {
+      "text": "et",
+      "start": 29.3,
+      "end": 29.46
+    },
+    {
+      "text": "réglementaires",
+      "start": 29.46,
+      "end": 29.72
+    },
+    {
+      "text": "qui",
+      "start": 30.12,
+      "end": 30.3
+    },
+    {
+      "text": "entravent",
+      "start": 30.3,
+      "end": 30.72
+    },
+    {
+      "text": "les",
+      "start": 30.72,
+      "end": 30.88
+    },
+    {
+      "text": "échanges.",
+      "start": 30.88,
+      "end": 31.28
+    },
+    {
+      "text": "Pour",
+      "start": 31.96,
+      "end": 32.12
+    },
+    {
+      "text": "le",
+      "start": 32.12,
+      "end": 32.24
+    },
+    {
+      "text": "président,",
+      "start": 32.24,
+      "end": 32.52
+    },
+    {
+      "text": "un",
+      "start": 32.98,
+      "end": 33.08
+    },
+    {
+      "text": "partenariat",
+      "start": 33.08,
+      "end": 33.52
+    },
+    {
+      "text": "Japon",
+      "start": 33.52,
+      "end": 33.9
+    },
+    {
+      "text": "-Europe",
+      "start": 33.9,
+      "end": 34.32
+    },
+    {
+      "text": "serait",
+      "start": 34.32,
+      "end": 34.78
+    },
+    {
+      "text": "bon",
+      "start": 34.78,
+      "end": 35.08
+    },
+    {
+      "text": "économiquement",
+      "start": 35.08,
+      "end": 35.68
+    },
+    {
+      "text": "pour",
+      "start": 35.68,
+      "end": 35.88
+    },
+    {
+      "text": "l",
+      "start": 35.88,
+      "end": 35.98
+    },
+    {
+      "text": "'Europe",
+      "start": 35.98,
+      "end": 36.26
+    },
+    {
+      "text": "et",
+      "start": 36.26,
+      "end": 36.62
+    },
+    {
+      "text": "excellent",
+      "start": 36.62,
+      "end": 37.08
+    },
+    {
+      "text": "pour",
+      "start": 37.08,
+      "end": 37.32
+    },
+    {
+      "text": "le",
+      "start": 37.32,
+      "end": 37.42
+    },
+    {
+      "text": "Japon.",
+      "start": 37.42,
+      "end": 37.68
+    },
+    {
+      "text": "Chantre",
+      "start": 38.34,
+      "end": 38.74
+    },
+    {
+      "text": "de",
+      "start": 38.74,
+      "end": 38.84
+    },
+    {
+      "text": "la",
+      "start": 38.84,
+      "end": 38.94
+    },
+    {
+      "text": "diplomatie",
+      "start": 38.94,
+      "end": 39.48
+    },
+    {
+      "text": "économique,",
+      "start": 39.48,
+      "end": 39.96
+    },
+    {
+      "text": "le",
+      "start": 40.38,
+      "end": 40.46
+    },
+    {
+      "text": "président",
+      "start": 40.46,
+      "end": 40.76
+    },
+    {
+      "text": "a",
+      "start": 40.76,
+      "end": 40.92
+    },
+    {
+      "text": "aussi",
+      "start": 40.92,
+      "end": 41.16
+    },
+    {
+      "text": "venté",
+      "start": 41.16,
+      "end": 41.52
+    },
+    {
+      "text": "les",
+      "start": 41.52,
+      "end": 41.6
+    },
+    {
+      "text": "partenariats",
+      "start": 41.6,
+      "end": 42.12
+    },
+    {
+      "text": "entre",
+      "start": 42.12,
+      "end": 42.3
+    },
+    {
+      "text": "les",
+      "start": 42.3,
+      "end": 42.46
+    },
+    {
+      "text": "entreprises",
+      "start": 42.46,
+      "end": 42.8
+    },
+    {
+      "text": "des",
+      "start": 42.8,
+      "end": 43.02
+    },
+    {
+      "text": "deux",
+      "start": 43.02,
+      "end": 43.2
+    },
+    {
+      "text": "pays",
+      "start": 43.2,
+      "end": 43.46
+    },
+    {
+      "text": "et",
+      "start": 43.46,
+      "end": 43.96
+    },
+    {
+      "text": "promis",
+      "start": 43.96,
+      "end": 44.34
+    },
+    {
+      "text": "de",
+      "start": 44.34,
+      "end": 44.44
+    },
+    {
+      "text": "les",
+      "start": 44.44,
+      "end": 44.56
+    },
+    {
+      "text": "accélérer.",
+      "start": 44.56,
+      "end": 45.0
+    },
+    {
+      "text": "Question",
+      "start": 45.78,
+      "end": 45.78
+    },
+    {
+      "text": "40.",
+      "start": 45.78,
+      "end": 46.54
+    },
+    {
+      "text": "Quelle",
+      "start": 46.62,
+      "end": 46.78
+    },
+    {
+      "text": "est",
+      "start": 46.78,
+      "end": 46.86
+    },
+    {
+      "text": "l",
+      "start": 46.86,
+      "end": 47.0
+    },
+    {
+      "text": "'une",
+      "start": 47.0,
+      "end": 47.06
+    },
+    {
+      "text": "des",
+      "start": 47.06,
+      "end": 47.2
+    },
+    {
+      "text": "conditions",
+      "start": 47.2,
+      "end": 47.72
+    },
+    {
+      "text": "pour",
+      "start": 47.72,
+      "end": 47.96
+    },
+    {
+      "text": "qu",
+      "start": 47.96,
+      "end": 48.08
+    },
+    {
+      "text": "'un",
+      "start": 48.08,
+      "end": 48.14
+    },
+    {
+      "text": "accord",
+      "start": 48.14,
+      "end": 48.36
+    },
+    {
+      "text": "économique",
+      "start": 48.36,
+      "end": 48.84
+    },
+    {
+      "text": "entre",
+      "start": 48.84,
+      "end": 49.12
+    },
+    {
+      "text": "le",
+      "start": 49.12,
+      "end": 49.3
+    },
+    {
+      "text": "Japon",
+      "start": 49.3,
+      "end": 49.58
+    },
+    {
+      "text": "et",
+      "start": 49.58,
+      "end": 49.76
+    },
+    {
+      "text": "l",
+      "start": 49.76,
+      "end": 49.86
+    },
+    {
+      "text": "'Union",
+      "start": 49.86,
+      "end": 50.02
+    },
+    {
+      "text": "européenne",
+      "start": 50.02,
+      "end": 50.56
+    },
+    {
+      "text": "puisse",
+      "start": 50.56,
+      "end": 50.76
+    },
+    {
+      "text": "aboutir",
+      "start": 50.76,
+      "end": 51.42
+    },
+    {
+      "text": "?",
+      "start": 51.42,
+      "end": 51.7
+    },
+    {
+      "text": "...",
+      "start": 51.7,
+      "end": 51.8
+    }
+  ]
+}

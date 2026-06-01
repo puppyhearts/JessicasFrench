@@ -1,0 +1,125 @@
+{
+  "text": "question 6 pendant la nuit avez vous entendu quelque chose A non aucun B non rien C non personne D non tout le monde",
+  "words": [
+    {
+      "text": "question",
+      "start": 1.4,
+      "end": 2.54
+    },
+    {
+      "text": "6",
+      "start": 2.54,
+      "end": 2.98
+    },
+    {
+      "text": "pendant",
+      "start": 2.98,
+      "end": 4.6
+    },
+    {
+      "text": "la",
+      "start": 4.6,
+      "end": 4.82
+    },
+    {
+      "text": "nuit",
+      "start": 4.82,
+      "end": 5.0
+    },
+    {
+      "text": "avez",
+      "start": 5.0,
+      "end": 5.62
+    },
+    {
+      "text": "vous",
+      "start": 5.62,
+      "end": 5.78
+    },
+    {
+      "text": "entendu",
+      "start": 5.78,
+      "end": 6.06
+    },
+    {
+      "text": "quelque",
+      "start": 6.06,
+      "end": 6.32
+    },
+    {
+      "text": "chose",
+      "start": 6.32,
+      "end": 6.8
+    },
+    {
+      "text": "A",
+      "start": 8.0,
+      "end": 9.14
+    },
+    {
+      "text": "non",
+      "start": 9.14,
+      "end": 10.18
+    },
+    {
+      "text": "aucun",
+      "start": 10.18,
+      "end": 10.7
+    },
+    {
+      "text": "B",
+      "start": 10.7,
+      "end": 12.18
+    },
+    {
+      "text": "non",
+      "start": 12.18,
+      "end": 13.1
+    },
+    {
+      "text": "rien",
+      "start": 13.1,
+      "end": 13.66
+    },
+    {
+      "text": "C",
+      "start": 13.66,
+      "end": 15.18
+    },
+    {
+      "text": "non",
+      "start": 15.18,
+      "end": 16.3
+    },
+    {
+      "text": "personne",
+      "start": 16.3,
+      "end": 16.88
+    },
+    {
+      "text": "D",
+      "start": 16.88,
+      "end": 18.34
+    },
+    {
+      "text": "non",
+      "start": 18.34,
+      "end": 19.56
+    },
+    {
+      "text": "tout",
+      "start": 19.56,
+      "end": 19.92
+    },
+    {
+      "text": "le",
+      "start": 19.92,
+      "end": 20.02
+    },
+    {
+      "text": "monde",
+      "start": 20.02,
+      "end": 20.26
+    }
+  ]
+}

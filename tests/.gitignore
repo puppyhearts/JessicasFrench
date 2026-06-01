@@ -1,0 +1,27 @@
+# ── Dependencies & build artefacts ──────────────────────────────────────────
+node_modules/
+.next/
+apps/web/out/
+__pycache__/
+*.pyc
+.venv/
+
+# ── Local environment ────────────────────────────────────────────────────────
+.env
+.DS_Store
+
+# ── Source material (too large for git; work with locally) ───────────────────
+# PDFs, MP3s and correction booklets — ~1.2 GB total.
+# Audio is served via an external URL (NEXT_PUBLIC_AUDIO_BASE_URL).
+# See README "Audio hosting" section for the GitHub Releases workflow.
+Sources/
+
+# ── Generated intermediate files (recreated by build scripts) ────────────────
+content/generated/   # catalog.sqlite + manifest.json — from `npm run build-catalog`
+data/                # tcf.db (legacy runtime DB)
+.ocr-cache/          # page PNG + OCR text extracted from PDFs (~1.2 GB)
+.transcript-cache/   # Whisper JSON per audio hash (~2 MB, regenerated)
+
+# ── What IS committed for the static GitHub Pages site ──────────────────────
+# apps/web/public/catalog/   ← questions.json, collections.json, images/, transcripts/
+# Generated locally by `npm run export-static-catalog`, then committed.

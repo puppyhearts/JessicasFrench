@@ -1,0 +1,995 @@
+{
+  "text": "Question 36. Écoutez le document sonore et la question. Choisissez la bonne réponse. Comme la plupart des œuvres feuilletonesques de l'époque, les récits d'Alexandre Dumas hésitent entre plusieurs genres. Fresqu'historique ou social, récit sentimentale, aventure. Ces romans historiques que le cinéma a fortement tiré vers un modèle de récit de cap et d'épée sont en tout cas assez éloignés du modèle du roman d'aventure historique, tel qu'il se formulera par la suite. L'ambition de Dumas était à l'origine beaucoup plus proche de celle de son maître écocé, Walter Scott, père du roman historique moderne. Il voulait restituer de façon vivante l'âme d'une époque. Très vite, ce projet a trouvé la forme qui lui était le plus adapté, celle du roman feuilleton, encore bablussion à l'époque puisqu'on considère généralement que la date de naissance de ce type de récit est 1836. Pour rendre l'histoire vivante, il faut la dramatiser. À tous les sens du terme, la rendre plus émouvante, plus éprouvante en la construisant comme un récit plein de rebondissements. D'après cet extrait, qu'est-ce qui caractérise les œuvres historiques d'Alexandre Dumas ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "36.",
+      "start": 0.56,
+      "end": 1.3
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.28,
+      "end": 2.78
+    },
+    {
+      "text": "le",
+      "start": 2.78,
+      "end": 2.98
+    },
+    {
+      "text": "document",
+      "start": 2.98,
+      "end": 3.3
+    },
+    {
+      "text": "sonore",
+      "start": 3.3,
+      "end": 3.9
+    },
+    {
+      "text": "et",
+      "start": 3.9,
+      "end": 4.12
+    },
+    {
+      "text": "la",
+      "start": 4.12,
+      "end": 4.26
+    },
+    {
+      "text": "question.",
+      "start": 4.26,
+      "end": 4.6
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.26,
+      "end": 5.76
+    },
+    {
+      "text": "la",
+      "start": 5.76,
+      "end": 5.96
+    },
+    {
+      "text": "bonne",
+      "start": 5.96,
+      "end": 6.12
+    },
+    {
+      "text": "réponse.",
+      "start": 6.12,
+      "end": 6.46
+    },
+    {
+      "text": "Comme",
+      "start": 7.98,
+      "end": 8.48
+    },
+    {
+      "text": "la",
+      "start": 8.48,
+      "end": 8.62
+    },
+    {
+      "text": "plupart",
+      "start": 8.62,
+      "end": 8.84
+    },
+    {
+      "text": "des",
+      "start": 8.84,
+      "end": 9.06
+    },
+    {
+      "text": "œuvres",
+      "start": 9.06,
+      "end": 9.3
+    },
+    {
+      "text": "feuilletonesques",
+      "start": 9.3,
+      "end": 9.94
+    },
+    {
+      "text": "de",
+      "start": 9.94,
+      "end": 10.06
+    },
+    {
+      "text": "l",
+      "start": 10.06,
+      "end": 10.14
+    },
+    {
+      "text": "'époque,",
+      "start": 10.14,
+      "end": 10.36
+    },
+    {
+      "text": "les",
+      "start": 10.76,
+      "end": 10.8
+    },
+    {
+      "text": "récits",
+      "start": 10.8,
+      "end": 11.08
+    },
+    {
+      "text": "d",
+      "start": 11.08,
+      "end": 11.18
+    },
+    {
+      "text": "'Alexandre",
+      "start": 11.18,
+      "end": 11.6
+    },
+    {
+      "text": "Dumas",
+      "start": 11.6,
+      "end": 11.92
+    },
+    {
+      "text": "hésitent",
+      "start": 11.92,
+      "end": 12.4
+    },
+    {
+      "text": "entre",
+      "start": 12.4,
+      "end": 12.56
+    },
+    {
+      "text": "plusieurs",
+      "start": 12.56,
+      "end": 12.88
+    },
+    {
+      "text": "genres.",
+      "start": 12.88,
+      "end": 13.22
+    },
+    {
+      "text": "Fresqu",
+      "start": 13.8,
+      "end": 14.18
+    },
+    {
+      "text": "'historique",
+      "start": 14.18,
+      "end": 14.68
+    },
+    {
+      "text": "ou",
+      "start": 14.68,
+      "end": 14.78
+    },
+    {
+      "text": "social,",
+      "start": 14.78,
+      "end": 15.1
+    },
+    {
+      "text": "récit",
+      "start": 15.54,
+      "end": 15.84
+    },
+    {
+      "text": "sentimentale,",
+      "start": 15.84,
+      "end": 16.7
+    },
+    {
+      "text": "aventure.",
+      "start": 16.92,
+      "end": 17.17
+    },
+    {
+      "text": "Ces",
+      "start": 18.08,
+      "end": 18.32
+    },
+    {
+      "text": "romans",
+      "start": 18.32,
+      "end": 18.58
+    },
+    {
+      "text": "historiques",
+      "start": 18.58,
+      "end": 19.14
+    },
+    {
+      "text": "que",
+      "start": 19.14,
+      "end": 19.3
+    },
+    {
+      "text": "le",
+      "start": 19.3,
+      "end": 19.42
+    },
+    {
+      "text": "cinéma",
+      "start": 19.42,
+      "end": 19.76
+    },
+    {
+      "text": "a",
+      "start": 19.76,
+      "end": 19.92
+    },
+    {
+      "text": "fortement",
+      "start": 19.92,
+      "end": 20.26
+    },
+    {
+      "text": "tiré",
+      "start": 20.26,
+      "end": 20.64
+    },
+    {
+      "text": "vers",
+      "start": 20.64,
+      "end": 20.8
+    },
+    {
+      "text": "un",
+      "start": 20.8,
+      "end": 20.98
+    },
+    {
+      "text": "modèle",
+      "start": 20.98,
+      "end": 21.2
+    },
+    {
+      "text": "de",
+      "start": 21.2,
+      "end": 21.38
+    },
+    {
+      "text": "récit",
+      "start": 21.38,
+      "end": 21.76
+    },
+    {
+      "text": "de",
+      "start": 21.76,
+      "end": 21.92
+    },
+    {
+      "text": "cap",
+      "start": 21.92,
+      "end": 22.12
+    },
+    {
+      "text": "et",
+      "start": 22.12,
+      "end": 22.3
+    },
+    {
+      "text": "d",
+      "start": 22.3,
+      "end": 22.38
+    },
+    {
+      "text": "'épée",
+      "start": 22.38,
+      "end": 22.64
+    },
+    {
+      "text": "sont",
+      "start": 22.64,
+      "end": 23.08
+    },
+    {
+      "text": "en",
+      "start": 23.08,
+      "end": 23.24
+    },
+    {
+      "text": "tout",
+      "start": 23.24,
+      "end": 23.34
+    },
+    {
+      "text": "cas",
+      "start": 23.34,
+      "end": 23.52
+    },
+    {
+      "text": "assez",
+      "start": 23.52,
+      "end": 23.82
+    },
+    {
+      "text": "éloignés",
+      "start": 23.82,
+      "end": 24.36
+    },
+    {
+      "text": "du",
+      "start": 24.36,
+      "end": 24.54
+    },
+    {
+      "text": "modèle",
+      "start": 24.54,
+      "end": 24.84
+    },
+    {
+      "text": "du",
+      "start": 24.84,
+      "end": 25.06
+    },
+    {
+      "text": "roman",
+      "start": 25.06,
+      "end": 25.28
+    },
+    {
+      "text": "d",
+      "start": 25.28,
+      "end": 25.44
+    },
+    {
+      "text": "'aventure",
+      "start": 25.44,
+      "end": 25.8
+    },
+    {
+      "text": "historique,",
+      "start": 25.8,
+      "end": 26.48
+    },
+    {
+      "text": "tel",
+      "start": 26.6,
+      "end": 26.7
+    },
+    {
+      "text": "qu",
+      "start": 26.7,
+      "end": 26.92
+    },
+    {
+      "text": "'il",
+      "start": 26.92,
+      "end": 26.98
+    },
+    {
+      "text": "se",
+      "start": 26.98,
+      "end": 27.16
+    },
+    {
+      "text": "formulera",
+      "start": 27.16,
+      "end": 27.64
+    },
+    {
+      "text": "par",
+      "start": 27.64,
+      "end": 27.8
+    },
+    {
+      "text": "la",
+      "start": 27.8,
+      "end": 27.9
+    },
+    {
+      "text": "suite.",
+      "start": 27.9,
+      "end": 28.1
+    },
+    {
+      "text": "L",
+      "start": 28.1,
+      "end": 28.88
+    },
+    {
+      "text": "'ambition",
+      "start": 28.88,
+      "end": 29.24
+    },
+    {
+      "text": "de",
+      "start": 29.24,
+      "end": 29.46
+    },
+    {
+      "text": "Dumas",
+      "start": 29.46,
+      "end": 29.76
+    },
+    {
+      "text": "était",
+      "start": 29.76,
+      "end": 29.94
+    },
+    {
+      "text": "à",
+      "start": 29.94,
+      "end": 30.06
+    },
+    {
+      "text": "l",
+      "start": 30.06,
+      "end": 30.2
+    },
+    {
+      "text": "'origine",
+      "start": 30.2,
+      "end": 30.42
+    },
+    {
+      "text": "beaucoup",
+      "start": 30.42,
+      "end": 30.84
+    },
+    {
+      "text": "plus",
+      "start": 30.84,
+      "end": 31.1
+    },
+    {
+      "text": "proche",
+      "start": 31.1,
+      "end": 31.44
+    },
+    {
+      "text": "de",
+      "start": 31.44,
+      "end": 31.58
+    },
+    {
+      "text": "celle",
+      "start": 31.58,
+      "end": 31.74
+    },
+    {
+      "text": "de",
+      "start": 31.74,
+      "end": 31.92
+    },
+    {
+      "text": "son",
+      "start": 31.92,
+      "end": 32.04
+    },
+    {
+      "text": "maître",
+      "start": 32.04,
+      "end": 32.3
+    },
+    {
+      "text": "écocé,",
+      "start": 32.3,
+      "end": 32.7
+    },
+    {
+      "text": "Walter",
+      "start": 32.86,
+      "end": 33.04
+    },
+    {
+      "text": "Scott,",
+      "start": 33.04,
+      "end": 33.46
+    },
+    {
+      "text": "père",
+      "start": 33.78,
+      "end": 33.92
+    },
+    {
+      "text": "du",
+      "start": 33.92,
+      "end": 34.12
+    },
+    {
+      "text": "roman",
+      "start": 34.12,
+      "end": 34.34
+    },
+    {
+      "text": "historique",
+      "start": 34.34,
+      "end": 34.9
+    },
+    {
+      "text": "moderne.",
+      "start": 34.9,
+      "end": 35.4
+    },
+    {
+      "text": "Il",
+      "start": 35.8,
+      "end": 36.04
+    },
+    {
+      "text": "voulait",
+      "start": 36.04,
+      "end": 36.26
+    },
+    {
+      "text": "restituer",
+      "start": 36.26,
+      "end": 36.76
+    },
+    {
+      "text": "de",
+      "start": 36.76,
+      "end": 36.88
+    },
+    {
+      "text": "façon",
+      "start": 36.88,
+      "end": 37.1
+    },
+    {
+      "text": "vivante",
+      "start": 37.1,
+      "end": 37.74
+    },
+    {
+      "text": "l",
+      "start": 37.74,
+      "end": 38.0
+    },
+    {
+      "text": "'âme",
+      "start": 38.0,
+      "end": 38.16
+    },
+    {
+      "text": "d",
+      "start": 38.16,
+      "end": 38.28
+    },
+    {
+      "text": "'une",
+      "start": 38.28,
+      "end": 38.34
+    },
+    {
+      "text": "époque.",
+      "start": 38.34,
+      "end": 38.82
+    },
+    {
+      "text": "Très",
+      "start": 39.14,
+      "end": 39.36
+    },
+    {
+      "text": "vite,",
+      "start": 39.36,
+      "end": 39.48
+    },
+    {
+      "text": "ce",
+      "start": 39.82,
+      "end": 40.04
+    },
+    {
+      "text": "projet",
+      "start": 40.04,
+      "end": 40.32
+    },
+    {
+      "text": "a",
+      "start": 40.32,
+      "end": 40.42
+    },
+    {
+      "text": "trouvé",
+      "start": 40.42,
+      "end": 40.62
+    },
+    {
+      "text": "la",
+      "start": 40.62,
+      "end": 40.84
+    },
+    {
+      "text": "forme",
+      "start": 40.84,
+      "end": 41.12
+    },
+    {
+      "text": "qui",
+      "start": 41.12,
+      "end": 41.32
+    },
+    {
+      "text": "lui",
+      "start": 41.32,
+      "end": 41.44
+    },
+    {
+      "text": "était",
+      "start": 41.44,
+      "end": 41.62
+    },
+    {
+      "text": "le",
+      "start": 41.62,
+      "end": 41.76
+    },
+    {
+      "text": "plus",
+      "start": 41.76,
+      "end": 41.9
+    },
+    {
+      "text": "adapté,",
+      "start": 41.9,
+      "end": 42.4
+    },
+    {
+      "text": "celle",
+      "start": 42.84,
+      "end": 43.0
+    },
+    {
+      "text": "du",
+      "start": 43.0,
+      "end": 43.18
+    },
+    {
+      "text": "roman",
+      "start": 43.18,
+      "end": 43.42
+    },
+    {
+      "text": "feuilleton,",
+      "start": 43.42,
+      "end": 43.92
+    },
+    {
+      "text": "encore",
+      "start": 44.24,
+      "end": 44.54
+    },
+    {
+      "text": "bablussion",
+      "start": 44.54,
+      "end": 45.06
+    },
+    {
+      "text": "à",
+      "start": 45.06,
+      "end": 45.18
+    },
+    {
+      "text": "l",
+      "start": 45.18,
+      "end": 45.26
+    },
+    {
+      "text": "'époque",
+      "start": 45.26,
+      "end": 45.46
+    },
+    {
+      "text": "puisqu",
+      "start": 45.46,
+      "end": 45.66
+    },
+    {
+      "text": "'on",
+      "start": 45.66,
+      "end": 45.84
+    },
+    {
+      "text": "considère",
+      "start": 45.84,
+      "end": 46.28
+    },
+    {
+      "text": "généralement",
+      "start": 46.28,
+      "end": 46.86
+    },
+    {
+      "text": "que",
+      "start": 46.86,
+      "end": 46.98
+    },
+    {
+      "text": "la",
+      "start": 46.98,
+      "end": 47.12
+    },
+    {
+      "text": "date",
+      "start": 47.12,
+      "end": 47.26
+    },
+    {
+      "text": "de",
+      "start": 47.26,
+      "end": 47.42
+    },
+    {
+      "text": "naissance",
+      "start": 47.42,
+      "end": 47.7
+    },
+    {
+      "text": "de",
+      "start": 47.7,
+      "end": 47.94
+    },
+    {
+      "text": "ce",
+      "start": 47.94,
+      "end": 48.08
+    },
+    {
+      "text": "type",
+      "start": 48.08,
+      "end": 48.3
+    },
+    {
+      "text": "de",
+      "start": 48.3,
+      "end": 48.44
+    },
+    {
+      "text": "récit",
+      "start": 48.44,
+      "end": 48.8
+    },
+    {
+      "text": "est",
+      "start": 48.8,
+      "end": 49.28
+    },
+    {
+      "text": "1836.",
+      "start": 49.28,
+      "end": 50.18
+    },
+    {
+      "text": "Pour",
+      "start": 50.98,
+      "end": 51.26
+    },
+    {
+      "text": "rendre",
+      "start": 51.26,
+      "end": 51.44
+    },
+    {
+      "text": "l",
+      "start": 51.44,
+      "end": 51.58
+    },
+    {
+      "text": "'histoire",
+      "start": 51.58,
+      "end": 51.74
+    },
+    {
+      "text": "vivante,",
+      "start": 51.74,
+      "end": 52.22
+    },
+    {
+      "text": "il",
+      "start": 52.48,
+      "end": 52.58
+    },
+    {
+      "text": "faut",
+      "start": 52.58,
+      "end": 52.7
+    },
+    {
+      "text": "la",
+      "start": 52.7,
+      "end": 52.82
+    },
+    {
+      "text": "dramatiser.",
+      "start": 52.82,
+      "end": 53.4
+    },
+    {
+      "text": "À",
+      "start": 53.68,
+      "end": 53.86
+    },
+    {
+      "text": "tous",
+      "start": 53.86,
+      "end": 53.98
+    },
+    {
+      "text": "les",
+      "start": 53.98,
+      "end": 54.08
+    },
+    {
+      "text": "sens",
+      "start": 54.08,
+      "end": 54.28
+    },
+    {
+      "text": "du",
+      "start": 54.28,
+      "end": 54.46
+    },
+    {
+      "text": "terme,",
+      "start": 54.46,
+      "end": 54.74
+    },
+    {
+      "text": "la",
+      "start": 55.18,
+      "end": 55.3
+    },
+    {
+      "text": "rendre",
+      "start": 55.3,
+      "end": 55.48
+    },
+    {
+      "text": "plus",
+      "start": 55.48,
+      "end": 55.78
+    },
+    {
+      "text": "émouvante,",
+      "start": 55.78,
+      "end": 56.3
+    },
+    {
+      "text": "plus",
+      "start": 56.3,
+      "end": 56.62
+    },
+    {
+      "text": "éprouvante",
+      "start": 56.62,
+      "end": 57.28
+    },
+    {
+      "text": "en",
+      "start": 57.28,
+      "end": 57.36
+    },
+    {
+      "text": "la",
+      "start": 57.36,
+      "end": 57.5
+    },
+    {
+      "text": "construisant",
+      "start": 57.5,
+      "end": 58.06
+    },
+    {
+      "text": "comme",
+      "start": 58.06,
+      "end": 58.22
+    },
+    {
+      "text": "un",
+      "start": 58.22,
+      "end": 58.38
+    },
+    {
+      "text": "récit",
+      "start": 58.38,
+      "end": 58.72
+    },
+    {
+      "text": "plein",
+      "start": 58.72,
+      "end": 59.0
+    },
+    {
+      "text": "de",
+      "start": 59.0,
+      "end": 59.14
+    },
+    {
+      "text": "rebondissements.",
+      "start": 59.14,
+      "end": 59.7
+    },
+    {
+      "text": "D",
+      "start": 61.08,
+      "end": 61.56
+    },
+    {
+      "text": "'après",
+      "start": 61.56,
+      "end": 61.7
+    },
+    {
+      "text": "cet",
+      "start": 61.7,
+      "end": 61.94
+    },
+    {
+      "text": "extrait,",
+      "start": 61.94,
+      "end": 62.8
+    },
+    {
+      "text": "qu",
+      "start": 62.92,
+      "end": 63.1
+    },
+    {
+      "text": "'est",
+      "start": 63.1,
+      "end": 63.14
+    },
+    {
+      "text": "-ce",
+      "start": 63.14,
+      "end": 63.26
+    },
+    {
+      "text": "qui",
+      "start": 63.26,
+      "end": 63.38
+    },
+    {
+      "text": "caractérise",
+      "start": 63.38,
+      "end": 64.12
+    },
+    {
+      "text": "les",
+      "start": 64.12,
+      "end": 64.3
+    },
+    {
+      "text": "œuvres",
+      "start": 64.3,
+      "end": 64.66
+    },
+    {
+      "text": "historiques",
+      "start": 64.66,
+      "end": 65.28
+    },
+    {
+      "text": "d",
+      "start": 65.28,
+      "end": 65.46
+    },
+    {
+      "text": "'Alexandre",
+      "start": 65.46,
+      "end": 65.94
+    },
+    {
+      "text": "Dumas",
+      "start": 65.94,
+      "end": 66.24
+    },
+    {
+      "text": "?",
+      "start": 66.24,
+      "end": 66.46
+    }
+  ]
+}

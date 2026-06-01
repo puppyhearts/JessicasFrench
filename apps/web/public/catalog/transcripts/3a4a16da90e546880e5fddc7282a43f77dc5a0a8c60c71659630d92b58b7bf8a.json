@@ -1,0 +1,255 @@
+{
+  "text": "Question 3 Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse. Et qu'est-ce que tu fais dans la vie en plus de la musique ? A. J'ai beaucoup d'amis. B. Je pars en voyage. C. Je suis informaticienne. D. Je viens du Sénégal.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "text": "3",
+      "start": 0.54,
+      "end": 0.96
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.94,
+      "end": 2.44
+    },
+    {
+      "text": "l",
+      "start": 2.44,
+      "end": 2.66
+    },
+    {
+      "text": "'extrait",
+      "start": 2.66,
+      "end": 3.02
+    },
+    {
+      "text": "sonore",
+      "start": 3.02,
+      "end": 3.62
+    },
+    {
+      "text": "et",
+      "start": 3.62,
+      "end": 3.88
+    },
+    {
+      "text": "les",
+      "start": 3.88,
+      "end": 4.02
+    },
+    {
+      "text": "quatre",
+      "start": 4.02,
+      "end": 4.24
+    },
+    {
+      "text": "propositions.",
+      "start": 4.24,
+      "end": 4.96
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.58,
+      "end": 6.08
+    },
+    {
+      "text": "la",
+      "start": 6.08,
+      "end": 6.28
+    },
+    {
+      "text": "bonne",
+      "start": 6.28,
+      "end": 6.5
+    },
+    {
+      "text": "réponse.",
+      "start": 6.5,
+      "end": 6.96
+    },
+    {
+      "text": "Et",
+      "start": 8.0,
+      "end": 8.5
+    },
+    {
+      "text": "qu",
+      "start": 8.5,
+      "end": 8.62
+    },
+    {
+      "text": "'est",
+      "start": 8.62,
+      "end": 8.66
+    },
+    {
+      "text": "-ce",
+      "start": 8.66,
+      "end": 8.7
+    },
+    {
+      "text": "que",
+      "start": 8.7,
+      "end": 8.82
+    },
+    {
+      "text": "tu",
+      "start": 8.82,
+      "end": 8.92
+    },
+    {
+      "text": "fais",
+      "start": 8.92,
+      "end": 9.1
+    },
+    {
+      "text": "dans",
+      "start": 9.1,
+      "end": 9.22
+    },
+    {
+      "text": "la",
+      "start": 9.22,
+      "end": 9.36
+    },
+    {
+      "text": "vie",
+      "start": 9.36,
+      "end": 9.52
+    },
+    {
+      "text": "en",
+      "start": 9.52,
+      "end": 9.7
+    },
+    {
+      "text": "plus",
+      "start": 9.7,
+      "end": 9.9
+    },
+    {
+      "text": "de",
+      "start": 9.9,
+      "end": 10.06
+    },
+    {
+      "text": "la",
+      "start": 10.06,
+      "end": 10.16
+    },
+    {
+      "text": "musique",
+      "start": 10.16,
+      "end": 10.44
+    },
+    {
+      "text": "?",
+      "start": 10.44,
+      "end": 10.88
+    },
+    {
+      "text": "A.",
+      "start": 11.82,
+      "end": 12.32
+    },
+    {
+      "text": "J",
+      "start": 12.9,
+      "end": 12.98
+    },
+    {
+      "text": "'ai",
+      "start": 12.98,
+      "end": 13.04
+    },
+    {
+      "text": "beaucoup",
+      "start": 13.04,
+      "end": 13.32
+    },
+    {
+      "text": "d",
+      "start": 13.32,
+      "end": 13.54
+    },
+    {
+      "text": "'amis.",
+      "start": 13.54,
+      "end": 13.7
+    },
+    {
+      "text": "B.",
+      "start": 15.98,
+      "end": 16.48
+    },
+    {
+      "text": "Je",
+      "start": 17.12,
+      "end": 17.24
+    },
+    {
+      "text": "pars",
+      "start": 17.24,
+      "end": 17.48
+    },
+    {
+      "text": "en",
+      "start": 17.48,
+      "end": 17.62
+    },
+    {
+      "text": "voyage.",
+      "start": 17.62,
+      "end": 17.94
+    },
+    {
+      "text": "C.",
+      "start": 20.26,
+      "end": 20.76
+    },
+    {
+      "text": "Je",
+      "start": 21.28,
+      "end": 21.52
+    },
+    {
+      "text": "suis",
+      "start": 21.52,
+      "end": 21.68
+    },
+    {
+      "text": "informaticienne.",
+      "start": 21.68,
+      "end": 22.66
+    },
+    {
+      "text": "D.",
+      "start": 24.62,
+      "end": 25.12
+    },
+    {
+      "text": "Je",
+      "start": 25.96,
+      "end": 26.16
+    },
+    {
+      "text": "viens",
+      "start": 26.16,
+      "end": 26.34
+    },
+    {
+      "text": "du",
+      "start": 26.34,
+      "end": 26.48
+    },
+    {
+      "text": "Sénégal.",
+      "start": 26.48,
+      "end": 27.06
+    }
+  ]
+}

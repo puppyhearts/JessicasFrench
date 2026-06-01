@@ -1,0 +1,420 @@
+{
+  "text": "Bonjour à tous et bienvenue à cette première réunion par en professeur de l'année. Monsieur le directeur ici présent, vous parlera dans un premier temps du fonctionnement général de l'établissement et du règlement intérieur. Puis les professeurs vous présenteront chacun leur tour, leur programme de l'année ainsi que leur méthode de travail en classe et l'organisation du travail à la maison. N'hésitez pas à poser vos questions à tout moment. Quel est le but de cette annonce ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 0.0,
+      "end": 0.88
+    },
+    {
+      "text": "à",
+      "start": 0.88,
+      "end": 1.1
+    },
+    {
+      "text": "tous",
+      "start": 1.1,
+      "end": 1.42
+    },
+    {
+      "text": "et",
+      "start": 1.42,
+      "end": 1.82
+    },
+    {
+      "text": "bienvenue",
+      "start": 1.82,
+      "end": 2.34
+    },
+    {
+      "text": "à",
+      "start": 2.34,
+      "end": 2.58
+    },
+    {
+      "text": "cette",
+      "start": 2.58,
+      "end": 2.74
+    },
+    {
+      "text": "première",
+      "start": 2.74,
+      "end": 3.08
+    },
+    {
+      "text": "réunion",
+      "start": 3.08,
+      "end": 3.6
+    },
+    {
+      "text": "par",
+      "start": 3.6,
+      "end": 3.94
+    },
+    {
+      "text": "en",
+      "start": 3.94,
+      "end": 4.1
+    },
+    {
+      "text": "professeur",
+      "start": 4.1,
+      "end": 4.7
+    },
+    {
+      "text": "de",
+      "start": 4.7,
+      "end": 4.88
+    },
+    {
+      "text": "l",
+      "start": 4.88,
+      "end": 5.0
+    },
+    {
+      "text": "'année.",
+      "start": 5.0,
+      "end": 5.18
+    },
+    {
+      "text": "Monsieur",
+      "start": 5.96,
+      "end": 6.3
+    },
+    {
+      "text": "le",
+      "start": 6.3,
+      "end": 6.46
+    },
+    {
+      "text": "directeur",
+      "start": 6.46,
+      "end": 7.06
+    },
+    {
+      "text": "ici",
+      "start": 7.06,
+      "end": 7.26
+    },
+    {
+      "text": "présent,",
+      "start": 7.26,
+      "end": 7.72
+    },
+    {
+      "text": "vous",
+      "start": 8.06,
+      "end": 8.22
+    },
+    {
+      "text": "parlera",
+      "start": 8.22,
+      "end": 8.6
+    },
+    {
+      "text": "dans",
+      "start": 8.6,
+      "end": 8.82
+    },
+    {
+      "text": "un",
+      "start": 8.82,
+      "end": 9.0
+    },
+    {
+      "text": "premier",
+      "start": 9.0,
+      "end": 9.24
+    },
+    {
+      "text": "temps",
+      "start": 9.24,
+      "end": 9.56
+    },
+    {
+      "text": "du",
+      "start": 9.56,
+      "end": 9.98
+    },
+    {
+      "text": "fonctionnement",
+      "start": 9.98,
+      "end": 10.62
+    },
+    {
+      "text": "général",
+      "start": 10.62,
+      "end": 11.1
+    },
+    {
+      "text": "de",
+      "start": 11.1,
+      "end": 11.32
+    },
+    {
+      "text": "l",
+      "start": 11.32,
+      "end": 11.42
+    },
+    {
+      "text": "'établissement",
+      "start": 11.42,
+      "end": 11.94
+    },
+    {
+      "text": "et",
+      "start": 11.94,
+      "end": 12.36
+    },
+    {
+      "text": "du",
+      "start": 12.36,
+      "end": 12.52
+    },
+    {
+      "text": "règlement",
+      "start": 12.52,
+      "end": 12.86
+    },
+    {
+      "text": "intérieur.",
+      "start": 12.86,
+      "end": 13.56
+    },
+    {
+      "text": "Puis",
+      "start": 14.3,
+      "end": 14.54
+    },
+    {
+      "text": "les",
+      "start": 14.54,
+      "end": 14.96
+    },
+    {
+      "text": "professeurs",
+      "start": 14.96,
+      "end": 15.56
+    },
+    {
+      "text": "vous",
+      "start": 15.56,
+      "end": 15.66
+    },
+    {
+      "text": "présenteront",
+      "start": 15.66,
+      "end": 16.24
+    },
+    {
+      "text": "chacun",
+      "start": 16.24,
+      "end": 16.5
+    },
+    {
+      "text": "leur",
+      "start": 16.5,
+      "end": 16.78
+    },
+    {
+      "text": "tour,",
+      "start": 16.78,
+      "end": 17.14
+    },
+    {
+      "text": "leur",
+      "start": 17.38,
+      "end": 17.48
+    },
+    {
+      "text": "programme",
+      "start": 17.48,
+      "end": 17.88
+    },
+    {
+      "text": "de",
+      "start": 17.88,
+      "end": 18.1
+    },
+    {
+      "text": "l",
+      "start": 18.1,
+      "end": 18.18
+    },
+    {
+      "text": "'année",
+      "start": 18.18,
+      "end": 18.4
+    },
+    {
+      "text": "ainsi",
+      "start": 18.4,
+      "end": 19.18
+    },
+    {
+      "text": "que",
+      "start": 19.18,
+      "end": 19.44
+    },
+    {
+      "text": "leur",
+      "start": 19.44,
+      "end": 19.58
+    },
+    {
+      "text": "méthode",
+      "start": 19.58,
+      "end": 19.94
+    },
+    {
+      "text": "de",
+      "start": 19.94,
+      "end": 20.1
+    },
+    {
+      "text": "travail",
+      "start": 20.1,
+      "end": 20.38
+    },
+    {
+      "text": "en",
+      "start": 20.38,
+      "end": 20.58
+    },
+    {
+      "text": "classe",
+      "start": 20.58,
+      "end": 20.88
+    },
+    {
+      "text": "et",
+      "start": 20.88,
+      "end": 21.54
+    },
+    {
+      "text": "l",
+      "start": 21.54,
+      "end": 21.66
+    },
+    {
+      "text": "'organisation",
+      "start": 21.66,
+      "end": 22.2
+    },
+    {
+      "text": "du",
+      "start": 22.2,
+      "end": 22.4
+    },
+    {
+      "text": "travail",
+      "start": 22.4,
+      "end": 22.7
+    },
+    {
+      "text": "à",
+      "start": 22.7,
+      "end": 22.9
+    },
+    {
+      "text": "la",
+      "start": 22.9,
+      "end": 22.98
+    },
+    {
+      "text": "maison.",
+      "start": 22.98,
+      "end": 23.2
+    },
+    {
+      "text": "N",
+      "start": 23.96,
+      "end": 24.34
+    },
+    {
+      "text": "'hésitez",
+      "start": 24.34,
+      "end": 24.54
+    },
+    {
+      "text": "pas",
+      "start": 24.54,
+      "end": 24.9
+    },
+    {
+      "text": "à",
+      "start": 24.9,
+      "end": 25.16
+    },
+    {
+      "text": "poser",
+      "start": 25.16,
+      "end": 25.42
+    },
+    {
+      "text": "vos",
+      "start": 25.42,
+      "end": 25.62
+    },
+    {
+      "text": "questions",
+      "start": 25.62,
+      "end": 25.94
+    },
+    {
+      "text": "à",
+      "start": 25.94,
+      "end": 26.24
+    },
+    {
+      "text": "tout",
+      "start": 26.24,
+      "end": 26.38
+    },
+    {
+      "text": "moment.",
+      "start": 26.38,
+      "end": 26.64
+    },
+    {
+      "text": "Quel",
+      "start": 28.76,
+      "end": 29.28
+    },
+    {
+      "text": "est",
+      "start": 29.28,
+      "end": 29.4
+    },
+    {
+      "text": "le",
+      "start": 29.4,
+      "end": 29.52
+    },
+    {
+      "text": "but",
+      "start": 29.52,
+      "end": 29.76
+    },
+    {
+      "text": "de",
+      "start": 29.76,
+      "end": 30.14
+    },
+    {
+      "text": "cette",
+      "start": 30.14,
+      "end": 30.32
+    },
+    {
+      "text": "annonce",
+      "start": 30.32,
+      "end": 30.8
+    },
+    {
+      "text": "?",
+      "start": 30.8,
+      "end": 31.08
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "text": "question 9 à michael saute dans la piscine b michael sort de la piscine c michael nage dans la piscine d michael n'a pas envie de se baigner",
+  "words": [
+    {
+      "text": "question",
+      "start": 2.12,
+      "end": 2.76
+    },
+    {
+      "text": "9",
+      "start": 2.76,
+      "end": 3.12
+    },
+    {
+      "text": "à",
+      "start": 3.12,
+      "end": 4.24
+    },
+    {
+      "text": "michael",
+      "start": 4.24,
+      "end": 5.3
+    },
+    {
+      "text": "saute",
+      "start": 5.3,
+      "end": 5.68
+    },
+    {
+      "text": "dans",
+      "start": 5.68,
+      "end": 5.94
+    },
+    {
+      "text": "la",
+      "start": 5.94,
+      "end": 6.06
+    },
+    {
+      "text": "piscine",
+      "start": 6.06,
+      "end": 6.48
+    },
+    {
+      "text": "b",
+      "start": 6.48,
+      "end": 8.16
+    },
+    {
+      "text": "michael",
+      "start": 8.16,
+      "end": 9.14
+    },
+    {
+      "text": "sort",
+      "start": 9.14,
+      "end": 9.46
+    },
+    {
+      "text": "de",
+      "start": 9.46,
+      "end": 9.6
+    },
+    {
+      "text": "la",
+      "start": 9.6,
+      "end": 9.72
+    },
+    {
+      "text": "piscine",
+      "start": 9.72,
+      "end": 10.48
+    },
+    {
+      "text": "c",
+      "start": 10.48,
+      "end": 11.94
+    },
+    {
+      "text": "michael",
+      "start": 11.94,
+      "end": 13.0
+    },
+    {
+      "text": "nage",
+      "start": 13.0,
+      "end": 13.32
+    },
+    {
+      "text": "dans",
+      "start": 13.32,
+      "end": 13.5
+    },
+    {
+      "text": "la",
+      "start": 13.5,
+      "end": 13.62
+    },
+    {
+      "text": "piscine",
+      "start": 13.62,
+      "end": 14.38
+    },
+    {
+      "text": "d",
+      "start": 14.38,
+      "end": 15.5
+    },
+    {
+      "text": "michael",
+      "start": 15.5,
+      "end": 16.52
+    },
+    {
+      "text": "n",
+      "start": 16.52,
+      "end": 16.72
+    },
+    {
+      "text": "'a",
+      "start": 16.72,
+      "end": 16.74
+    },
+    {
+      "text": "pas",
+      "start": 16.74,
+      "end": 16.9
+    },
+    {
+      "text": "envie",
+      "start": 16.9,
+      "end": 17.14
+    },
+    {
+      "text": "de",
+      "start": 17.14,
+      "end": 17.26
+    },
+    {
+      "text": "se",
+      "start": 17.26,
+      "end": 17.38
+    },
+    {
+      "text": "baigner",
+      "start": 17.38,
+      "end": 17.62
+    }
+  ]
+}

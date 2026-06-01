@@ -1,0 +1,490 @@
+{
+  "text": "Question 16. Écoutez le document sonore et la question. Choisissez la bonne réponse. Bonjour Mehdi, comment vas-tu ? Bien docteur, je viens pour ma visite médicale pour le sport. Alors, toujours fan de karaté ? Oui, je m'entraîne quatre fois par semaine. Je dors bien, mais je suis très fatigué. Ce n'est pas normal, mais ce n'est pas grave. Je crois que tu fais trop de sport Mehdi. Il va falloir diminuer tes entraînements. Pour toujours ? Non, quelques temps seulement. Tu pourras reprendre normalement dans quelques semaines. Que devras faire Mehdi ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": "16.",
+      "start": 0.6,
+      "end": 1.22
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.4,
+      "end": 2.86
+    },
+    {
+      "text": "le",
+      "start": 2.86,
+      "end": 3.08
+    },
+    {
+      "text": "document",
+      "start": 3.08,
+      "end": 3.4
+    },
+    {
+      "text": "sonore",
+      "start": 3.4,
+      "end": 3.98
+    },
+    {
+      "text": "et",
+      "start": 3.98,
+      "end": 4.22
+    },
+    {
+      "text": "la",
+      "start": 4.22,
+      "end": 4.34
+    },
+    {
+      "text": "question.",
+      "start": 4.34,
+      "end": 4.7
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.38,
+      "end": 5.84
+    },
+    {
+      "text": "la",
+      "start": 5.84,
+      "end": 6.04
+    },
+    {
+      "text": "bonne",
+      "start": 6.04,
+      "end": 6.22
+    },
+    {
+      "text": "réponse.",
+      "start": 6.22,
+      "end": 6.56
+    },
+    {
+      "text": "Bonjour",
+      "start": 8.1,
+      "end": 8.56
+    },
+    {
+      "text": "Mehdi,",
+      "start": 8.56,
+      "end": 8.9
+    },
+    {
+      "text": "comment",
+      "start": 9.34,
+      "end": 9.5
+    },
+    {
+      "text": "vas",
+      "start": 9.5,
+      "end": 9.68
+    },
+    {
+      "text": "-tu",
+      "start": 9.68,
+      "end": 9.86
+    },
+    {
+      "text": "?",
+      "start": 9.86,
+      "end": 10.32
+    },
+    {
+      "text": "Bien",
+      "start": 10.32,
+      "end": 10.54
+    },
+    {
+      "text": "docteur,",
+      "start": 10.54,
+      "end": 10.92
+    },
+    {
+      "text": "je",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "text": "viens",
+      "start": 11.7,
+      "end": 11.86
+    },
+    {
+      "text": "pour",
+      "start": 11.86,
+      "end": 12.02
+    },
+    {
+      "text": "ma",
+      "start": 12.02,
+      "end": 12.14
+    },
+    {
+      "text": "visite",
+      "start": 12.14,
+      "end": 12.42
+    },
+    {
+      "text": "médicale",
+      "start": 12.42,
+      "end": 12.9
+    },
+    {
+      "text": "pour",
+      "start": 12.9,
+      "end": 12.98
+    },
+    {
+      "text": "le",
+      "start": 12.98,
+      "end": 13.1
+    },
+    {
+      "text": "sport.",
+      "start": 13.1,
+      "end": 13.3
+    },
+    {
+      "text": "Alors,",
+      "start": 13.74,
+      "end": 14.0
+    },
+    {
+      "text": "toujours",
+      "start": 14.38,
+      "end": 14.66
+    },
+    {
+      "text": "fan",
+      "start": 14.66,
+      "end": 14.9
+    },
+    {
+      "text": "de",
+      "start": 14.9,
+      "end": 15.06
+    },
+    {
+      "text": "karaté",
+      "start": 15.06,
+      "end": 15.48
+    },
+    {
+      "text": "?",
+      "start": 15.48,
+      "end": 16.02
+    },
+    {
+      "text": "Oui,",
+      "start": 16.02,
+      "end": 16.34
+    },
+    {
+      "text": "je",
+      "start": 16.72,
+      "end": 16.88
+    },
+    {
+      "text": "m",
+      "start": 16.88,
+      "end": 16.98
+    },
+    {
+      "text": "'entraîne",
+      "start": 16.98,
+      "end": 17.2
+    },
+    {
+      "text": "quatre",
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "text": "fois",
+      "start": 17.36,
+      "end": 17.52
+    },
+    {
+      "text": "par",
+      "start": 17.52,
+      "end": 17.7
+    },
+    {
+      "text": "semaine.",
+      "start": 17.7,
+      "end": 17.92
+    },
+    {
+      "text": "Je",
+      "start": 18.52,
+      "end": 18.78
+    },
+    {
+      "text": "dors",
+      "start": 18.78,
+      "end": 18.96
+    },
+    {
+      "text": "bien,",
+      "start": 18.96,
+      "end": 19.22
+    },
+    {
+      "text": "mais",
+      "start": 19.34,
+      "end": 19.48
+    },
+    {
+      "text": "je",
+      "start": 19.48,
+      "end": 19.68
+    },
+    {
+      "text": "suis",
+      "start": 19.68,
+      "end": 19.8
+    },
+    {
+      "text": "très",
+      "start": 19.8,
+      "end": 19.94
+    },
+    {
+      "text": "fatigué.",
+      "start": 19.94,
+      "end": 20.38
+    },
+    {
+      "text": "Ce",
+      "start": 20.62,
+      "end": 20.8
+    },
+    {
+      "text": "n",
+      "start": 20.8,
+      "end": 20.86
+    },
+    {
+      "text": "'est",
+      "start": 20.86,
+      "end": 20.9
+    },
+    {
+      "text": "pas",
+      "start": 20.9,
+      "end": 21.02
+    },
+    {
+      "text": "normal,",
+      "start": 21.02,
+      "end": 21.38
+    },
+    {
+      "text": "mais",
+      "start": 21.66,
+      "end": 21.78
+    },
+    {
+      "text": "ce",
+      "start": 21.78,
+      "end": 21.92
+    },
+    {
+      "text": "n",
+      "start": 21.92,
+      "end": 21.98
+    },
+    {
+      "text": "'est",
+      "start": 21.98,
+      "end": 22.0
+    },
+    {
+      "text": "pas",
+      "start": 22.0,
+      "end": 22.12
+    },
+    {
+      "text": "grave.",
+      "start": 22.12,
+      "end": 22.4
+    },
+    {
+      "text": "Je",
+      "start": 23.38,
+      "end": 23.66
+    },
+    {
+      "text": "crois",
+      "start": 23.66,
+      "end": 23.82
+    },
+    {
+      "text": "que",
+      "start": 23.82,
+      "end": 23.94
+    },
+    {
+      "text": "tu",
+      "start": 23.94,
+      "end": 24.02
+    },
+    {
+      "text": "fais",
+      "start": 24.02,
+      "end": 24.14
+    },
+    {
+      "text": "trop",
+      "start": 24.14,
+      "end": 24.3
+    },
+    {
+      "text": "de",
+      "start": 24.3,
+      "end": 24.36
+    },
+    {
+      "text": "sport",
+      "start": 24.36,
+      "end": 24.56
+    },
+    {
+      "text": "Mehdi.",
+      "start": 24.56,
+      "end": 24.92
+    },
+    {
+      "text": "Il",
+      "start": 25.44,
+      "end": 25.58
+    },
+    {
+      "text": "va",
+      "start": 25.58,
+      "end": 25.66
+    },
+    {
+      "text": "falloir",
+      "start": 25.66,
+      "end": 25.9
+    },
+    {
+      "text": "diminuer",
+      "start": 25.9,
+      "end": 26.3
+    },
+    {
+      "text": "tes",
+      "start": 26.3,
+      "end": 26.44
+    },
+    {
+      "text": "entraînements.",
+      "start": 26.44,
+      "end": 26.9
+    },
+    {
+      "text": "Pour",
+      "start": 27.2,
+      "end": 27.36
+    },
+    {
+      "text": "toujours",
+      "start": 27.36,
+      "end": 27.62
+    },
+    {
+      "text": "?",
+      "start": 27.62,
+      "end": 28.16
+    },
+    {
+      "text": "Non,",
+      "start": 28.16,
+      "end": 28.5
+    },
+    {
+      "text": "quelques",
+      "start": 28.88,
+      "end": 29.06
+    },
+    {
+      "text": "temps",
+      "start": 29.06,
+      "end": 29.38
+    },
+    {
+      "text": "seulement.",
+      "start": 29.38,
+      "end": 29.68
+    },
+    {
+      "text": "Tu",
+      "start": 30.32,
+      "end": 30.56
+    },
+    {
+      "text": "pourras",
+      "start": 30.56,
+      "end": 30.76
+    },
+    {
+      "text": "reprendre",
+      "start": 30.76,
+      "end": 31.12
+    },
+    {
+      "text": "normalement",
+      "start": 31.12,
+      "end": 31.7
+    },
+    {
+      "text": "dans",
+      "start": 31.7,
+      "end": 31.8
+    },
+    {
+      "text": "quelques",
+      "start": 31.8,
+      "end": 32.0
+    },
+    {
+      "text": "semaines.",
+      "start": 32.0,
+      "end": 32.44
+    },
+    {
+      "text": "Que",
+      "start": 33.96,
+      "end": 34.6
+    },
+    {
+      "text": "devras",
+      "start": 34.6,
+      "end": 34.84
+    },
+    {
+      "text": "faire",
+      "start": 34.84,
+      "end": 35.02
+    },
+    {
+      "text": "Mehdi",
+      "start": 35.02,
+      "end": 35.36
+    },
+    {
+      "text": "?",
+      "start": 35.36,
+      "end": 35.66
+    }
+  ]
+}

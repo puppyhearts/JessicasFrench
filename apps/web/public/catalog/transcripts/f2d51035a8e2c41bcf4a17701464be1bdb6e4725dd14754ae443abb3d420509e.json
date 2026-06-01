@@ -1,0 +1,65 @@
+{
+  "text": "Question 16 Que doit faire la personne qui entend ce message ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 16.82,
+      "end": 17.48
+    },
+    {
+      "text": "16",
+      "start": 17.48,
+      "end": 17.92
+    },
+    {
+      "text": "Que",
+      "start": 17.92,
+      "end": 19.18
+    },
+    {
+      "text": "doit",
+      "start": 19.18,
+      "end": 19.38
+    },
+    {
+      "text": "faire",
+      "start": 19.38,
+      "end": 19.6
+    },
+    {
+      "text": "la",
+      "start": 19.6,
+      "end": 19.78
+    },
+    {
+      "text": "personne",
+      "start": 19.78,
+      "end": 20.18
+    },
+    {
+      "text": "qui",
+      "start": 20.18,
+      "end": 20.48
+    },
+    {
+      "text": "entend",
+      "start": 20.48,
+      "end": 20.74
+    },
+    {
+      "text": "ce",
+      "start": 20.74,
+      "end": 21.0
+    },
+    {
+      "text": "message",
+      "start": 21.0,
+      "end": 21.36
+    },
+    {
+      "text": "?",
+      "start": 21.36,
+      "end": 21.9
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "text": "Question 14. Où habite-tu ? A. Dans le troisième arrondissement. B. De Nice. C. Pour Sophie. D. Depuis trois ans.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 1.8,
+      "end": 2.78
+    },
+    {
+      "text": "14.",
+      "start": 2.78,
+      "end": 3.28
+    },
+    {
+      "text": "Où",
+      "start": 3.82,
+      "end": 4.6
+    },
+    {
+      "text": "habite",
+      "start": 4.6,
+      "end": 4.84
+    },
+    {
+      "text": "-tu",
+      "start": 4.84,
+      "end": 5.12
+    },
+    {
+      "text": "?",
+      "start": 5.12,
+      "end": 6.4
+    },
+    {
+      "text": "A.",
+      "start": 6.4,
+      "end": 6.66
+    },
+    {
+      "text": "Dans",
+      "start": 7.8,
+      "end": 8.06
+    },
+    {
+      "text": "le",
+      "start": 8.06,
+      "end": 8.18
+    },
+    {
+      "text": "troisième",
+      "start": 8.18,
+      "end": 8.5
+    },
+    {
+      "text": "arrondissement.",
+      "start": 8.5,
+      "end": 9.14
+    },
+    {
+      "text": "B.",
+      "start": 10.36,
+      "end": 10.84
+    },
+    {
+      "text": "De",
+      "start": 11.74,
+      "end": 11.96
+    },
+    {
+      "text": "Nice.",
+      "start": 11.96,
+      "end": 12.22
+    },
+    {
+      "text": "C.",
+      "start": 13.16,
+      "end": 14.14
+    },
+    {
+      "text": "Pour",
+      "start": 15.06,
+      "end": 15.4
+    },
+    {
+      "text": "Sophie.",
+      "start": 15.4,
+      "end": 15.68
+    },
+    {
+      "text": "D.",
+      "start": 17.06,
+      "end": 17.52
+    },
+    {
+      "text": "Depuis",
+      "start": 18.38,
+      "end": 18.76
+    },
+    {
+      "text": "trois",
+      "start": 18.76,
+      "end": 19.0
+    },
+    {
+      "text": "ans.",
+      "start": 19.0,
+      "end": 19.24
+    }
+  ]
+}

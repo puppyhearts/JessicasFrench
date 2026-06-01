@@ -1,0 +1,1055 @@
+{
+  "text": "Question 25. Écoutez le document sonore et la question. Choisissez la bonne réponse. Alors que les citoyens européens font de plus en plus confiance au médecine complémentaire et que la Commission européenne met en place des outils d'évaluation et d'information sous la forme d'une feuille de route jusqu'en 2020, la France reste à la traîne et affiche sa méfiance. On appelle aussi ces médecines les médecines non conventionnelles. Parmi elles, on trouve l'acupuncture, l'homéopathie, l'ostéopathie, la réflexologie, le chiattou, le yoga ou la phytothérapie. Selon les pays, leur popularité et leur reconnaissance varient. Jusqu'à 65% des citoyens affirment y avoir eu recours. Peut-on lire sur le site de la Commission européenne ? Pour les évaluer, la Commission européenne a financé le programme Cambrella. Il est mené par 16 universités européennes et a permis de comparer le statut et l'usage de ses médecines dans les différents pays membres. Il s'agit d'étudier leur efficacité, de promouvoir leur enseignement, de mieux informer les médecins et les patients pour tirer le vrai du faux. Nous recevrons demain le Docteur Latour pour aborder ce sujet dans notre émission « Innovation médicale ». Quel est l'un des buts du programme Cambrella ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": "25.",
+      "start": 0.6,
+      "end": 1.24
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.24,
+      "end": 2.78
+    },
+    {
+      "text": "le",
+      "start": 2.78,
+      "end": 2.98
+    },
+    {
+      "text": "document",
+      "start": 2.98,
+      "end": 3.3
+    },
+    {
+      "text": "sonore",
+      "start": 3.3,
+      "end": 3.88
+    },
+    {
+      "text": "et",
+      "start": 3.88,
+      "end": 4.12
+    },
+    {
+      "text": "la",
+      "start": 4.12,
+      "end": 4.24
+    },
+    {
+      "text": "question.",
+      "start": 4.24,
+      "end": 4.6
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.26,
+      "end": 5.76
+    },
+    {
+      "text": "la",
+      "start": 5.76,
+      "end": 5.94
+    },
+    {
+      "text": "bonne",
+      "start": 5.94,
+      "end": 6.12
+    },
+    {
+      "text": "réponse.",
+      "start": 6.12,
+      "end": 6.48
+    },
+    {
+      "text": "Alors",
+      "start": 7.74,
+      "end": 8.3
+    },
+    {
+      "text": "que",
+      "start": 8.3,
+      "end": 8.6
+    },
+    {
+      "text": "les",
+      "start": 8.6,
+      "end": 8.74
+    },
+    {
+      "text": "citoyens",
+      "start": 8.74,
+      "end": 9.26
+    },
+    {
+      "text": "européens",
+      "start": 9.26,
+      "end": 9.98
+    },
+    {
+      "text": "font",
+      "start": 9.98,
+      "end": 10.2
+    },
+    {
+      "text": "de",
+      "start": 10.2,
+      "end": 10.38
+    },
+    {
+      "text": "plus",
+      "start": 10.38,
+      "end": 10.66
+    },
+    {
+      "text": "en",
+      "start": 10.66,
+      "end": 10.8
+    },
+    {
+      "text": "plus",
+      "start": 10.8,
+      "end": 11.0
+    },
+    {
+      "text": "confiance",
+      "start": 11.0,
+      "end": 11.46
+    },
+    {
+      "text": "au",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "text": "médecine",
+      "start": 11.7,
+      "end": 12.08
+    },
+    {
+      "text": "complémentaire",
+      "start": 12.08,
+      "end": 13.04
+    },
+    {
+      "text": "et",
+      "start": 13.04,
+      "end": 13.64
+    },
+    {
+      "text": "que",
+      "start": 13.64,
+      "end": 13.74
+    },
+    {
+      "text": "la",
+      "start": 13.74,
+      "end": 13.86
+    },
+    {
+      "text": "Commission",
+      "start": 13.86,
+      "end": 14.14
+    },
+    {
+      "text": "européenne",
+      "start": 14.14,
+      "end": 14.94
+    },
+    {
+      "text": "met",
+      "start": 14.94,
+      "end": 15.1
+    },
+    {
+      "text": "en",
+      "start": 15.1,
+      "end": 15.26
+    },
+    {
+      "text": "place",
+      "start": 15.26,
+      "end": 15.5
+    },
+    {
+      "text": "des",
+      "start": 15.5,
+      "end": 15.7
+    },
+    {
+      "text": "outils",
+      "start": 15.7,
+      "end": 16.02
+    },
+    {
+      "text": "d",
+      "start": 16.02,
+      "end": 16.12
+    },
+    {
+      "text": "'évaluation",
+      "start": 16.12,
+      "end": 16.5
+    },
+    {
+      "text": "et",
+      "start": 16.5,
+      "end": 16.96
+    },
+    {
+      "text": "d",
+      "start": 16.96,
+      "end": 17.08
+    },
+    {
+      "text": "'information",
+      "start": 17.08,
+      "end": 17.32
+    },
+    {
+      "text": "sous",
+      "start": 17.32,
+      "end": 17.8
+    },
+    {
+      "text": "la",
+      "start": 17.8,
+      "end": 17.94
+    },
+    {
+      "text": "forme",
+      "start": 17.94,
+      "end": 18.22
+    },
+    {
+      "text": "d",
+      "start": 18.22,
+      "end": 18.42
+    },
+    {
+      "text": "'une",
+      "start": 18.42,
+      "end": 18.52
+    },
+    {
+      "text": "feuille",
+      "start": 18.52,
+      "end": 18.78
+    },
+    {
+      "text": "de",
+      "start": 18.78,
+      "end": 18.9
+    },
+    {
+      "text": "route",
+      "start": 18.9,
+      "end": 19.08
+    },
+    {
+      "text": "jusqu",
+      "start": 19.08,
+      "end": 19.28
+    },
+    {
+      "text": "'en",
+      "start": 19.28,
+      "end": 19.48
+    },
+    {
+      "text": "2020,",
+      "start": 19.48,
+      "end": 20.04
+    },
+    {
+      "text": "la",
+      "start": 20.9,
+      "end": 21.04
+    },
+    {
+      "text": "France",
+      "start": 21.04,
+      "end": 21.3
+    },
+    {
+      "text": "reste",
+      "start": 21.3,
+      "end": 21.68
+    },
+    {
+      "text": "à",
+      "start": 21.68,
+      "end": 21.86
+    },
+    {
+      "text": "la",
+      "start": 21.86,
+      "end": 21.94
+    },
+    {
+      "text": "traîne",
+      "start": 21.94,
+      "end": 22.34
+    },
+    {
+      "text": "et",
+      "start": 22.34,
+      "end": 22.66
+    },
+    {
+      "text": "affiche",
+      "start": 22.66,
+      "end": 22.94
+    },
+    {
+      "text": "sa",
+      "start": 22.94,
+      "end": 23.16
+    },
+    {
+      "text": "méfiance.",
+      "start": 23.16,
+      "end": 23.58
+    },
+    {
+      "text": "On",
+      "start": 24.92,
+      "end": 25.3
+    },
+    {
+      "text": "appelle",
+      "start": 25.3,
+      "end": 25.52
+    },
+    {
+      "text": "aussi",
+      "start": 25.52,
+      "end": 25.82
+    },
+    {
+      "text": "ces",
+      "start": 25.82,
+      "end": 26.04
+    },
+    {
+      "text": "médecines",
+      "start": 26.04,
+      "end": 26.58
+    },
+    {
+      "text": "les",
+      "start": 26.58,
+      "end": 26.96
+    },
+    {
+      "text": "médecines",
+      "start": 26.96,
+      "end": 27.38
+    },
+    {
+      "text": "non",
+      "start": 27.38,
+      "end": 27.56
+    },
+    {
+      "text": "conventionnelles.",
+      "start": 27.56,
+      "end": 28.4
+    },
+    {
+      "text": "Parmi",
+      "start": 28.4,
+      "end": 29.58
+    },
+    {
+      "text": "elles,",
+      "start": 29.58,
+      "end": 29.84
+    },
+    {
+      "text": "on",
+      "start": 30.34,
+      "end": 30.34
+    },
+    {
+      "text": "trouve",
+      "start": 30.34,
+      "end": 30.68
+    },
+    {
+      "text": "l",
+      "start": 30.68,
+      "end": 30.98
+    },
+    {
+      "text": "'acupuncture,",
+      "start": 30.98,
+      "end": 31.62
+    },
+    {
+      "text": "l",
+      "start": 32.12,
+      "end": 32.22
+    },
+    {
+      "text": "'homéopathie,",
+      "start": 32.22,
+      "end": 32.96
+    },
+    {
+      "text": "l",
+      "start": 33.36,
+      "end": 33.56
+    },
+    {
+      "text": "'ostéopathie,",
+      "start": 33.56,
+      "end": 34.34
+    },
+    {
+      "text": "la",
+      "start": 34.76,
+      "end": 34.86
+    },
+    {
+      "text": "réflexologie,",
+      "start": 34.86,
+      "end": 35.62
+    },
+    {
+      "text": "le",
+      "start": 36.08,
+      "end": 36.18
+    },
+    {
+      "text": "chiattou,",
+      "start": 36.18,
+      "end": 36.66
+    },
+    {
+      "text": "le",
+      "start": 36.96,
+      "end": 37.06
+    },
+    {
+      "text": "yoga",
+      "start": 37.06,
+      "end": 37.32
+    },
+    {
+      "text": "ou",
+      "start": 37.32,
+      "end": 38.0
+    },
+    {
+      "text": "la",
+      "start": 38.0,
+      "end": 38.14
+    },
+    {
+      "text": "phytothérapie.",
+      "start": 38.14,
+      "end": 38.88
+    },
+    {
+      "text": "Selon",
+      "start": 39.76,
+      "end": 40.4
+    },
+    {
+      "text": "les",
+      "start": 40.4,
+      "end": 40.56
+    },
+    {
+      "text": "pays,",
+      "start": 40.56,
+      "end": 40.78
+    },
+    {
+      "text": "leur",
+      "start": 41.3,
+      "end": 41.38
+    },
+    {
+      "text": "popularité",
+      "start": 41.38,
+      "end": 42.16
+    },
+    {
+      "text": "et",
+      "start": 42.16,
+      "end": 42.4
+    },
+    {
+      "text": "leur",
+      "start": 42.4,
+      "end": 42.54
+    },
+    {
+      "text": "reconnaissance",
+      "start": 42.54,
+      "end": 43.04
+    },
+    {
+      "text": "varient.",
+      "start": 43.04,
+      "end": 43.44
+    },
+    {
+      "text": "Jusqu",
+      "start": 44.16,
+      "end": 44.76
+    },
+    {
+      "text": "'à",
+      "start": 44.76,
+      "end": 44.82
+    },
+    {
+      "text": "65",
+      "start": 44.82,
+      "end": 45.28
+    },
+    {
+      "text": "%",
+      "start": 45.28,
+      "end": 45.64
+    },
+    {
+      "text": "des",
+      "start": 45.64,
+      "end": 45.76
+    },
+    {
+      "text": "citoyens",
+      "start": 45.76,
+      "end": 46.24
+    },
+    {
+      "text": "affirment",
+      "start": 46.24,
+      "end": 46.76
+    },
+    {
+      "text": "y",
+      "start": 46.76,
+      "end": 46.92
+    },
+    {
+      "text": "avoir",
+      "start": 46.92,
+      "end": 47.06
+    },
+    {
+      "text": "eu",
+      "start": 47.06,
+      "end": 47.24
+    },
+    {
+      "text": "recours.",
+      "start": 47.24,
+      "end": 47.74
+    },
+    {
+      "text": "Peut",
+      "start": 47.98,
+      "end": 48.16
+    },
+    {
+      "text": "-on",
+      "start": 48.16,
+      "end": 48.26
+    },
+    {
+      "text": "lire",
+      "start": 48.26,
+      "end": 48.48
+    },
+    {
+      "text": "sur",
+      "start": 48.48,
+      "end": 48.68
+    },
+    {
+      "text": "le",
+      "start": 48.68,
+      "end": 48.8
+    },
+    {
+      "text": "site",
+      "start": 48.8,
+      "end": 48.96
+    },
+    {
+      "text": "de",
+      "start": 48.96,
+      "end": 49.08
+    },
+    {
+      "text": "la",
+      "start": 49.08,
+      "end": 49.18
+    },
+    {
+      "text": "Commission",
+      "start": 49.18,
+      "end": 49.4
+    },
+    {
+      "text": "européenne",
+      "start": 49.4,
+      "end": 50.14
+    },
+    {
+      "text": "?",
+      "start": 50.14,
+      "end": 50.49
+    },
+    {
+      "text": "Pour",
+      "start": 50.94,
+      "end": 51.48
+    },
+    {
+      "text": "les",
+      "start": 51.48,
+      "end": 51.6
+    },
+    {
+      "text": "évaluer,",
+      "start": 51.6,
+      "end": 52.02
+    },
+    {
+      "text": "la",
+      "start": 52.52,
+      "end": 52.64
+    },
+    {
+      "text": "Commission",
+      "start": 52.64,
+      "end": 52.98
+    },
+    {
+      "text": "européenne",
+      "start": 52.98,
+      "end": 53.54
+    },
+    {
+      "text": "a",
+      "start": 53.54,
+      "end": 53.64
+    },
+    {
+      "text": "financé",
+      "start": 53.64,
+      "end": 54.04
+    },
+    {
+      "text": "le",
+      "start": 54.04,
+      "end": 54.18
+    },
+    {
+      "text": "programme",
+      "start": 54.18,
+      "end": 54.54
+    },
+    {
+      "text": "Cambrella.",
+      "start": 54.54,
+      "end": 55.2
+    },
+    {
+      "text": "Il",
+      "start": 55.74,
+      "end": 56.26
+    },
+    {
+      "text": "est",
+      "start": 56.26,
+      "end": 56.38
+    },
+    {
+      "text": "mené",
+      "start": 56.38,
+      "end": 56.66
+    },
+    {
+      "text": "par",
+      "start": 56.66,
+      "end": 56.84
+    },
+    {
+      "text": "16",
+      "start": 56.84,
+      "end": 57.08
+    },
+    {
+      "text": "universités",
+      "start": 57.08,
+      "end": 57.76
+    },
+    {
+      "text": "européennes",
+      "start": 57.76,
+      "end": 58.62
+    },
+    {
+      "text": "et",
+      "start": 58.62,
+      "end": 59.12
+    },
+    {
+      "text": "a",
+      "start": 59.12,
+      "end": 59.22
+    },
+    {
+      "text": "permis",
+      "start": 59.22,
+      "end": 59.46
+    },
+    {
+      "text": "de",
+      "start": 59.46,
+      "end": 59.58
+    },
+    {
+      "text": "comparer",
+      "start": 59.58,
+      "end": 60.06
+    },
+    {
+      "text": "le",
+      "start": 60.06,
+      "end": 60.2
+    },
+    {
+      "text": "statut",
+      "start": 60.2,
+      "end": 60.58
+    },
+    {
+      "text": "et",
+      "start": 60.58,
+      "end": 60.94
+    },
+    {
+      "text": "l",
+      "start": 60.94,
+      "end": 61.06
+    },
+    {
+      "text": "'usage",
+      "start": 61.06,
+      "end": 61.28
+    },
+    {
+      "text": "de",
+      "start": 61.28,
+      "end": 61.38
+    },
+    {
+      "text": "ses",
+      "start": 61.38,
+      "end": 61.5
+    },
+    {
+      "text": "médecines",
+      "start": 61.5,
+      "end": 61.86
+    },
+    {
+      "text": "dans",
+      "start": 61.86,
+      "end": 62.0
+    },
+    {
+      "text": "les",
+      "start": 62.0,
+      "end": 62.12
+    },
+    {
+      "text": "différents",
+      "start": 62.12,
+      "end": 62.48
+    },
+    {
+      "text": "pays",
+      "start": 62.48,
+      "end": 62.74
+    },
+    {
+      "text": "membres.",
+      "start": 62.74,
+      "end": 63.18
+    },
+    {
+      "text": "Il",
+      "start": 64.04,
+      "end": 64.28
+    },
+    {
+      "text": "s",
+      "start": 64.28,
+      "end": 64.44
+    },
+    {
+      "text": "'agit",
+      "start": 64.44,
+      "end": 64.56
+    },
+    {
+      "text": "d",
+      "start": 64.56,
+      "end": 64.72
+    },
+    {
+      "text": "'étudier",
+      "start": 64.72,
+      "end": 65.06
+    },
+    {
+      "text": "leur",
+      "start": 65.06,
+      "end": 65.22
+    },
+    {
+      "text": "efficacité,",
+      "start": 65.22,
+      "end": 66.0
+    },
+    {
+      "text": "de",
+      "start": 66.36,
+      "end": 66.66
+    },
+    {
+      "text": "promouvoir",
+      "start": 66.66,
+      "end": 67.18
+    },
+    {
+      "text": "leur",
+      "start": 67.18,
+      "end": 67.32
+    },
+    {
+      "text": "enseignement,",
+      "start": 67.32,
+      "end": 67.9
+    },
+    {
+      "text": "de",
+      "start": 68.38,
+      "end": 68.6
+    },
+    {
+      "text": "mieux",
+      "start": 68.6,
+      "end": 68.78
+    },
+    {
+      "text": "informer",
+      "start": 68.78,
+      "end": 69.22
+    },
+    {
+      "text": "les",
+      "start": 69.22,
+      "end": 69.34
+    },
+    {
+      "text": "médecins",
+      "start": 69.34,
+      "end": 69.78
+    },
+    {
+      "text": "et",
+      "start": 69.78,
+      "end": 70.02
+    },
+    {
+      "text": "les",
+      "start": 70.02,
+      "end": 70.12
+    },
+    {
+      "text": "patients",
+      "start": 70.12,
+      "end": 70.48
+    },
+    {
+      "text": "pour",
+      "start": 70.48,
+      "end": 71.12
+    },
+    {
+      "text": "tirer",
+      "start": 71.12,
+      "end": 71.38
+    },
+    {
+      "text": "le",
+      "start": 71.38,
+      "end": 71.54
+    },
+    {
+      "text": "vrai",
+      "start": 71.54,
+      "end": 71.66
+    },
+    {
+      "text": "du",
+      "start": 71.66,
+      "end": 71.8
+    },
+    {
+      "text": "faux.",
+      "start": 71.8,
+      "end": 72.04
+    },
+    {
+      "text": "Nous",
+      "start": 72.96,
+      "end": 73.12
+    },
+    {
+      "text": "recevrons",
+      "start": 73.12,
+      "end": 73.62
+    },
+    {
+      "text": "demain",
+      "start": 73.62,
+      "end": 73.94
+    },
+    {
+      "text": "le",
+      "start": 73.94,
+      "end": 74.24
+    },
+    {
+      "text": "Docteur",
+      "start": 74.24,
+      "end": 74.58
+    },
+    {
+      "text": "Latour",
+      "start": 74.58,
+      "end": 75.02
+    },
+    {
+      "text": "pour",
+      "start": 75.02,
+      "end": 75.3
+    },
+    {
+      "text": "aborder",
+      "start": 75.3,
+      "end": 75.6
+    },
+    {
+      "text": "ce",
+      "start": 75.6,
+      "end": 75.82
+    },
+    {
+      "text": "sujet",
+      "start": 75.82,
+      "end": 76.1
+    },
+    {
+      "text": "dans",
+      "start": 76.1,
+      "end": 76.24
+    },
+    {
+      "text": "notre",
+      "start": 76.24,
+      "end": 76.48
+    },
+    {
+      "text": "émission",
+      "start": 76.48,
+      "end": 76.82
+    },
+    {
+      "text": "«",
+      "start": 76.82,
+      "end": 77.38
+    },
+    {
+      "text": "Innovation",
+      "start": 77.38,
+      "end": 77.54
+    },
+    {
+      "text": "médicale",
+      "start": 77.54,
+      "end": 79.16
+    },
+    {
+      "text": "».",
+      "start": 79.16,
+      "end": 79.36
+    },
+    {
+      "text": "Quel",
+      "start": 79.36,
+      "end": 80.34
+    },
+    {
+      "text": "est",
+      "start": 80.34,
+      "end": 80.46
+    },
+    {
+      "text": "l",
+      "start": 80.46,
+      "end": 80.62
+    },
+    {
+      "text": "'un",
+      "start": 80.62,
+      "end": 80.72
+    },
+    {
+      "text": "des",
+      "start": 80.72,
+      "end": 80.82
+    },
+    {
+      "text": "buts",
+      "start": 80.82,
+      "end": 81.16
+    },
+    {
+      "text": "du",
+      "start": 81.16,
+      "end": 81.28
+    },
+    {
+      "text": "programme",
+      "start": 81.28,
+      "end": 81.64
+    },
+    {
+      "text": "Cambrella",
+      "start": 81.64,
+      "end": 82.22
+    },
+    {
+      "text": "?",
+      "start": 82.22,
+      "end": 82.56
+    }
+  ]
+}

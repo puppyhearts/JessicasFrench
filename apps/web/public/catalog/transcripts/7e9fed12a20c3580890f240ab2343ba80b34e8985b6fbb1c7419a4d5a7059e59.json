@@ -1,0 +1,115 @@
+{
+  "text": "Question 4. A. Mais éteins la lumière. B. Mais allume la télé. C. Mais ouvre la fenêtre. D. Mais allume la lumière.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 1.48,
+      "end": 2.52
+    },
+    {
+      "text": "4.",
+      "start": 2.52,
+      "end": 3.06
+    },
+    {
+      "text": "A.",
+      "start": 3.84,
+      "end": 4.36
+    },
+    {
+      "text": "Mais",
+      "start": 5.58,
+      "end": 5.8
+    },
+    {
+      "text": "éteins",
+      "start": 5.8,
+      "end": 6.22
+    },
+    {
+      "text": "la",
+      "start": 6.22,
+      "end": 6.32
+    },
+    {
+      "text": "lumière.",
+      "start": 6.32,
+      "end": 6.52
+    },
+    {
+      "text": "B.",
+      "start": 7.58,
+      "end": 8.08
+    },
+    {
+      "text": "Mais",
+      "start": 9.04,
+      "end": 9.2
+    },
+    {
+      "text": "allume",
+      "start": 9.2,
+      "end": 9.72
+    },
+    {
+      "text": "la",
+      "start": 9.72,
+      "end": 9.88
+    },
+    {
+      "text": "télé.",
+      "start": 9.88,
+      "end": 10.04
+    },
+    {
+      "text": "C.",
+      "start": 11.1,
+      "end": 11.8
+    },
+    {
+      "text": "Mais",
+      "start": 12.74,
+      "end": 12.94
+    },
+    {
+      "text": "ouvre",
+      "start": 12.94,
+      "end": 13.4
+    },
+    {
+      "text": "la",
+      "start": 13.4,
+      "end": 13.54
+    },
+    {
+      "text": "fenêtre.",
+      "start": 13.54,
+      "end": 13.94
+    },
+    {
+      "text": "D.",
+      "start": 14.86,
+      "end": 15.54
+    },
+    {
+      "text": "Mais",
+      "start": 16.34,
+      "end": 16.56
+    },
+    {
+      "text": "allume",
+      "start": 16.56,
+      "end": 17.1
+    },
+    {
+      "text": "la",
+      "start": 17.1,
+      "end": 17.22
+    },
+    {
+      "text": "lumière.",
+      "start": 17.22,
+      "end": 17.4
+    }
+  ]
+}

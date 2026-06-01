@@ -1,0 +1,280 @@
+{
+  "text": "Bonjour, je voudrais une chambre double avec douche s'il vous plaît. Très bien monsieur, vous prendrez deux petits déjeuners ? Oui. À quelle heure doit-on quitter la chambre ? Avant dix heures. Voilà les clés. Vous me réglerai en partant demain matin. Bonne soirée. Question 14. Quand faut-il payer la chambre ?",
+  "words": [
+    {
+      "text": "Bonjour,",
+      "start": 2.14,
+      "end": 2.66
+    },
+    {
+      "text": "je",
+      "start": 3.26,
+      "end": 3.42
+    },
+    {
+      "text": "voudrais",
+      "start": 3.42,
+      "end": 3.76
+    },
+    {
+      "text": "une",
+      "start": 3.76,
+      "end": 3.92
+    },
+    {
+      "text": "chambre",
+      "start": 3.92,
+      "end": 4.16
+    },
+    {
+      "text": "double",
+      "start": 4.16,
+      "end": 4.48
+    },
+    {
+      "text": "avec",
+      "start": 4.48,
+      "end": 4.7
+    },
+    {
+      "text": "douche",
+      "start": 4.7,
+      "end": 5.04
+    },
+    {
+      "text": "s",
+      "start": 5.04,
+      "end": 5.16
+    },
+    {
+      "text": "'il",
+      "start": 5.16,
+      "end": 5.2
+    },
+    {
+      "text": "vous",
+      "start": 5.2,
+      "end": 5.32
+    },
+    {
+      "text": "plaît.",
+      "start": 5.32,
+      "end": 5.56
+    },
+    {
+      "text": "Très",
+      "start": 6.1,
+      "end": 6.5
+    },
+    {
+      "text": "bien",
+      "start": 6.5,
+      "end": 6.68
+    },
+    {
+      "text": "monsieur,",
+      "start": 6.68,
+      "end": 6.94
+    },
+    {
+      "text": "vous",
+      "start": 7.62,
+      "end": 7.72
+    },
+    {
+      "text": "prendrez",
+      "start": 7.72,
+      "end": 8.16
+    },
+    {
+      "text": "deux",
+      "start": 8.16,
+      "end": 8.4
+    },
+    {
+      "text": "petits",
+      "start": 8.4,
+      "end": 8.58
+    },
+    {
+      "text": "déjeuners",
+      "start": 8.58,
+      "end": 8.96
+    },
+    {
+      "text": "?",
+      "start": 8.96,
+      "end": 9.66
+    },
+    {
+      "text": "Oui.",
+      "start": 9.66,
+      "end": 9.88
+    },
+    {
+      "text": "À",
+      "start": 10.68,
+      "end": 11.04
+    },
+    {
+      "text": "quelle",
+      "start": 11.04,
+      "end": 11.2
+    },
+    {
+      "text": "heure",
+      "start": 11.2,
+      "end": 11.34
+    },
+    {
+      "text": "doit",
+      "start": 11.34,
+      "end": 11.48
+    },
+    {
+      "text": "-on",
+      "start": 11.48,
+      "end": 11.68
+    },
+    {
+      "text": "quitter",
+      "start": 11.68,
+      "end": 11.9
+    },
+    {
+      "text": "la",
+      "start": 11.9,
+      "end": 12.06
+    },
+    {
+      "text": "chambre",
+      "start": 12.06,
+      "end": 12.32
+    },
+    {
+      "text": "?",
+      "start": 12.32,
+      "end": 12.58
+    },
+    {
+      "text": "Avant",
+      "start": 12.98,
+      "end": 13.22
+    },
+    {
+      "text": "dix",
+      "start": 13.22,
+      "end": 13.46
+    },
+    {
+      "text": "heures.",
+      "start": 13.46,
+      "end": 13.74
+    },
+    {
+      "text": "Voilà",
+      "start": 14.36,
+      "end": 14.58
+    },
+    {
+      "text": "les",
+      "start": 14.58,
+      "end": 14.82
+    },
+    {
+      "text": "clés.",
+      "start": 14.82,
+      "end": 15.08
+    },
+    {
+      "text": "Vous",
+      "start": 15.66,
+      "end": 15.74
+    },
+    {
+      "text": "me",
+      "start": 15.74,
+      "end": 15.86
+    },
+    {
+      "text": "réglerai",
+      "start": 15.86,
+      "end": 16.24
+    },
+    {
+      "text": "en",
+      "start": 16.24,
+      "end": 16.34
+    },
+    {
+      "text": "partant",
+      "start": 16.34,
+      "end": 16.7
+    },
+    {
+      "text": "demain",
+      "start": 16.7,
+      "end": 16.88
+    },
+    {
+      "text": "matin.",
+      "start": 16.88,
+      "end": 17.24
+    },
+    {
+      "text": "Bonne",
+      "start": 17.84,
+      "end": 18.06
+    },
+    {
+      "text": "soirée.",
+      "start": 18.06,
+      "end": 18.38
+    },
+    {
+      "text": "Question",
+      "start": 20.76,
+      "end": 21.28
+    },
+    {
+      "text": "14.",
+      "start": 21.28,
+      "end": 21.8
+    },
+    {
+      "text": "Quand",
+      "start": 23.14,
+      "end": 23.42
+    },
+    {
+      "text": "faut",
+      "start": 23.42,
+      "end": 23.6
+    },
+    {
+      "text": "-il",
+      "start": 23.6,
+      "end": 23.76
+    },
+    {
+      "text": "payer",
+      "start": 23.76,
+      "end": 24.02
+    },
+    {
+      "text": "la",
+      "start": 24.02,
+      "end": 24.24
+    },
+    {
+      "text": "chambre",
+      "start": 24.24,
+      "end": 24.66
+    },
+    {
+      "text": "?",
+      "start": 24.66,
+      "end": 24.96
+    }
+  ]
+}

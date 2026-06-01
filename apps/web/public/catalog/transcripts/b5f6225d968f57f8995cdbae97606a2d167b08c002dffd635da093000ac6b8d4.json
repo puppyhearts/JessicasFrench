@@ -1,0 +1,1190 @@
+{
+  "text": "Non, non Paul, sur le plan c'est à droite, pas à gauche, tourne ! Écoute, Yannick m'a indiqué un raccourci pour aller à la cathédrale Saint-Georges, alors laisse-moi faire, et en plus c'est là qu'on a fait le baptême du petit Charles le mois dernier, alors tu penses que je connais l'endroit, on y sera dans trois minutes. J'espère, parce qu'on a déjà un quart d'heures de retard, où est-ce que tu as mis l'enveloppe avec le ferpart et l'invitation ? Au fond du sac derrière. Mais je trouve pas, c'est pas possible ! Calme-toi, tu vas pas faire une tête d'enterrement juste parce que tu ne trouves pas le ferpart et qu'on a pris un autre chemin pour aller à l'église. Et les alliances, tu les apprises ? Je te rappelle que c'est quand même toi le témoin. Mais oui, t'inquiète pas. Mais bon, j'ai l'habitude, on va encore être les derniers. Bon, enfin, j'espère qu'on sera là au moins pour le lancer du bouquet, parce que crois-moi, je compte bien l'attraper. Mais alors, ça veut dire que j'ai encore un an pour enterrer ma vie de garçon. Question 3. À quelle célébration se rend ce couple ? Question 4. Pourquoi la femme est-elle irritée ? Question 5.",
+  "words": [
+    {
+      "text": "Non,",
+      "start": 4.84,
+      "end": 5.16
+    },
+    {
+      "text": "non",
+      "start": 5.52,
+      "end": 5.64
+    },
+    {
+      "text": "Paul,",
+      "start": 5.64,
+      "end": 6.12
+    },
+    {
+      "text": "sur",
+      "start": 6.32,
+      "end": 6.42
+    },
+    {
+      "text": "le",
+      "start": 6.42,
+      "end": 6.58
+    },
+    {
+      "text": "plan",
+      "start": 6.58,
+      "end": 6.82
+    },
+    {
+      "text": "c",
+      "start": 6.82,
+      "end": 6.98
+    },
+    {
+      "text": "'est",
+      "start": 6.98,
+      "end": 7.04
+    },
+    {
+      "text": "à",
+      "start": 7.04,
+      "end": 7.18
+    },
+    {
+      "text": "droite,",
+      "start": 7.18,
+      "end": 7.54
+    },
+    {
+      "text": "pas",
+      "start": 8.1,
+      "end": 8.46
+    },
+    {
+      "text": "à",
+      "start": 8.46,
+      "end": 8.66
+    },
+    {
+      "text": "gauche,",
+      "start": 8.66,
+      "end": 8.98
+    },
+    {
+      "text": "tourne",
+      "start": 9.34,
+      "end": 9.8
+    },
+    {
+      "text": "!",
+      "start": 9.8,
+      "end": 9.88
+    },
+    {
+      "text": "Écoute,",
+      "start": 9.88,
+      "end": 10.2
+    },
+    {
+      "text": "Yannick",
+      "start": 10.46,
+      "end": 10.78
+    },
+    {
+      "text": "m",
+      "start": 10.78,
+      "end": 10.9
+    },
+    {
+      "text": "'a",
+      "start": 10.9,
+      "end": 10.92
+    },
+    {
+      "text": "indiqué",
+      "start": 10.92,
+      "end": 11.22
+    },
+    {
+      "text": "un",
+      "start": 11.22,
+      "end": 11.4
+    },
+    {
+      "text": "raccourci",
+      "start": 11.4,
+      "end": 11.94
+    },
+    {
+      "text": "pour",
+      "start": 11.94,
+      "end": 12.18
+    },
+    {
+      "text": "aller",
+      "start": 12.18,
+      "end": 12.34
+    },
+    {
+      "text": "à",
+      "start": 12.34,
+      "end": 12.46
+    },
+    {
+      "text": "la",
+      "start": 12.46,
+      "end": 12.56
+    },
+    {
+      "text": "cathédrale",
+      "start": 12.56,
+      "end": 12.92
+    },
+    {
+      "text": "Saint",
+      "start": 12.92,
+      "end": 13.18
+    },
+    {
+      "text": "-Georges,",
+      "start": 13.18,
+      "end": 13.56
+    },
+    {
+      "text": "alors",
+      "start": 13.64,
+      "end": 13.74
+    },
+    {
+      "text": "laisse",
+      "start": 13.74,
+      "end": 13.98
+    },
+    {
+      "text": "-moi",
+      "start": 13.98,
+      "end": 14.16
+    },
+    {
+      "text": "faire,",
+      "start": 14.16,
+      "end": 14.54
+    },
+    {
+      "text": "et",
+      "start": 14.98,
+      "end": 15.06
+    },
+    {
+      "text": "en",
+      "start": 15.06,
+      "end": 15.14
+    },
+    {
+      "text": "plus",
+      "start": 15.14,
+      "end": 15.3
+    },
+    {
+      "text": "c",
+      "start": 15.3,
+      "end": 15.46
+    },
+    {
+      "text": "'est",
+      "start": 15.46,
+      "end": 15.48
+    },
+    {
+      "text": "là",
+      "start": 15.48,
+      "end": 15.58
+    },
+    {
+      "text": "qu",
+      "start": 15.58,
+      "end": 15.7
+    },
+    {
+      "text": "'on",
+      "start": 15.7,
+      "end": 15.74
+    },
+    {
+      "text": "a",
+      "start": 15.74,
+      "end": 15.86
+    },
+    {
+      "text": "fait",
+      "start": 15.86,
+      "end": 15.96
+    },
+    {
+      "text": "le",
+      "start": 15.96,
+      "end": 16.06
+    },
+    {
+      "text": "baptême",
+      "start": 16.06,
+      "end": 16.34
+    },
+    {
+      "text": "du",
+      "start": 16.34,
+      "end": 16.5
+    },
+    {
+      "text": "petit",
+      "start": 16.5,
+      "end": 16.66
+    },
+    {
+      "text": "Charles",
+      "start": 16.66,
+      "end": 16.94
+    },
+    {
+      "text": "le",
+      "start": 16.94,
+      "end": 17.12
+    },
+    {
+      "text": "mois",
+      "start": 17.12,
+      "end": 17.2
+    },
+    {
+      "text": "dernier,",
+      "start": 17.2,
+      "end": 17.54
+    },
+    {
+      "text": "alors",
+      "start": 17.92,
+      "end": 18.06
+    },
+    {
+      "text": "tu",
+      "start": 18.06,
+      "end": 18.22
+    },
+    {
+      "text": "penses",
+      "start": 18.22,
+      "end": 18.54
+    },
+    {
+      "text": "que",
+      "start": 18.54,
+      "end": 18.62
+    },
+    {
+      "text": "je",
+      "start": 18.62,
+      "end": 18.68
+    },
+    {
+      "text": "connais",
+      "start": 18.68,
+      "end": 18.86
+    },
+    {
+      "text": "l",
+      "start": 18.86,
+      "end": 19.02
+    },
+    {
+      "text": "'endroit,",
+      "start": 19.02,
+      "end": 19.24
+    },
+    {
+      "text": "on",
+      "start": 19.6,
+      "end": 19.7
+    },
+    {
+      "text": "y",
+      "start": 19.7,
+      "end": 19.78
+    },
+    {
+      "text": "sera",
+      "start": 19.78,
+      "end": 19.9
+    },
+    {
+      "text": "dans",
+      "start": 19.9,
+      "end": 20.04
+    },
+    {
+      "text": "trois",
+      "start": 20.04,
+      "end": 20.26
+    },
+    {
+      "text": "minutes.",
+      "start": 20.26,
+      "end": 20.5
+    },
+    {
+      "text": "J",
+      "start": 21.64,
+      "end": 21.96
+    },
+    {
+      "text": "'espère,",
+      "start": 21.96,
+      "end": 22.28
+    },
+    {
+      "text": "parce",
+      "start": 22.56,
+      "end": 22.7
+    },
+    {
+      "text": "qu",
+      "start": 22.7,
+      "end": 22.84
+    },
+    {
+      "text": "'on",
+      "start": 22.84,
+      "end": 22.88
+    },
+    {
+      "text": "a",
+      "start": 22.88,
+      "end": 23.0
+    },
+    {
+      "text": "déjà",
+      "start": 23.0,
+      "end": 23.22
+    },
+    {
+      "text": "un",
+      "start": 23.22,
+      "end": 23.5
+    },
+    {
+      "text": "quart",
+      "start": 23.5,
+      "end": 23.64
+    },
+    {
+      "text": "d",
+      "start": 23.64,
+      "end": 23.78
+    },
+    {
+      "text": "'heures",
+      "start": 23.78,
+      "end": 23.86
+    },
+    {
+      "text": "de",
+      "start": 23.86,
+      "end": 24.0
+    },
+    {
+      "text": "retard,",
+      "start": 24.0,
+      "end": 24.3
+    },
+    {
+      "text": "où",
+      "start": 24.92,
+      "end": 25.06
+    },
+    {
+      "text": "est",
+      "start": 25.06,
+      "end": 25.2
+    },
+    {
+      "text": "-ce",
+      "start": 25.2,
+      "end": 25.26
+    },
+    {
+      "text": "que",
+      "start": 25.26,
+      "end": 25.38
+    },
+    {
+      "text": "tu",
+      "start": 25.38,
+      "end": 25.5
+    },
+    {
+      "text": "as",
+      "start": 25.5,
+      "end": 25.6
+    },
+    {
+      "text": "mis",
+      "start": 25.6,
+      "end": 25.74
+    },
+    {
+      "text": "l",
+      "start": 25.74,
+      "end": 25.84
+    },
+    {
+      "text": "'enveloppe",
+      "start": 25.84,
+      "end": 26.24
+    },
+    {
+      "text": "avec",
+      "start": 26.24,
+      "end": 26.38
+    },
+    {
+      "text": "le",
+      "start": 26.38,
+      "end": 26.56
+    },
+    {
+      "text": "ferpart",
+      "start": 26.56,
+      "end": 26.92
+    },
+    {
+      "text": "et",
+      "start": 26.92,
+      "end": 27.06
+    },
+    {
+      "text": "l",
+      "start": 27.06,
+      "end": 27.14
+    },
+    {
+      "text": "'invitation",
+      "start": 27.14,
+      "end": 27.6
+    },
+    {
+      "text": "?",
+      "start": 27.6,
+      "end": 27.8
+    },
+    {
+      "text": "Au",
+      "start": 27.8,
+      "end": 28.02
+    },
+    {
+      "text": "fond",
+      "start": 28.02,
+      "end": 28.16
+    },
+    {
+      "text": "du",
+      "start": 28.16,
+      "end": 28.32
+    },
+    {
+      "text": "sac",
+      "start": 28.32,
+      "end": 28.52
+    },
+    {
+      "text": "derrière.",
+      "start": 28.52,
+      "end": 28.76
+    },
+    {
+      "text": "Mais",
+      "start": 29.54,
+      "end": 29.9
+    },
+    {
+      "text": "je",
+      "start": 29.9,
+      "end": 29.96
+    },
+    {
+      "text": "trouve",
+      "start": 29.96,
+      "end": 30.14
+    },
+    {
+      "text": "pas,",
+      "start": 30.14,
+      "end": 30.44
+    },
+    {
+      "text": "c",
+      "start": 30.7,
+      "end": 30.82
+    },
+    {
+      "text": "'est",
+      "start": 30.82,
+      "end": 30.86
+    },
+    {
+      "text": "pas",
+      "start": 30.86,
+      "end": 31.0
+    },
+    {
+      "text": "possible",
+      "start": 31.0,
+      "end": 31.48
+    },
+    {
+      "text": "!",
+      "start": 31.48,
+      "end": 31.78
+    },
+    {
+      "text": "Calme",
+      "start": 31.78,
+      "end": 32.06
+    },
+    {
+      "text": "-toi,",
+      "start": 32.06,
+      "end": 32.28
+    },
+    {
+      "text": "tu",
+      "start": 32.42,
+      "end": 32.48
+    },
+    {
+      "text": "vas",
+      "start": 32.48,
+      "end": 32.56
+    },
+    {
+      "text": "pas",
+      "start": 32.56,
+      "end": 32.68
+    },
+    {
+      "text": "faire",
+      "start": 32.68,
+      "end": 32.84
+    },
+    {
+      "text": "une",
+      "start": 32.84,
+      "end": 32.98
+    },
+    {
+      "text": "tête",
+      "start": 32.98,
+      "end": 33.14
+    },
+    {
+      "text": "d",
+      "start": 33.14,
+      "end": 33.3
+    },
+    {
+      "text": "'enterrement",
+      "start": 33.3,
+      "end": 33.64
+    },
+    {
+      "text": "juste",
+      "start": 33.64,
+      "end": 33.92
+    },
+    {
+      "text": "parce",
+      "start": 33.92,
+      "end": 34.12
+    },
+    {
+      "text": "que",
+      "start": 34.12,
+      "end": 34.28
+    },
+    {
+      "text": "tu",
+      "start": 34.28,
+      "end": 34.36
+    },
+    {
+      "text": "ne",
+      "start": 34.36,
+      "end": 34.46
+    },
+    {
+      "text": "trouves",
+      "start": 34.46,
+      "end": 34.64
+    },
+    {
+      "text": "pas",
+      "start": 34.64,
+      "end": 34.82
+    },
+    {
+      "text": "le",
+      "start": 34.82,
+      "end": 35.04
+    },
+    {
+      "text": "ferpart",
+      "start": 35.04,
+      "end": 35.6
+    },
+    {
+      "text": "et",
+      "start": 35.6,
+      "end": 36.12
+    },
+    {
+      "text": "qu",
+      "start": 36.12,
+      "end": 36.22
+    },
+    {
+      "text": "'on",
+      "start": 36.22,
+      "end": 36.26
+    },
+    {
+      "text": "a",
+      "start": 36.26,
+      "end": 36.4
+    },
+    {
+      "text": "pris",
+      "start": 36.4,
+      "end": 36.52
+    },
+    {
+      "text": "un",
+      "start": 36.52,
+      "end": 36.62
+    },
+    {
+      "text": "autre",
+      "start": 36.62,
+      "end": 36.76
+    },
+    {
+      "text": "chemin",
+      "start": 36.76,
+      "end": 37.02
+    },
+    {
+      "text": "pour",
+      "start": 37.02,
+      "end": 37.22
+    },
+    {
+      "text": "aller",
+      "start": 37.22,
+      "end": 37.3
+    },
+    {
+      "text": "à",
+      "start": 37.3,
+      "end": 37.46
+    },
+    {
+      "text": "l",
+      "start": 37.46,
+      "end": 37.46
+    },
+    {
+      "text": "'église.",
+      "start": 37.46,
+      "end": 37.78
+    },
+    {
+      "text": "Et",
+      "start": 38.32,
+      "end": 38.48
+    },
+    {
+      "text": "les",
+      "start": 38.48,
+      "end": 38.62
+    },
+    {
+      "text": "alliances,",
+      "start": 38.62,
+      "end": 38.88
+    },
+    {
+      "text": "tu",
+      "start": 39.06,
+      "end": 39.14
+    },
+    {
+      "text": "les",
+      "start": 39.14,
+      "end": 39.26
+    },
+    {
+      "text": "apprises",
+      "start": 39.26,
+      "end": 39.64
+    },
+    {
+      "text": "?",
+      "start": 39.64,
+      "end": 39.82
+    },
+    {
+      "text": "Je",
+      "start": 40.48,
+      "end": 40.66
+    },
+    {
+      "text": "te",
+      "start": 40.66,
+      "end": 40.78
+    },
+    {
+      "text": "rappelle",
+      "start": 40.78,
+      "end": 41.14
+    },
+    {
+      "text": "que",
+      "start": 41.14,
+      "end": 41.42
+    },
+    {
+      "text": "c",
+      "start": 41.42,
+      "end": 41.58
+    },
+    {
+      "text": "'est",
+      "start": 41.58,
+      "end": 41.64
+    },
+    {
+      "text": "quand",
+      "start": 41.64,
+      "end": 41.78
+    },
+    {
+      "text": "même",
+      "start": 41.78,
+      "end": 41.98
+    },
+    {
+      "text": "toi",
+      "start": 41.98,
+      "end": 42.22
+    },
+    {
+      "text": "le",
+      "start": 42.22,
+      "end": 42.4
+    },
+    {
+      "text": "témoin.",
+      "start": 42.4,
+      "end": 42.78
+    },
+    {
+      "text": "Mais",
+      "start": 43.22,
+      "end": 43.42
+    },
+    {
+      "text": "oui,",
+      "start": 43.42,
+      "end": 43.64
+    },
+    {
+      "text": "t",
+      "start": 43.82,
+      "end": 43.96
+    },
+    {
+      "text": "'inquiète",
+      "start": 43.96,
+      "end": 44.18
+    },
+    {
+      "text": "pas.",
+      "start": 44.18,
+      "end": 44.54
+    },
+    {
+      "text": "Mais",
+      "start": 45.28,
+      "end": 45.46
+    },
+    {
+      "text": "bon,",
+      "start": 45.46,
+      "end": 45.62
+    },
+    {
+      "text": "j",
+      "start": 45.74,
+      "end": 45.8
+    },
+    {
+      "text": "'ai",
+      "start": 45.8,
+      "end": 45.84
+    },
+    {
+      "text": "l",
+      "start": 45.84,
+      "end": 45.94
+    },
+    {
+      "text": "'habitude,",
+      "start": 45.94,
+      "end": 46.24
+    },
+    {
+      "text": "on",
+      "start": 46.7,
+      "end": 46.78
+    },
+    {
+      "text": "va",
+      "start": 46.78,
+      "end": 46.9
+    },
+    {
+      "text": "encore",
+      "start": 46.9,
+      "end": 47.34
+    },
+    {
+      "text": "être",
+      "start": 47.34,
+      "end": 47.72
+    },
+    {
+      "text": "les",
+      "start": 47.72,
+      "end": 47.94
+    },
+    {
+      "text": "derniers.",
+      "start": 47.94,
+      "end": 48.4
+    },
+    {
+      "text": "Bon,",
+      "start": 48.68,
+      "end": 48.78
+    },
+    {
+      "text": "enfin,",
+      "start": 49.36,
+      "end": 49.36
+    },
+    {
+      "text": "j",
+      "start": 49.56,
+      "end": 49.82
+    },
+    {
+      "text": "'espère",
+      "start": 49.82,
+      "end": 50.06
+    },
+    {
+      "text": "qu",
+      "start": 50.06,
+      "end": 50.24
+    },
+    {
+      "text": "'on",
+      "start": 50.24,
+      "end": 50.32
+    },
+    {
+      "text": "sera",
+      "start": 50.32,
+      "end": 50.48
+    },
+    {
+      "text": "là",
+      "start": 50.48,
+      "end": 50.7
+    },
+    {
+      "text": "au",
+      "start": 50.7,
+      "end": 50.84
+    },
+    {
+      "text": "moins",
+      "start": 50.84,
+      "end": 51.06
+    },
+    {
+      "text": "pour",
+      "start": 51.06,
+      "end": 51.24
+    },
+    {
+      "text": "le",
+      "start": 51.24,
+      "end": 51.38
+    },
+    {
+      "text": "lancer",
+      "start": 51.38,
+      "end": 51.62
+    },
+    {
+      "text": "du",
+      "start": 51.62,
+      "end": 51.76
+    },
+    {
+      "text": "bouquet,",
+      "start": 51.76,
+      "end": 52.1
+    },
+    {
+      "text": "parce",
+      "start": 52.26,
+      "end": 52.62
+    },
+    {
+      "text": "que",
+      "start": 52.62,
+      "end": 52.82
+    },
+    {
+      "text": "crois",
+      "start": 52.82,
+      "end": 53.16
+    },
+    {
+      "text": "-moi,",
+      "start": 53.16,
+      "end": 53.44
+    },
+    {
+      "text": "je",
+      "start": 53.72,
+      "end": 53.78
+    },
+    {
+      "text": "compte",
+      "start": 53.78,
+      "end": 53.98
+    },
+    {
+      "text": "bien",
+      "start": 53.98,
+      "end": 54.26
+    },
+    {
+      "text": "l",
+      "start": 54.26,
+      "end": 54.4
+    },
+    {
+      "text": "'attraper.",
+      "start": 54.4,
+      "end": 54.72
+    },
+    {
+      "text": "Mais",
+      "start": 54.72,
+      "end": 55.46
+    },
+    {
+      "text": "alors,",
+      "start": 55.46,
+      "end": 56.2
+    },
+    {
+      "text": "ça",
+      "start": 56.32,
+      "end": 56.4
+    },
+    {
+      "text": "veut",
+      "start": 56.4,
+      "end": 56.54
+    },
+    {
+      "text": "dire",
+      "start": 56.54,
+      "end": 56.78
+    },
+    {
+      "text": "que",
+      "start": 56.78,
+      "end": 56.96
+    },
+    {
+      "text": "j",
+      "start": 56.96,
+      "end": 57.08
+    },
+    {
+      "text": "'ai",
+      "start": 57.08,
+      "end": 57.1
+    },
+    {
+      "text": "encore",
+      "start": 57.1,
+      "end": 57.36
+    },
+    {
+      "text": "un",
+      "start": 57.36,
+      "end": 57.76
+    },
+    {
+      "text": "an",
+      "start": 57.76,
+      "end": 58.0
+    },
+    {
+      "text": "pour",
+      "start": 58.0,
+      "end": 58.22
+    },
+    {
+      "text": "enterrer",
+      "start": 58.22,
+      "end": 58.56
+    },
+    {
+      "text": "ma",
+      "start": 58.56,
+      "end": 58.7
+    },
+    {
+      "text": "vie",
+      "start": 58.7,
+      "end": 58.8
+    },
+    {
+      "text": "de",
+      "start": 58.8,
+      "end": 58.92
+    },
+    {
+      "text": "garçon.",
+      "start": 58.92,
+      "end": 59.3
+    },
+    {
+      "text": "Question",
+      "start": 62.94,
+      "end": 63.48
+    },
+    {
+      "text": "3.",
+      "start": 63.48,
+      "end": 63.88
+    },
+    {
+      "text": "À",
+      "start": 64.92,
+      "end": 65.46
+    },
+    {
+      "text": "quelle",
+      "start": 65.46,
+      "end": 65.72
+    },
+    {
+      "text": "célébration",
+      "start": 65.72,
+      "end": 66.6
+    },
+    {
+      "text": "se",
+      "start": 66.6,
+      "end": 67.0
+    },
+    {
+      "text": "rend",
+      "start": 67.0,
+      "end": 67.2
+    },
+    {
+      "text": "ce",
+      "start": 67.2,
+      "end": 67.48
+    },
+    {
+      "text": "couple",
+      "start": 67.48,
+      "end": 67.86
+    },
+    {
+      "text": "?",
+      "start": 67.86,
+      "end": 68.13
+    },
+    {
+      "text": "Question",
+      "start": 83.63,
+      "end": 84.73
+    },
+    {
+      "text": "4.",
+      "start": 84.73,
+      "end": 85.31
+    },
+    {
+      "text": "Pourquoi",
+      "start": 85.89,
+      "end": 86.67
+    },
+    {
+      "text": "la",
+      "start": 86.67,
+      "end": 86.89
+    },
+    {
+      "text": "femme",
+      "start": 86.89,
+      "end": 87.17
+    },
+    {
+      "text": "est",
+      "start": 87.17,
+      "end": 87.35
+    },
+    {
+      "text": "-elle",
+      "start": 87.35,
+      "end": 87.43
+    },
+    {
+      "text": "irritée",
+      "start": 87.43,
+      "end": 87.95
+    },
+    {
+      "text": "?",
+      "start": 87.95,
+      "end": 88.65
+    },
+    {
+      "text": "Question",
+      "start": 102.73,
+      "end": 104.13
+    },
+    {
+      "text": "5.",
+      "start": 104.13,
+      "end": 104.13
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "text": "Le recoin des fumeurs Une soirée techno dans une boîte de nuit parisienne. Ça pulse sur le dance floor. Besoin d'une pause, dans le fond de la discothèque, une petite quinzaine de personnes se tiennent à l'écart dans une cage en verre immobile. Elle ne danse pas, mais fume, en toute légalité. Ce qui pourrait ressembler à un aquarium est en fait un fumeur, comme il en existe de plus en plus dans les discothèques. À l'intérieur, les sons de la techno sont amortis. Il y a des cendriers et des tables hautes pour poser son verre. Une saisissante odeur de tabafrois impregne illicots, les vêtements, les cheveux, la peau. Tellement pas agréable qu'on y reste juste le temps d'en griller une, d'absorber sa dose de nicotine. Vu de l'aquarium, ceux qui sont restés sur la piste ont l'air de grands agités, qui secouent les bras, les têtes. De part et d'autre de la vitre, des gens sont en total décalage.",
+  "words": [
+    {
+      "text": "Le",
+      "start": 3.08,
+      "end": 3.6
+    },
+    {
+      "text": "recoin",
+      "start": 3.6,
+      "end": 4.12
+    },
+    {
+      "text": "des",
+      "start": 4.12,
+      "end": 4.34
+    },
+    {
+      "text": "fumeurs",
+      "start": 4.34,
+      "end": 4.84
+    },
+    {
+      "text": "Une",
+      "start": 5.66,
+      "end": 6.18
+    },
+    {
+      "text": "soirée",
+      "start": 6.18,
+      "end": 6.48
+    },
+    {
+      "text": "techno",
+      "start": 6.48,
+      "end": 6.86
+    },
+    {
+      "text": "dans",
+      "start": 6.86,
+      "end": 7.18
+    },
+    {
+      "text": "une",
+      "start": 7.18,
+      "end": 7.36
+    },
+    {
+      "text": "boîte",
+      "start": 7.36,
+      "end": 7.64
+    },
+    {
+      "text": "de",
+      "start": 7.64,
+      "end": 7.76
+    },
+    {
+      "text": "nuit",
+      "start": 7.76,
+      "end": 7.88
+    },
+    {
+      "text": "parisienne.",
+      "start": 7.88,
+      "end": 8.54
+    },
+    {
+      "text": "Ça",
+      "start": 8.7,
+      "end": 8.98
+    },
+    {
+      "text": "pulse",
+      "start": 8.98,
+      "end": 9.24
+    },
+    {
+      "text": "sur",
+      "start": 9.24,
+      "end": 9.54
+    },
+    {
+      "text": "le",
+      "start": 9.54,
+      "end": 9.68
+    },
+    {
+      "text": "dance",
+      "start": 9.68,
+      "end": 9.86
+    },
+    {
+      "text": "floor.",
+      "start": 9.86,
+      "end": 10.2
+    },
+    {
+      "text": "Besoin",
+      "start": 10.78,
+      "end": 11.24
+    },
+    {
+      "text": "d",
+      "start": 11.24,
+      "end": 11.36
+    },
+    {
+      "text": "'une",
+      "start": 11.36,
+      "end": 11.44
+    },
+    {
+      "text": "pause,",
+      "start": 11.44,
+      "end": 11.74
+    },
+    {
+      "text": "dans",
+      "start": 12.16,
+      "end": 12.26
+    },
+    {
+      "text": "le",
+      "start": 12.26,
+      "end": 12.38
+    },
+    {
+      "text": "fond",
+      "start": 12.38,
+      "end": 12.56
+    },
+    {
+      "text": "de",
+      "start": 12.56,
+      "end": 12.66
+    },
+    {
+      "text": "la",
+      "start": 12.66,
+      "end": 12.72
+    },
+    {
+      "text": "discothèque,",
+      "start": 12.72,
+      "end": 13.44
+    },
+    {
+      "text": "une",
+      "start": 13.58,
+      "end": 13.7
+    },
+    {
+      "text": "petite",
+      "start": 13.7,
+      "end": 13.92
+    },
+    {
+      "text": "quinzaine",
+      "start": 13.92,
+      "end": 14.4
+    },
+    {
+      "text": "de",
+      "start": 14.4,
+      "end": 14.6
+    },
+    {
+      "text": "personnes",
+      "start": 14.6,
+      "end": 14.98
+    },
+    {
+      "text": "se",
+      "start": 14.98,
+      "end": 15.3
+    },
+    {
+      "text": "tiennent",
+      "start": 15.3,
+      "end": 15.58
+    },
+    {
+      "text": "à",
+      "start": 15.58,
+      "end": 15.72
+    },
+    {
+      "text": "l",
+      "start": 15.72,
+      "end": 15.76
+    },
+    {
+      "text": "'écart",
+      "start": 15.76,
+      "end": 16.1
+    },
+    {
+      "text": "dans",
+      "start": 16.1,
+      "end": 16.38
+    },
+    {
+      "text": "une",
+      "start": 16.38,
+      "end": 16.58
+    },
+    {
+      "text": "cage",
+      "start": 16.58,
+      "end": 16.8
+    },
+    {
+      "text": "en",
+      "start": 16.8,
+      "end": 16.96
+    },
+    {
+      "text": "verre",
+      "start": 16.96,
+      "end": 17.44
+    },
+    {
+      "text": "immobile.",
+      "start": 17.44,
+      "end": 17.88
+    },
+    {
+      "text": "Elle",
+      "start": 18.62,
+      "end": 18.9
+    },
+    {
+      "text": "ne",
+      "start": 18.9,
+      "end": 19.06
+    },
+    {
+      "text": "danse",
+      "start": 19.06,
+      "end": 19.32
+    },
+    {
+      "text": "pas,",
+      "start": 19.32,
+      "end": 19.58
+    },
+    {
+      "text": "mais",
+      "start": 20.04,
+      "end": 20.28
+    },
+    {
+      "text": "fume,",
+      "start": 20.28,
+      "end": 20.6
+    },
+    {
+      "text": "en",
+      "start": 20.8,
+      "end": 20.96
+    },
+    {
+      "text": "toute",
+      "start": 20.96,
+      "end": 21.14
+    },
+    {
+      "text": "légalité.",
+      "start": 21.14,
+      "end": 21.78
+    },
+    {
+      "text": "Ce",
+      "start": 22.72,
+      "end": 23.06
+    },
+    {
+      "text": "qui",
+      "start": 23.06,
+      "end": 23.22
+    },
+    {
+      "text": "pourrait",
+      "start": 23.22,
+      "end": 23.46
+    },
+    {
+      "text": "ressembler",
+      "start": 23.46,
+      "end": 24.0
+    },
+    {
+      "text": "à",
+      "start": 24.0,
+      "end": 24.28
+    },
+    {
+      "text": "un",
+      "start": 24.28,
+      "end": 24.42
+    },
+    {
+      "text": "aquarium",
+      "start": 24.42,
+      "end": 24.84
+    },
+    {
+      "text": "est",
+      "start": 24.84,
+      "end": 25.36
+    },
+    {
+      "text": "en",
+      "start": 25.36,
+      "end": 25.46
+    },
+    {
+      "text": "fait",
+      "start": 25.46,
+      "end": 25.72
+    },
+    {
+      "text": "un",
+      "start": 25.72,
+      "end": 26.0
+    },
+    {
+      "text": "fumeur,",
+      "start": 26.0,
+      "end": 26.58
+    },
+    {
+      "text": "comme",
+      "start": 26.7,
+      "end": 26.9
+    },
+    {
+      "text": "il",
+      "start": 26.9,
+      "end": 27.02
+    },
+    {
+      "text": "en",
+      "start": 27.02,
+      "end": 27.1
+    },
+    {
+      "text": "existe",
+      "start": 27.1,
+      "end": 27.44
+    },
+    {
+      "text": "de",
+      "start": 27.44,
+      "end": 27.8
+    },
+    {
+      "text": "plus",
+      "start": 27.8,
+      "end": 28.02
+    },
+    {
+      "text": "en",
+      "start": 28.02,
+      "end": 28.2
+    },
+    {
+      "text": "plus",
+      "start": 28.2,
+      "end": 28.44
+    },
+    {
+      "text": "dans",
+      "start": 28.44,
+      "end": 28.68
+    },
+    {
+      "text": "les",
+      "start": 28.68,
+      "end": 28.8
+    },
+    {
+      "text": "discothèques.",
+      "start": 28.8,
+      "end": 29.52
+    },
+    {
+      "text": "À",
+      "start": 29.52,
+      "end": 30.28
+    },
+    {
+      "text": "l",
+      "start": 30.28,
+      "end": 30.4
+    },
+    {
+      "text": "'intérieur,",
+      "start": 30.4,
+      "end": 30.72
+    },
+    {
+      "text": "les",
+      "start": 31.2,
+      "end": 31.28
+    },
+    {
+      "text": "sons",
+      "start": 31.28,
+      "end": 31.52
+    },
+    {
+      "text": "de",
+      "start": 31.52,
+      "end": 31.66
+    },
+    {
+      "text": "la",
+      "start": 31.66,
+      "end": 31.8
+    },
+    {
+      "text": "techno",
+      "start": 31.8,
+      "end": 32.08
+    },
+    {
+      "text": "sont",
+      "start": 32.08,
+      "end": 32.4
+    },
+    {
+      "text": "amortis.",
+      "start": 32.4,
+      "end": 33.0
+    },
+    {
+      "text": "Il",
+      "start": 33.48,
+      "end": 33.64
+    },
+    {
+      "text": "y",
+      "start": 33.64,
+      "end": 33.72
+    },
+    {
+      "text": "a",
+      "start": 33.72,
+      "end": 33.74
+    },
+    {
+      "text": "des",
+      "start": 33.74,
+      "end": 33.88
+    },
+    {
+      "text": "cendriers",
+      "start": 33.88,
+      "end": 34.26
+    },
+    {
+      "text": "et",
+      "start": 34.26,
+      "end": 34.74
+    },
+    {
+      "text": "des",
+      "start": 34.74,
+      "end": 34.9
+    },
+    {
+      "text": "tables",
+      "start": 34.9,
+      "end": 35.14
+    },
+    {
+      "text": "hautes",
+      "start": 35.14,
+      "end": 35.6
+    },
+    {
+      "text": "pour",
+      "start": 35.6,
+      "end": 35.8
+    },
+    {
+      "text": "poser",
+      "start": 35.8,
+      "end": 36.08
+    },
+    {
+      "text": "son",
+      "start": 36.08,
+      "end": 36.26
+    },
+    {
+      "text": "verre.",
+      "start": 36.26,
+      "end": 37.02
+    },
+    {
+      "text": "Une",
+      "start": 37.18,
+      "end": 37.32
+    },
+    {
+      "text": "saisissante",
+      "start": 37.32,
+      "end": 38.02
+    },
+    {
+      "text": "odeur",
+      "start": 38.02,
+      "end": 38.48
+    },
+    {
+      "text": "de",
+      "start": 38.48,
+      "end": 38.58
+    },
+    {
+      "text": "tabafrois",
+      "start": 38.58,
+      "end": 39.3
+    },
+    {
+      "text": "impregne",
+      "start": 39.3,
+      "end": 39.96
+    },
+    {
+      "text": "illicots,",
+      "start": 39.96,
+      "end": 40.72
+    },
+    {
+      "text": "les",
+      "start": 41.1,
+      "end": 41.2
+    },
+    {
+      "text": "vêtements,",
+      "start": 41.2,
+      "end": 41.62
+    },
+    {
+      "text": "les",
+      "start": 41.78,
+      "end": 41.84
+    },
+    {
+      "text": "cheveux,",
+      "start": 41.84,
+      "end": 42.26
+    },
+    {
+      "text": "la",
+      "start": 42.4,
+      "end": 42.52
+    },
+    {
+      "text": "peau.",
+      "start": 42.52,
+      "end": 42.76
+    },
+    {
+      "text": "Tellement",
+      "start": 43.22,
+      "end": 43.68
+    },
+    {
+      "text": "pas",
+      "start": 43.68,
+      "end": 43.92
+    },
+    {
+      "text": "agréable",
+      "start": 43.92,
+      "end": 44.66
+    },
+    {
+      "text": "qu",
+      "start": 44.66,
+      "end": 45.18
+    },
+    {
+      "text": "'on",
+      "start": 45.18,
+      "end": 45.24
+    },
+    {
+      "text": "y",
+      "start": 45.24,
+      "end": 45.4
+    },
+    {
+      "text": "reste",
+      "start": 45.4,
+      "end": 45.64
+    },
+    {
+      "text": "juste",
+      "start": 45.64,
+      "end": 46.0
+    },
+    {
+      "text": "le",
+      "start": 46.0,
+      "end": 46.26
+    },
+    {
+      "text": "temps",
+      "start": 46.26,
+      "end": 46.46
+    },
+    {
+      "text": "d",
+      "start": 46.46,
+      "end": 46.58
+    },
+    {
+      "text": "'en",
+      "start": 46.58,
+      "end": 46.6
+    },
+    {
+      "text": "griller",
+      "start": 46.6,
+      "end": 46.88
+    },
+    {
+      "text": "une,",
+      "start": 46.88,
+      "end": 47.2
+    },
+    {
+      "text": "d",
+      "start": 47.38,
+      "end": 47.46
+    },
+    {
+      "text": "'absorber",
+      "start": 47.46,
+      "end": 47.82
+    },
+    {
+      "text": "sa",
+      "start": 47.82,
+      "end": 48.0
+    },
+    {
+      "text": "dose",
+      "start": 48.0,
+      "end": 48.2
+    },
+    {
+      "text": "de",
+      "start": 48.2,
+      "end": 48.36
+    },
+    {
+      "text": "nicotine.",
+      "start": 48.36,
+      "end": 48.84
+    },
+    {
+      "text": "Vu",
+      "start": 49.64,
+      "end": 49.9
+    },
+    {
+      "text": "de",
+      "start": 49.9,
+      "end": 50.0
+    },
+    {
+      "text": "l",
+      "start": 50.0,
+      "end": 50.08
+    },
+    {
+      "text": "'aquarium,",
+      "start": 50.08,
+      "end": 50.56
+    },
+    {
+      "text": "ceux",
+      "start": 50.9,
+      "end": 50.98
+    },
+    {
+      "text": "qui",
+      "start": 50.98,
+      "end": 51.14
+    },
+    {
+      "text": "sont",
+      "start": 51.14,
+      "end": 51.28
+    },
+    {
+      "text": "restés",
+      "start": 51.28,
+      "end": 51.64
+    },
+    {
+      "text": "sur",
+      "start": 51.64,
+      "end": 51.8
+    },
+    {
+      "text": "la",
+      "start": 51.8,
+      "end": 51.94
+    },
+    {
+      "text": "piste",
+      "start": 51.94,
+      "end": 52.32
+    },
+    {
+      "text": "ont",
+      "start": 52.32,
+      "end": 52.6
+    },
+    {
+      "text": "l",
+      "start": 52.6,
+      "end": 52.76
+    },
+    {
+      "text": "'air",
+      "start": 52.76,
+      "end": 52.88
+    },
+    {
+      "text": "de",
+      "start": 52.88,
+      "end": 53.04
+    },
+    {
+      "text": "grands",
+      "start": 53.04,
+      "end": 53.32
+    },
+    {
+      "text": "agités,",
+      "start": 53.32,
+      "end": 53.8
+    },
+    {
+      "text": "qui",
+      "start": 54.18,
+      "end": 54.42
+    },
+    {
+      "text": "secouent",
+      "start": 54.42,
+      "end": 54.86
+    },
+    {
+      "text": "les",
+      "start": 54.86,
+      "end": 55.0
+    },
+    {
+      "text": "bras,",
+      "start": 55.0,
+      "end": 55.2
+    },
+    {
+      "text": "les",
+      "start": 55.52,
+      "end": 55.6
+    },
+    {
+      "text": "têtes.",
+      "start": 55.6,
+      "end": 55.94
+    },
+    {
+      "text": "De",
+      "start": 55.94,
+      "end": 56.78
+    },
+    {
+      "text": "part",
+      "start": 56.78,
+      "end": 57.06
+    },
+    {
+      "text": "et",
+      "start": 57.06,
+      "end": 57.24
+    },
+    {
+      "text": "d",
+      "start": 57.24,
+      "end": 57.36
+    },
+    {
+      "text": "'autre",
+      "start": 57.36,
+      "end": 57.5
+    },
+    {
+      "text": "de",
+      "start": 57.5,
+      "end": 57.68
+    },
+    {
+      "text": "la",
+      "start": 57.68,
+      "end": 57.82
+    },
+    {
+      "text": "vitre,",
+      "start": 57.82,
+      "end": 58.28
+    },
+    {
+      "text": "des",
+      "start": 58.56,
+      "end": 58.68
+    },
+    {
+      "text": "gens",
+      "start": 58.68,
+      "end": 59.0
+    },
+    {
+      "text": "sont",
+      "start": 59.0,
+      "end": 59.28
+    },
+    {
+      "text": "en",
+      "start": 59.28,
+      "end": 59.44
+    },
+    {
+      "text": "total",
+      "start": 59.44,
+      "end": 59.9
+    },
+    {
+      "text": "décalage.",
+      "start": 59.9,
+      "end": 60.72
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "text": "Monsieur Bertrand, vous êtes spécialiste en langue et littérature du Moyen Âge et historien de la langue. Alors expliquez-nous d'où vient le vocabulaire du français. Si l'on pouvait photographier aujourd'hui le lexique général de la langue par ses racines, ce qui fera près de prime abord serait sans doute la grande diversité des origines des mots qui composent le français. En plus de mille ans d'histoire, cette langue, dont le fond commun est indiscutablement latin, s'est enrichie au fil des rencontres entre les peuples de nouveaux mots empruntés, assimilés, créés de toutes pièces par des locuteurs exprimants, comme en dire le besoin de nommer des réalités de la vie. Alors plusieurs tentatives statistiques ont montré qu'environ 87% du vocabulaire français provient du latin. Les 13% restants seraient à partager entre les langues d'origine germanique 1,35%, Scandinave 0,12%, Celtique 0,08% et le reste environ 11%. Représenterait un composite diversifié, mais difficilement quantifiable, d'emprunt divers à de très très nombreuses langues africaines, asiatiques, américaines aussi. Question 1. Que souligne ce spécialiste ?",
+  "words": [
+    {
+      "text": "Monsieur",
+      "start": 2.74,
+      "end": 3.34
+    },
+    {
+      "text": "Bertrand,",
+      "start": 3.34,
+      "end": 3.86
+    },
+    {
+      "text": "vous",
+      "start": 4.16,
+      "end": 4.4
+    },
+    {
+      "text": "êtes",
+      "start": 4.4,
+      "end": 4.58
+    },
+    {
+      "text": "spécialiste",
+      "start": 4.58,
+      "end": 5.34
+    },
+    {
+      "text": "en",
+      "start": 5.34,
+      "end": 5.52
+    },
+    {
+      "text": "langue",
+      "start": 5.52,
+      "end": 5.92
+    },
+    {
+      "text": "et",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "text": "littérature",
+      "start": 6.16,
+      "end": 6.84
+    },
+    {
+      "text": "du",
+      "start": 6.84,
+      "end": 7.02
+    },
+    {
+      "text": "Moyen",
+      "start": 7.02,
+      "end": 7.34
+    },
+    {
+      "text": "Âge",
+      "start": 7.34,
+      "end": 7.72
+    },
+    {
+      "text": "et",
+      "start": 7.72,
+      "end": 7.9
+    },
+    {
+      "text": "historien",
+      "start": 7.9,
+      "end": 8.56
+    },
+    {
+      "text": "de",
+      "start": 8.56,
+      "end": 8.7
+    },
+    {
+      "text": "la",
+      "start": 8.7,
+      "end": 8.8
+    },
+    {
+      "text": "langue.",
+      "start": 8.8,
+      "end": 9.14
+    },
+    {
+      "text": "Alors",
+      "start": 9.62,
+      "end": 9.96
+    },
+    {
+      "text": "expliquez",
+      "start": 9.96,
+      "end": 10.86
+    },
+    {
+      "text": "-nous",
+      "start": 10.86,
+      "end": 11.04
+    },
+    {
+      "text": "d",
+      "start": 11.04,
+      "end": 11.56
+    },
+    {
+      "text": "'où",
+      "start": 11.56,
+      "end": 11.66
+    },
+    {
+      "text": "vient",
+      "start": 11.66,
+      "end": 11.96
+    },
+    {
+      "text": "le",
+      "start": 11.96,
+      "end": 12.12
+    },
+    {
+      "text": "vocabulaire",
+      "start": 12.12,
+      "end": 12.92
+    },
+    {
+      "text": "du",
+      "start": 12.92,
+      "end": 13.04
+    },
+    {
+      "text": "français.",
+      "start": 13.04,
+      "end": 13.44
+    },
+    {
+      "text": "Si",
+      "start": 14.18,
+      "end": 14.72
+    },
+    {
+      "text": "l",
+      "start": 14.72,
+      "end": 14.88
+    },
+    {
+      "text": "'on",
+      "start": 14.88,
+      "end": 14.94
+    },
+    {
+      "text": "pouvait",
+      "start": 14.94,
+      "end": 15.34
+    },
+    {
+      "text": "photographier",
+      "start": 15.34,
+      "end": 16.18
+    },
+    {
+      "text": "aujourd",
+      "start": 16.18,
+      "end": 16.52
+    },
+    {
+      "text": "'hui",
+      "start": 16.52,
+      "end": 16.92
+    },
+    {
+      "text": "le",
+      "start": 16.92,
+      "end": 17.1
+    },
+    {
+      "text": "lexique",
+      "start": 17.1,
+      "end": 17.58
+    },
+    {
+      "text": "général",
+      "start": 17.58,
+      "end": 17.96
+    },
+    {
+      "text": "de",
+      "start": 17.96,
+      "end": 18.2
+    },
+    {
+      "text": "la",
+      "start": 18.2,
+      "end": 18.34
+    },
+    {
+      "text": "langue",
+      "start": 18.34,
+      "end": 18.64
+    },
+    {
+      "text": "par",
+      "start": 18.64,
+      "end": 18.94
+    },
+    {
+      "text": "ses",
+      "start": 18.94,
+      "end": 19.1
+    },
+    {
+      "text": "racines,",
+      "start": 19.1,
+      "end": 19.64
+    },
+    {
+      "text": "ce",
+      "start": 20.14,
+      "end": 20.36
+    },
+    {
+      "text": "qui",
+      "start": 20.36,
+      "end": 20.48
+    },
+    {
+      "text": "fera",
+      "start": 20.48,
+      "end": 20.64
+    },
+    {
+      "text": "près",
+      "start": 20.64,
+      "end": 20.84
+    },
+    {
+      "text": "de",
+      "start": 20.84,
+      "end": 20.94
+    },
+    {
+      "text": "prime",
+      "start": 20.94,
+      "end": 21.16
+    },
+    {
+      "text": "abord",
+      "start": 21.16,
+      "end": 21.48
+    },
+    {
+      "text": "serait",
+      "start": 21.48,
+      "end": 21.96
+    },
+    {
+      "text": "sans",
+      "start": 21.96,
+      "end": 22.18
+    },
+    {
+      "text": "doute",
+      "start": 22.18,
+      "end": 22.48
+    },
+    {
+      "text": "la",
+      "start": 22.48,
+      "end": 24.0
+    },
+    {
+      "text": "grande",
+      "start": 24.0,
+      "end": 24.26
+    },
+    {
+      "text": "diversité",
+      "start": 24.26,
+      "end": 25.02
+    },
+    {
+      "text": "des",
+      "start": 25.02,
+      "end": 25.2
+    },
+    {
+      "text": "origines",
+      "start": 25.2,
+      "end": 25.7
+    },
+    {
+      "text": "des",
+      "start": 25.7,
+      "end": 25.88
+    },
+    {
+      "text": "mots",
+      "start": 25.88,
+      "end": 26.12
+    },
+    {
+      "text": "qui",
+      "start": 26.12,
+      "end": 26.48
+    },
+    {
+      "text": "composent",
+      "start": 26.48,
+      "end": 26.88
+    },
+    {
+      "text": "le",
+      "start": 26.88,
+      "end": 26.96
+    },
+    {
+      "text": "français.",
+      "start": 26.96,
+      "end": 27.24
+    },
+    {
+      "text": "En",
+      "start": 28.36,
+      "end": 28.62
+    },
+    {
+      "text": "plus",
+      "start": 28.62,
+      "end": 28.8
+    },
+    {
+      "text": "de",
+      "start": 28.8,
+      "end": 28.92
+    },
+    {
+      "text": "mille",
+      "start": 28.92,
+      "end": 29.3
+    },
+    {
+      "text": "ans",
+      "start": 29.3,
+      "end": 29.42
+    },
+    {
+      "text": "d",
+      "start": 29.42,
+      "end": 29.54
+    },
+    {
+      "text": "'histoire,",
+      "start": 29.54,
+      "end": 29.84
+    },
+    {
+      "text": "cette",
+      "start": 30.44,
+      "end": 30.64
+    },
+    {
+      "text": "langue,",
+      "start": 30.64,
+      "end": 31.0
+    },
+    {
+      "text": "dont",
+      "start": 31.22,
+      "end": 31.56
+    },
+    {
+      "text": "le",
+      "start": 31.56,
+      "end": 31.72
+    },
+    {
+      "text": "fond",
+      "start": 31.72,
+      "end": 31.94
+    },
+    {
+      "text": "commun",
+      "start": 31.94,
+      "end": 32.34
+    },
+    {
+      "text": "est",
+      "start": 32.34,
+      "end": 32.86
+    },
+    {
+      "text": "indiscutablement",
+      "start": 32.86,
+      "end": 33.66
+    },
+    {
+      "text": "latin,",
+      "start": 33.66,
+      "end": 34.06
+    },
+    {
+      "text": "s",
+      "start": 34.48,
+      "end": 34.52
+    },
+    {
+      "text": "'est",
+      "start": 34.52,
+      "end": 34.6
+    },
+    {
+      "text": "enrichie",
+      "start": 34.6,
+      "end": 34.98
+    },
+    {
+      "text": "au",
+      "start": 34.98,
+      "end": 35.16
+    },
+    {
+      "text": "fil",
+      "start": 35.16,
+      "end": 35.34
+    },
+    {
+      "text": "des",
+      "start": 35.34,
+      "end": 35.6
+    },
+    {
+      "text": "rencontres",
+      "start": 35.6,
+      "end": 36.16
+    },
+    {
+      "text": "entre",
+      "start": 36.16,
+      "end": 36.36
+    },
+    {
+      "text": "les",
+      "start": 36.36,
+      "end": 36.6
+    },
+    {
+      "text": "peuples",
+      "start": 36.6,
+      "end": 37.0
+    },
+    {
+      "text": "de",
+      "start": 37.0,
+      "end": 37.18
+    },
+    {
+      "text": "nouveaux",
+      "start": 37.18,
+      "end": 37.4
+    },
+    {
+      "text": "mots",
+      "start": 37.4,
+      "end": 37.66
+    },
+    {
+      "text": "empruntés,",
+      "start": 37.66,
+      "end": 38.62
+    },
+    {
+      "text": "assimilés,",
+      "start": 39.16,
+      "end": 39.72
+    },
+    {
+      "text": "créés",
+      "start": 40.3,
+      "end": 40.62
+    },
+    {
+      "text": "de",
+      "start": 40.62,
+      "end": 40.74
+    },
+    {
+      "text": "toutes",
+      "start": 40.74,
+      "end": 40.9
+    },
+    {
+      "text": "pièces",
+      "start": 40.9,
+      "end": 41.32
+    },
+    {
+      "text": "par",
+      "start": 41.32,
+      "end": 41.52
+    },
+    {
+      "text": "des",
+      "start": 41.52,
+      "end": 41.68
+    },
+    {
+      "text": "locuteurs",
+      "start": 41.68,
+      "end": 42.14
+    },
+    {
+      "text": "exprimants,",
+      "start": 42.14,
+      "end": 42.74
+    },
+    {
+      "text": "comme",
+      "start": 43.24,
+      "end": 43.42
+    },
+    {
+      "text": "en",
+      "start": 43.42,
+      "end": 43.52
+    },
+    {
+      "text": "dire",
+      "start": 43.52,
+      "end": 43.72
+    },
+    {
+      "text": "le",
+      "start": 43.72,
+      "end": 44.1
+    },
+    {
+      "text": "besoin",
+      "start": 44.1,
+      "end": 44.52
+    },
+    {
+      "text": "de",
+      "start": 44.52,
+      "end": 44.74
+    },
+    {
+      "text": "nommer",
+      "start": 44.74,
+      "end": 45.06
+    },
+    {
+      "text": "des",
+      "start": 45.06,
+      "end": 45.22
+    },
+    {
+      "text": "réalités",
+      "start": 45.22,
+      "end": 45.82
+    },
+    {
+      "text": "de",
+      "start": 45.82,
+      "end": 45.96
+    },
+    {
+      "text": "la",
+      "start": 45.96,
+      "end": 46.06
+    },
+    {
+      "text": "vie.",
+      "start": 46.06,
+      "end": 46.22
+    },
+    {
+      "text": "Alors",
+      "start": 47.06,
+      "end": 47.2
+    },
+    {
+      "text": "plusieurs",
+      "start": 47.2,
+      "end": 47.64
+    },
+    {
+      "text": "tentatives",
+      "start": 47.64,
+      "end": 48.18
+    },
+    {
+      "text": "statistiques",
+      "start": 48.18,
+      "end": 49.02
+    },
+    {
+      "text": "ont",
+      "start": 49.02,
+      "end": 49.26
+    },
+    {
+      "text": "montré",
+      "start": 49.26,
+      "end": 49.56
+    },
+    {
+      "text": "qu",
+      "start": 49.56,
+      "end": 49.68
+    },
+    {
+      "text": "'environ",
+      "start": 49.68,
+      "end": 50.0
+    },
+    {
+      "text": "87",
+      "start": 50.0,
+      "end": 50.98
+    },
+    {
+      "text": "%",
+      "start": 50.98,
+      "end": 51.78
+    },
+    {
+      "text": "du",
+      "start": 51.78,
+      "end": 51.96
+    },
+    {
+      "text": "vocabulaire",
+      "start": 51.96,
+      "end": 52.48
+    },
+    {
+      "text": "français",
+      "start": 52.48,
+      "end": 52.8
+    },
+    {
+      "text": "provient",
+      "start": 52.8,
+      "end": 53.26
+    },
+    {
+      "text": "du",
+      "start": 53.26,
+      "end": 53.4
+    },
+    {
+      "text": "latin.",
+      "start": 53.4,
+      "end": 53.72
+    },
+    {
+      "text": "Les",
+      "start": 54.78,
+      "end": 55.14
+    },
+    {
+      "text": "13",
+      "start": 55.14,
+      "end": 55.46
+    },
+    {
+      "text": "%",
+      "start": 55.46,
+      "end": 55.86
+    },
+    {
+      "text": "restants",
+      "start": 55.86,
+      "end": 56.46
+    },
+    {
+      "text": "seraient",
+      "start": 56.46,
+      "end": 56.88
+    },
+    {
+      "text": "à",
+      "start": 56.88,
+      "end": 57.02
+    },
+    {
+      "text": "partager",
+      "start": 57.02,
+      "end": 57.52
+    },
+    {
+      "text": "entre",
+      "start": 57.52,
+      "end": 57.88
+    },
+    {
+      "text": "les",
+      "start": 57.88,
+      "end": 58.14
+    },
+    {
+      "text": "langues",
+      "start": 58.14,
+      "end": 58.42
+    },
+    {
+      "text": "d",
+      "start": 58.42,
+      "end": 58.56
+    },
+    {
+      "text": "'origine",
+      "start": 58.56,
+      "end": 58.78
+    },
+    {
+      "text": "germanique",
+      "start": 58.78,
+      "end": 59.58
+    },
+    {
+      "text": "1",
+      "start": 59.58,
+      "end": 60.18
+    },
+    {
+      "text": ",35%,",
+      "start": 60.18,
+      "end": 60.86
+    },
+    {
+      "text": "Scandinave",
+      "start": 61.48,
+      "end": 62.64
+    },
+    {
+      "text": "0",
+      "start": 62.64,
+      "end": 63.02
+    },
+    {
+      "text": ",12%,",
+      "start": 63.02,
+      "end": 64.42
+    },
+    {
+      "text": "Celtique",
+      "start": 64.42,
+      "end": 65.14
+    },
+    {
+      "text": "0",
+      "start": 65.14,
+      "end": 65.52
+    },
+    {
+      "text": ",08",
+      "start": 65.52,
+      "end": 66.48
+    },
+    {
+      "text": "%",
+      "start": 66.48,
+      "end": 67.34
+    },
+    {
+      "text": "et",
+      "start": 67.34,
+      "end": 67.86
+    },
+    {
+      "text": "le",
+      "start": 67.86,
+      "end": 68.02
+    },
+    {
+      "text": "reste",
+      "start": 68.02,
+      "end": 68.24
+    },
+    {
+      "text": "environ",
+      "start": 68.24,
+      "end": 68.6
+    },
+    {
+      "text": "11%.",
+      "start": 68.6,
+      "end": 69.64
+    },
+    {
+      "text": "Représenterait",
+      "start": 69.64,
+      "end": 70.6
+    },
+    {
+      "text": "un",
+      "start": 70.6,
+      "end": 70.7
+    },
+    {
+      "text": "composite",
+      "start": 70.7,
+      "end": 71.32
+    },
+    {
+      "text": "diversifié,",
+      "start": 71.32,
+      "end": 72.66
+    },
+    {
+      "text": "mais",
+      "start": 73.48,
+      "end": 73.6
+    },
+    {
+      "text": "difficilement",
+      "start": 73.6,
+      "end": 74.18
+    },
+    {
+      "text": "quantifiable,",
+      "start": 74.18,
+      "end": 74.74
+    },
+    {
+      "text": "d",
+      "start": 75.2,
+      "end": 75.26
+    },
+    {
+      "text": "'emprunt",
+      "start": 75.26,
+      "end": 75.56
+    },
+    {
+      "text": "divers",
+      "start": 75.56,
+      "end": 75.98
+    },
+    {
+      "text": "à",
+      "start": 75.98,
+      "end": 76.52
+    },
+    {
+      "text": "de",
+      "start": 76.52,
+      "end": 76.64
+    },
+    {
+      "text": "très",
+      "start": 76.64,
+      "end": 76.94
+    },
+    {
+      "text": "très",
+      "start": 76.94,
+      "end": 77.18
+    },
+    {
+      "text": "nombreuses",
+      "start": 77.18,
+      "end": 77.68
+    },
+    {
+      "text": "langues",
+      "start": 77.68,
+      "end": 78.12
+    },
+    {
+      "text": "africaines,",
+      "start": 78.12,
+      "end": 79.08
+    },
+    {
+      "text": "asiatiques,",
+      "start": 79.3,
+      "end": 79.9
+    },
+    {
+      "text": "américaines",
+      "start": 80.28,
+      "end": 80.78
+    },
+    {
+      "text": "aussi.",
+      "start": 80.78,
+      "end": 81.06
+    },
+    {
+      "text": "Question",
+      "start": 82.86,
+      "end": 83.86
+    },
+    {
+      "text": "1.",
+      "start": 83.86,
+      "end": 84.4
+    },
+    {
+      "text": "Que",
+      "start": 84.4,
+      "end": 85.78
+    },
+    {
+      "text": "souligne",
+      "start": 85.78,
+      "end": 86.38
+    },
+    {
+      "text": "ce",
+      "start": 86.38,
+      "end": 86.72
+    },
+    {
+      "text": "spécialiste",
+      "start": 86.72,
+      "end": 87.58
+    },
+    {
+      "text": "?",
+      "start": 87.58,
+      "end": 88.2
+    }
+  ]
+}

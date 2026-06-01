@@ -1,0 +1,255 @@
+{
+  "text": "Question 2. Écoutez les quatre propositions. Choisissez celle qui correspond à l'image. A. Apporte-moi le menu rapidement s'il te plaît. B. Je vais prendre un kilo de tomate bien mûre. C. Ma femme va prendre une tarte au fruit. D. Mon frère voudrait un gâteau au chocolat.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "2.",
+      "start": 0.58,
+      "end": 0.98
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.96,
+      "end": 2.56
+    },
+    {
+      "text": "les",
+      "start": 2.56,
+      "end": 2.78
+    },
+    {
+      "text": "quatre",
+      "start": 2.78,
+      "end": 2.98
+    },
+    {
+      "text": "propositions.",
+      "start": 2.98,
+      "end": 3.74
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.52,
+      "end": 4.98
+    },
+    {
+      "text": "celle",
+      "start": 4.98,
+      "end": 5.36
+    },
+    {
+      "text": "qui",
+      "start": 5.36,
+      "end": 5.58
+    },
+    {
+      "text": "correspond",
+      "start": 5.58,
+      "end": 6.04
+    },
+    {
+      "text": "à",
+      "start": 6.04,
+      "end": 6.36
+    },
+    {
+      "text": "l",
+      "start": 6.36,
+      "end": 6.46
+    },
+    {
+      "text": "'image.",
+      "start": 6.46,
+      "end": 6.82
+    },
+    {
+      "text": "A.",
+      "start": 7.96,
+      "end": 8.38
+    },
+    {
+      "text": "Apporte",
+      "start": 9.34,
+      "end": 9.94
+    },
+    {
+      "text": "-moi",
+      "start": 9.94,
+      "end": 10.16
+    },
+    {
+      "text": "le",
+      "start": 10.16,
+      "end": 10.3
+    },
+    {
+      "text": "menu",
+      "start": 10.3,
+      "end": 10.56
+    },
+    {
+      "text": "rapidement",
+      "start": 10.56,
+      "end": 11.06
+    },
+    {
+      "text": "s",
+      "start": 11.06,
+      "end": 11.32
+    },
+    {
+      "text": "'il",
+      "start": 11.32,
+      "end": 11.38
+    },
+    {
+      "text": "te",
+      "start": 11.38,
+      "end": 11.52
+    },
+    {
+      "text": "plaît.",
+      "start": 11.52,
+      "end": 11.8
+    },
+    {
+      "text": "B.",
+      "start": 14.28,
+      "end": 14.88
+    },
+    {
+      "text": "Je",
+      "start": 15.86,
+      "end": 16.0
+    },
+    {
+      "text": "vais",
+      "start": 16.0,
+      "end": 16.14
+    },
+    {
+      "text": "prendre",
+      "start": 16.14,
+      "end": 16.42
+    },
+    {
+      "text": "un",
+      "start": 16.42,
+      "end": 16.78
+    },
+    {
+      "text": "kilo",
+      "start": 16.78,
+      "end": 16.98
+    },
+    {
+      "text": "de",
+      "start": 16.98,
+      "end": 17.16
+    },
+    {
+      "text": "tomate",
+      "start": 17.16,
+      "end": 17.48
+    },
+    {
+      "text": "bien",
+      "start": 17.48,
+      "end": 17.66
+    },
+    {
+      "text": "mûre.",
+      "start": 17.66,
+      "end": 17.98
+    },
+    {
+      "text": "C.",
+      "start": 20.58,
+      "end": 21.18
+    },
+    {
+      "text": "Ma",
+      "start": 22.48,
+      "end": 22.62
+    },
+    {
+      "text": "femme",
+      "start": 22.62,
+      "end": 22.78
+    },
+    {
+      "text": "va",
+      "start": 22.78,
+      "end": 22.94
+    },
+    {
+      "text": "prendre",
+      "start": 22.94,
+      "end": 23.18
+    },
+    {
+      "text": "une",
+      "start": 23.18,
+      "end": 23.38
+    },
+    {
+      "text": "tarte",
+      "start": 23.38,
+      "end": 23.52
+    },
+    {
+      "text": "au",
+      "start": 23.52,
+      "end": 23.7
+    },
+    {
+      "text": "fruit.",
+      "start": 23.7,
+      "end": 23.86
+    },
+    {
+      "text": "D.",
+      "start": 26.24,
+      "end": 26.84
+    },
+    {
+      "text": "Mon",
+      "start": 27.54,
+      "end": 27.78
+    },
+    {
+      "text": "frère",
+      "start": 27.78,
+      "end": 28.0
+    },
+    {
+      "text": "voudrait",
+      "start": 28.0,
+      "end": 28.3
+    },
+    {
+      "text": "un",
+      "start": 28.3,
+      "end": 28.42
+    },
+    {
+      "text": "gâteau",
+      "start": 28.42,
+      "end": 28.74
+    },
+    {
+      "text": "au",
+      "start": 28.74,
+      "end": 28.84
+    },
+    {
+      "text": "chocolat.",
+      "start": 28.84,
+      "end": 29.18
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "text": "question 8 tu sais qu'olivia organise à barbecue ce soir tu y vas ah non je n'achète pas de saucisses b évidemment c'est mon meilleur ami s sans doute mais la réunion est reportée d oui je vais faire du feu si tu veux",
+  "words": [
+    {
+      "text": "question",
+      "start": 2.32,
+      "end": 2.8
+    },
+    {
+      "text": "8",
+      "start": 2.8,
+      "end": 3.28
+    },
+    {
+      "text": "tu",
+      "start": 3.28,
+      "end": 4.86
+    },
+    {
+      "text": "sais",
+      "start": 4.86,
+      "end": 5.02
+    },
+    {
+      "text": "qu",
+      "start": 5.02,
+      "end": 5.18
+    },
+    {
+      "text": "'olivia",
+      "start": 5.18,
+      "end": 5.38
+    },
+    {
+      "text": "organise",
+      "start": 5.38,
+      "end": 5.8
+    },
+    {
+      "text": "à",
+      "start": 5.8,
+      "end": 6.02
+    },
+    {
+      "text": "barbecue",
+      "start": 6.02,
+      "end": 6.24
+    },
+    {
+      "text": "ce",
+      "start": 6.24,
+      "end": 6.6
+    },
+    {
+      "text": "soir",
+      "start": 6.6,
+      "end": 6.9
+    },
+    {
+      "text": "tu",
+      "start": 6.9,
+      "end": 7.14
+    },
+    {
+      "text": "y",
+      "start": 7.14,
+      "end": 7.24
+    },
+    {
+      "text": "vas",
+      "start": 7.24,
+      "end": 7.38
+    },
+    {
+      "text": "ah",
+      "start": 9.46,
+      "end": 9.94
+    },
+    {
+      "text": "non",
+      "start": 9.94,
+      "end": 10.42
+    },
+    {
+      "text": "je",
+      "start": 10.42,
+      "end": 10.8
+    },
+    {
+      "text": "n",
+      "start": 10.8,
+      "end": 10.88
+    },
+    {
+      "text": "'achète",
+      "start": 10.88,
+      "end": 11.06
+    },
+    {
+      "text": "pas",
+      "start": 11.06,
+      "end": 11.22
+    },
+    {
+      "text": "de",
+      "start": 11.22,
+      "end": 11.34
+    },
+    {
+      "text": "saucisses",
+      "start": 11.34,
+      "end": 11.74
+    },
+    {
+      "text": "b",
+      "start": 11.74,
+      "end": 13.28
+    },
+    {
+      "text": "évidemment",
+      "start": 13.28,
+      "end": 14.42
+    },
+    {
+      "text": "c",
+      "start": 14.42,
+      "end": 14.8
+    },
+    {
+      "text": "'est",
+      "start": 14.8,
+      "end": 14.84
+    },
+    {
+      "text": "mon",
+      "start": 14.84,
+      "end": 14.94
+    },
+    {
+      "text": "meilleur",
+      "start": 14.94,
+      "end": 15.2
+    },
+    {
+      "text": "ami",
+      "start": 15.2,
+      "end": 15.46
+    },
+    {
+      "text": "s",
+      "start": 15.46,
+      "end": 16.62
+    },
+    {
+      "text": "sans",
+      "start": 16.62,
+      "end": 18.44
+    },
+    {
+      "text": "doute",
+      "start": 18.44,
+      "end": 18.64
+    },
+    {
+      "text": "mais",
+      "start": 18.64,
+      "end": 18.98
+    },
+    {
+      "text": "la",
+      "start": 18.98,
+      "end": 19.1
+    },
+    {
+      "text": "réunion",
+      "start": 19.1,
+      "end": 19.42
+    },
+    {
+      "text": "est",
+      "start": 19.42,
+      "end": 19.58
+    },
+    {
+      "text": "reportée",
+      "start": 19.58,
+      "end": 20.24
+    },
+    {
+      "text": "d",
+      "start": 20.24,
+      "end": 21.48
+    },
+    {
+      "text": "oui",
+      "start": 21.48,
+      "end": 22.46
+    },
+    {
+      "text": "je",
+      "start": 22.46,
+      "end": 22.72
+    },
+    {
+      "text": "vais",
+      "start": 22.72,
+      "end": 22.82
+    },
+    {
+      "text": "faire",
+      "start": 22.82,
+      "end": 23.0
+    },
+    {
+      "text": "du",
+      "start": 23.0,
+      "end": 23.12
+    },
+    {
+      "text": "feu",
+      "start": 23.12,
+      "end": 23.32
+    },
+    {
+      "text": "si",
+      "start": 23.32,
+      "end": 23.52
+    },
+    {
+      "text": "tu",
+      "start": 23.52,
+      "end": 23.64
+    },
+    {
+      "text": "veux",
+      "start": 23.64,
+      "end": 23.84
+    }
+  ]
+}

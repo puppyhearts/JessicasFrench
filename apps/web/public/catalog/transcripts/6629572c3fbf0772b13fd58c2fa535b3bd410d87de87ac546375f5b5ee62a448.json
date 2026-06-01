@@ -1,0 +1,1650 @@
+{
+  "text": "Question 26 et 27. Écoutez le document sonore et les questions. Choisissez la bonne réponse. Bonjour et bienvenue dans notre rubrique économie. Nous allons nous intéresser à la recherche d'emplois en temps de crise. Nous sommes avec Paul Tevenot, conseiller à Pôle emploi. Monsieur Tevenot, pourriez-vous nous dire en quoi chercher un emploi en temps de crise diffère de la recherche en temps normal ? La crise a changé les habitudes dans la vie professionnelle. Les habitudes de consommation, les modes de vie. Dans les entreprises, les stratégies et les organisations changent souvent fortement. Il serait curieux de chercher un emploi de la même façon, indépendamment de la crise et des difficultés que rencontrent les entreprises. Par exemple, en période de prospérité, les entreprises vont chercher des candidats à potentiel, souvent diplômés, et prendront le temps de les former. En période de crise, on cherchera des candidats disponibles sur le champ et opérationnels, en accordant moins d'importance aux diplômes ou aux potentiels d'évolution à moyen terme. Quand vous présenterait votre expérience, n'hésitez pas à montrer les situations difficiles que vous avez surmontées. On cherchera des profils plus de pompiers capables d'intervenir dans l'urgence et avec sans froid. Selon vous, quelle est la meilleure stratégie pour trouver un emploi actuellement dans l'industrie des télécommunications ? Mieux vaut privilégier les candidatures spontanées, les réponses aux offres d'emplois, les réseaux sociaux sur Internet ? Tout ce que vous décrivez est utile. Il convient de faire feu de tout bois, ce qui vous permet aussi de détecter les opportunités et les filières qui marchent. Les réseaux sociaux deviennent incontournables. Attention aux informations que vous faites figurer et qui resteront longtemps sur le net. Question 26. D'après le conseiller, quel profil de candidat à l'emploi, les entreprises recherchent plus particulièrement tant de crises ? Question 27. D'après le conseiller, que doivent faire les candidats à l'emploi pour trouver un travail ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.52
+    },
+    {
+      "text": "26",
+      "start": 0.52,
+      "end": 1.32
+    },
+    {
+      "text": "et",
+      "start": 1.32,
+      "end": 1.84
+    },
+    {
+      "text": "27.",
+      "start": 1.84,
+      "end": 2.3
+    },
+    {
+      "text": "Écoutez",
+      "start": 3.04,
+      "end": 3.52
+    },
+    {
+      "text": "le",
+      "start": 3.52,
+      "end": 3.72
+    },
+    {
+      "text": "document",
+      "start": 3.72,
+      "end": 4.06
+    },
+    {
+      "text": "sonore",
+      "start": 4.06,
+      "end": 4.62
+    },
+    {
+      "text": "et",
+      "start": 4.62,
+      "end": 4.86
+    },
+    {
+      "text": "les",
+      "start": 4.86,
+      "end": 4.96
+    },
+    {
+      "text": "questions.",
+      "start": 4.96,
+      "end": 5.32
+    },
+    {
+      "text": "Choisissez",
+      "start": 6.02,
+      "end": 6.5
+    },
+    {
+      "text": "la",
+      "start": 6.5,
+      "end": 6.68
+    },
+    {
+      "text": "bonne",
+      "start": 6.68,
+      "end": 6.86
+    },
+    {
+      "text": "réponse.",
+      "start": 6.86,
+      "end": 7.2
+    },
+    {
+      "text": "Bonjour",
+      "start": 12.12,
+      "end": 12.72
+    },
+    {
+      "text": "et",
+      "start": 12.72,
+      "end": 13.2
+    },
+    {
+      "text": "bienvenue",
+      "start": 13.2,
+      "end": 13.66
+    },
+    {
+      "text": "dans",
+      "start": 13.66,
+      "end": 13.8
+    },
+    {
+      "text": "notre",
+      "start": 13.8,
+      "end": 14.08
+    },
+    {
+      "text": "rubrique",
+      "start": 14.08,
+      "end": 14.5
+    },
+    {
+      "text": "économie.",
+      "start": 14.5,
+      "end": 15.06
+    },
+    {
+      "text": "Nous",
+      "start": 15.94,
+      "end": 16.16
+    },
+    {
+      "text": "allons",
+      "start": 16.16,
+      "end": 16.36
+    },
+    {
+      "text": "nous",
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "text": "intéresser",
+      "start": 16.54,
+      "end": 17.16
+    },
+    {
+      "text": "à",
+      "start": 17.16,
+      "end": 17.36
+    },
+    {
+      "text": "la",
+      "start": 17.36,
+      "end": 17.46
+    },
+    {
+      "text": "recherche",
+      "start": 17.46,
+      "end": 17.8
+    },
+    {
+      "text": "d",
+      "start": 17.8,
+      "end": 18.16
+    },
+    {
+      "text": "'emplois",
+      "start": 18.16,
+      "end": 18.54
+    },
+    {
+      "text": "en",
+      "start": 18.54,
+      "end": 18.84
+    },
+    {
+      "text": "temps",
+      "start": 18.84,
+      "end": 18.94
+    },
+    {
+      "text": "de",
+      "start": 18.94,
+      "end": 19.06
+    },
+    {
+      "text": "crise.",
+      "start": 19.06,
+      "end": 19.32
+    },
+    {
+      "text": "Nous",
+      "start": 20.16,
+      "end": 20.44
+    },
+    {
+      "text": "sommes",
+      "start": 20.44,
+      "end": 20.66
+    },
+    {
+      "text": "avec",
+      "start": 20.66,
+      "end": 20.88
+    },
+    {
+      "text": "Paul",
+      "start": 20.88,
+      "end": 21.16
+    },
+    {
+      "text": "Tevenot,",
+      "start": 21.16,
+      "end": 21.64
+    },
+    {
+      "text": "conseiller",
+      "start": 21.9,
+      "end": 22.26
+    },
+    {
+      "text": "à",
+      "start": 22.26,
+      "end": 22.42
+    },
+    {
+      "text": "Pôle",
+      "start": 22.42,
+      "end": 22.6
+    },
+    {
+      "text": "emploi.",
+      "start": 22.6,
+      "end": 22.98
+    },
+    {
+      "text": "Monsieur",
+      "start": 23.84,
+      "end": 24.16
+    },
+    {
+      "text": "Tevenot,",
+      "start": 24.16,
+      "end": 24.62
+    },
+    {
+      "text": "pourriez",
+      "start": 25.08,
+      "end": 25.34
+    },
+    {
+      "text": "-vous",
+      "start": 25.34,
+      "end": 25.4
+    },
+    {
+      "text": "nous",
+      "start": 25.4,
+      "end": 25.52
+    },
+    {
+      "text": "dire",
+      "start": 25.52,
+      "end": 25.72
+    },
+    {
+      "text": "en",
+      "start": 25.72,
+      "end": 25.94
+    },
+    {
+      "text": "quoi",
+      "start": 25.94,
+      "end": 26.06
+    },
+    {
+      "text": "chercher",
+      "start": 26.06,
+      "end": 26.36
+    },
+    {
+      "text": "un",
+      "start": 26.36,
+      "end": 26.66
+    },
+    {
+      "text": "emploi",
+      "start": 26.66,
+      "end": 27.02
+    },
+    {
+      "text": "en",
+      "start": 27.02,
+      "end": 27.18
+    },
+    {
+      "text": "temps",
+      "start": 27.18,
+      "end": 27.28
+    },
+    {
+      "text": "de",
+      "start": 27.28,
+      "end": 27.4
+    },
+    {
+      "text": "crise",
+      "start": 27.4,
+      "end": 27.8
+    },
+    {
+      "text": "diffère",
+      "start": 27.8,
+      "end": 28.56
+    },
+    {
+      "text": "de",
+      "start": 28.56,
+      "end": 28.72
+    },
+    {
+      "text": "la",
+      "start": 28.72,
+      "end": 28.84
+    },
+    {
+      "text": "recherche",
+      "start": 28.84,
+      "end": 29.18
+    },
+    {
+      "text": "en",
+      "start": 29.18,
+      "end": 29.42
+    },
+    {
+      "text": "temps",
+      "start": 29.42,
+      "end": 29.5
+    },
+    {
+      "text": "normal",
+      "start": 29.5,
+      "end": 29.88
+    },
+    {
+      "text": "?",
+      "start": 29.88,
+      "end": 30.5
+    },
+    {
+      "text": "La",
+      "start": 30.5,
+      "end": 30.78
+    },
+    {
+      "text": "crise",
+      "start": 30.78,
+      "end": 30.98
+    },
+    {
+      "text": "a",
+      "start": 30.98,
+      "end": 31.14
+    },
+    {
+      "text": "changé",
+      "start": 31.14,
+      "end": 31.42
+    },
+    {
+      "text": "les",
+      "start": 31.42,
+      "end": 31.54
+    },
+    {
+      "text": "habitudes",
+      "start": 31.54,
+      "end": 31.96
+    },
+    {
+      "text": "dans",
+      "start": 31.96,
+      "end": 32.08
+    },
+    {
+      "text": "la",
+      "start": 32.08,
+      "end": 32.18
+    },
+    {
+      "text": "vie",
+      "start": 32.18,
+      "end": 32.28
+    },
+    {
+      "text": "professionnelle.",
+      "start": 32.28,
+      "end": 33.06
+    },
+    {
+      "text": "Les",
+      "start": 33.44,
+      "end": 33.64
+    },
+    {
+      "text": "habitudes",
+      "start": 33.64,
+      "end": 33.98
+    },
+    {
+      "text": "de",
+      "start": 33.98,
+      "end": 34.12
+    },
+    {
+      "text": "consommation,",
+      "start": 34.12,
+      "end": 34.7
+    },
+    {
+      "text": "les",
+      "start": 35.28,
+      "end": 35.5
+    },
+    {
+      "text": "modes",
+      "start": 35.5,
+      "end": 35.62
+    },
+    {
+      "text": "de",
+      "start": 35.62,
+      "end": 35.78
+    },
+    {
+      "text": "vie.",
+      "start": 35.78,
+      "end": 35.98
+    },
+    {
+      "text": "Dans",
+      "start": 37.0,
+      "end": 37.24
+    },
+    {
+      "text": "les",
+      "start": 37.24,
+      "end": 37.34
+    },
+    {
+      "text": "entreprises,",
+      "start": 37.34,
+      "end": 37.78
+    },
+    {
+      "text": "les",
+      "start": 38.08,
+      "end": 38.14
+    },
+    {
+      "text": "stratégies",
+      "start": 38.14,
+      "end": 38.7
+    },
+    {
+      "text": "et",
+      "start": 38.7,
+      "end": 38.78
+    },
+    {
+      "text": "les",
+      "start": 38.78,
+      "end": 38.92
+    },
+    {
+      "text": "organisations",
+      "start": 38.92,
+      "end": 39.42
+    },
+    {
+      "text": "changent",
+      "start": 39.42,
+      "end": 39.96
+    },
+    {
+      "text": "souvent",
+      "start": 39.96,
+      "end": 40.24
+    },
+    {
+      "text": "fortement.",
+      "start": 40.24,
+      "end": 40.72
+    },
+    {
+      "text": "Il",
+      "start": 41.82,
+      "end": 42.0
+    },
+    {
+      "text": "serait",
+      "start": 42.0,
+      "end": 42.2
+    },
+    {
+      "text": "curieux",
+      "start": 42.2,
+      "end": 42.58
+    },
+    {
+      "text": "de",
+      "start": 42.58,
+      "end": 42.7
+    },
+    {
+      "text": "chercher",
+      "start": 42.7,
+      "end": 42.9
+    },
+    {
+      "text": "un",
+      "start": 42.9,
+      "end": 43.12
+    },
+    {
+      "text": "emploi",
+      "start": 43.12,
+      "end": 43.48
+    },
+    {
+      "text": "de",
+      "start": 43.48,
+      "end": 43.62
+    },
+    {
+      "text": "la",
+      "start": 43.62,
+      "end": 43.7
+    },
+    {
+      "text": "même",
+      "start": 43.7,
+      "end": 43.86
+    },
+    {
+      "text": "façon,",
+      "start": 43.86,
+      "end": 44.26
+    },
+    {
+      "text": "indépendamment",
+      "start": 44.62,
+      "end": 45.26
+    },
+    {
+      "text": "de",
+      "start": 45.26,
+      "end": 45.46
+    },
+    {
+      "text": "la",
+      "start": 45.46,
+      "end": 45.58
+    },
+    {
+      "text": "crise",
+      "start": 45.58,
+      "end": 45.98
+    },
+    {
+      "text": "et",
+      "start": 45.98,
+      "end": 46.4
+    },
+    {
+      "text": "des",
+      "start": 46.4,
+      "end": 46.5
+    },
+    {
+      "text": "difficultés",
+      "start": 46.5,
+      "end": 47.08
+    },
+    {
+      "text": "que",
+      "start": 47.08,
+      "end": 47.24
+    },
+    {
+      "text": "rencontrent",
+      "start": 47.24,
+      "end": 47.6
+    },
+    {
+      "text": "les",
+      "start": 47.6,
+      "end": 47.74
+    },
+    {
+      "text": "entreprises.",
+      "start": 47.74,
+      "end": 48.14
+    },
+    {
+      "text": "Par",
+      "start": 49.14,
+      "end": 49.32
+    },
+    {
+      "text": "exemple,",
+      "start": 49.32,
+      "end": 49.7
+    },
+    {
+      "text": "en",
+      "start": 50.54,
+      "end": 50.68
+    },
+    {
+      "text": "période",
+      "start": 50.68,
+      "end": 50.98
+    },
+    {
+      "text": "de",
+      "start": 50.98,
+      "end": 51.18
+    },
+    {
+      "text": "prospérité,",
+      "start": 51.18,
+      "end": 51.9
+    },
+    {
+      "text": "les",
+      "start": 52.14,
+      "end": 52.24
+    },
+    {
+      "text": "entreprises",
+      "start": 52.24,
+      "end": 52.68
+    },
+    {
+      "text": "vont",
+      "start": 52.68,
+      "end": 52.94
+    },
+    {
+      "text": "chercher",
+      "start": 52.94,
+      "end": 53.2
+    },
+    {
+      "text": "des",
+      "start": 53.2,
+      "end": 53.4
+    },
+    {
+      "text": "candidats",
+      "start": 53.4,
+      "end": 53.86
+    },
+    {
+      "text": "à",
+      "start": 53.86,
+      "end": 54.0
+    },
+    {
+      "text": "potentiel,",
+      "start": 54.0,
+      "end": 54.62
+    },
+    {
+      "text": "souvent",
+      "start": 54.62,
+      "end": 55.34
+    },
+    {
+      "text": "diplômés,",
+      "start": 55.34,
+      "end": 56.22
+    },
+    {
+      "text": "et",
+      "start": 57.0,
+      "end": 57.26
+    },
+    {
+      "text": "prendront",
+      "start": 57.26,
+      "end": 57.62
+    },
+    {
+      "text": "le",
+      "start": 57.62,
+      "end": 57.76
+    },
+    {
+      "text": "temps",
+      "start": 57.76,
+      "end": 57.9
+    },
+    {
+      "text": "de",
+      "start": 57.9,
+      "end": 57.98
+    },
+    {
+      "text": "les",
+      "start": 57.98,
+      "end": 58.08
+    },
+    {
+      "text": "former.",
+      "start": 58.08,
+      "end": 58.28
+    },
+    {
+      "text": "En",
+      "start": 59.3,
+      "end": 59.5
+    },
+    {
+      "text": "période",
+      "start": 59.5,
+      "end": 59.76
+    },
+    {
+      "text": "de",
+      "start": 59.76,
+      "end": 59.98
+    },
+    {
+      "text": "crise,",
+      "start": 59.98,
+      "end": 60.24
+    },
+    {
+      "text": "on",
+      "start": 60.4,
+      "end": 60.42
+    },
+    {
+      "text": "cherchera",
+      "start": 60.42,
+      "end": 60.86
+    },
+    {
+      "text": "des",
+      "start": 60.86,
+      "end": 61.02
+    },
+    {
+      "text": "candidats",
+      "start": 61.02,
+      "end": 61.42
+    },
+    {
+      "text": "disponibles",
+      "start": 61.42,
+      "end": 62.16
+    },
+    {
+      "text": "sur",
+      "start": 62.16,
+      "end": 62.46
+    },
+    {
+      "text": "le",
+      "start": 62.46,
+      "end": 62.62
+    },
+    {
+      "text": "champ",
+      "start": 62.62,
+      "end": 62.86
+    },
+    {
+      "text": "et",
+      "start": 62.86,
+      "end": 63.66
+    },
+    {
+      "text": "opérationnels,",
+      "start": 63.66,
+      "end": 64.42
+    },
+    {
+      "text": "en",
+      "start": 64.66,
+      "end": 64.88
+    },
+    {
+      "text": "accordant",
+      "start": 64.88,
+      "end": 65.26
+    },
+    {
+      "text": "moins",
+      "start": 65.26,
+      "end": 65.56
+    },
+    {
+      "text": "d",
+      "start": 65.56,
+      "end": 65.74
+    },
+    {
+      "text": "'importance",
+      "start": 65.74,
+      "end": 66.2
+    },
+    {
+      "text": "aux",
+      "start": 66.2,
+      "end": 66.34
+    },
+    {
+      "text": "diplômes",
+      "start": 66.34,
+      "end": 66.96
+    },
+    {
+      "text": "ou",
+      "start": 66.96,
+      "end": 67.5
+    },
+    {
+      "text": "aux",
+      "start": 67.5,
+      "end": 67.62
+    },
+    {
+      "text": "potentiels",
+      "start": 67.62,
+      "end": 68.04
+    },
+    {
+      "text": "d",
+      "start": 68.04,
+      "end": 68.16
+    },
+    {
+      "text": "'évolution",
+      "start": 68.16,
+      "end": 68.46
+    },
+    {
+      "text": "à",
+      "start": 68.46,
+      "end": 68.7
+    },
+    {
+      "text": "moyen",
+      "start": 68.7,
+      "end": 68.86
+    },
+    {
+      "text": "terme.",
+      "start": 68.86,
+      "end": 69.2
+    },
+    {
+      "text": "Quand",
+      "start": 70.6,
+      "end": 71.12
+    },
+    {
+      "text": "vous",
+      "start": 71.12,
+      "end": 71.24
+    },
+    {
+      "text": "présenterait",
+      "start": 71.24,
+      "end": 71.72
+    },
+    {
+      "text": "votre",
+      "start": 71.72,
+      "end": 71.82
+    },
+    {
+      "text": "expérience,",
+      "start": 71.82,
+      "end": 72.34
+    },
+    {
+      "text": "n",
+      "start": 72.6,
+      "end": 72.62
+    },
+    {
+      "text": "'hésitez",
+      "start": 72.62,
+      "end": 72.76
+    },
+    {
+      "text": "pas",
+      "start": 72.76,
+      "end": 73.02
+    },
+    {
+      "text": "à",
+      "start": 73.02,
+      "end": 73.12
+    },
+    {
+      "text": "montrer",
+      "start": 73.12,
+      "end": 73.34
+    },
+    {
+      "text": "les",
+      "start": 73.34,
+      "end": 73.52
+    },
+    {
+      "text": "situations",
+      "start": 73.52,
+      "end": 73.92
+    },
+    {
+      "text": "difficiles",
+      "start": 73.92,
+      "end": 74.5
+    },
+    {
+      "text": "que",
+      "start": 74.5,
+      "end": 74.64
+    },
+    {
+      "text": "vous",
+      "start": 74.64,
+      "end": 74.74
+    },
+    {
+      "text": "avez",
+      "start": 74.74,
+      "end": 74.94
+    },
+    {
+      "text": "surmontées.",
+      "start": 74.94,
+      "end": 75.44
+    },
+    {
+      "text": "On",
+      "start": 76.14,
+      "end": 76.24
+    },
+    {
+      "text": "cherchera",
+      "start": 76.24,
+      "end": 76.62
+    },
+    {
+      "text": "des",
+      "start": 76.62,
+      "end": 76.76
+    },
+    {
+      "text": "profils",
+      "start": 76.76,
+      "end": 77.08
+    },
+    {
+      "text": "plus",
+      "start": 77.08,
+      "end": 77.32
+    },
+    {
+      "text": "de",
+      "start": 77.32,
+      "end": 77.58
+    },
+    {
+      "text": "pompiers",
+      "start": 77.58,
+      "end": 78.08
+    },
+    {
+      "text": "capables",
+      "start": 78.08,
+      "end": 78.68
+    },
+    {
+      "text": "d",
+      "start": 78.68,
+      "end": 78.82
+    },
+    {
+      "text": "'intervenir",
+      "start": 78.82,
+      "end": 79.26
+    },
+    {
+      "text": "dans",
+      "start": 79.26,
+      "end": 79.46
+    },
+    {
+      "text": "l",
+      "start": 79.46,
+      "end": 79.56
+    },
+    {
+      "text": "'urgence",
+      "start": 79.56,
+      "end": 79.98
+    },
+    {
+      "text": "et",
+      "start": 79.98,
+      "end": 80.5
+    },
+    {
+      "text": "avec",
+      "start": 80.5,
+      "end": 80.66
+    },
+    {
+      "text": "sans",
+      "start": 80.66,
+      "end": 80.82
+    },
+    {
+      "text": "froid.",
+      "start": 80.82,
+      "end": 81.06
+    },
+    {
+      "text": "Selon",
+      "start": 81.98,
+      "end": 82.5
+    },
+    {
+      "text": "vous,",
+      "start": 82.5,
+      "end": 82.74
+    },
+    {
+      "text": "quelle",
+      "start": 83.04,
+      "end": 83.16
+    },
+    {
+      "text": "est",
+      "start": 83.16,
+      "end": 83.28
+    },
+    {
+      "text": "la",
+      "start": 83.28,
+      "end": 83.38
+    },
+    {
+      "text": "meilleure",
+      "start": 83.38,
+      "end": 83.72
+    },
+    {
+      "text": "stratégie",
+      "start": 83.72,
+      "end": 84.26
+    },
+    {
+      "text": "pour",
+      "start": 84.26,
+      "end": 84.42
+    },
+    {
+      "text": "trouver",
+      "start": 84.42,
+      "end": 84.7
+    },
+    {
+      "text": "un",
+      "start": 84.7,
+      "end": 84.88
+    },
+    {
+      "text": "emploi",
+      "start": 84.88,
+      "end": 85.3
+    },
+    {
+      "text": "actuellement",
+      "start": 85.3,
+      "end": 85.82
+    },
+    {
+      "text": "dans",
+      "start": 85.82,
+      "end": 86.08
+    },
+    {
+      "text": "l",
+      "start": 86.08,
+      "end": 86.22
+    },
+    {
+      "text": "'industrie",
+      "start": 86.22,
+      "end": 86.6
+    },
+    {
+      "text": "des",
+      "start": 86.6,
+      "end": 86.78
+    },
+    {
+      "text": "télécommunications",
+      "start": 86.78,
+      "end": 87.62
+    },
+    {
+      "text": "?",
+      "start": 87.62,
+      "end": 88.48
+    },
+    {
+      "text": "Mieux",
+      "start": 88.48,
+      "end": 88.76
+    },
+    {
+      "text": "vaut",
+      "start": 88.76,
+      "end": 88.96
+    },
+    {
+      "text": "privilégier",
+      "start": 88.96,
+      "end": 89.56
+    },
+    {
+      "text": "les",
+      "start": 89.56,
+      "end": 89.72
+    },
+    {
+      "text": "candidatures",
+      "start": 89.72,
+      "end": 90.24
+    },
+    {
+      "text": "spontanées,",
+      "start": 90.24,
+      "end": 90.92
+    },
+    {
+      "text": "les",
+      "start": 91.28,
+      "end": 91.36
+    },
+    {
+      "text": "réponses",
+      "start": 91.36,
+      "end": 91.78
+    },
+    {
+      "text": "aux",
+      "start": 91.78,
+      "end": 91.88
+    },
+    {
+      "text": "offres",
+      "start": 91.88,
+      "end": 92.14
+    },
+    {
+      "text": "d",
+      "start": 92.14,
+      "end": 92.28
+    },
+    {
+      "text": "'emplois,",
+      "start": 92.28,
+      "end": 92.62
+    },
+    {
+      "text": "les",
+      "start": 92.86,
+      "end": 92.98
+    },
+    {
+      "text": "réseaux",
+      "start": 92.98,
+      "end": 93.22
+    },
+    {
+      "text": "sociaux",
+      "start": 93.22,
+      "end": 93.6
+    },
+    {
+      "text": "sur",
+      "start": 93.6,
+      "end": 93.88
+    },
+    {
+      "text": "Internet",
+      "start": 93.88,
+      "end": 94.26
+    },
+    {
+      "text": "?",
+      "start": 94.26,
+      "end": 94.88
+    },
+    {
+      "text": "Tout",
+      "start": 94.88,
+      "end": 95.0
+    },
+    {
+      "text": "ce",
+      "start": 95.0,
+      "end": 95.1
+    },
+    {
+      "text": "que",
+      "start": 95.1,
+      "end": 95.2
+    },
+    {
+      "text": "vous",
+      "start": 95.2,
+      "end": 95.32
+    },
+    {
+      "text": "décrivez",
+      "start": 95.32,
+      "end": 95.7
+    },
+    {
+      "text": "est",
+      "start": 95.7,
+      "end": 95.88
+    },
+    {
+      "text": "utile.",
+      "start": 95.88,
+      "end": 96.22
+    },
+    {
+      "text": "Il",
+      "start": 97.04,
+      "end": 97.16
+    },
+    {
+      "text": "convient",
+      "start": 97.16,
+      "end": 97.46
+    },
+    {
+      "text": "de",
+      "start": 97.46,
+      "end": 97.6
+    },
+    {
+      "text": "faire",
+      "start": 97.6,
+      "end": 97.74
+    },
+    {
+      "text": "feu",
+      "start": 97.74,
+      "end": 97.9
+    },
+    {
+      "text": "de",
+      "start": 97.9,
+      "end": 98.04
+    },
+    {
+      "text": "tout",
+      "start": 98.04,
+      "end": 98.18
+    },
+    {
+      "text": "bois,",
+      "start": 98.18,
+      "end": 98.42
+    },
+    {
+      "text": "ce",
+      "start": 99.04,
+      "end": 99.5
+    },
+    {
+      "text": "qui",
+      "start": 99.5,
+      "end": 99.64
+    },
+    {
+      "text": "vous",
+      "start": 99.64,
+      "end": 99.76
+    },
+    {
+      "text": "permet",
+      "start": 99.76,
+      "end": 100.0
+    },
+    {
+      "text": "aussi",
+      "start": 100.0,
+      "end": 100.3
+    },
+    {
+      "text": "de",
+      "start": 100.3,
+      "end": 100.46
+    },
+    {
+      "text": "détecter",
+      "start": 100.46,
+      "end": 100.88
+    },
+    {
+      "text": "les",
+      "start": 100.88,
+      "end": 101.0
+    },
+    {
+      "text": "opportunités",
+      "start": 101.0,
+      "end": 101.64
+    },
+    {
+      "text": "et",
+      "start": 101.64,
+      "end": 101.92
+    },
+    {
+      "text": "les",
+      "start": 101.92,
+      "end": 102.06
+    },
+    {
+      "text": "filières",
+      "start": 102.06,
+      "end": 102.32
+    },
+    {
+      "text": "qui",
+      "start": 102.32,
+      "end": 102.52
+    },
+    {
+      "text": "marchent.",
+      "start": 102.52,
+      "end": 102.92
+    },
+    {
+      "text": "Les",
+      "start": 103.74,
+      "end": 103.92
+    },
+    {
+      "text": "réseaux",
+      "start": 103.92,
+      "end": 104.14
+    },
+    {
+      "text": "sociaux",
+      "start": 104.14,
+      "end": 104.42
+    },
+    {
+      "text": "deviennent",
+      "start": 104.42,
+      "end": 104.76
+    },
+    {
+      "text": "incontournables.",
+      "start": 104.76,
+      "end": 105.46
+    },
+    {
+      "text": "Attention",
+      "start": 106.1,
+      "end": 106.48
+    },
+    {
+      "text": "aux",
+      "start": 106.48,
+      "end": 106.74
+    },
+    {
+      "text": "informations",
+      "start": 106.74,
+      "end": 107.02
+    },
+    {
+      "text": "que",
+      "start": 107.02,
+      "end": 107.38
+    },
+    {
+      "text": "vous",
+      "start": 107.38,
+      "end": 107.5
+    },
+    {
+      "text": "faites",
+      "start": 107.5,
+      "end": 107.66
+    },
+    {
+      "text": "figurer",
+      "start": 107.66,
+      "end": 108.1
+    },
+    {
+      "text": "et",
+      "start": 108.1,
+      "end": 108.3
+    },
+    {
+      "text": "qui",
+      "start": 108.3,
+      "end": 108.36
+    },
+    {
+      "text": "resteront",
+      "start": 108.36,
+      "end": 108.86
+    },
+    {
+      "text": "longtemps",
+      "start": 108.86,
+      "end": 109.2
+    },
+    {
+      "text": "sur",
+      "start": 109.2,
+      "end": 109.42
+    },
+    {
+      "text": "le",
+      "start": 109.42,
+      "end": 109.56
+    },
+    {
+      "text": "net.",
+      "start": 109.56,
+      "end": 109.7
+    },
+    {
+      "text": "Question",
+      "start": 111.48,
+      "end": 112.04
+    },
+    {
+      "text": "26.",
+      "start": 112.04,
+      "end": 112.52
+    },
+    {
+      "text": "D",
+      "start": 113.2,
+      "end": 113.4
+    },
+    {
+      "text": "'après",
+      "start": 113.4,
+      "end": 113.52
+    },
+    {
+      "text": "le",
+      "start": 113.52,
+      "end": 113.74
+    },
+    {
+      "text": "conseiller,",
+      "start": 113.74,
+      "end": 114.26
+    },
+    {
+      "text": "quel",
+      "start": 114.84,
+      "end": 115.02
+    },
+    {
+      "text": "profil",
+      "start": 115.02,
+      "end": 115.52
+    },
+    {
+      "text": "de",
+      "start": 115.52,
+      "end": 115.68
+    },
+    {
+      "text": "candidat",
+      "start": 115.68,
+      "end": 116.18
+    },
+    {
+      "text": "à",
+      "start": 116.18,
+      "end": 116.32
+    },
+    {
+      "text": "l",
+      "start": 116.32,
+      "end": 116.38
+    },
+    {
+      "text": "'emploi,",
+      "start": 116.38,
+      "end": 116.74
+    },
+    {
+      "text": "les",
+      "start": 117.04,
+      "end": 117.12
+    },
+    {
+      "text": "entreprises",
+      "start": 117.12,
+      "end": 117.58
+    },
+    {
+      "text": "recherchent",
+      "start": 117.58,
+      "end": 118.24
+    },
+    {
+      "text": "plus",
+      "start": 118.24,
+      "end": 118.42
+    },
+    {
+      "text": "particulièrement",
+      "start": 118.42,
+      "end": 119.12
+    },
+    {
+      "text": "tant",
+      "start": 119.12,
+      "end": 119.34
+    },
+    {
+      "text": "de",
+      "start": 119.34,
+      "end": 119.48
+    },
+    {
+      "text": "crises",
+      "start": 119.48,
+      "end": 119.78
+    },
+    {
+      "text": "?",
+      "start": 119.78,
+      "end": 120.22
+    },
+    {
+      "text": "Question",
+      "start": 121.08,
+      "end": 121.64
+    },
+    {
+      "text": "27.",
+      "start": 121.64,
+      "end": 122.14
+    },
+    {
+      "text": "D",
+      "start": 122.86,
+      "end": 123.0
+    },
+    {
+      "text": "'après",
+      "start": 123.0,
+      "end": 123.16
+    },
+    {
+      "text": "le",
+      "start": 123.16,
+      "end": 123.32
+    },
+    {
+      "text": "conseiller,",
+      "start": 123.32,
+      "end": 123.84
+    },
+    {
+      "text": "que",
+      "start": 124.48,
+      "end": 124.56
+    },
+    {
+      "text": "doivent",
+      "start": 124.56,
+      "end": 124.74
+    },
+    {
+      "text": "faire",
+      "start": 124.74,
+      "end": 125.04
+    },
+    {
+      "text": "les",
+      "start": 125.04,
+      "end": 125.18
+    },
+    {
+      "text": "candidats",
+      "start": 125.18,
+      "end": 125.58
+    },
+    {
+      "text": "à",
+      "start": 125.58,
+      "end": 125.66
+    },
+    {
+      "text": "l",
+      "start": 125.66,
+      "end": 125.72
+    },
+    {
+      "text": "'emploi",
+      "start": 125.72,
+      "end": 125.98
+    },
+    {
+      "text": "pour",
+      "start": 125.98,
+      "end": 126.14
+    },
+    {
+      "text": "trouver",
+      "start": 126.14,
+      "end": 126.38
+    },
+    {
+      "text": "un",
+      "start": 126.38,
+      "end": 126.52
+    },
+    {
+      "text": "travail",
+      "start": 126.52,
+      "end": 126.84
+    },
+    {
+      "text": "?",
+      "start": 126.84,
+      "end": 127.26
+    }
+  ]
+}

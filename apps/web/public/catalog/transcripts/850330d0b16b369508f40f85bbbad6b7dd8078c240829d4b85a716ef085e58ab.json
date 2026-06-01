@@ -1,0 +1,225 @@
+{
+  "text": "question 10 la randonnée en montagne est un sport pour toute la famille b l'escalade est un sport qui peut être pratiquée par tous c cet enfant aime l'équitation d la natation se pratique aussi bien en salle qu'en plein air",
+  "words": [
+    {
+      "text": "question",
+      "start": 2.0,
+      "end": 2.58
+    },
+    {
+      "text": "10",
+      "start": 2.58,
+      "end": 2.98
+    },
+    {
+      "text": "la",
+      "start": 2.98,
+      "end": 4.22
+    },
+    {
+      "text": "randonnée",
+      "start": 4.22,
+      "end": 5.52
+    },
+    {
+      "text": "en",
+      "start": 5.52,
+      "end": 5.7
+    },
+    {
+      "text": "montagne",
+      "start": 5.7,
+      "end": 6.16
+    },
+    {
+      "text": "est",
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "text": "un",
+      "start": 6.4,
+      "end": 6.54
+    },
+    {
+      "text": "sport",
+      "start": 6.54,
+      "end": 6.8
+    },
+    {
+      "text": "pour",
+      "start": 6.8,
+      "end": 7.06
+    },
+    {
+      "text": "toute",
+      "start": 7.06,
+      "end": 7.32
+    },
+    {
+      "text": "la",
+      "start": 7.32,
+      "end": 7.54
+    },
+    {
+      "text": "famille",
+      "start": 7.54,
+      "end": 7.82
+    },
+    {
+      "text": "b",
+      "start": 9.08,
+      "end": 9.66
+    },
+    {
+      "text": "l",
+      "start": 9.66,
+      "end": 10.24
+    },
+    {
+      "text": "'escalade",
+      "start": 10.24,
+      "end": 10.7
+    },
+    {
+      "text": "est",
+      "start": 10.7,
+      "end": 11.0
+    },
+    {
+      "text": "un",
+      "start": 11.0,
+      "end": 11.16
+    },
+    {
+      "text": "sport",
+      "start": 11.16,
+      "end": 11.46
+    },
+    {
+      "text": "qui",
+      "start": 11.46,
+      "end": 11.7
+    },
+    {
+      "text": "peut",
+      "start": 11.7,
+      "end": 11.88
+    },
+    {
+      "text": "être",
+      "start": 11.88,
+      "end": 12.1
+    },
+    {
+      "text": "pratiquée",
+      "start": 12.1,
+      "end": 12.6
+    },
+    {
+      "text": "par",
+      "start": 12.6,
+      "end": 12.86
+    },
+    {
+      "text": "tous",
+      "start": 12.86,
+      "end": 13.18
+    },
+    {
+      "text": "c",
+      "start": 13.18,
+      "end": 15.04
+    },
+    {
+      "text": "cet",
+      "start": 15.04,
+      "end": 16.12
+    },
+    {
+      "text": "enfant",
+      "start": 16.12,
+      "end": 16.36
+    },
+    {
+      "text": "aime",
+      "start": 16.36,
+      "end": 16.72
+    },
+    {
+      "text": "l",
+      "start": 16.72,
+      "end": 16.86
+    },
+    {
+      "text": "'équitation",
+      "start": 16.86,
+      "end": 17.3
+    },
+    {
+      "text": "d",
+      "start": 19.24,
+      "end": 19.82
+    },
+    {
+      "text": "la",
+      "start": 19.82,
+      "end": 20.4
+    },
+    {
+      "text": "natation",
+      "start": 20.4,
+      "end": 20.94
+    },
+    {
+      "text": "se",
+      "start": 20.94,
+      "end": 21.22
+    },
+    {
+      "text": "pratique",
+      "start": 21.22,
+      "end": 21.48
+    },
+    {
+      "text": "aussi",
+      "start": 21.48,
+      "end": 21.88
+    },
+    {
+      "text": "bien",
+      "start": 21.88,
+      "end": 22.14
+    },
+    {
+      "text": "en",
+      "start": 22.14,
+      "end": 22.36
+    },
+    {
+      "text": "salle",
+      "start": 22.36,
+      "end": 22.7
+    },
+    {
+      "text": "qu",
+      "start": 22.7,
+      "end": 22.88
+    },
+    {
+      "text": "'en",
+      "start": 22.88,
+      "end": 22.94
+    },
+    {
+      "text": "plein",
+      "start": 22.94,
+      "end": 23.1
+    },
+    {
+      "text": "air",
+      "start": 23.1,
+      "end": 23.46
+    }
+  ]
+}

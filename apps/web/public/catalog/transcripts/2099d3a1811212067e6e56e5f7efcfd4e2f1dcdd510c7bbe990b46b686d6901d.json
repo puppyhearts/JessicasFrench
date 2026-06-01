@@ -1,0 +1,390 @@
+{
+  "text": "Question 9. Écoutez le document sonore et la question. Choisissez la bonne réponse. Hotel de la montagne, bonjour. Bonjour monsieur. Je voudrais savoir combien coûtent les chambres ? Nous avons des chambres à 80 euros et des chambres très grandes à 110 euros. Il est possible de réserver une nuit pour le 25 mai prochain ? Oui, il me reste une chambre à 80 euros de disponibles. La femme appelle cet hôtel pour avoir des informations sur...",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "9.",
+      "start": 0.48,
+      "end": 0.9
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.86,
+      "end": 2.36
+    },
+    {
+      "text": "le",
+      "start": 2.36,
+      "end": 2.56
+    },
+    {
+      "text": "document",
+      "start": 2.56,
+      "end": 2.9
+    },
+    {
+      "text": "sonore",
+      "start": 2.9,
+      "end": 3.48
+    },
+    {
+      "text": "et",
+      "start": 3.48,
+      "end": 3.7
+    },
+    {
+      "text": "la",
+      "start": 3.7,
+      "end": 3.84
+    },
+    {
+      "text": "question.",
+      "start": 3.84,
+      "end": 4.2
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.86,
+      "end": 5.34
+    },
+    {
+      "text": "la",
+      "start": 5.34,
+      "end": 5.54
+    },
+    {
+      "text": "bonne",
+      "start": 5.54,
+      "end": 5.7
+    },
+    {
+      "text": "réponse.",
+      "start": 5.7,
+      "end": 6.08
+    },
+    {
+      "text": "Hotel",
+      "start": 8.88,
+      "end": 9.44
+    },
+    {
+      "text": "de",
+      "start": 9.44,
+      "end": 9.64
+    },
+    {
+      "text": "la",
+      "start": 9.64,
+      "end": 9.72
+    },
+    {
+      "text": "montagne,",
+      "start": 9.72,
+      "end": 10.1
+    },
+    {
+      "text": "bonjour.",
+      "start": 10.2,
+      "end": 10.62
+    },
+    {
+      "text": "Bonjour",
+      "start": 11.12,
+      "end": 11.48
+    },
+    {
+      "text": "monsieur.",
+      "start": 11.48,
+      "end": 11.8
+    },
+    {
+      "text": "Je",
+      "start": 12.42,
+      "end": 12.54
+    },
+    {
+      "text": "voudrais",
+      "start": 12.54,
+      "end": 12.78
+    },
+    {
+      "text": "savoir",
+      "start": 12.78,
+      "end": 13.04
+    },
+    {
+      "text": "combien",
+      "start": 13.04,
+      "end": 13.28
+    },
+    {
+      "text": "coûtent",
+      "start": 13.28,
+      "end": 13.68
+    },
+    {
+      "text": "les",
+      "start": 13.68,
+      "end": 13.82
+    },
+    {
+      "text": "chambres",
+      "start": 13.82,
+      "end": 14.24
+    },
+    {
+      "text": "?",
+      "start": 14.24,
+      "end": 15.22
+    },
+    {
+      "text": "Nous",
+      "start": 15.22,
+      "end": 15.52
+    },
+    {
+      "text": "avons",
+      "start": 15.52,
+      "end": 15.7
+    },
+    {
+      "text": "des",
+      "start": 15.7,
+      "end": 15.86
+    },
+    {
+      "text": "chambres",
+      "start": 15.86,
+      "end": 16.12
+    },
+    {
+      "text": "à",
+      "start": 16.12,
+      "end": 16.22
+    },
+    {
+      "text": "80",
+      "start": 16.22,
+      "end": 16.6
+    },
+    {
+      "text": "euros",
+      "start": 16.6,
+      "end": 16.9
+    },
+    {
+      "text": "et",
+      "start": 16.9,
+      "end": 17.26
+    },
+    {
+      "text": "des",
+      "start": 17.26,
+      "end": 17.4
+    },
+    {
+      "text": "chambres",
+      "start": 17.4,
+      "end": 17.78
+    },
+    {
+      "text": "très",
+      "start": 17.78,
+      "end": 18.06
+    },
+    {
+      "text": "grandes",
+      "start": 18.06,
+      "end": 18.42
+    },
+    {
+      "text": "à",
+      "start": 18.42,
+      "end": 18.7
+    },
+    {
+      "text": "110",
+      "start": 18.7,
+      "end": 18.96
+    },
+    {
+      "text": "euros.",
+      "start": 18.96,
+      "end": 19.34
+    },
+    {
+      "text": "Il",
+      "start": 19.86,
+      "end": 20.0
+    },
+    {
+      "text": "est",
+      "start": 20.0,
+      "end": 20.1
+    },
+    {
+      "text": "possible",
+      "start": 20.1,
+      "end": 20.34
+    },
+    {
+      "text": "de",
+      "start": 20.34,
+      "end": 20.56
+    },
+    {
+      "text": "réserver",
+      "start": 20.56,
+      "end": 20.82
+    },
+    {
+      "text": "une",
+      "start": 20.82,
+      "end": 21.0
+    },
+    {
+      "text": "nuit",
+      "start": 21.0,
+      "end": 21.24
+    },
+    {
+      "text": "pour",
+      "start": 21.24,
+      "end": 21.44
+    },
+    {
+      "text": "le",
+      "start": 21.44,
+      "end": 21.56
+    },
+    {
+      "text": "25",
+      "start": 21.56,
+      "end": 21.88
+    },
+    {
+      "text": "mai",
+      "start": 21.88,
+      "end": 22.14
+    },
+    {
+      "text": "prochain",
+      "start": 22.14,
+      "end": 22.48
+    },
+    {
+      "text": "?",
+      "start": 22.48,
+      "end": 23.0
+    },
+    {
+      "text": "Oui,",
+      "start": 23.58,
+      "end": 24.0
+    },
+    {
+      "text": "il",
+      "start": 24.14,
+      "end": 24.2
+    },
+    {
+      "text": "me",
+      "start": 24.2,
+      "end": 24.26
+    },
+    {
+      "text": "reste",
+      "start": 24.26,
+      "end": 24.44
+    },
+    {
+      "text": "une",
+      "start": 24.44,
+      "end": 24.62
+    },
+    {
+      "text": "chambre",
+      "start": 24.62,
+      "end": 24.86
+    },
+    {
+      "text": "à",
+      "start": 24.86,
+      "end": 24.98
+    },
+    {
+      "text": "80",
+      "start": 24.98,
+      "end": 25.32
+    },
+    {
+      "text": "euros",
+      "start": 25.32,
+      "end": 25.6
+    },
+    {
+      "text": "de",
+      "start": 25.6,
+      "end": 25.72
+    },
+    {
+      "text": "disponibles.",
+      "start": 25.72,
+      "end": 26.26
+    },
+    {
+      "text": "La",
+      "start": 28.32,
+      "end": 28.9
+    },
+    {
+      "text": "femme",
+      "start": 28.9,
+      "end": 29.1
+    },
+    {
+      "text": "appelle",
+      "start": 29.1,
+      "end": 29.38
+    },
+    {
+      "text": "cet",
+      "start": 29.38,
+      "end": 29.6
+    },
+    {
+      "text": "hôtel",
+      "start": 29.6,
+      "end": 30.02
+    },
+    {
+      "text": "pour",
+      "start": 30.02,
+      "end": 30.32
+    },
+    {
+      "text": "avoir",
+      "start": 30.32,
+      "end": 30.52
+    },
+    {
+      "text": "des",
+      "start": 30.52,
+      "end": 30.68
+    },
+    {
+      "text": "informations",
+      "start": 30.68,
+      "end": 31.2
+    },
+    {
+      "text": "sur...",
+      "start": 31.2,
+      "end": 31.49
+    }
+  ]
+}

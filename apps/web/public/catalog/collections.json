@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "abc-tcf",
+    "name": "ABC TCF",
+    "website": "ABC TCF / tcfca.com",
+    "question_count": 70,
+    "published_count": 70
+  },
+  {
+    "slug": "boursin",
+    "name": "Boursin J.-L.",
+    "website": "Boursin J.-L. / tcfca.com",
+    "question_count": 104,
+    "published_count": 6
+  },
+  {
+    "slug": "official-guide",
+    "name": "Guide officiel d'entraînement au TCF",
+    "website": "Guide officiel / tcfca.com",
+    "question_count": 58,
+    "published_count": 0
+  },
+  {
+    "slug": "reussir-tcf",
+    "name": "Réussir le TCF",
+    "website": "Réussir le TCF / tcfca.com",
+    "question_count": 110,
+    "published_count": 104
+  },
+  {
+    "slug": "tcf-250",
+    "name": "TCF 250 Activités",
+    "website": "TCF 250 Activités / tcfca.com",
+    "question_count": 88,
+    "published_count": 0
+  },
+  {
+    "slug": "intensif",
+    "name": "TCF Entraînement Intensif",
+    "website": "TCF Entraînement Intensif / tcfca.com",
+    "question_count": 77,
+    "published_count": 12
+  },
+  {
+    "slug": "tv5monde",
+    "name": "TV5Monde Entraînement",
+    "website": "TV5Monde / tcfca.com",
+    "question_count": 337,
+    "published_count": 37
+  }
+]

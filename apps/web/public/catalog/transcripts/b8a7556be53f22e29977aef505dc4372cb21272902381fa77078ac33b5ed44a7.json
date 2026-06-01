@@ -1,0 +1,210 @@
+{
+  "text": "Question 3. Écoutez le document sonore et la question. Choisissez la bonne réponse. Je ne connais pas ton frère. Comment est-il ? A. Il est à la plage. B. Il est grand. C. Il mange beaucoup. D. Il va bien.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "3.",
+      "start": 0.58,
+      "end": 1.02
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.74,
+      "end": 2.38
+    },
+    {
+      "text": "le",
+      "start": 2.38,
+      "end": 2.58
+    },
+    {
+      "text": "document",
+      "start": 2.58,
+      "end": 2.94
+    },
+    {
+      "text": "sonore",
+      "start": 2.94,
+      "end": 3.54
+    },
+    {
+      "text": "et",
+      "start": 3.54,
+      "end": 3.78
+    },
+    {
+      "text": "la",
+      "start": 3.78,
+      "end": 3.92
+    },
+    {
+      "text": "question.",
+      "start": 3.92,
+      "end": 4.3
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.92,
+      "end": 5.4
+    },
+    {
+      "text": "la",
+      "start": 5.4,
+      "end": 5.6
+    },
+    {
+      "text": "bonne",
+      "start": 5.6,
+      "end": 5.78
+    },
+    {
+      "text": "réponse.",
+      "start": 5.78,
+      "end": 6.16
+    },
+    {
+      "text": "Je",
+      "start": 7.3,
+      "end": 7.94
+    },
+    {
+      "text": "ne",
+      "start": 7.94,
+      "end": 8.04
+    },
+    {
+      "text": "connais",
+      "start": 8.04,
+      "end": 8.18
+    },
+    {
+      "text": "pas",
+      "start": 8.18,
+      "end": 8.36
+    },
+    {
+      "text": "ton",
+      "start": 8.36,
+      "end": 8.48
+    },
+    {
+      "text": "frère.",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "Comment",
+      "start": 9.26,
+      "end": 9.44
+    },
+    {
+      "text": "est",
+      "start": 9.44,
+      "end": 9.64
+    },
+    {
+      "text": "-il",
+      "start": 9.64,
+      "end": 9.76
+    },
+    {
+      "text": "?",
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "text": "A.",
+      "start": 11.44,
+      "end": 11.68
+    },
+    {
+      "text": "Il",
+      "start": 12.48,
+      "end": 12.62
+    },
+    {
+      "text": "est",
+      "start": 12.62,
+      "end": 12.78
+    },
+    {
+      "text": "à",
+      "start": 12.78,
+      "end": 12.86
+    },
+    {
+      "text": "la",
+      "start": 12.86,
+      "end": 12.98
+    },
+    {
+      "text": "plage.",
+      "start": 12.98,
+      "end": 13.4
+    },
+    {
+      "text": "B.",
+      "start": 15.04,
+      "end": 15.68
+    },
+    {
+      "text": "Il",
+      "start": 16.44,
+      "end": 16.64
+    },
+    {
+      "text": "est",
+      "start": 16.64,
+      "end": 16.76
+    },
+    {
+      "text": "grand.",
+      "start": 16.76,
+      "end": 17.02
+    },
+    {
+      "text": "C.",
+      "start": 18.62,
+      "end": 19.26
+    },
+    {
+      "text": "Il",
+      "start": 20.0,
+      "end": 20.18
+    },
+    {
+      "text": "mange",
+      "start": 20.18,
+      "end": 20.38
+    },
+    {
+      "text": "beaucoup.",
+      "start": 20.38,
+      "end": 20.7
+    },
+    {
+      "text": "D.",
+      "start": 22.22,
+      "end": 22.86
+    },
+    {
+      "text": "Il",
+      "start": 23.62,
+      "end": 23.8
+    },
+    {
+      "text": "va",
+      "start": 23.8,
+      "end": 23.98
+    },
+    {
+      "text": "bien.",
+      "start": 23.98,
+      "end": 24.26
+    }
+  ]
+}

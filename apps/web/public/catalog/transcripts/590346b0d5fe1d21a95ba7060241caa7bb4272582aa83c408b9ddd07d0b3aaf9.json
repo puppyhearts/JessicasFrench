@@ -1,0 +1,960 @@
+{
+  "text": "Question 27. Écoutez le document sonore et la question. Choisissez la bonne réponse. Dès qu'étant registré une petite augmentation de température, mes collègues climatologues se précipitent à la télévision pour vous décrire les pires scénarios. Et de se retourner vers les agences de recherche pour dire « Vous voyez, nous sommes une priorité, nous avons besoin d'argent ». Ainsi, s'établit cet assemblage instable entre politique véléitaire et scientifique avide de gloire et de moyens. Que le climat change, c'est clair. Les caractéristiques de cette transformation sont doubles. Une augmentation modeste de la température moyenne du globe et une augmentation massive des contrastes climatiques. Il faut se souvenir qu'il a neigé en Ardèche au printemps 2005, qu'en 2004, il a neigé en Bretagne, un phénomène jamais vu depuis 30 ans. Le mois d'août sera caniculaire, peut-être. Peut-être aussi sera-t-il frais et plus vieux. Nul ne peut le dire. Les cassandres de nos petits écrans ne savent en fait pas grand-chose sur ce qui se passera demain, ni dans six mois. Quelle est la critique principale que porte cette personne ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.68
+    },
+    {
+      "text": "27.",
+      "start": 0.68,
+      "end": 1.56
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.3,
+      "end": 2.86
+    },
+    {
+      "text": "le",
+      "start": 2.86,
+      "end": 3.04
+    },
+    {
+      "text": "document",
+      "start": 3.04,
+      "end": 3.38
+    },
+    {
+      "text": "sonore",
+      "start": 3.38,
+      "end": 3.98
+    },
+    {
+      "text": "et",
+      "start": 3.98,
+      "end": 4.3
+    },
+    {
+      "text": "la",
+      "start": 4.3,
+      "end": 4.42
+    },
+    {
+      "text": "question.",
+      "start": 4.42,
+      "end": 4.78
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.52,
+      "end": 6.1
+    },
+    {
+      "text": "la",
+      "start": 6.1,
+      "end": 6.32
+    },
+    {
+      "text": "bonne",
+      "start": 6.32,
+      "end": 6.5
+    },
+    {
+      "text": "réponse.",
+      "start": 6.5,
+      "end": 6.88
+    },
+    {
+      "text": "Dès",
+      "start": 7.8,
+      "end": 8.44
+    },
+    {
+      "text": "qu",
+      "start": 8.44,
+      "end": 8.56
+    },
+    {
+      "text": "'étant",
+      "start": 8.56,
+      "end": 8.7
+    },
+    {
+      "text": "registré",
+      "start": 8.7,
+      "end": 9.22
+    },
+    {
+      "text": "une",
+      "start": 9.22,
+      "end": 9.38
+    },
+    {
+      "text": "petite",
+      "start": 9.38,
+      "end": 9.58
+    },
+    {
+      "text": "augmentation",
+      "start": 9.58,
+      "end": 10.06
+    },
+    {
+      "text": "de",
+      "start": 10.06,
+      "end": 10.38
+    },
+    {
+      "text": "température,",
+      "start": 10.38,
+      "end": 11.04
+    },
+    {
+      "text": "mes",
+      "start": 11.56,
+      "end": 11.66
+    },
+    {
+      "text": "collègues",
+      "start": 11.66,
+      "end": 12.06
+    },
+    {
+      "text": "climatologues",
+      "start": 12.06,
+      "end": 12.88
+    },
+    {
+      "text": "se",
+      "start": 12.88,
+      "end": 13.02
+    },
+    {
+      "text": "précipitent",
+      "start": 13.02,
+      "end": 13.56
+    },
+    {
+      "text": "à",
+      "start": 13.56,
+      "end": 13.6
+    },
+    {
+      "text": "la",
+      "start": 13.6,
+      "end": 13.72
+    },
+    {
+      "text": "télévision",
+      "start": 13.72,
+      "end": 14.28
+    },
+    {
+      "text": "pour",
+      "start": 14.28,
+      "end": 14.72
+    },
+    {
+      "text": "vous",
+      "start": 14.72,
+      "end": 14.86
+    },
+    {
+      "text": "décrire",
+      "start": 14.86,
+      "end": 15.18
+    },
+    {
+      "text": "les",
+      "start": 15.18,
+      "end": 15.48
+    },
+    {
+      "text": "pires",
+      "start": 15.48,
+      "end": 15.78
+    },
+    {
+      "text": "scénarios.",
+      "start": 15.78,
+      "end": 16.32
+    },
+    {
+      "text": "Et",
+      "start": 17.12,
+      "end": 17.42
+    },
+    {
+      "text": "de",
+      "start": 17.42,
+      "end": 17.56
+    },
+    {
+      "text": "se",
+      "start": 17.56,
+      "end": 17.72
+    },
+    {
+      "text": "retourner",
+      "start": 17.72,
+      "end": 18.22
+    },
+    {
+      "text": "vers",
+      "start": 18.22,
+      "end": 18.4
+    },
+    {
+      "text": "les",
+      "start": 18.4,
+      "end": 18.54
+    },
+    {
+      "text": "agences",
+      "start": 18.54,
+      "end": 18.86
+    },
+    {
+      "text": "de",
+      "start": 18.86,
+      "end": 19.06
+    },
+    {
+      "text": "recherche",
+      "start": 19.06,
+      "end": 19.38
+    },
+    {
+      "text": "pour",
+      "start": 19.38,
+      "end": 19.7
+    },
+    {
+      "text": "dire",
+      "start": 19.7,
+      "end": 19.96
+    },
+    {
+      "text": "«",
+      "start": 19.96,
+      "end": 20.58
+    },
+    {
+      "text": "Vous",
+      "start": 20.58,
+      "end": 20.68
+    },
+    {
+      "text": "voyez,",
+      "start": 20.68,
+      "end": 21.0
+    },
+    {
+      "text": "nous",
+      "start": 21.36,
+      "end": 21.46
+    },
+    {
+      "text": "sommes",
+      "start": 21.46,
+      "end": 21.68
+    },
+    {
+      "text": "une",
+      "start": 21.68,
+      "end": 21.88
+    },
+    {
+      "text": "priorité,",
+      "start": 21.88,
+      "end": 22.54
+    },
+    {
+      "text": "nous",
+      "start": 22.9,
+      "end": 23.02
+    },
+    {
+      "text": "avons",
+      "start": 23.02,
+      "end": 23.24
+    },
+    {
+      "text": "besoin",
+      "start": 23.24,
+      "end": 23.58
+    },
+    {
+      "text": "d",
+      "start": 23.58,
+      "end": 23.76
+    },
+    {
+      "text": "'argent",
+      "start": 23.76,
+      "end": 24.02
+    },
+    {
+      "text": "».",
+      "start": 24.02,
+      "end": 24.96
+    },
+    {
+      "text": "Ainsi,",
+      "start": 24.96,
+      "end": 25.36
+    },
+    {
+      "text": "s",
+      "start": 25.56,
+      "end": 25.56
+    },
+    {
+      "text": "'établit",
+      "start": 25.56,
+      "end": 25.88
+    },
+    {
+      "text": "cet",
+      "start": 25.88,
+      "end": 26.08
+    },
+    {
+      "text": "assemblage",
+      "start": 26.08,
+      "end": 26.54
+    },
+    {
+      "text": "instable",
+      "start": 26.54,
+      "end": 27.18
+    },
+    {
+      "text": "entre",
+      "start": 27.18,
+      "end": 27.78
+    },
+    {
+      "text": "politique",
+      "start": 27.78,
+      "end": 28.32
+    },
+    {
+      "text": "véléitaire",
+      "start": 28.32,
+      "end": 29.02
+    },
+    {
+      "text": "et",
+      "start": 29.02,
+      "end": 29.66
+    },
+    {
+      "text": "scientifique",
+      "start": 29.66,
+      "end": 30.48
+    },
+    {
+      "text": "avide",
+      "start": 30.48,
+      "end": 31.08
+    },
+    {
+      "text": "de",
+      "start": 31.08,
+      "end": 31.34
+    },
+    {
+      "text": "gloire",
+      "start": 31.34,
+      "end": 31.82
+    },
+    {
+      "text": "et",
+      "start": 31.82,
+      "end": 32.0
+    },
+    {
+      "text": "de",
+      "start": 32.0,
+      "end": 32.12
+    },
+    {
+      "text": "moyens.",
+      "start": 32.12,
+      "end": 32.46
+    },
+    {
+      "text": "Que",
+      "start": 33.38,
+      "end": 33.7
+    },
+    {
+      "text": "le",
+      "start": 33.7,
+      "end": 33.84
+    },
+    {
+      "text": "climat",
+      "start": 33.84,
+      "end": 34.18
+    },
+    {
+      "text": "change,",
+      "start": 34.18,
+      "end": 34.62
+    },
+    {
+      "text": "c",
+      "start": 34.98,
+      "end": 35.16
+    },
+    {
+      "text": "'est",
+      "start": 35.16,
+      "end": 35.2
+    },
+    {
+      "text": "clair.",
+      "start": 35.2,
+      "end": 35.44
+    },
+    {
+      "text": "Les",
+      "start": 36.26,
+      "end": 36.4
+    },
+    {
+      "text": "caractéristiques",
+      "start": 36.4,
+      "end": 37.14
+    },
+    {
+      "text": "de",
+      "start": 37.14,
+      "end": 37.28
+    },
+    {
+      "text": "cette",
+      "start": 37.28,
+      "end": 37.4
+    },
+    {
+      "text": "transformation",
+      "start": 37.4,
+      "end": 37.84
+    },
+    {
+      "text": "sont",
+      "start": 37.84,
+      "end": 38.32
+    },
+    {
+      "text": "doubles.",
+      "start": 38.32,
+      "end": 38.64
+    },
+    {
+      "text": "Une",
+      "start": 39.34,
+      "end": 39.54
+    },
+    {
+      "text": "augmentation",
+      "start": 39.54,
+      "end": 39.9
+    },
+    {
+      "text": "modeste",
+      "start": 39.9,
+      "end": 40.58
+    },
+    {
+      "text": "de",
+      "start": 40.58,
+      "end": 40.76
+    },
+    {
+      "text": "la",
+      "start": 40.76,
+      "end": 40.88
+    },
+    {
+      "text": "température",
+      "start": 40.88,
+      "end": 41.38
+    },
+    {
+      "text": "moyenne",
+      "start": 41.38,
+      "end": 41.8
+    },
+    {
+      "text": "du",
+      "start": 41.8,
+      "end": 41.94
+    },
+    {
+      "text": "globe",
+      "start": 41.94,
+      "end": 42.24
+    },
+    {
+      "text": "et",
+      "start": 42.24,
+      "end": 43.04
+    },
+    {
+      "text": "une",
+      "start": 43.04,
+      "end": 43.2
+    },
+    {
+      "text": "augmentation",
+      "start": 43.2,
+      "end": 43.58
+    },
+    {
+      "text": "massive",
+      "start": 43.58,
+      "end": 44.26
+    },
+    {
+      "text": "des",
+      "start": 44.26,
+      "end": 44.84
+    },
+    {
+      "text": "contrastes",
+      "start": 44.84,
+      "end": 45.46
+    },
+    {
+      "text": "climatiques.",
+      "start": 45.46,
+      "end": 46.08
+    },
+    {
+      "text": "Il",
+      "start": 47.08,
+      "end": 47.32
+    },
+    {
+      "text": "faut",
+      "start": 47.32,
+      "end": 47.46
+    },
+    {
+      "text": "se",
+      "start": 47.46,
+      "end": 47.62
+    },
+    {
+      "text": "souvenir",
+      "start": 47.62,
+      "end": 47.9
+    },
+    {
+      "text": "qu",
+      "start": 47.9,
+      "end": 48.2
+    },
+    {
+      "text": "'il",
+      "start": 48.2,
+      "end": 48.26
+    },
+    {
+      "text": "a",
+      "start": 48.26,
+      "end": 48.38
+    },
+    {
+      "text": "neigé",
+      "start": 48.38,
+      "end": 48.76
+    },
+    {
+      "text": "en",
+      "start": 48.76,
+      "end": 48.92
+    },
+    {
+      "text": "Ardèche",
+      "start": 48.92,
+      "end": 49.44
+    },
+    {
+      "text": "au",
+      "start": 49.44,
+      "end": 49.9
+    },
+    {
+      "text": "printemps",
+      "start": 49.9,
+      "end": 50.24
+    },
+    {
+      "text": "2005,",
+      "start": 50.24,
+      "end": 51.02
+    },
+    {
+      "text": "qu",
+      "start": 51.44,
+      "end": 51.74
+    },
+    {
+      "text": "'en",
+      "start": 51.74,
+      "end": 51.8
+    },
+    {
+      "text": "2004,",
+      "start": 51.8,
+      "end": 52.34
+    },
+    {
+      "text": "il",
+      "start": 52.78,
+      "end": 53.0
+    },
+    {
+      "text": "a",
+      "start": 53.0,
+      "end": 53.1
+    },
+    {
+      "text": "neigé",
+      "start": 53.1,
+      "end": 53.38
+    },
+    {
+      "text": "en",
+      "start": 53.38,
+      "end": 53.5
+    },
+    {
+      "text": "Bretagne,",
+      "start": 53.5,
+      "end": 54.1
+    },
+    {
+      "text": "un",
+      "start": 54.1,
+      "end": 54.8
+    },
+    {
+      "text": "phénomène",
+      "start": 54.8,
+      "end": 55.28
+    },
+    {
+      "text": "jamais",
+      "start": 55.28,
+      "end": 55.5
+    },
+    {
+      "text": "vu",
+      "start": 55.5,
+      "end": 55.84
+    },
+    {
+      "text": "depuis",
+      "start": 55.84,
+      "end": 56.18
+    },
+    {
+      "text": "30",
+      "start": 56.18,
+      "end": 56.58
+    },
+    {
+      "text": "ans.",
+      "start": 56.58,
+      "end": 56.74
+    },
+    {
+      "text": "Le",
+      "start": 57.64,
+      "end": 57.84
+    },
+    {
+      "text": "mois",
+      "start": 57.84,
+      "end": 57.98
+    },
+    {
+      "text": "d",
+      "start": 57.98,
+      "end": 58.14
+    },
+    {
+      "text": "'août",
+      "start": 58.14,
+      "end": 58.3
+    },
+    {
+      "text": "sera",
+      "start": 58.3,
+      "end": 58.78
+    },
+    {
+      "text": "caniculaire,",
+      "start": 58.78,
+      "end": 59.82
+    },
+    {
+      "text": "peut",
+      "start": 60.06,
+      "end": 60.3
+    },
+    {
+      "text": "-être.",
+      "start": 60.3,
+      "end": 60.68
+    },
+    {
+      "text": "Peut",
+      "start": 61.36,
+      "end": 61.68
+    },
+    {
+      "text": "-être",
+      "start": 61.68,
+      "end": 61.84
+    },
+    {
+      "text": "aussi",
+      "start": 61.84,
+      "end": 62.18
+    },
+    {
+      "text": "sera",
+      "start": 62.18,
+      "end": 62.44
+    },
+    {
+      "text": "-t",
+      "start": 62.44,
+      "end": 62.62
+    },
+    {
+      "text": "-il",
+      "start": 62.62,
+      "end": 62.7
+    },
+    {
+      "text": "frais",
+      "start": 62.7,
+      "end": 63.16
+    },
+    {
+      "text": "et",
+      "start": 63.16,
+      "end": 63.3
+    },
+    {
+      "text": "plus",
+      "start": 63.3,
+      "end": 63.48
+    },
+    {
+      "text": "vieux.",
+      "start": 63.48,
+      "end": 63.72
+    },
+    {
+      "text": "Nul",
+      "start": 64.56,
+      "end": 64.88
+    },
+    {
+      "text": "ne",
+      "start": 64.88,
+      "end": 65.06
+    },
+    {
+      "text": "peut",
+      "start": 65.06,
+      "end": 65.2
+    },
+    {
+      "text": "le",
+      "start": 65.2,
+      "end": 65.32
+    },
+    {
+      "text": "dire.",
+      "start": 65.32,
+      "end": 65.58
+    },
+    {
+      "text": "Les",
+      "start": 66.52,
+      "end": 66.64
+    },
+    {
+      "text": "cassandres",
+      "start": 66.64,
+      "end": 67.26
+    },
+    {
+      "text": "de",
+      "start": 67.26,
+      "end": 67.42
+    },
+    {
+      "text": "nos",
+      "start": 67.42,
+      "end": 67.54
+    },
+    {
+      "text": "petits",
+      "start": 67.54,
+      "end": 67.76
+    },
+    {
+      "text": "écrans",
+      "start": 67.76,
+      "end": 68.24
+    },
+    {
+      "text": "ne",
+      "start": 68.24,
+      "end": 68.74
+    },
+    {
+      "text": "savent",
+      "start": 68.74,
+      "end": 69.02
+    },
+    {
+      "text": "en",
+      "start": 69.02,
+      "end": 69.14
+    },
+    {
+      "text": "fait",
+      "start": 69.14,
+      "end": 69.34
+    },
+    {
+      "text": "pas",
+      "start": 69.34,
+      "end": 69.62
+    },
+    {
+      "text": "grand",
+      "start": 69.62,
+      "end": 69.84
+    },
+    {
+      "text": "-chose",
+      "start": 69.84,
+      "end": 70.34
+    },
+    {
+      "text": "sur",
+      "start": 70.34,
+      "end": 70.9
+    },
+    {
+      "text": "ce",
+      "start": 70.9,
+      "end": 71.06
+    },
+    {
+      "text": "qui",
+      "start": 71.06,
+      "end": 71.2
+    },
+    {
+      "text": "se",
+      "start": 71.2,
+      "end": 71.36
+    },
+    {
+      "text": "passera",
+      "start": 71.36,
+      "end": 71.72
+    },
+    {
+      "text": "demain,",
+      "start": 71.72,
+      "end": 72.06
+    },
+    {
+      "text": "ni",
+      "start": 72.42,
+      "end": 72.64
+    },
+    {
+      "text": "dans",
+      "start": 72.64,
+      "end": 72.8
+    },
+    {
+      "text": "six",
+      "start": 72.8,
+      "end": 73.04
+    },
+    {
+      "text": "mois.",
+      "start": 73.04,
+      "end": 73.22
+    },
+    {
+      "text": "Quelle",
+      "start": 74.48,
+      "end": 75.0
+    },
+    {
+      "text": "est",
+      "start": 75.0,
+      "end": 75.06
+    },
+    {
+      "text": "la",
+      "start": 75.06,
+      "end": 75.16
+    },
+    {
+      "text": "critique",
+      "start": 75.16,
+      "end": 75.44
+    },
+    {
+      "text": "principale",
+      "start": 75.44,
+      "end": 76.16
+    },
+    {
+      "text": "que",
+      "start": 76.16,
+      "end": 76.32
+    },
+    {
+      "text": "porte",
+      "start": 76.32,
+      "end": 76.58
+    },
+    {
+      "text": "cette",
+      "start": 76.58,
+      "end": 76.86
+    },
+    {
+      "text": "personne",
+      "start": 76.86,
+      "end": 77.36
+    },
+    {
+      "text": "?",
+      "start": 77.36,
+      "end": 77.9
+    }
+  ]
+}

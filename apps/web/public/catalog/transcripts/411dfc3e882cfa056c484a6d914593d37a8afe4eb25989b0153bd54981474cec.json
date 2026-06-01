@@ -1,0 +1,445 @@
+{
+  "text": "Question 11. Écoutez le document sonore et la question. Choisissez la bonne réponse. Si vous rêvez d'être une star de la télé-réalité, l'organisme Québec Vacance propose un séjour de 14 jours pour les 15-17 ans intitulés « Faites à comédies ». Les participants sont logés dans un camping à Gaspé et, en fonction des goûts, peuvent s'inscrire dans un atelier musique et chant, un atelier vidéo, un atelier chorégraphie ou enfin un atelier théâtre. À qui s'adresse le séjour, Faites à comédies.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "11.",
+      "start": 0.58,
+      "end": 1.38
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.42,
+      "end": 3.02
+    },
+    {
+      "text": "le",
+      "start": 3.02,
+      "end": 3.2
+    },
+    {
+      "text": "document",
+      "start": 3.2,
+      "end": 3.56
+    },
+    {
+      "text": "sonore",
+      "start": 3.56,
+      "end": 4.18
+    },
+    {
+      "text": "et",
+      "start": 4.18,
+      "end": 4.48
+    },
+    {
+      "text": "la",
+      "start": 4.48,
+      "end": 4.6
+    },
+    {
+      "text": "question.",
+      "start": 4.6,
+      "end": 4.98
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.76,
+      "end": 6.26
+    },
+    {
+      "text": "la",
+      "start": 6.26,
+      "end": 6.48
+    },
+    {
+      "text": "bonne",
+      "start": 6.48,
+      "end": 6.66
+    },
+    {
+      "text": "réponse.",
+      "start": 6.66,
+      "end": 7.04
+    },
+    {
+      "text": "Si",
+      "start": 11.16,
+      "end": 11.76
+    },
+    {
+      "text": "vous",
+      "start": 11.76,
+      "end": 11.94
+    },
+    {
+      "text": "rêvez",
+      "start": 11.94,
+      "end": 12.18
+    },
+    {
+      "text": "d",
+      "start": 12.18,
+      "end": 12.32
+    },
+    {
+      "text": "'être",
+      "start": 12.32,
+      "end": 12.4
+    },
+    {
+      "text": "une",
+      "start": 12.4,
+      "end": 12.58
+    },
+    {
+      "text": "star",
+      "start": 12.58,
+      "end": 12.8
+    },
+    {
+      "text": "de",
+      "start": 12.8,
+      "end": 12.98
+    },
+    {
+      "text": "la",
+      "start": 12.98,
+      "end": 13.12
+    },
+    {
+      "text": "télé",
+      "start": 13.12,
+      "end": 13.26
+    },
+    {
+      "text": "-réalité,",
+      "start": 13.26,
+      "end": 13.84
+    },
+    {
+      "text": "l",
+      "start": 14.3,
+      "end": 14.44
+    },
+    {
+      "text": "'organisme",
+      "start": 14.44,
+      "end": 14.9
+    },
+    {
+      "text": "Québec",
+      "start": 14.9,
+      "end": 15.16
+    },
+    {
+      "text": "Vacance",
+      "start": 15.16,
+      "end": 15.74
+    },
+    {
+      "text": "propose",
+      "start": 15.74,
+      "end": 16.16
+    },
+    {
+      "text": "un",
+      "start": 16.16,
+      "end": 16.46
+    },
+    {
+      "text": "séjour",
+      "start": 16.46,
+      "end": 16.82
+    },
+    {
+      "text": "de",
+      "start": 16.82,
+      "end": 17.04
+    },
+    {
+      "text": "14",
+      "start": 17.04,
+      "end": 17.3
+    },
+    {
+      "text": "jours",
+      "start": 17.3,
+      "end": 17.78
+    },
+    {
+      "text": "pour",
+      "start": 17.78,
+      "end": 18.28
+    },
+    {
+      "text": "les",
+      "start": 18.28,
+      "end": 18.4
+    },
+    {
+      "text": "15",
+      "start": 18.4,
+      "end": 18.62
+    },
+    {
+      "text": "-17",
+      "start": 18.62,
+      "end": 18.98
+    },
+    {
+      "text": "ans",
+      "start": 18.98,
+      "end": 19.28
+    },
+    {
+      "text": "intitulés",
+      "start": 19.28,
+      "end": 20.04
+    },
+    {
+      "text": "«",
+      "start": 20.04,
+      "end": 20.42
+    },
+    {
+      "text": "Faites",
+      "start": 20.42,
+      "end": 20.58
+    },
+    {
+      "text": "à",
+      "start": 20.58,
+      "end": 20.68
+    },
+    {
+      "text": "comédies",
+      "start": 20.68,
+      "end": 21.04
+    },
+    {
+      "text": "».",
+      "start": 21.04,
+      "end": 21.58
+    },
+    {
+      "text": "Les",
+      "start": 21.58,
+      "end": 21.88
+    },
+    {
+      "text": "participants",
+      "start": 21.88,
+      "end": 22.4
+    },
+    {
+      "text": "sont",
+      "start": 22.4,
+      "end": 22.76
+    },
+    {
+      "text": "logés",
+      "start": 22.76,
+      "end": 23.06
+    },
+    {
+      "text": "dans",
+      "start": 23.06,
+      "end": 23.18
+    },
+    {
+      "text": "un",
+      "start": 23.18,
+      "end": 23.36
+    },
+    {
+      "text": "camping",
+      "start": 23.36,
+      "end": 23.74
+    },
+    {
+      "text": "à",
+      "start": 23.74,
+      "end": 24.1
+    },
+    {
+      "text": "Gaspé",
+      "start": 24.1,
+      "end": 24.52
+    },
+    {
+      "text": "et,",
+      "start": 24.52,
+      "end": 25.12
+    },
+    {
+      "text": "en",
+      "start": 25.28,
+      "end": 25.38
+    },
+    {
+      "text": "fonction",
+      "start": 25.38,
+      "end": 25.62
+    },
+    {
+      "text": "des",
+      "start": 25.62,
+      "end": 25.9
+    },
+    {
+      "text": "goûts,",
+      "start": 25.9,
+      "end": 26.16
+    },
+    {
+      "text": "peuvent",
+      "start": 26.44,
+      "end": 26.64
+    },
+    {
+      "text": "s",
+      "start": 26.64,
+      "end": 26.82
+    },
+    {
+      "text": "'inscrire",
+      "start": 26.82,
+      "end": 27.14
+    },
+    {
+      "text": "dans",
+      "start": 27.14,
+      "end": 27.4
+    },
+    {
+      "text": "un",
+      "start": 27.4,
+      "end": 27.58
+    },
+    {
+      "text": "atelier",
+      "start": 27.58,
+      "end": 28.02
+    },
+    {
+      "text": "musique",
+      "start": 28.02,
+      "end": 28.58
+    },
+    {
+      "text": "et",
+      "start": 28.58,
+      "end": 28.72
+    },
+    {
+      "text": "chant,",
+      "start": 28.72,
+      "end": 28.88
+    },
+    {
+      "text": "un",
+      "start": 29.32,
+      "end": 29.42
+    },
+    {
+      "text": "atelier",
+      "start": 29.42,
+      "end": 29.86
+    },
+    {
+      "text": "vidéo,",
+      "start": 29.86,
+      "end": 30.4
+    },
+    {
+      "text": "un",
+      "start": 30.88,
+      "end": 30.92
+    },
+    {
+      "text": "atelier",
+      "start": 30.92,
+      "end": 31.34
+    },
+    {
+      "text": "chorégraphie",
+      "start": 31.34,
+      "end": 32.18
+    },
+    {
+      "text": "ou",
+      "start": 32.18,
+      "end": 32.6
+    },
+    {
+      "text": "enfin",
+      "start": 32.6,
+      "end": 32.94
+    },
+    {
+      "text": "un",
+      "start": 32.94,
+      "end": 33.3
+    },
+    {
+      "text": "atelier",
+      "start": 33.3,
+      "end": 33.74
+    },
+    {
+      "text": "théâtre.",
+      "start": 33.74,
+      "end": 34.24
+    },
+    {
+      "text": "À",
+      "start": 36.14,
+      "end": 36.94
+    },
+    {
+      "text": "qui",
+      "start": 36.94,
+      "end": 37.16
+    },
+    {
+      "text": "s",
+      "start": 37.16,
+      "end": 37.3
+    },
+    {
+      "text": "'adresse",
+      "start": 37.3,
+      "end": 37.52
+    },
+    {
+      "text": "le",
+      "start": 37.52,
+      "end": 37.72
+    },
+    {
+      "text": "séjour,",
+      "start": 37.72,
+      "end": 38.12
+    },
+    {
+      "text": "Faites",
+      "start": 38.58,
+      "end": 38.76
+    },
+    {
+      "text": "à",
+      "start": 38.76,
+      "end": 38.82
+    },
+    {
+      "text": "comédies.",
+      "start": 38.82,
+      "end": 39.24
+    }
+  ]
+}

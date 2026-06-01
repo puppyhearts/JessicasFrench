@@ -1,0 +1,805 @@
+{
+  "text": "Question 29. Écoutez le document sonore et la question. Choisissez la bonne réponse. La dépression aiguë est une maladie fréquente. Plusieurs études ont cherché à comprendre pourquoi les déprimer ne parvenaient pas à atteindre un niveau normal de concentration et de mémorisation. Ces recherches ont montré que ces troubles intellectuels étaient habituellement associés à une activité cérébrale réduite, au repos de certaines régions cérébrales cortex préfrontales. Les chercheurs de l'INSERM et du CNRS nuant cette interprétation. Ils ont comparé le fonctionnement du cerveau de personnes saines à celui de déprimer au cours d'exercices de mémorisation. Ils ont démontré que les patients déprimés, à performance égale, activaient de manière plus forte leur cerveau, région préfrontale. Les troubles de la fonction cérébrale des déprimés ne se limitraient donc pas à une réduction de l'activité cérébrale, au repos, mais seraient avantage liés à un problème de mobilisation excessive des ressources cérébrales lors de l'exécution de tâches intellectuelles plus difficiles.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "29.",
+      "start": 0.58,
+      "end": 1.52
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.3,
+      "end": 2.94
+    },
+    {
+      "text": "le",
+      "start": 2.94,
+      "end": 3.12
+    },
+    {
+      "text": "document",
+      "start": 3.12,
+      "end": 3.5
+    },
+    {
+      "text": "sonore",
+      "start": 3.5,
+      "end": 4.1
+    },
+    {
+      "text": "et",
+      "start": 4.1,
+      "end": 4.4
+    },
+    {
+      "text": "la",
+      "start": 4.4,
+      "end": 4.52
+    },
+    {
+      "text": "question.",
+      "start": 4.52,
+      "end": 4.88
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.64,
+      "end": 6.2
+    },
+    {
+      "text": "la",
+      "start": 6.2,
+      "end": 6.42
+    },
+    {
+      "text": "bonne",
+      "start": 6.42,
+      "end": 6.58
+    },
+    {
+      "text": "réponse.",
+      "start": 6.58,
+      "end": 6.96
+    },
+    {
+      "text": "La",
+      "start": 8.24,
+      "end": 8.98
+    },
+    {
+      "text": "dépression",
+      "start": 8.98,
+      "end": 9.44
+    },
+    {
+      "text": "aiguë",
+      "start": 9.44,
+      "end": 10.0
+    },
+    {
+      "text": "est",
+      "start": 10.0,
+      "end": 10.14
+    },
+    {
+      "text": "une",
+      "start": 10.14,
+      "end": 10.28
+    },
+    {
+      "text": "maladie",
+      "start": 10.28,
+      "end": 10.6
+    },
+    {
+      "text": "fréquente.",
+      "start": 10.6,
+      "end": 11.1
+    },
+    {
+      "text": "Plusieurs",
+      "start": 11.96,
+      "end": 12.32
+    },
+    {
+      "text": "études",
+      "start": 12.32,
+      "end": 12.66
+    },
+    {
+      "text": "ont",
+      "start": 12.66,
+      "end": 12.8
+    },
+    {
+      "text": "cherché",
+      "start": 12.8,
+      "end": 13.14
+    },
+    {
+      "text": "à",
+      "start": 13.14,
+      "end": 13.26
+    },
+    {
+      "text": "comprendre",
+      "start": 13.26,
+      "end": 13.62
+    },
+    {
+      "text": "pourquoi",
+      "start": 13.62,
+      "end": 14.14
+    },
+    {
+      "text": "les",
+      "start": 14.14,
+      "end": 14.32
+    },
+    {
+      "text": "déprimer",
+      "start": 14.32,
+      "end": 14.72
+    },
+    {
+      "text": "ne",
+      "start": 14.72,
+      "end": 15.36
+    },
+    {
+      "text": "parvenaient",
+      "start": 15.36,
+      "end": 15.78
+    },
+    {
+      "text": "pas",
+      "start": 15.78,
+      "end": 16.02
+    },
+    {
+      "text": "à",
+      "start": 16.02,
+      "end": 16.14
+    },
+    {
+      "text": "atteindre",
+      "start": 16.14,
+      "end": 16.5
+    },
+    {
+      "text": "un",
+      "start": 16.5,
+      "end": 16.66
+    },
+    {
+      "text": "niveau",
+      "start": 16.66,
+      "end": 16.86
+    },
+    {
+      "text": "normal",
+      "start": 16.86,
+      "end": 17.26
+    },
+    {
+      "text": "de",
+      "start": 17.26,
+      "end": 17.46
+    },
+    {
+      "text": "concentration",
+      "start": 17.46,
+      "end": 18.04
+    },
+    {
+      "text": "et",
+      "start": 18.04,
+      "end": 18.5
+    },
+    {
+      "text": "de",
+      "start": 18.5,
+      "end": 18.66
+    },
+    {
+      "text": "mémorisation.",
+      "start": 18.66,
+      "end": 19.22
+    },
+    {
+      "text": "Ces",
+      "start": 20.06,
+      "end": 20.62
+    },
+    {
+      "text": "recherches",
+      "start": 20.62,
+      "end": 21.16
+    },
+    {
+      "text": "ont",
+      "start": 21.16,
+      "end": 21.32
+    },
+    {
+      "text": "montré",
+      "start": 21.32,
+      "end": 21.68
+    },
+    {
+      "text": "que",
+      "start": 21.68,
+      "end": 21.84
+    },
+    {
+      "text": "ces",
+      "start": 21.84,
+      "end": 21.98
+    },
+    {
+      "text": "troubles",
+      "start": 21.98,
+      "end": 22.3
+    },
+    {
+      "text": "intellectuels",
+      "start": 22.3,
+      "end": 23.14
+    },
+    {
+      "text": "étaient",
+      "start": 23.14,
+      "end": 23.48
+    },
+    {
+      "text": "habituellement",
+      "start": 23.48,
+      "end": 24.08
+    },
+    {
+      "text": "associés",
+      "start": 24.08,
+      "end": 24.74
+    },
+    {
+      "text": "à",
+      "start": 24.74,
+      "end": 24.82
+    },
+    {
+      "text": "une",
+      "start": 24.82,
+      "end": 24.92
+    },
+    {
+      "text": "activité",
+      "start": 24.92,
+      "end": 25.4
+    },
+    {
+      "text": "cérébrale",
+      "start": 25.4,
+      "end": 25.98
+    },
+    {
+      "text": "réduite,",
+      "start": 25.98,
+      "end": 26.46
+    },
+    {
+      "text": "au",
+      "start": 26.46,
+      "end": 27.02
+    },
+    {
+      "text": "repos",
+      "start": 27.02,
+      "end": 27.34
+    },
+    {
+      "text": "de",
+      "start": 27.34,
+      "end": 27.98
+    },
+    {
+      "text": "certaines",
+      "start": 27.98,
+      "end": 28.24
+    },
+    {
+      "text": "régions",
+      "start": 28.24,
+      "end": 28.76
+    },
+    {
+      "text": "cérébrales",
+      "start": 28.76,
+      "end": 29.44
+    },
+    {
+      "text": "cortex",
+      "start": 29.44,
+      "end": 30.26
+    },
+    {
+      "text": "préfrontales.",
+      "start": 30.26,
+      "end": 31.4
+    },
+    {
+      "text": "Les",
+      "start": 32.0,
+      "end": 32.8
+    },
+    {
+      "text": "chercheurs",
+      "start": 32.8,
+      "end": 33.28
+    },
+    {
+      "text": "de",
+      "start": 33.28,
+      "end": 33.42
+    },
+    {
+      "text": "l",
+      "start": 33.42,
+      "end": 33.56
+    },
+    {
+      "text": "'INSERM",
+      "start": 33.56,
+      "end": 34.0
+    },
+    {
+      "text": "et",
+      "start": 34.0,
+      "end": 34.2
+    },
+    {
+      "text": "du",
+      "start": 34.2,
+      "end": 34.32
+    },
+    {
+      "text": "CNRS",
+      "start": 34.32,
+      "end": 35.0
+    },
+    {
+      "text": "nuant",
+      "start": 35.0,
+      "end": 35.82
+    },
+    {
+      "text": "cette",
+      "start": 35.82,
+      "end": 36.02
+    },
+    {
+      "text": "interprétation.",
+      "start": 36.02,
+      "end": 36.74
+    },
+    {
+      "text": "Ils",
+      "start": 37.36,
+      "end": 37.54
+    },
+    {
+      "text": "ont",
+      "start": 37.54,
+      "end": 37.7
+    },
+    {
+      "text": "comparé",
+      "start": 37.7,
+      "end": 38.12
+    },
+    {
+      "text": "le",
+      "start": 38.12,
+      "end": 38.26
+    },
+    {
+      "text": "fonctionnement",
+      "start": 38.26,
+      "end": 38.8
+    },
+    {
+      "text": "du",
+      "start": 38.8,
+      "end": 38.96
+    },
+    {
+      "text": "cerveau",
+      "start": 38.96,
+      "end": 39.36
+    },
+    {
+      "text": "de",
+      "start": 39.36,
+      "end": 39.46
+    },
+    {
+      "text": "personnes",
+      "start": 39.46,
+      "end": 39.78
+    },
+    {
+      "text": "saines",
+      "start": 39.78,
+      "end": 40.28
+    },
+    {
+      "text": "à",
+      "start": 40.28,
+      "end": 40.92
+    },
+    {
+      "text": "celui",
+      "start": 40.92,
+      "end": 41.14
+    },
+    {
+      "text": "de",
+      "start": 41.14,
+      "end": 41.32
+    },
+    {
+      "text": "déprimer",
+      "start": 41.32,
+      "end": 41.72
+    },
+    {
+      "text": "au",
+      "start": 41.72,
+      "end": 42.38
+    },
+    {
+      "text": "cours",
+      "start": 42.38,
+      "end": 42.54
+    },
+    {
+      "text": "d",
+      "start": 42.54,
+      "end": 42.68
+    },
+    {
+      "text": "'exercices",
+      "start": 42.68,
+      "end": 43.12
+    },
+    {
+      "text": "de",
+      "start": 43.12,
+      "end": 43.26
+    },
+    {
+      "text": "mémorisation.",
+      "start": 43.26,
+      "end": 43.8
+    },
+    {
+      "text": "Ils",
+      "start": 44.48,
+      "end": 44.74
+    },
+    {
+      "text": "ont",
+      "start": 44.74,
+      "end": 44.9
+    },
+    {
+      "text": "démontré",
+      "start": 44.9,
+      "end": 45.36
+    },
+    {
+      "text": "que",
+      "start": 45.36,
+      "end": 45.48
+    },
+    {
+      "text": "les",
+      "start": 45.48,
+      "end": 45.6
+    },
+    {
+      "text": "patients",
+      "start": 45.6,
+      "end": 45.88
+    },
+    {
+      "text": "déprimés,",
+      "start": 45.88,
+      "end": 46.42
+    },
+    {
+      "text": "à",
+      "start": 46.52,
+      "end": 47.0
+    },
+    {
+      "text": "performance",
+      "start": 47.0,
+      "end": 47.38
+    },
+    {
+      "text": "égale,",
+      "start": 47.38,
+      "end": 47.98
+    },
+    {
+      "text": "activaient",
+      "start": 48.46,
+      "end": 48.92
+    },
+    {
+      "text": "de",
+      "start": 48.92,
+      "end": 49.02
+    },
+    {
+      "text": "manière",
+      "start": 49.02,
+      "end": 49.22
+    },
+    {
+      "text": "plus",
+      "start": 49.22,
+      "end": 49.56
+    },
+    {
+      "text": "forte",
+      "start": 49.56,
+      "end": 49.88
+    },
+    {
+      "text": "leur",
+      "start": 49.88,
+      "end": 50.1
+    },
+    {
+      "text": "cerveau,",
+      "start": 50.1,
+      "end": 50.64
+    },
+    {
+      "text": "région",
+      "start": 51.04,
+      "end": 51.66
+    },
+    {
+      "text": "préfrontale.",
+      "start": 51.66,
+      "end": 52.58
+    },
+    {
+      "text": "Les",
+      "start": 53.5,
+      "end": 53.82
+    },
+    {
+      "text": "troubles",
+      "start": 53.82,
+      "end": 54.12
+    },
+    {
+      "text": "de",
+      "start": 54.12,
+      "end": 54.32
+    },
+    {
+      "text": "la",
+      "start": 54.32,
+      "end": 54.42
+    },
+    {
+      "text": "fonction",
+      "start": 54.42,
+      "end": 54.7
+    },
+    {
+      "text": "cérébrale",
+      "start": 54.7,
+      "end": 55.38
+    },
+    {
+      "text": "des",
+      "start": 55.38,
+      "end": 55.52
+    },
+    {
+      "text": "déprimés",
+      "start": 55.52,
+      "end": 56.04
+    },
+    {
+      "text": "ne",
+      "start": 56.34,
+      "end": 56.66
+    },
+    {
+      "text": "se",
+      "start": 56.66,
+      "end": 56.82
+    },
+    {
+      "text": "limitraient",
+      "start": 56.82,
+      "end": 57.4
+    },
+    {
+      "text": "donc",
+      "start": 57.4,
+      "end": 57.52
+    },
+    {
+      "text": "pas",
+      "start": 57.52,
+      "end": 57.94
+    },
+    {
+      "text": "à",
+      "start": 57.94,
+      "end": 58.16
+    },
+    {
+      "text": "une",
+      "start": 58.16,
+      "end": 58.26
+    },
+    {
+      "text": "réduction",
+      "start": 58.26,
+      "end": 58.62
+    },
+    {
+      "text": "de",
+      "start": 58.62,
+      "end": 58.84
+    },
+    {
+      "text": "l",
+      "start": 58.84,
+      "end": 58.94
+    },
+    {
+      "text": "'activité",
+      "start": 58.94,
+      "end": 59.38
+    },
+    {
+      "text": "cérébrale,",
+      "start": 59.38,
+      "end": 60.06
+    },
+    {
+      "text": "au",
+      "start": 60.2,
+      "end": 60.48
+    },
+    {
+      "text": "repos,",
+      "start": 60.48,
+      "end": 60.82
+    },
+    {
+      "text": "mais",
+      "start": 61.42,
+      "end": 61.56
+    },
+    {
+      "text": "seraient",
+      "start": 61.56,
+      "end": 61.88
+    },
+    {
+      "text": "avantage",
+      "start": 61.88,
+      "end": 62.18
+    },
+    {
+      "text": "liés",
+      "start": 62.18,
+      "end": 62.72
+    },
+    {
+      "text": "à",
+      "start": 62.72,
+      "end": 62.9
+    },
+    {
+      "text": "un",
+      "start": 62.9,
+      "end": 63.0
+    },
+    {
+      "text": "problème",
+      "start": 63.0,
+      "end": 63.34
+    },
+    {
+      "text": "de",
+      "start": 63.34,
+      "end": 63.52
+    },
+    {
+      "text": "mobilisation",
+      "start": 63.52,
+      "end": 64.24
+    },
+    {
+      "text": "excessive",
+      "start": 64.24,
+      "end": 64.94
+    },
+    {
+      "text": "des",
+      "start": 64.94,
+      "end": 65.2
+    },
+    {
+      "text": "ressources",
+      "start": 65.2,
+      "end": 65.66
+    },
+    {
+      "text": "cérébrales",
+      "start": 65.66,
+      "end": 66.42
+    },
+    {
+      "text": "lors",
+      "start": 66.42,
+      "end": 67.12
+    },
+    {
+      "text": "de",
+      "start": 67.12,
+      "end": 67.3
+    },
+    {
+      "text": "l",
+      "start": 67.3,
+      "end": 67.4
+    },
+    {
+      "text": "'exécution",
+      "start": 67.4,
+      "end": 67.92
+    },
+    {
+      "text": "de",
+      "start": 67.92,
+      "end": 68.1
+    },
+    {
+      "text": "tâches",
+      "start": 68.1,
+      "end": 68.44
+    },
+    {
+      "text": "intellectuelles",
+      "start": 68.44,
+      "end": 69.22
+    },
+    {
+      "text": "plus",
+      "start": 69.22,
+      "end": 69.36
+    },
+    {
+      "text": "difficiles.",
+      "start": 69.36,
+      "end": 69.94
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "text": "La nuit dernière, des pluies diluviennes se sont abattues sur le sud-ouest. Les habitants du petit village de Kerala ont dû sortir de leur maison. Et vers 2h du matin, la municipalité a demandé à tout le monde d'évacuer le village. Les habitants ont passé le reste de la nuit dans le gymnase d'un village voisin. Ce matin, la plupart des maisons étaient encore sous l'eau, mais les violentes intempéries de la nuit dernière n'auraient fait aucune victime. Nous referons un point sur la situation dans notre flash de 10 heures. Question 18. Que s'est-il passé la nuit dernière ?",
+  "words": [
+    {
+      "text": "La",
+      "start": 4.2,
+      "end": 4.6
+    },
+    {
+      "text": "nuit",
+      "start": 4.6,
+      "end": 4.7
+    },
+    {
+      "text": "dernière,",
+      "start": 4.7,
+      "end": 5.08
+    },
+    {
+      "text": "des",
+      "start": 5.32,
+      "end": 5.44
+    },
+    {
+      "text": "pluies",
+      "start": 5.44,
+      "end": 5.66
+    },
+    {
+      "text": "diluviennes",
+      "start": 5.66,
+      "end": 6.28
+    },
+    {
+      "text": "se",
+      "start": 6.28,
+      "end": 6.4
+    },
+    {
+      "text": "sont",
+      "start": 6.4,
+      "end": 6.58
+    },
+    {
+      "text": "abattues",
+      "start": 6.58,
+      "end": 6.96
+    },
+    {
+      "text": "sur",
+      "start": 6.96,
+      "end": 7.1
+    },
+    {
+      "text": "le",
+      "start": 7.1,
+      "end": 7.22
+    },
+    {
+      "text": "sud",
+      "start": 7.22,
+      "end": 7.34
+    },
+    {
+      "text": "-ouest.",
+      "start": 7.34,
+      "end": 7.68
+    },
+    {
+      "text": "Les",
+      "start": 7.9,
+      "end": 8.0
+    },
+    {
+      "text": "habitants",
+      "start": 8.0,
+      "end": 8.36
+    },
+    {
+      "text": "du",
+      "start": 8.36,
+      "end": 8.48
+    },
+    {
+      "text": "petit",
+      "start": 8.48,
+      "end": 8.68
+    },
+    {
+      "text": "village",
+      "start": 8.68,
+      "end": 8.98
+    },
+    {
+      "text": "de",
+      "start": 8.98,
+      "end": 9.18
+    },
+    {
+      "text": "Kerala",
+      "start": 9.18,
+      "end": 9.62
+    },
+    {
+      "text": "ont",
+      "start": 9.62,
+      "end": 10.08
+    },
+    {
+      "text": "dû",
+      "start": 10.08,
+      "end": 10.18
+    },
+    {
+      "text": "sortir",
+      "start": 10.18,
+      "end": 10.52
+    },
+    {
+      "text": "de",
+      "start": 10.52,
+      "end": 10.68
+    },
+    {
+      "text": "leur",
+      "start": 10.68,
+      "end": 10.82
+    },
+    {
+      "text": "maison.",
+      "start": 10.82,
+      "end": 11.12
+    },
+    {
+      "text": "Et",
+      "start": 11.64,
+      "end": 11.72
+    },
+    {
+      "text": "vers",
+      "start": 11.72,
+      "end": 11.84
+    },
+    {
+      "text": "2h",
+      "start": 11.84,
+      "end": 12.14
+    },
+    {
+      "text": "du",
+      "start": 12.14,
+      "end": 12.24
+    },
+    {
+      "text": "matin,",
+      "start": 12.24,
+      "end": 12.48
+    },
+    {
+      "text": "la",
+      "start": 12.62,
+      "end": 12.7
+    },
+    {
+      "text": "municipalité",
+      "start": 12.7,
+      "end": 13.44
+    },
+    {
+      "text": "a",
+      "start": 13.44,
+      "end": 13.56
+    },
+    {
+      "text": "demandé",
+      "start": 13.56,
+      "end": 13.84
+    },
+    {
+      "text": "à",
+      "start": 13.84,
+      "end": 14.04
+    },
+    {
+      "text": "tout",
+      "start": 14.04,
+      "end": 14.22
+    },
+    {
+      "text": "le",
+      "start": 14.22,
+      "end": 14.36
+    },
+    {
+      "text": "monde",
+      "start": 14.36,
+      "end": 14.58
+    },
+    {
+      "text": "d",
+      "start": 14.58,
+      "end": 14.86
+    },
+    {
+      "text": "'évacuer",
+      "start": 14.86,
+      "end": 15.18
+    },
+    {
+      "text": "le",
+      "start": 15.18,
+      "end": 15.3
+    },
+    {
+      "text": "village.",
+      "start": 15.3,
+      "end": 15.5
+    },
+    {
+      "text": "Les",
+      "start": 16.02,
+      "end": 16.14
+    },
+    {
+      "text": "habitants",
+      "start": 16.14,
+      "end": 16.54
+    },
+    {
+      "text": "ont",
+      "start": 16.54,
+      "end": 16.92
+    },
+    {
+      "text": "passé",
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "text": "le",
+      "start": 17.14,
+      "end": 17.3
+    },
+    {
+      "text": "reste",
+      "start": 17.3,
+      "end": 17.54
+    },
+    {
+      "text": "de",
+      "start": 17.54,
+      "end": 17.76
+    },
+    {
+      "text": "la",
+      "start": 17.76,
+      "end": 17.86
+    },
+    {
+      "text": "nuit",
+      "start": 17.86,
+      "end": 18.0
+    },
+    {
+      "text": "dans",
+      "start": 18.0,
+      "end": 18.38
+    },
+    {
+      "text": "le",
+      "start": 18.38,
+      "end": 18.5
+    },
+    {
+      "text": "gymnase",
+      "start": 18.5,
+      "end": 18.86
+    },
+    {
+      "text": "d",
+      "start": 18.86,
+      "end": 19.02
+    },
+    {
+      "text": "'un",
+      "start": 19.02,
+      "end": 19.08
+    },
+    {
+      "text": "village",
+      "start": 19.08,
+      "end": 19.3
+    },
+    {
+      "text": "voisin.",
+      "start": 19.3,
+      "end": 19.78
+    },
+    {
+      "text": "Ce",
+      "start": 20.3,
+      "end": 20.52
+    },
+    {
+      "text": "matin,",
+      "start": 20.52,
+      "end": 20.72
+    },
+    {
+      "text": "la",
+      "start": 21.02,
+      "end": 21.1
+    },
+    {
+      "text": "plupart",
+      "start": 21.1,
+      "end": 21.3
+    },
+    {
+      "text": "des",
+      "start": 21.3,
+      "end": 21.56
+    },
+    {
+      "text": "maisons",
+      "start": 21.56,
+      "end": 21.84
+    },
+    {
+      "text": "étaient",
+      "start": 21.84,
+      "end": 22.02
+    },
+    {
+      "text": "encore",
+      "start": 22.02,
+      "end": 22.22
+    },
+    {
+      "text": "sous",
+      "start": 22.22,
+      "end": 22.5
+    },
+    {
+      "text": "l",
+      "start": 22.5,
+      "end": 22.6
+    },
+    {
+      "text": "'eau,",
+      "start": 22.6,
+      "end": 22.68
+    },
+    {
+      "text": "mais",
+      "start": 22.86,
+      "end": 23.0
+    },
+    {
+      "text": "les",
+      "start": 23.0,
+      "end": 23.1
+    },
+    {
+      "text": "violentes",
+      "start": 23.1,
+      "end": 23.44
+    },
+    {
+      "text": "intempéries",
+      "start": 23.44,
+      "end": 23.98
+    },
+    {
+      "text": "de",
+      "start": 23.98,
+      "end": 24.1
+    },
+    {
+      "text": "la",
+      "start": 24.1,
+      "end": 24.2
+    },
+    {
+      "text": "nuit",
+      "start": 24.2,
+      "end": 24.3
+    },
+    {
+      "text": "dernière",
+      "start": 24.3,
+      "end": 24.7
+    },
+    {
+      "text": "n",
+      "start": 24.7,
+      "end": 24.84
+    },
+    {
+      "text": "'auraient",
+      "start": 24.84,
+      "end": 25.0
+    },
+    {
+      "text": "fait",
+      "start": 25.0,
+      "end": 25.14
+    },
+    {
+      "text": "aucune",
+      "start": 25.14,
+      "end": 25.48
+    },
+    {
+      "text": "victime.",
+      "start": 25.48,
+      "end": 25.98
+    },
+    {
+      "text": "Nous",
+      "start": 26.4,
+      "end": 26.52
+    },
+    {
+      "text": "referons",
+      "start": 26.52,
+      "end": 26.9
+    },
+    {
+      "text": "un",
+      "start": 26.9,
+      "end": 27.02
+    },
+    {
+      "text": "point",
+      "start": 27.02,
+      "end": 27.2
+    },
+    {
+      "text": "sur",
+      "start": 27.2,
+      "end": 27.38
+    },
+    {
+      "text": "la",
+      "start": 27.38,
+      "end": 27.5
+    },
+    {
+      "text": "situation",
+      "start": 27.5,
+      "end": 28.0
+    },
+    {
+      "text": "dans",
+      "start": 28.0,
+      "end": 28.18
+    },
+    {
+      "text": "notre",
+      "start": 28.18,
+      "end": 28.4
+    },
+    {
+      "text": "flash",
+      "start": 28.4,
+      "end": 28.7
+    },
+    {
+      "text": "de",
+      "start": 28.7,
+      "end": 28.88
+    },
+    {
+      "text": "10",
+      "start": 28.88,
+      "end": 29.04
+    },
+    {
+      "text": "heures.",
+      "start": 29.04,
+      "end": 29.2
+    },
+    {
+      "text": "Question",
+      "start": 34.02,
+      "end": 34.84
+    },
+    {
+      "text": "18.",
+      "start": 34.84,
+      "end": 35.58
+    },
+    {
+      "text": "Que",
+      "start": 36.3,
+      "end": 37.12
+    },
+    {
+      "text": "s",
+      "start": 37.12,
+      "end": 37.26
+    },
+    {
+      "text": "'est",
+      "start": 37.26,
+      "end": 37.3
+    },
+    {
+      "text": "-il",
+      "start": 37.3,
+      "end": 37.48
+    },
+    {
+      "text": "passé",
+      "start": 37.48,
+      "end": 37.84
+    },
+    {
+      "text": "la",
+      "start": 37.84,
+      "end": 38.1
+    },
+    {
+      "text": "nuit",
+      "start": 38.1,
+      "end": 38.24
+    },
+    {
+      "text": "dernière",
+      "start": 38.24,
+      "end": 38.7
+    },
+    {
+      "text": "?",
+      "start": 38.7,
+      "end": 40.68
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "text": "Question 16. Écoutez le document sonore et la question. Choisissez la bonne réponse. En cette semaine, serge, vous venez avec un conseil, celui de nous munir d'une bonne paire de jumelles dès demain. Pourquoi ? Et bien parce que demain, c'est la pleine lune. Alors, la pleine lune n'est pas un événement exceptionnel, puisqu'il se renouvelle tous les mois très régulièrement, mais demain, cette pleine lune sera un peu particulière. Elle est un peu particulière parce que c'est la pleine lune la plus proche de l'année. C'est-à-dire la pleine lune arrive au moment où la lune est le plus proche de la Terre. Donc, ça va être un bel événement. La pleine lune, vous vous souvenez, c'est quand notre satellite est éclairé de face par le Soleil. Donc, effectivement, sa phase est pleine. Quelle est la particularité de l'événement évoqué dans cette émission de radio ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": "16.",
+      "start": 0.6,
+      "end": 1.22
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.36,
+      "end": 2.84
+    },
+    {
+      "text": "le",
+      "start": 2.84,
+      "end": 3.02
+    },
+    {
+      "text": "document",
+      "start": 3.02,
+      "end": 3.38
+    },
+    {
+      "text": "sonore",
+      "start": 3.38,
+      "end": 3.98
+    },
+    {
+      "text": "et",
+      "start": 3.98,
+      "end": 4.28
+    },
+    {
+      "text": "la",
+      "start": 4.28,
+      "end": 4.42
+    },
+    {
+      "text": "question.",
+      "start": 4.42,
+      "end": 4.78
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.6,
+      "end": 6.08
+    },
+    {
+      "text": "la",
+      "start": 6.08,
+      "end": 6.3
+    },
+    {
+      "text": "bonne",
+      "start": 6.3,
+      "end": 6.48
+    },
+    {
+      "text": "réponse.",
+      "start": 6.48,
+      "end": 6.86
+    },
+    {
+      "text": "En",
+      "start": 7.86,
+      "end": 8.34
+    },
+    {
+      "text": "cette",
+      "start": 8.34,
+      "end": 8.52
+    },
+    {
+      "text": "semaine,",
+      "start": 8.52,
+      "end": 8.82
+    },
+    {
+      "text": "serge,",
+      "start": 8.9,
+      "end": 9.14
+    },
+    {
+      "text": "vous",
+      "start": 9.28,
+      "end": 9.28
+    },
+    {
+      "text": "venez",
+      "start": 9.28,
+      "end": 9.46
+    },
+    {
+      "text": "avec",
+      "start": 9.46,
+      "end": 9.72
+    },
+    {
+      "text": "un",
+      "start": 9.72,
+      "end": 9.94
+    },
+    {
+      "text": "conseil,",
+      "start": 9.94,
+      "end": 10.52
+    },
+    {
+      "text": "celui",
+      "start": 10.98,
+      "end": 11.2
+    },
+    {
+      "text": "de",
+      "start": 11.2,
+      "end": 11.46
+    },
+    {
+      "text": "nous",
+      "start": 11.46,
+      "end": 11.6
+    },
+    {
+      "text": "munir",
+      "start": 11.6,
+      "end": 12.02
+    },
+    {
+      "text": "d",
+      "start": 12.02,
+      "end": 12.16
+    },
+    {
+      "text": "'une",
+      "start": 12.16,
+      "end": 12.26
+    },
+    {
+      "text": "bonne",
+      "start": 12.26,
+      "end": 12.46
+    },
+    {
+      "text": "paire",
+      "start": 12.46,
+      "end": 12.82
+    },
+    {
+      "text": "de",
+      "start": 12.82,
+      "end": 12.98
+    },
+    {
+      "text": "jumelles",
+      "start": 12.98,
+      "end": 13.44
+    },
+    {
+      "text": "dès",
+      "start": 13.44,
+      "end": 13.72
+    },
+    {
+      "text": "demain.",
+      "start": 13.72,
+      "end": 14.14
+    },
+    {
+      "text": "Pourquoi",
+      "start": 14.68,
+      "end": 14.88
+    },
+    {
+      "text": "?",
+      "start": 14.88,
+      "end": 15.1
+    },
+    {
+      "text": "Et",
+      "start": 15.1,
+      "end": 15.12
+    },
+    {
+      "text": "bien",
+      "start": 15.12,
+      "end": 15.22
+    },
+    {
+      "text": "parce",
+      "start": 15.22,
+      "end": 15.46
+    },
+    {
+      "text": "que",
+      "start": 15.46,
+      "end": 15.62
+    },
+    {
+      "text": "demain,",
+      "start": 15.62,
+      "end": 15.98
+    },
+    {
+      "text": "c",
+      "start": 16.32,
+      "end": 16.32
+    },
+    {
+      "text": "'est",
+      "start": 16.32,
+      "end": 16.38
+    },
+    {
+      "text": "la",
+      "start": 16.38,
+      "end": 16.5
+    },
+    {
+      "text": "pleine",
+      "start": 16.5,
+      "end": 16.82
+    },
+    {
+      "text": "lune.",
+      "start": 16.82,
+      "end": 17.06
+    },
+    {
+      "text": "Alors,",
+      "start": 17.3,
+      "end": 17.32
+    },
+    {
+      "text": "la",
+      "start": 17.48,
+      "end": 17.54
+    },
+    {
+      "text": "pleine",
+      "start": 17.54,
+      "end": 17.76
+    },
+    {
+      "text": "lune",
+      "start": 17.76,
+      "end": 17.94
+    },
+    {
+      "text": "n",
+      "start": 17.94,
+      "end": 18.08
+    },
+    {
+      "text": "'est",
+      "start": 18.08,
+      "end": 18.12
+    },
+    {
+      "text": "pas",
+      "start": 18.12,
+      "end": 18.24
+    },
+    {
+      "text": "un",
+      "start": 18.24,
+      "end": 18.46
+    },
+    {
+      "text": "événement",
+      "start": 18.46,
+      "end": 18.86
+    },
+    {
+      "text": "exceptionnel,",
+      "start": 18.86,
+      "end": 19.46
+    },
+    {
+      "text": "puisqu",
+      "start": 19.5,
+      "end": 19.64
+    },
+    {
+      "text": "'il",
+      "start": 19.64,
+      "end": 19.86
+    },
+    {
+      "text": "se",
+      "start": 19.86,
+      "end": 20.08
+    },
+    {
+      "text": "renouvelle",
+      "start": 20.08,
+      "end": 20.94
+    },
+    {
+      "text": "tous",
+      "start": 20.94,
+      "end": 21.26
+    },
+    {
+      "text": "les",
+      "start": 21.26,
+      "end": 21.44
+    },
+    {
+      "text": "mois",
+      "start": 21.44,
+      "end": 21.62
+    },
+    {
+      "text": "très",
+      "start": 21.62,
+      "end": 21.96
+    },
+    {
+      "text": "régulièrement,",
+      "start": 21.96,
+      "end": 22.2
+    },
+    {
+      "text": "mais",
+      "start": 22.74,
+      "end": 22.84
+    },
+    {
+      "text": "demain,",
+      "start": 22.84,
+      "end": 23.26
+    },
+    {
+      "text": "cette",
+      "start": 23.66,
+      "end": 24.02
+    },
+    {
+      "text": "pleine",
+      "start": 24.02,
+      "end": 24.3
+    },
+    {
+      "text": "lune",
+      "start": 24.3,
+      "end": 24.56
+    },
+    {
+      "text": "sera",
+      "start": 24.56,
+      "end": 24.98
+    },
+    {
+      "text": "un",
+      "start": 24.98,
+      "end": 25.76
+    },
+    {
+      "text": "peu",
+      "start": 25.76,
+      "end": 25.94
+    },
+    {
+      "text": "particulière.",
+      "start": 25.94,
+      "end": 26.72
+    },
+    {
+      "text": "Elle",
+      "start": 26.72,
+      "end": 27.2
+    },
+    {
+      "text": "est",
+      "start": 27.2,
+      "end": 27.28
+    },
+    {
+      "text": "un",
+      "start": 27.28,
+      "end": 27.42
+    },
+    {
+      "text": "peu",
+      "start": 27.42,
+      "end": 27.58
+    },
+    {
+      "text": "particulière",
+      "start": 27.58,
+      "end": 28.48
+    },
+    {
+      "text": "parce",
+      "start": 28.48,
+      "end": 28.86
+    },
+    {
+      "text": "que",
+      "start": 28.86,
+      "end": 29.1
+    },
+    {
+      "text": "c",
+      "start": 29.1,
+      "end": 29.54
+    },
+    {
+      "text": "'est",
+      "start": 29.54,
+      "end": 29.58
+    },
+    {
+      "text": "la",
+      "start": 29.58,
+      "end": 29.74
+    },
+    {
+      "text": "pleine",
+      "start": 29.74,
+      "end": 30.1
+    },
+    {
+      "text": "lune",
+      "start": 30.1,
+      "end": 30.44
+    },
+    {
+      "text": "la",
+      "start": 30.44,
+      "end": 30.86
+    },
+    {
+      "text": "plus",
+      "start": 30.86,
+      "end": 31.04
+    },
+    {
+      "text": "proche",
+      "start": 31.04,
+      "end": 31.52
+    },
+    {
+      "text": "de",
+      "start": 31.52,
+      "end": 31.74
+    },
+    {
+      "text": "l",
+      "start": 31.74,
+      "end": 31.84
+    },
+    {
+      "text": "'année.",
+      "start": 31.84,
+      "end": 32.04
+    },
+    {
+      "text": "C",
+      "start": 32.26,
+      "end": 32.26
+    },
+    {
+      "text": "'est",
+      "start": 32.26,
+      "end": 32.28
+    },
+    {
+      "text": "-à",
+      "start": 32.28,
+      "end": 32.44
+    },
+    {
+      "text": "-dire",
+      "start": 32.44,
+      "end": 32.56
+    },
+    {
+      "text": "la",
+      "start": 32.56,
+      "end": 32.72
+    },
+    {
+      "text": "pleine",
+      "start": 32.72,
+      "end": 32.98
+    },
+    {
+      "text": "lune",
+      "start": 32.98,
+      "end": 33.2
+    },
+    {
+      "text": "arrive",
+      "start": 33.2,
+      "end": 33.44
+    },
+    {
+      "text": "au",
+      "start": 33.44,
+      "end": 33.96
+    },
+    {
+      "text": "moment",
+      "start": 33.96,
+      "end": 34.24
+    },
+    {
+      "text": "où",
+      "start": 34.24,
+      "end": 34.6
+    },
+    {
+      "text": "la",
+      "start": 34.6,
+      "end": 34.72
+    },
+    {
+      "text": "lune",
+      "start": 34.72,
+      "end": 35.0
+    },
+    {
+      "text": "est",
+      "start": 35.0,
+      "end": 35.12
+    },
+    {
+      "text": "le",
+      "start": 35.12,
+      "end": 35.22
+    },
+    {
+      "text": "plus",
+      "start": 35.22,
+      "end": 35.38
+    },
+    {
+      "text": "proche",
+      "start": 35.38,
+      "end": 35.62
+    },
+    {
+      "text": "de",
+      "start": 35.62,
+      "end": 35.7
+    },
+    {
+      "text": "la",
+      "start": 35.7,
+      "end": 35.82
+    },
+    {
+      "text": "Terre.",
+      "start": 35.82,
+      "end": 36.06
+    },
+    {
+      "text": "Donc,",
+      "start": 36.52,
+      "end": 36.54
+    },
+    {
+      "text": "ça",
+      "start": 36.58,
+      "end": 36.7
+    },
+    {
+      "text": "va",
+      "start": 36.7,
+      "end": 36.8
+    },
+    {
+      "text": "être",
+      "start": 36.8,
+      "end": 36.92
+    },
+    {
+      "text": "un",
+      "start": 36.92,
+      "end": 37.04
+    },
+    {
+      "text": "bel",
+      "start": 37.04,
+      "end": 37.14
+    },
+    {
+      "text": "événement.",
+      "start": 37.14,
+      "end": 37.6
+    },
+    {
+      "text": "La",
+      "start": 37.98,
+      "end": 38.06
+    },
+    {
+      "text": "pleine",
+      "start": 38.06,
+      "end": 38.28
+    },
+    {
+      "text": "lune,",
+      "start": 38.28,
+      "end": 38.54
+    },
+    {
+      "text": "vous",
+      "start": 38.56,
+      "end": 38.68
+    },
+    {
+      "text": "vous",
+      "start": 38.68,
+      "end": 38.82
+    },
+    {
+      "text": "souvenez,",
+      "start": 38.82,
+      "end": 39.2
+    },
+    {
+      "text": "c",
+      "start": 39.3,
+      "end": 39.36
+    },
+    {
+      "text": "'est",
+      "start": 39.36,
+      "end": 39.42
+    },
+    {
+      "text": "quand",
+      "start": 39.42,
+      "end": 39.56
+    },
+    {
+      "text": "notre",
+      "start": 39.56,
+      "end": 39.98
+    },
+    {
+      "text": "satellite",
+      "start": 39.98,
+      "end": 40.38
+    },
+    {
+      "text": "est",
+      "start": 40.38,
+      "end": 40.62
+    },
+    {
+      "text": "éclairé",
+      "start": 40.62,
+      "end": 41.0
+    },
+    {
+      "text": "de",
+      "start": 41.0,
+      "end": 41.12
+    },
+    {
+      "text": "face",
+      "start": 41.12,
+      "end": 41.4
+    },
+    {
+      "text": "par",
+      "start": 41.4,
+      "end": 41.9
+    },
+    {
+      "text": "le",
+      "start": 41.9,
+      "end": 42.04
+    },
+    {
+      "text": "Soleil.",
+      "start": 42.04,
+      "end": 42.42
+    },
+    {
+      "text": "Donc,",
+      "start": 42.58,
+      "end": 42.58
+    },
+    {
+      "text": "effectivement,",
+      "start": 42.62,
+      "end": 42.92
+    },
+    {
+      "text": "sa",
+      "start": 43.18,
+      "end": 43.36
+    },
+    {
+      "text": "phase",
+      "start": 43.36,
+      "end": 43.6
+    },
+    {
+      "text": "est",
+      "start": 43.6,
+      "end": 43.76
+    },
+    {
+      "text": "pleine.",
+      "start": 43.76,
+      "end": 44.12
+    },
+    {
+      "text": "Quelle",
+      "start": 45.7,
+      "end": 46.14
+    },
+    {
+      "text": "est",
+      "start": 46.14,
+      "end": 46.2
+    },
+    {
+      "text": "la",
+      "start": 46.2,
+      "end": 46.32
+    },
+    {
+      "text": "particularité",
+      "start": 46.32,
+      "end": 47.22
+    },
+    {
+      "text": "de",
+      "start": 47.22,
+      "end": 47.4
+    },
+    {
+      "text": "l",
+      "start": 47.4,
+      "end": 47.5
+    },
+    {
+      "text": "'événement",
+      "start": 47.5,
+      "end": 47.86
+    },
+    {
+      "text": "évoqué",
+      "start": 47.86,
+      "end": 48.38
+    },
+    {
+      "text": "dans",
+      "start": 48.38,
+      "end": 48.7
+    },
+    {
+      "text": "cette",
+      "start": 48.7,
+      "end": 48.9
+    },
+    {
+      "text": "émission",
+      "start": 48.9,
+      "end": 49.24
+    },
+    {
+      "text": "de",
+      "start": 49.24,
+      "end": 49.44
+    },
+    {
+      "text": "radio",
+      "start": 49.44,
+      "end": 49.7
+    },
+    {
+      "text": "?",
+      "start": 49.7,
+      "end": 50.02
+    }
+  ]
+}

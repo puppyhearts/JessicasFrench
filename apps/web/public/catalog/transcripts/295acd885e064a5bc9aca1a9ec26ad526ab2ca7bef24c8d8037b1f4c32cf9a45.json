@@ -1,0 +1,280 @@
+{
+  "text": "Question 13. Écoutez le document sonore et la question. Choisissez la bonne réponse. Tu as passé une bonne journée ? Oui, merci. C'était super, mais je suis contente de rentrer à la maison. On a beaucoup marché et je suis fatiguée. On prend le bus ? Comment la femme veut-elle se déplacer ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.54
+    },
+    {
+      "text": "13.",
+      "start": 0.54,
+      "end": 1.14
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.12,
+      "end": 2.6
+    },
+    {
+      "text": "le",
+      "start": 2.6,
+      "end": 2.78
+    },
+    {
+      "text": "document",
+      "start": 2.78,
+      "end": 3.1
+    },
+    {
+      "text": "sonore",
+      "start": 3.1,
+      "end": 3.7
+    },
+    {
+      "text": "et",
+      "start": 3.7,
+      "end": 3.92
+    },
+    {
+      "text": "la",
+      "start": 3.92,
+      "end": 4.04
+    },
+    {
+      "text": "question.",
+      "start": 4.04,
+      "end": 4.44
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.1,
+      "end": 5.56
+    },
+    {
+      "text": "la",
+      "start": 5.56,
+      "end": 5.74
+    },
+    {
+      "text": "bonne",
+      "start": 5.74,
+      "end": 5.92
+    },
+    {
+      "text": "réponse.",
+      "start": 5.92,
+      "end": 6.3
+    },
+    {
+      "text": "Tu",
+      "start": 7.82,
+      "end": 8.3
+    },
+    {
+      "text": "as",
+      "start": 8.3,
+      "end": 8.4
+    },
+    {
+      "text": "passé",
+      "start": 8.4,
+      "end": 8.6
+    },
+    {
+      "text": "une",
+      "start": 8.6,
+      "end": 8.76
+    },
+    {
+      "text": "bonne",
+      "start": 8.76,
+      "end": 8.86
+    },
+    {
+      "text": "journée",
+      "start": 8.86,
+      "end": 9.14
+    },
+    {
+      "text": "?",
+      "start": 9.14,
+      "end": 9.82
+    },
+    {
+      "text": "Oui,",
+      "start": 9.82,
+      "end": 10.08
+    },
+    {
+      "text": "merci.",
+      "start": 10.2,
+      "end": 10.44
+    },
+    {
+      "text": "C",
+      "start": 11.1,
+      "end": 11.34
+    },
+    {
+      "text": "'était",
+      "start": 11.34,
+      "end": 11.46
+    },
+    {
+      "text": "super,",
+      "start": 11.46,
+      "end": 11.82
+    },
+    {
+      "text": "mais",
+      "start": 12.18,
+      "end": 12.26
+    },
+    {
+      "text": "je",
+      "start": 12.26,
+      "end": 12.38
+    },
+    {
+      "text": "suis",
+      "start": 12.38,
+      "end": 12.54
+    },
+    {
+      "text": "contente",
+      "start": 12.54,
+      "end": 12.88
+    },
+    {
+      "text": "de",
+      "start": 12.88,
+      "end": 13.02
+    },
+    {
+      "text": "rentrer",
+      "start": 13.02,
+      "end": 13.3
+    },
+    {
+      "text": "à",
+      "start": 13.3,
+      "end": 13.38
+    },
+    {
+      "text": "la",
+      "start": 13.38,
+      "end": 13.46
+    },
+    {
+      "text": "maison.",
+      "start": 13.46,
+      "end": 13.7
+    },
+    {
+      "text": "On",
+      "start": 14.44,
+      "end": 14.56
+    },
+    {
+      "text": "a",
+      "start": 14.56,
+      "end": 14.66
+    },
+    {
+      "text": "beaucoup",
+      "start": 14.66,
+      "end": 14.92
+    },
+    {
+      "text": "marché",
+      "start": 14.92,
+      "end": 15.3
+    },
+    {
+      "text": "et",
+      "start": 15.3,
+      "end": 15.6
+    },
+    {
+      "text": "je",
+      "start": 15.6,
+      "end": 15.72
+    },
+    {
+      "text": "suis",
+      "start": 15.72,
+      "end": 15.9
+    },
+    {
+      "text": "fatiguée.",
+      "start": 15.9,
+      "end": 16.46
+    },
+    {
+      "text": "On",
+      "start": 17.12,
+      "end": 17.28
+    },
+    {
+      "text": "prend",
+      "start": 17.28,
+      "end": 17.42
+    },
+    {
+      "text": "le",
+      "start": 17.42,
+      "end": 17.56
+    },
+    {
+      "text": "bus",
+      "start": 17.56,
+      "end": 17.78
+    },
+    {
+      "text": "?",
+      "start": 17.78,
+      "end": 19.26
+    },
+    {
+      "text": "Comment",
+      "start": 19.8,
+      "end": 20.28
+    },
+    {
+      "text": "la",
+      "start": 20.28,
+      "end": 20.5
+    },
+    {
+      "text": "femme",
+      "start": 20.5,
+      "end": 20.76
+    },
+    {
+      "text": "veut",
+      "start": 20.76,
+      "end": 20.94
+    },
+    {
+      "text": "-elle",
+      "start": 20.94,
+      "end": 21.12
+    },
+    {
+      "text": "se",
+      "start": 21.12,
+      "end": 21.3
+    },
+    {
+      "text": "déplacer",
+      "start": 21.3,
+      "end": 21.8
+    },
+    {
+      "text": "?",
+      "start": 21.8,
+      "end": 22.16
+    }
+  ]
+}

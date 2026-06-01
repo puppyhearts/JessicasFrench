@@ -1,0 +1,160 @@
+{
+  "text": "Je voudrais porter plainte. On m'a volé ma voiture. Très bien. Je vais prendre votre déposition, madame. Asseyez-vous, je vous prie. Question 15. Où se passe cette scène ?",
+  "words": [
+    {
+      "text": "Je",
+      "start": 1.94,
+      "end": 2.38
+    },
+    {
+      "text": "voudrais",
+      "start": 2.38,
+      "end": 2.6
+    },
+    {
+      "text": "porter",
+      "start": 2.6,
+      "end": 2.86
+    },
+    {
+      "text": "plainte.",
+      "start": 2.86,
+      "end": 3.54
+    },
+    {
+      "text": "On",
+      "start": 4.22,
+      "end": 4.32
+    },
+    {
+      "text": "m",
+      "start": 4.32,
+      "end": 4.46
+    },
+    {
+      "text": "'a",
+      "start": 4.46,
+      "end": 4.48
+    },
+    {
+      "text": "volé",
+      "start": 4.48,
+      "end": 4.76
+    },
+    {
+      "text": "ma",
+      "start": 4.76,
+      "end": 4.88
+    },
+    {
+      "text": "voiture.",
+      "start": 4.88,
+      "end": 5.24
+    },
+    {
+      "text": "Très",
+      "start": 6.06,
+      "end": 6.3
+    },
+    {
+      "text": "bien.",
+      "start": 6.3,
+      "end": 6.46
+    },
+    {
+      "text": "Je",
+      "start": 6.96,
+      "end": 7.08
+    },
+    {
+      "text": "vais",
+      "start": 7.08,
+      "end": 7.14
+    },
+    {
+      "text": "prendre",
+      "start": 7.14,
+      "end": 7.36
+    },
+    {
+      "text": "votre",
+      "start": 7.36,
+      "end": 7.54
+    },
+    {
+      "text": "déposition,",
+      "start": 7.54,
+      "end": 8.04
+    },
+    {
+      "text": "madame.",
+      "start": 8.24,
+      "end": 8.44
+    },
+    {
+      "text": "Asseyez",
+      "start": 8.88,
+      "end": 9.1
+    },
+    {
+      "text": "-vous,",
+      "start": 9.1,
+      "end": 9.3
+    },
+    {
+      "text": "je",
+      "start": 9.38,
+      "end": 9.4
+    },
+    {
+      "text": "vous",
+      "start": 9.4,
+      "end": 9.5
+    },
+    {
+      "text": "prie.",
+      "start": 9.5,
+      "end": 9.7
+    },
+    {
+      "text": "Question",
+      "start": 11.82,
+      "end": 12.26
+    },
+    {
+      "text": "15.",
+      "start": 12.26,
+      "end": 12.7
+    },
+    {
+      "text": "Où",
+      "start": 13.48,
+      "end": 13.92
+    },
+    {
+      "text": "se",
+      "start": 13.92,
+      "end": 14.06
+    },
+    {
+      "text": "passe",
+      "start": 14.06,
+      "end": 14.26
+    },
+    {
+      "text": "cette",
+      "start": 14.26,
+      "end": 14.58
+    },
+    {
+      "text": "scène",
+      "start": 14.58,
+      "end": 14.9
+    },
+    {
+      "text": "?",
+      "start": 14.9,
+      "end": 15.66
+    }
+  ]
+}

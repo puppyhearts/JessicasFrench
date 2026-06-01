@@ -1,0 +1,470 @@
+{
+  "text": "Question 28. Écoutez le document sonore et la question. Choisissez la bonne réponse. Le Festival de Cannes, qui a lieu une fois par an, est l'occasion de mettre en lumière le cinéma européen. Il affiche un bilan mitigé. Un léger recul de la fréquentation, mais une part de marché record pour les films européens, et cela grâce au succès de Skyfall, le dernier James Bond est d'intouchable. Les films d'auteur et le cinéma indépendant ont toujours du mal à se faire une place. Quel information principale révèle ce document ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.58
+    },
+    {
+      "text": "28.",
+      "start": 0.58,
+      "end": 1.16
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.84,
+      "end": 2.4
+    },
+    {
+      "text": "le",
+      "start": 2.4,
+      "end": 2.6
+    },
+    {
+      "text": "document",
+      "start": 2.6,
+      "end": 2.92
+    },
+    {
+      "text": "sonore",
+      "start": 2.92,
+      "end": 3.52
+    },
+    {
+      "text": "et",
+      "start": 3.52,
+      "end": 3.74
+    },
+    {
+      "text": "la",
+      "start": 3.74,
+      "end": 3.88
+    },
+    {
+      "text": "question.",
+      "start": 3.88,
+      "end": 4.22
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.84,
+      "end": 5.38
+    },
+    {
+      "text": "la",
+      "start": 5.38,
+      "end": 5.58
+    },
+    {
+      "text": "bonne",
+      "start": 5.58,
+      "end": 5.74
+    },
+    {
+      "text": "réponse.",
+      "start": 5.74,
+      "end": 6.1
+    },
+    {
+      "text": "Le",
+      "start": 7.06,
+      "end": 7.62
+    },
+    {
+      "text": "Festival",
+      "start": 7.62,
+      "end": 8.06
+    },
+    {
+      "text": "de",
+      "start": 8.06,
+      "end": 8.28
+    },
+    {
+      "text": "Cannes,",
+      "start": 8.28,
+      "end": 9.0
+    },
+    {
+      "text": "qui",
+      "start": 9.0,
+      "end": 9.24
+    },
+    {
+      "text": "a",
+      "start": 9.24,
+      "end": 9.34
+    },
+    {
+      "text": "lieu",
+      "start": 9.34,
+      "end": 9.54
+    },
+    {
+      "text": "une",
+      "start": 9.54,
+      "end": 9.82
+    },
+    {
+      "text": "fois",
+      "start": 9.82,
+      "end": 10.0
+    },
+    {
+      "text": "par",
+      "start": 10.0,
+      "end": 10.22
+    },
+    {
+      "text": "an,",
+      "start": 10.22,
+      "end": 10.4
+    },
+    {
+      "text": "est",
+      "start": 10.82,
+      "end": 11.02
+    },
+    {
+      "text": "l",
+      "start": 11.02,
+      "end": 11.14
+    },
+    {
+      "text": "'occasion",
+      "start": 11.14,
+      "end": 11.46
+    },
+    {
+      "text": "de",
+      "start": 11.46,
+      "end": 11.64
+    },
+    {
+      "text": "mettre",
+      "start": 11.64,
+      "end": 11.82
+    },
+    {
+      "text": "en",
+      "start": 11.82,
+      "end": 12.02
+    },
+    {
+      "text": "lumière",
+      "start": 12.02,
+      "end": 12.3
+    },
+    {
+      "text": "le",
+      "start": 12.3,
+      "end": 12.58
+    },
+    {
+      "text": "cinéma",
+      "start": 12.58,
+      "end": 13.0
+    },
+    {
+      "text": "européen.",
+      "start": 13.0,
+      "end": 13.6
+    },
+    {
+      "text": "Il",
+      "start": 14.42,
+      "end": 14.58
+    },
+    {
+      "text": "affiche",
+      "start": 14.58,
+      "end": 14.88
+    },
+    {
+      "text": "un",
+      "start": 14.88,
+      "end": 15.08
+    },
+    {
+      "text": "bilan",
+      "start": 15.08,
+      "end": 15.3
+    },
+    {
+      "text": "mitigé.",
+      "start": 15.3,
+      "end": 15.88
+    },
+    {
+      "text": "Un",
+      "start": 16.58,
+      "end": 16.72
+    },
+    {
+      "text": "léger",
+      "start": 16.72,
+      "end": 16.96
+    },
+    {
+      "text": "recul",
+      "start": 16.96,
+      "end": 17.32
+    },
+    {
+      "text": "de",
+      "start": 17.32,
+      "end": 17.48
+    },
+    {
+      "text": "la",
+      "start": 17.48,
+      "end": 17.56
+    },
+    {
+      "text": "fréquentation,",
+      "start": 17.56,
+      "end": 18.18
+    },
+    {
+      "text": "mais",
+      "start": 18.72,
+      "end": 19.08
+    },
+    {
+      "text": "une",
+      "start": 19.08,
+      "end": 19.4
+    },
+    {
+      "text": "part",
+      "start": 19.4,
+      "end": 19.6
+    },
+    {
+      "text": "de",
+      "start": 19.6,
+      "end": 19.74
+    },
+    {
+      "text": "marché",
+      "start": 19.74,
+      "end": 20.1
+    },
+    {
+      "text": "record",
+      "start": 20.1,
+      "end": 20.6
+    },
+    {
+      "text": "pour",
+      "start": 20.6,
+      "end": 20.9
+    },
+    {
+      "text": "les",
+      "start": 20.9,
+      "end": 21.04
+    },
+    {
+      "text": "films",
+      "start": 21.04,
+      "end": 21.3
+    },
+    {
+      "text": "européens,",
+      "start": 21.3,
+      "end": 22.0
+    },
+    {
+      "text": "et",
+      "start": 22.26,
+      "end": 22.52
+    },
+    {
+      "text": "cela",
+      "start": 22.52,
+      "end": 22.72
+    },
+    {
+      "text": "grâce",
+      "start": 22.72,
+      "end": 23.06
+    },
+    {
+      "text": "au",
+      "start": 23.06,
+      "end": 23.3
+    },
+    {
+      "text": "succès",
+      "start": 23.3,
+      "end": 23.58
+    },
+    {
+      "text": "de",
+      "start": 23.58,
+      "end": 23.78
+    },
+    {
+      "text": "Skyfall,",
+      "start": 23.78,
+      "end": 24.44
+    },
+    {
+      "text": "le",
+      "start": 24.98,
+      "end": 25.06
+    },
+    {
+      "text": "dernier",
+      "start": 25.06,
+      "end": 25.3
+    },
+    {
+      "text": "James",
+      "start": 25.3,
+      "end": 25.58
+    },
+    {
+      "text": "Bond",
+      "start": 25.58,
+      "end": 25.86
+    },
+    {
+      "text": "est",
+      "start": 25.86,
+      "end": 26.32
+    },
+    {
+      "text": "d",
+      "start": 26.32,
+      "end": 26.56
+    },
+    {
+      "text": "'intouchable.",
+      "start": 26.56,
+      "end": 27.02
+    },
+    {
+      "text": "Les",
+      "start": 27.58,
+      "end": 28.1
+    },
+    {
+      "text": "films",
+      "start": 28.1,
+      "end": 28.32
+    },
+    {
+      "text": "d",
+      "start": 28.32,
+      "end": 28.52
+    },
+    {
+      "text": "'auteur",
+      "start": 28.52,
+      "end": 28.74
+    },
+    {
+      "text": "et",
+      "start": 28.74,
+      "end": 29.02
+    },
+    {
+      "text": "le",
+      "start": 29.02,
+      "end": 29.12
+    },
+    {
+      "text": "cinéma",
+      "start": 29.12,
+      "end": 29.46
+    },
+    {
+      "text": "indépendant",
+      "start": 29.46,
+      "end": 30.0
+    },
+    {
+      "text": "ont",
+      "start": 30.0,
+      "end": 30.2
+    },
+    {
+      "text": "toujours",
+      "start": 30.2,
+      "end": 30.46
+    },
+    {
+      "text": "du",
+      "start": 30.46,
+      "end": 30.62
+    },
+    {
+      "text": "mal",
+      "start": 30.62,
+      "end": 30.78
+    },
+    {
+      "text": "à",
+      "start": 30.78,
+      "end": 30.9
+    },
+    {
+      "text": "se",
+      "start": 30.9,
+      "end": 31.0
+    },
+    {
+      "text": "faire",
+      "start": 31.0,
+      "end": 31.14
+    },
+    {
+      "text": "une",
+      "start": 31.14,
+      "end": 31.28
+    },
+    {
+      "text": "place.",
+      "start": 31.28,
+      "end": 31.58
+    },
+    {
+      "text": "Quel",
+      "start": 33.2,
+      "end": 33.72
+    },
+    {
+      "text": "information",
+      "start": 33.72,
+      "end": 34.1
+    },
+    {
+      "text": "principale",
+      "start": 34.1,
+      "end": 34.88
+    },
+    {
+      "text": "révèle",
+      "start": 34.88,
+      "end": 35.24
+    },
+    {
+      "text": "ce",
+      "start": 35.24,
+      "end": 35.4
+    },
+    {
+      "text": "document",
+      "start": 35.4,
+      "end": 35.7
+    },
+    {
+      "text": "?",
+      "start": 35.7,
+      "end": 36.12
+    }
+  ]
+}

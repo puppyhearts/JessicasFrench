@@ -1,0 +1,325 @@
+{
+  "text": "Question 4. Écoutez le document sonore et les quatre propositions. Choisissez la bonne réponse. Salut Léa, ça va ? Salut Paul ! Oui, ça va et toi ? Bien, merci. Dis-moi, j'ai oublié quand est notre examen d'anglais la semaine prochaine. A. C'est à 9 heures. B. C'est au lycée. C. C'est en avril. D. C'est mercredi.",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "4.",
+      "start": 0.66,
+      "end": 1.24
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.02,
+      "end": 2.46
+    },
+    {
+      "text": "le",
+      "start": 2.46,
+      "end": 2.64
+    },
+    {
+      "text": "document",
+      "start": 2.64,
+      "end": 2.94
+    },
+    {
+      "text": "sonore",
+      "start": 2.94,
+      "end": 3.5
+    },
+    {
+      "text": "et",
+      "start": 3.5,
+      "end": 3.82
+    },
+    {
+      "text": "les",
+      "start": 3.82,
+      "end": 3.96
+    },
+    {
+      "text": "quatre",
+      "start": 3.96,
+      "end": 4.14
+    },
+    {
+      "text": "propositions.",
+      "start": 4.14,
+      "end": 4.92
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.6,
+      "end": 6.16
+    },
+    {
+      "text": "la",
+      "start": 6.16,
+      "end": 6.36
+    },
+    {
+      "text": "bonne",
+      "start": 6.36,
+      "end": 6.54
+    },
+    {
+      "text": "réponse.",
+      "start": 6.54,
+      "end": 6.88
+    },
+    {
+      "text": "Salut",
+      "start": 7.96,
+      "end": 8.52
+    },
+    {
+      "text": "Léa,",
+      "start": 8.52,
+      "end": 8.8
+    },
+    {
+      "text": "ça",
+      "start": 9.02,
+      "end": 9.12
+    },
+    {
+      "text": "va",
+      "start": 9.12,
+      "end": 9.26
+    },
+    {
+      "text": "?",
+      "start": 9.26,
+      "end": 9.7
+    },
+    {
+      "text": "Salut",
+      "start": 9.7,
+      "end": 9.98
+    },
+    {
+      "text": "Paul",
+      "start": 9.98,
+      "end": 10.28
+    },
+    {
+      "text": "!",
+      "start": 10.28,
+      "end": 10.68
+    },
+    {
+      "text": "Oui,",
+      "start": 10.68,
+      "end": 10.9
+    },
+    {
+      "text": "ça",
+      "start": 11.02,
+      "end": 11.1
+    },
+    {
+      "text": "va",
+      "start": 11.1,
+      "end": 11.22
+    },
+    {
+      "text": "et",
+      "start": 11.22,
+      "end": 11.38
+    },
+    {
+      "text": "toi",
+      "start": 11.38,
+      "end": 11.5
+    },
+    {
+      "text": "?",
+      "start": 11.5,
+      "end": 11.94
+    },
+    {
+      "text": "Bien,",
+      "start": 11.94,
+      "end": 12.14
+    },
+    {
+      "text": "merci.",
+      "start": 12.22,
+      "end": 12.42
+    },
+    {
+      "text": "Dis",
+      "start": 12.94,
+      "end": 13.1
+    },
+    {
+      "text": "-moi,",
+      "start": 13.1,
+      "end": 13.2
+    },
+    {
+      "text": "j",
+      "start": 13.48,
+      "end": 13.6
+    },
+    {
+      "text": "'ai",
+      "start": 13.6,
+      "end": 13.64
+    },
+    {
+      "text": "oublié",
+      "start": 13.64,
+      "end": 13.94
+    },
+    {
+      "text": "quand",
+      "start": 13.94,
+      "end": 14.1
+    },
+    {
+      "text": "est",
+      "start": 14.1,
+      "end": 14.2
+    },
+    {
+      "text": "notre",
+      "start": 14.2,
+      "end": 14.36
+    },
+    {
+      "text": "examen",
+      "start": 14.36,
+      "end": 14.72
+    },
+    {
+      "text": "d",
+      "start": 14.72,
+      "end": 14.82
+    },
+    {
+      "text": "'anglais",
+      "start": 14.82,
+      "end": 15.0
+    },
+    {
+      "text": "la",
+      "start": 15.0,
+      "end": 15.12
+    },
+    {
+      "text": "semaine",
+      "start": 15.12,
+      "end": 15.24
+    },
+    {
+      "text": "prochaine.",
+      "start": 15.24,
+      "end": 15.56
+    },
+    {
+      "text": "A.",
+      "start": 16.86,
+      "end": 17.42
+    },
+    {
+      "text": "C",
+      "start": 18.1,
+      "end": 18.36
+    },
+    {
+      "text": "'est",
+      "start": 18.36,
+      "end": 18.42
+    },
+    {
+      "text": "à",
+      "start": 18.42,
+      "end": 18.52
+    },
+    {
+      "text": "9",
+      "start": 18.52,
+      "end": 18.72
+    },
+    {
+      "text": "heures.",
+      "start": 18.72,
+      "end": 18.94
+    },
+    {
+      "text": "B.",
+      "start": 20.52,
+      "end": 21.04
+    },
+    {
+      "text": "C",
+      "start": 21.76,
+      "end": 22.12
+    },
+    {
+      "text": "'est",
+      "start": 22.12,
+      "end": 22.14
+    },
+    {
+      "text": "au",
+      "start": 22.14,
+      "end": 22.3
+    },
+    {
+      "text": "lycée.",
+      "start": 22.3,
+      "end": 22.58
+    },
+    {
+      "text": "C.",
+      "start": 24.14,
+      "end": 24.7
+    },
+    {
+      "text": "C",
+      "start": 25.3,
+      "end": 25.72
+    },
+    {
+      "text": "'est",
+      "start": 25.72,
+      "end": 25.76
+    },
+    {
+      "text": "en",
+      "start": 25.76,
+      "end": 25.9
+    },
+    {
+      "text": "avril.",
+      "start": 25.9,
+      "end": 26.18
+    },
+    {
+      "text": "D.",
+      "start": 27.76,
+      "end": 28.32
+    },
+    {
+      "text": "C",
+      "start": 28.32,
+      "end": 29.16
+    },
+    {
+      "text": "'est",
+      "start": 29.16,
+      "end": 29.32
+    },
+    {
+      "text": "mercredi.",
+      "start": 29.32,
+      "end": 29.84
+    }
+  ]
+}

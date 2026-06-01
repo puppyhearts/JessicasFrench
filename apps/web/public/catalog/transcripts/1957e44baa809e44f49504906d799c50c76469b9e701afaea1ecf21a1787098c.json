@@ -1,0 +1,585 @@
+{
+  "text": "Question 19. Écoutez le document sonore et la question. Choisissez la bonne réponse. Peu d'études existent en France pour confirmer l'effet dissuasif de la vidéo dans les lieux publics. Sauf pour les lieux clos comme les parkings ou les zones de fret. La seule efficacité, c'est pour l'enquête judiciaire. L'usage principal est dans l'effet d'affichage pour rassurer les populations. La caméra se voit. Il est possible qu'elle rassure les citoyens, mais aussi qu'elle les agace tout autant. Mais elle permet aux hommes politiques de montrer qu'ils font quelque chose. Pour lutter contre la petite délinquance, ne voudrait-il pas mieux embaucher des médiateurs, des éducateurs ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.72
+    },
+    {
+      "text": "19.",
+      "start": 0.72,
+      "end": 1.5
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.52,
+      "end": 2.96
+    },
+    {
+      "text": "le",
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "text": "document",
+      "start": 3.16,
+      "end": 3.5
+    },
+    {
+      "text": "sonore",
+      "start": 3.5,
+      "end": 4.12
+    },
+    {
+      "text": "et",
+      "start": 4.12,
+      "end": 4.42
+    },
+    {
+      "text": "la",
+      "start": 4.42,
+      "end": 4.54
+    },
+    {
+      "text": "question.",
+      "start": 4.54,
+      "end": 4.9
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.74,
+      "end": 6.22
+    },
+    {
+      "text": "la",
+      "start": 6.22,
+      "end": 6.42
+    },
+    {
+      "text": "bonne",
+      "start": 6.42,
+      "end": 6.62
+    },
+    {
+      "text": "réponse.",
+      "start": 6.62,
+      "end": 6.98
+    },
+    {
+      "text": "Peu",
+      "start": 7.96,
+      "end": 8.44
+    },
+    {
+      "text": "d",
+      "start": 8.44,
+      "end": 8.54
+    },
+    {
+      "text": "'études",
+      "start": 8.54,
+      "end": 8.76
+    },
+    {
+      "text": "existent",
+      "start": 8.76,
+      "end": 9.22
+    },
+    {
+      "text": "en",
+      "start": 9.22,
+      "end": 9.3
+    },
+    {
+      "text": "France",
+      "start": 9.3,
+      "end": 9.62
+    },
+    {
+      "text": "pour",
+      "start": 9.62,
+      "end": 9.82
+    },
+    {
+      "text": "confirmer",
+      "start": 9.82,
+      "end": 10.32
+    },
+    {
+      "text": "l",
+      "start": 10.32,
+      "end": 10.46
+    },
+    {
+      "text": "'effet",
+      "start": 10.46,
+      "end": 10.62
+    },
+    {
+      "text": "dissuasif",
+      "start": 10.62,
+      "end": 11.18
+    },
+    {
+      "text": "de",
+      "start": 11.18,
+      "end": 11.3
+    },
+    {
+      "text": "la",
+      "start": 11.3,
+      "end": 11.42
+    },
+    {
+      "text": "vidéo",
+      "start": 11.42,
+      "end": 11.8
+    },
+    {
+      "text": "dans",
+      "start": 11.8,
+      "end": 12.0
+    },
+    {
+      "text": "les",
+      "start": 12.0,
+      "end": 12.12
+    },
+    {
+      "text": "lieux",
+      "start": 12.12,
+      "end": 12.28
+    },
+    {
+      "text": "publics.",
+      "start": 12.28,
+      "end": 13.24
+    },
+    {
+      "text": "Sauf",
+      "start": 13.24,
+      "end": 13.68
+    },
+    {
+      "text": "pour",
+      "start": 13.68,
+      "end": 13.98
+    },
+    {
+      "text": "les",
+      "start": 13.98,
+      "end": 14.1
+    },
+    {
+      "text": "lieux",
+      "start": 14.1,
+      "end": 14.3
+    },
+    {
+      "text": "clos",
+      "start": 14.3,
+      "end": 14.5
+    },
+    {
+      "text": "comme",
+      "start": 14.5,
+      "end": 14.78
+    },
+    {
+      "text": "les",
+      "start": 14.78,
+      "end": 14.92
+    },
+    {
+      "text": "parkings",
+      "start": 14.92,
+      "end": 15.62
+    },
+    {
+      "text": "ou",
+      "start": 15.62,
+      "end": 15.72
+    },
+    {
+      "text": "les",
+      "start": 15.72,
+      "end": 15.84
+    },
+    {
+      "text": "zones",
+      "start": 15.84,
+      "end": 16.0
+    },
+    {
+      "text": "de",
+      "start": 16.0,
+      "end": 16.12
+    },
+    {
+      "text": "fret.",
+      "start": 16.12,
+      "end": 16.32
+    },
+    {
+      "text": "La",
+      "start": 17.02,
+      "end": 17.38
+    },
+    {
+      "text": "seule",
+      "start": 17.38,
+      "end": 17.56
+    },
+    {
+      "text": "efficacité,",
+      "start": 17.56,
+      "end": 18.24
+    },
+    {
+      "text": "c",
+      "start": 18.48,
+      "end": 18.56
+    },
+    {
+      "text": "'est",
+      "start": 18.56,
+      "end": 18.6
+    },
+    {
+      "text": "pour",
+      "start": 18.6,
+      "end": 18.76
+    },
+    {
+      "text": "l",
+      "start": 18.76,
+      "end": 18.84
+    },
+    {
+      "text": "'enquête",
+      "start": 18.84,
+      "end": 19.02
+    },
+    {
+      "text": "judiciaire.",
+      "start": 19.02,
+      "end": 19.72
+    },
+    {
+      "text": "L",
+      "start": 20.26,
+      "end": 20.46
+    },
+    {
+      "text": "'usage",
+      "start": 20.46,
+      "end": 20.64
+    },
+    {
+      "text": "principal",
+      "start": 20.64,
+      "end": 21.08
+    },
+    {
+      "text": "est",
+      "start": 21.08,
+      "end": 21.34
+    },
+    {
+      "text": "dans",
+      "start": 21.34,
+      "end": 21.44
+    },
+    {
+      "text": "l",
+      "start": 21.44,
+      "end": 21.56
+    },
+    {
+      "text": "'effet",
+      "start": 21.56,
+      "end": 21.74
+    },
+    {
+      "text": "d",
+      "start": 21.74,
+      "end": 21.84
+    },
+    {
+      "text": "'affichage",
+      "start": 21.84,
+      "end": 22.36
+    },
+    {
+      "text": "pour",
+      "start": 22.36,
+      "end": 22.62
+    },
+    {
+      "text": "rassurer",
+      "start": 22.62,
+      "end": 22.96
+    },
+    {
+      "text": "les",
+      "start": 22.96,
+      "end": 23.12
+    },
+    {
+      "text": "populations.",
+      "start": 23.12,
+      "end": 23.5
+    },
+    {
+      "text": "La",
+      "start": 24.46,
+      "end": 24.78
+    },
+    {
+      "text": "caméra",
+      "start": 24.78,
+      "end": 25.1
+    },
+    {
+      "text": "se",
+      "start": 25.1,
+      "end": 25.34
+    },
+    {
+      "text": "voit.",
+      "start": 25.34,
+      "end": 25.54
+    },
+    {
+      "text": "Il",
+      "start": 25.54,
+      "end": 25.96
+    },
+    {
+      "text": "est",
+      "start": 25.96,
+      "end": 26.46
+    },
+    {
+      "text": "possible",
+      "start": 26.46,
+      "end": 26.7
+    },
+    {
+      "text": "qu",
+      "start": 26.7,
+      "end": 26.86
+    },
+    {
+      "text": "'elle",
+      "start": 26.86,
+      "end": 26.9
+    },
+    {
+      "text": "rassure",
+      "start": 26.9,
+      "end": 27.24
+    },
+    {
+      "text": "les",
+      "start": 27.24,
+      "end": 27.36
+    },
+    {
+      "text": "citoyens,",
+      "start": 27.36,
+      "end": 27.86
+    },
+    {
+      "text": "mais",
+      "start": 28.02,
+      "end": 28.46
+    },
+    {
+      "text": "aussi",
+      "start": 28.46,
+      "end": 28.68
+    },
+    {
+      "text": "qu",
+      "start": 28.68,
+      "end": 28.82
+    },
+    {
+      "text": "'elle",
+      "start": 28.82,
+      "end": 28.86
+    },
+    {
+      "text": "les",
+      "start": 28.86,
+      "end": 29.0
+    },
+    {
+      "text": "agace",
+      "start": 29.0,
+      "end": 29.34
+    },
+    {
+      "text": "tout",
+      "start": 29.34,
+      "end": 29.48
+    },
+    {
+      "text": "autant.",
+      "start": 29.48,
+      "end": 29.84
+    },
+    {
+      "text": "Mais",
+      "start": 30.76,
+      "end": 31.24
+    },
+    {
+      "text": "elle",
+      "start": 31.24,
+      "end": 31.4
+    },
+    {
+      "text": "permet",
+      "start": 31.4,
+      "end": 31.66
+    },
+    {
+      "text": "aux",
+      "start": 31.66,
+      "end": 31.86
+    },
+    {
+      "text": "hommes",
+      "start": 31.86,
+      "end": 32.0
+    },
+    {
+      "text": "politiques",
+      "start": 32.0,
+      "end": 32.32
+    },
+    {
+      "text": "de",
+      "start": 32.32,
+      "end": 32.48
+    },
+    {
+      "text": "montrer",
+      "start": 32.48,
+      "end": 32.7
+    },
+    {
+      "text": "qu",
+      "start": 32.7,
+      "end": 32.84
+    },
+    {
+      "text": "'ils",
+      "start": 32.84,
+      "end": 32.9
+    },
+    {
+      "text": "font",
+      "start": 32.9,
+      "end": 33.04
+    },
+    {
+      "text": "quelque",
+      "start": 33.04,
+      "end": 33.18
+    },
+    {
+      "text": "chose.",
+      "start": 33.18,
+      "end": 33.66
+    },
+    {
+      "text": "Pour",
+      "start": 34.38,
+      "end": 34.56
+    },
+    {
+      "text": "lutter",
+      "start": 34.56,
+      "end": 34.88
+    },
+    {
+      "text": "contre",
+      "start": 34.88,
+      "end": 35.16
+    },
+    {
+      "text": "la",
+      "start": 35.16,
+      "end": 35.38
+    },
+    {
+      "text": "petite",
+      "start": 35.38,
+      "end": 35.66
+    },
+    {
+      "text": "délinquance,",
+      "start": 35.66,
+      "end": 36.54
+    },
+    {
+      "text": "ne",
+      "start": 36.9,
+      "end": 37.22
+    },
+    {
+      "text": "voudrait",
+      "start": 37.22,
+      "end": 37.6
+    },
+    {
+      "text": "-il",
+      "start": 37.6,
+      "end": 37.82
+    },
+    {
+      "text": "pas",
+      "start": 37.82,
+      "end": 38.04
+    },
+    {
+      "text": "mieux",
+      "start": 38.04,
+      "end": 38.24
+    },
+    {
+      "text": "embaucher",
+      "start": 38.24,
+      "end": 38.72
+    },
+    {
+      "text": "des",
+      "start": 38.72,
+      "end": 38.92
+    },
+    {
+      "text": "médiateurs,",
+      "start": 38.92,
+      "end": 39.42
+    },
+    {
+      "text": "des",
+      "start": 39.9,
+      "end": 40.08
+    },
+    {
+      "text": "éducateurs",
+      "start": 40.08,
+      "end": 40.66
+    },
+    {
+      "text": "?",
+      "start": 40.66,
+      "end": 42.3
+    }
+  ]
+}

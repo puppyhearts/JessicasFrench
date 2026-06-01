@@ -1,0 +1,935 @@
+{
+  "text": "En français, le préfixe bi signifie la dualité. Il est des plus productifs. Un avion bi-place, des lunettes bifocales, à double foyer, un accord bilatéral, entre deux parties, un chat bicolore, à deux couleurs, et dans un autre registre, un individu bigame ou bisexuel. Les choses se compliquent quand l'adjectif préfixé désigne une périodicité. Faisons un peu d'arithmétique. Tantôt le préfixe bi divise le laps de temps qui exprime l'adjectif. Ainsi, bi quotidien signifie deux fois par jour, bi hebdomadaire deux fois par semaine et bi mensuel deux fois par mois, c'est-à-dire tous les 15 jours. Tantôt le préfixe bi multiplie le temps désigné par l'adjectif. Bis annuel signifie tous les deux ans. Pour exprimer la périodicité de tous les deux mois, on dira bimestriel. Il importe donc de bien distinguer bimensuel, deux fois par mois, de bimestriel tous les deux mois. Exercice pratique avec tri. Tri annuel tous les trois ans. Trimestriel tous les trois mois, tous les trimestres. Trimensuel trois fois par mois. C'est tout simple. Question 13. Selon le professeur, que signifie bimestriel ?",
+  "words": [
+    {
+      "text": "En",
+      "start": 2.92,
+      "end": 3.64
+    },
+    {
+      "text": "français,",
+      "start": 3.64,
+      "end": 4.06
+    },
+    {
+      "text": "le",
+      "start": 4.4,
+      "end": 4.44
+    },
+    {
+      "text": "préfixe",
+      "start": 4.44,
+      "end": 4.94
+    },
+    {
+      "text": "bi",
+      "start": 4.94,
+      "end": 5.32
+    },
+    {
+      "text": "signifie",
+      "start": 5.32,
+      "end": 6.2
+    },
+    {
+      "text": "la",
+      "start": 6.2,
+      "end": 6.38
+    },
+    {
+      "text": "dualité.",
+      "start": 6.38,
+      "end": 7.0
+    },
+    {
+      "text": "Il",
+      "start": 7.74,
+      "end": 8.08
+    },
+    {
+      "text": "est",
+      "start": 8.08,
+      "end": 8.18
+    },
+    {
+      "text": "des",
+      "start": 8.18,
+      "end": 8.3
+    },
+    {
+      "text": "plus",
+      "start": 8.3,
+      "end": 8.44
+    },
+    {
+      "text": "productifs.",
+      "start": 8.44,
+      "end": 9.1
+    },
+    {
+      "text": "Un",
+      "start": 9.88,
+      "end": 10.02
+    },
+    {
+      "text": "avion",
+      "start": 10.02,
+      "end": 10.34
+    },
+    {
+      "text": "bi",
+      "start": 10.34,
+      "end": 10.6
+    },
+    {
+      "text": "-place,",
+      "start": 10.6,
+      "end": 10.98
+    },
+    {
+      "text": "des",
+      "start": 11.44,
+      "end": 11.68
+    },
+    {
+      "text": "lunettes",
+      "start": 11.68,
+      "end": 12.12
+    },
+    {
+      "text": "bifocales,",
+      "start": 12.12,
+      "end": 12.98
+    },
+    {
+      "text": "à",
+      "start": 13.42,
+      "end": 13.64
+    },
+    {
+      "text": "double",
+      "start": 13.64,
+      "end": 13.82
+    },
+    {
+      "text": "foyer,",
+      "start": 13.82,
+      "end": 14.24
+    },
+    {
+      "text": "un",
+      "start": 14.76,
+      "end": 15.02
+    },
+    {
+      "text": "accord",
+      "start": 15.02,
+      "end": 15.36
+    },
+    {
+      "text": "bilatéral,",
+      "start": 15.36,
+      "end": 16.1
+    },
+    {
+      "text": "entre",
+      "start": 16.56,
+      "end": 16.86
+    },
+    {
+      "text": "deux",
+      "start": 16.86,
+      "end": 17.1
+    },
+    {
+      "text": "parties,",
+      "start": 17.1,
+      "end": 17.36
+    },
+    {
+      "text": "un",
+      "start": 18.08,
+      "end": 18.3
+    },
+    {
+      "text": "chat",
+      "start": 18.3,
+      "end": 18.58
+    },
+    {
+      "text": "bicolore,",
+      "start": 18.58,
+      "end": 19.4
+    },
+    {
+      "text": "à",
+      "start": 19.76,
+      "end": 19.96
+    },
+    {
+      "text": "deux",
+      "start": 19.96,
+      "end": 20.1
+    },
+    {
+      "text": "couleurs,",
+      "start": 20.1,
+      "end": 20.62
+    },
+    {
+      "text": "et",
+      "start": 21.02,
+      "end": 21.38
+    },
+    {
+      "text": "dans",
+      "start": 21.38,
+      "end": 21.5
+    },
+    {
+      "text": "un",
+      "start": 21.5,
+      "end": 21.66
+    },
+    {
+      "text": "autre",
+      "start": 21.66,
+      "end": 21.84
+    },
+    {
+      "text": "registre,",
+      "start": 21.84,
+      "end": 22.42
+    },
+    {
+      "text": "un",
+      "start": 22.54,
+      "end": 22.64
+    },
+    {
+      "text": "individu",
+      "start": 22.64,
+      "end": 23.24
+    },
+    {
+      "text": "bigame",
+      "start": 23.24,
+      "end": 23.84
+    },
+    {
+      "text": "ou",
+      "start": 23.84,
+      "end": 24.32
+    },
+    {
+      "text": "bisexuel.",
+      "start": 24.32,
+      "end": 24.92
+    },
+    {
+      "text": "Les",
+      "start": 24.92,
+      "end": 26.4
+    },
+    {
+      "text": "choses",
+      "start": 26.4,
+      "end": 26.6
+    },
+    {
+      "text": "se",
+      "start": 26.6,
+      "end": 26.98
+    },
+    {
+      "text": "compliquent",
+      "start": 26.98,
+      "end": 27.44
+    },
+    {
+      "text": "quand",
+      "start": 27.44,
+      "end": 27.56
+    },
+    {
+      "text": "l",
+      "start": 27.56,
+      "end": 27.68
+    },
+    {
+      "text": "'adjectif",
+      "start": 27.68,
+      "end": 28.1
+    },
+    {
+      "text": "préfixé",
+      "start": 28.1,
+      "end": 28.92
+    },
+    {
+      "text": "désigne",
+      "start": 28.92,
+      "end": 29.44
+    },
+    {
+      "text": "une",
+      "start": 29.44,
+      "end": 29.62
+    },
+    {
+      "text": "périodicité.",
+      "start": 29.62,
+      "end": 30.56
+    },
+    {
+      "text": "Faisons",
+      "start": 31.18,
+      "end": 31.94
+    },
+    {
+      "text": "un",
+      "start": 31.94,
+      "end": 32.1
+    },
+    {
+      "text": "peu",
+      "start": 32.1,
+      "end": 32.24
+    },
+    {
+      "text": "d",
+      "start": 32.24,
+      "end": 32.36
+    },
+    {
+      "text": "'arithmétique.",
+      "start": 32.36,
+      "end": 32.88
+    },
+    {
+      "text": "Tantôt",
+      "start": 34.02,
+      "end": 34.5
+    },
+    {
+      "text": "le",
+      "start": 34.5,
+      "end": 34.6
+    },
+    {
+      "text": "préfixe",
+      "start": 34.6,
+      "end": 35.1
+    },
+    {
+      "text": "bi",
+      "start": 35.1,
+      "end": 35.44
+    },
+    {
+      "text": "divise",
+      "start": 35.44,
+      "end": 36.48
+    },
+    {
+      "text": "le",
+      "start": 36.48,
+      "end": 37.0
+    },
+    {
+      "text": "laps",
+      "start": 37.0,
+      "end": 37.26
+    },
+    {
+      "text": "de",
+      "start": 37.26,
+      "end": 37.52
+    },
+    {
+      "text": "temps",
+      "start": 37.52,
+      "end": 37.76
+    },
+    {
+      "text": "qui",
+      "start": 37.76,
+      "end": 37.9
+    },
+    {
+      "text": "exprime",
+      "start": 37.9,
+      "end": 38.3
+    },
+    {
+      "text": "l",
+      "start": 38.3,
+      "end": 38.44
+    },
+    {
+      "text": "'adjectif.",
+      "start": 38.44,
+      "end": 38.96
+    },
+    {
+      "text": "Ainsi,",
+      "start": 39.72,
+      "end": 40.48
+    },
+    {
+      "text": "bi",
+      "start": 41.02,
+      "end": 41.1
+    },
+    {
+      "text": "quotidien",
+      "start": 41.1,
+      "end": 41.72
+    },
+    {
+      "text": "signifie",
+      "start": 41.72,
+      "end": 42.48
+    },
+    {
+      "text": "deux",
+      "start": 42.48,
+      "end": 42.78
+    },
+    {
+      "text": "fois",
+      "start": 42.78,
+      "end": 43.02
+    },
+    {
+      "text": "par",
+      "start": 43.02,
+      "end": 43.22
+    },
+    {
+      "text": "jour,",
+      "start": 43.22,
+      "end": 43.5
+    },
+    {
+      "text": "bi",
+      "start": 44.3,
+      "end": 44.6
+    },
+    {
+      "text": "hebdomadaire",
+      "start": 44.6,
+      "end": 45.38
+    },
+    {
+      "text": "deux",
+      "start": 45.38,
+      "end": 45.68
+    },
+    {
+      "text": "fois",
+      "start": 45.68,
+      "end": 45.92
+    },
+    {
+      "text": "par",
+      "start": 45.92,
+      "end": 46.12
+    },
+    {
+      "text": "semaine",
+      "start": 46.12,
+      "end": 46.44
+    },
+    {
+      "text": "et",
+      "start": 46.44,
+      "end": 47.14
+    },
+    {
+      "text": "bi",
+      "start": 47.14,
+      "end": 47.36
+    },
+    {
+      "text": "mensuel",
+      "start": 47.36,
+      "end": 47.88
+    },
+    {
+      "text": "deux",
+      "start": 47.88,
+      "end": 48.42
+    },
+    {
+      "text": "fois",
+      "start": 48.42,
+      "end": 48.6
+    },
+    {
+      "text": "par",
+      "start": 48.6,
+      "end": 48.78
+    },
+    {
+      "text": "mois,",
+      "start": 48.78,
+      "end": 48.96
+    },
+    {
+      "text": "c",
+      "start": 49.6,
+      "end": 49.68
+    },
+    {
+      "text": "'est",
+      "start": 49.68,
+      "end": 49.72
+    },
+    {
+      "text": "-à",
+      "start": 49.72,
+      "end": 49.86
+    },
+    {
+      "text": "-dire",
+      "start": 49.86,
+      "end": 49.96
+    },
+    {
+      "text": "tous",
+      "start": 49.96,
+      "end": 50.12
+    },
+    {
+      "text": "les",
+      "start": 50.12,
+      "end": 50.24
+    },
+    {
+      "text": "15",
+      "start": 50.24,
+      "end": 50.4
+    },
+    {
+      "text": "jours.",
+      "start": 50.4,
+      "end": 50.74
+    },
+    {
+      "text": "Tantôt",
+      "start": 52.06,
+      "end": 52.56
+    },
+    {
+      "text": "le",
+      "start": 52.56,
+      "end": 52.92
+    },
+    {
+      "text": "préfixe",
+      "start": 52.92,
+      "end": 53.34
+    },
+    {
+      "text": "bi",
+      "start": 53.34,
+      "end": 53.72
+    },
+    {
+      "text": "multiplie",
+      "start": 53.72,
+      "end": 54.98
+    },
+    {
+      "text": "le",
+      "start": 54.98,
+      "end": 55.34
+    },
+    {
+      "text": "temps",
+      "start": 55.34,
+      "end": 55.6
+    },
+    {
+      "text": "désigné",
+      "start": 55.6,
+      "end": 56.12
+    },
+    {
+      "text": "par",
+      "start": 56.12,
+      "end": 56.32
+    },
+    {
+      "text": "l",
+      "start": 56.32,
+      "end": 56.44
+    },
+    {
+      "text": "'adjectif.",
+      "start": 56.44,
+      "end": 56.98
+    },
+    {
+      "text": "Bis",
+      "start": 57.6,
+      "end": 57.82
+    },
+    {
+      "text": "annuel",
+      "start": 57.82,
+      "end": 58.28
+    },
+    {
+      "text": "signifie",
+      "start": 58.28,
+      "end": 59.34
+    },
+    {
+      "text": "tous",
+      "start": 59.34,
+      "end": 59.74
+    },
+    {
+      "text": "les",
+      "start": 59.74,
+      "end": 59.88
+    },
+    {
+      "text": "deux",
+      "start": 59.88,
+      "end": 60.02
+    },
+    {
+      "text": "ans.",
+      "start": 60.02,
+      "end": 60.2
+    },
+    {
+      "text": "Pour",
+      "start": 61.18,
+      "end": 61.44
+    },
+    {
+      "text": "exprimer",
+      "start": 61.44,
+      "end": 61.94
+    },
+    {
+      "text": "la",
+      "start": 61.94,
+      "end": 62.1
+    },
+    {
+      "text": "périodicité",
+      "start": 62.1,
+      "end": 63.0
+    },
+    {
+      "text": "de",
+      "start": 63.0,
+      "end": 63.26
+    },
+    {
+      "text": "tous",
+      "start": 63.26,
+      "end": 63.68
+    },
+    {
+      "text": "les",
+      "start": 63.68,
+      "end": 63.82
+    },
+    {
+      "text": "deux",
+      "start": 63.82,
+      "end": 63.96
+    },
+    {
+      "text": "mois,",
+      "start": 63.96,
+      "end": 64.18
+    },
+    {
+      "text": "on",
+      "start": 64.6,
+      "end": 64.76
+    },
+    {
+      "text": "dira",
+      "start": 64.76,
+      "end": 65.0
+    },
+    {
+      "text": "bimestriel.",
+      "start": 65.0,
+      "end": 66.04
+    },
+    {
+      "text": "Il",
+      "start": 66.98,
+      "end": 67.14
+    },
+    {
+      "text": "importe",
+      "start": 67.14,
+      "end": 67.6
+    },
+    {
+      "text": "donc",
+      "start": 67.6,
+      "end": 67.78
+    },
+    {
+      "text": "de",
+      "start": 67.78,
+      "end": 68.04
+    },
+    {
+      "text": "bien",
+      "start": 68.04,
+      "end": 68.34
+    },
+    {
+      "text": "distinguer",
+      "start": 68.34,
+      "end": 69.04
+    },
+    {
+      "text": "bimensuel,",
+      "start": 69.04,
+      "end": 70.16
+    },
+    {
+      "text": "deux",
+      "start": 70.62,
+      "end": 70.84
+    },
+    {
+      "text": "fois",
+      "start": 70.84,
+      "end": 71.02
+    },
+    {
+      "text": "par",
+      "start": 71.02,
+      "end": 71.2
+    },
+    {
+      "text": "mois,",
+      "start": 71.2,
+      "end": 71.4
+    },
+    {
+      "text": "de",
+      "start": 71.4,
+      "end": 71.98
+    },
+    {
+      "text": "bimestriel",
+      "start": 71.98,
+      "end": 72.82
+    },
+    {
+      "text": "tous",
+      "start": 72.82,
+      "end": 73.52
+    },
+    {
+      "text": "les",
+      "start": 73.52,
+      "end": 73.66
+    },
+    {
+      "text": "deux",
+      "start": 73.66,
+      "end": 73.76
+    },
+    {
+      "text": "mois.",
+      "start": 73.76,
+      "end": 73.98
+    },
+    {
+      "text": "Exercice",
+      "start": 74.94,
+      "end": 75.74
+    },
+    {
+      "text": "pratique",
+      "start": 75.74,
+      "end": 76.04
+    },
+    {
+      "text": "avec",
+      "start": 76.04,
+      "end": 76.68
+    },
+    {
+      "text": "tri.",
+      "start": 76.68,
+      "end": 77.08
+    },
+    {
+      "text": "Tri",
+      "start": 77.8,
+      "end": 78.04
+    },
+    {
+      "text": "annuel",
+      "start": 78.04,
+      "end": 78.4
+    },
+    {
+      "text": "tous",
+      "start": 78.4,
+      "end": 79.6
+    },
+    {
+      "text": "les",
+      "start": 79.6,
+      "end": 79.74
+    },
+    {
+      "text": "trois",
+      "start": 79.74,
+      "end": 79.92
+    },
+    {
+      "text": "ans.",
+      "start": 79.92,
+      "end": 80.1
+    },
+    {
+      "text": "Trimestriel",
+      "start": 80.82,
+      "end": 81.62
+    },
+    {
+      "text": "tous",
+      "start": 81.62,
+      "end": 82.66
+    },
+    {
+      "text": "les",
+      "start": 82.66,
+      "end": 82.8
+    },
+    {
+      "text": "trois",
+      "start": 82.8,
+      "end": 82.96
+    },
+    {
+      "text": "mois,",
+      "start": 82.96,
+      "end": 83.12
+    },
+    {
+      "text": "tous",
+      "start": 83.52,
+      "end": 83.58
+    },
+    {
+      "text": "les",
+      "start": 83.58,
+      "end": 83.7
+    },
+    {
+      "text": "trimestres.",
+      "start": 83.7,
+      "end": 84.36
+    },
+    {
+      "text": "Trimensuel",
+      "start": 84.82,
+      "end": 85.62
+    },
+    {
+      "text": "trois",
+      "start": 85.62,
+      "end": 86.54
+    },
+    {
+      "text": "fois",
+      "start": 86.54,
+      "end": 86.72
+    },
+    {
+      "text": "par",
+      "start": 86.72,
+      "end": 86.9
+    },
+    {
+      "text": "mois.",
+      "start": 86.9,
+      "end": 87.06
+    },
+    {
+      "text": "C",
+      "start": 87.66,
+      "end": 87.88
+    },
+    {
+      "text": "'est",
+      "start": 87.88,
+      "end": 87.9
+    },
+    {
+      "text": "tout",
+      "start": 87.9,
+      "end": 88.02
+    },
+    {
+      "text": "simple.",
+      "start": 88.02,
+      "end": 88.3
+    },
+    {
+      "text": "Question",
+      "start": 90.78,
+      "end": 91.4
+    },
+    {
+      "text": "13.",
+      "start": 91.4,
+      "end": 92.12
+    },
+    {
+      "text": "Selon",
+      "start": 92.96,
+      "end": 93.76
+    },
+    {
+      "text": "le",
+      "start": 93.76,
+      "end": 93.92
+    },
+    {
+      "text": "professeur,",
+      "start": 93.92,
+      "end": 94.76
+    },
+    {
+      "text": "que",
+      "start": 95.08,
+      "end": 95.16
+    },
+    {
+      "text": "signifie",
+      "start": 95.16,
+      "end": 95.66
+    },
+    {
+      "text": "bimestriel",
+      "start": 95.66,
+      "end": 96.44
+    },
+    {
+      "text": "?",
+      "start": 96.44,
+      "end": 97.02
+    }
+  ]
+}

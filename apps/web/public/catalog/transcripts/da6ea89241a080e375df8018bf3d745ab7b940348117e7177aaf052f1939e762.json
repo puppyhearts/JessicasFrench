@@ -1,0 +1,1760 @@
+{
+  "text": "Et puis lors de ces journées, de ces entretiens de la francophonie, un thème était aussi à l'honneur celui de la troisième francophonie. Qu'est-ce que c'est que ça, la troisième francophonie ? Je voulais en savoir plus, à propos de deux personnes qui prononçaient les conférences inaugurales de cette journée d'études, il s'agit de madame Thon Nuthy Ninh, qui est à l'initiative, à l'origine d'une université privée, l'université triviète au Vietnam, et il s'agit de Jean Tabimanga, qui est lui récteur de l'université de Yaoundé au Cameroun. Monsieur Tabimanga, quelle est la teneur particulière de ces septièmes entretiens ? La substance de ces entretiens est de réfléchir sur la troisième francophonie, après celle de la colonisation, celle des indépendances, il y a une francophonie qui est adossée à la mondialisation. Donc vous avez l'impression qu'on est vraiment dans un troisième temps francophone, colonisation, indépendance, et maintenant je ne dirais pas autonomie, mais enfin quelque chose qui se situe par rapport à cette mondialisation ? Absolument, c'est un troisième temps et qui a des enjeux particuliers, c'est un jeu des diversités bien sûr culturelles, c'est un jeu aussi de développement économique, surtout des pays africains sub-sahariens et membres de l'OIF, mais cela dans un contexte concurrentiel où d'autres acteurs économiques et culturels ont fait leur entrée dans le champ des coopérations traditionnelles, et ça je suis bien sûr de cette nombre de pays de l'Amérique latine et des pays asiatiques qui ont investi à cette nombre de chantiers stratégiques et structurels importants pour le développement de l'Afrique. Comment est-ce que dans cette troisième étape de la francophonie, la francophonie aborde telle, cette question de la conturance, cette question de son positionnement, à partir de la définition dont son cœur de métier est, c'est sa magistratue d'influence ? Question 3. Quel est l'objectif principal de ces septième entretien de la francophonie ? Question 4. D'après Monsieur Tabimanga, quels sont les enjeux de la troisième francophonie ?",
+  "words": [
+    {
+      "text": "Et",
+      "start": 2.96,
+      "end": 3.42
+    },
+    {
+      "text": "puis",
+      "start": 3.42,
+      "end": 3.6
+    },
+    {
+      "text": "lors",
+      "start": 3.6,
+      "end": 4.0
+    },
+    {
+      "text": "de",
+      "start": 4.0,
+      "end": 4.24
+    },
+    {
+      "text": "ces",
+      "start": 4.24,
+      "end": 4.4
+    },
+    {
+      "text": "journées,",
+      "start": 4.4,
+      "end": 5.04
+    },
+    {
+      "text": "de",
+      "start": 5.34,
+      "end": 5.64
+    },
+    {
+      "text": "ces",
+      "start": 5.64,
+      "end": 5.78
+    },
+    {
+      "text": "entretiens",
+      "start": 5.78,
+      "end": 6.34
+    },
+    {
+      "text": "de",
+      "start": 6.34,
+      "end": 6.52
+    },
+    {
+      "text": "la",
+      "start": 6.52,
+      "end": 6.62
+    },
+    {
+      "text": "francophonie,",
+      "start": 6.62,
+      "end": 7.24
+    },
+    {
+      "text": "un",
+      "start": 7.48,
+      "end": 7.64
+    },
+    {
+      "text": "thème",
+      "start": 7.64,
+      "end": 7.78
+    },
+    {
+      "text": "était",
+      "start": 7.78,
+      "end": 7.94
+    },
+    {
+      "text": "aussi",
+      "start": 7.94,
+      "end": 8.32
+    },
+    {
+      "text": "à",
+      "start": 8.32,
+      "end": 8.56
+    },
+    {
+      "text": "l",
+      "start": 8.56,
+      "end": 8.62
+    },
+    {
+      "text": "'honneur",
+      "start": 8.62,
+      "end": 8.94
+    },
+    {
+      "text": "celui",
+      "start": 8.94,
+      "end": 9.4
+    },
+    {
+      "text": "de",
+      "start": 9.4,
+      "end": 9.6
+    },
+    {
+      "text": "la",
+      "start": 9.6,
+      "end": 9.72
+    },
+    {
+      "text": "troisième",
+      "start": 9.72,
+      "end": 10.26
+    },
+    {
+      "text": "francophonie.",
+      "start": 10.26,
+      "end": 11.2
+    },
+    {
+      "text": "Qu",
+      "start": 11.38,
+      "end": 11.5
+    },
+    {
+      "text": "'est",
+      "start": 11.5,
+      "end": 11.52
+    },
+    {
+      "text": "-ce",
+      "start": 11.52,
+      "end": 11.6
+    },
+    {
+      "text": "que",
+      "start": 11.6,
+      "end": 11.72
+    },
+    {
+      "text": "c",
+      "start": 11.72,
+      "end": 11.8
+    },
+    {
+      "text": "'est",
+      "start": 11.8,
+      "end": 11.84
+    },
+    {
+      "text": "que",
+      "start": 11.84,
+      "end": 11.92
+    },
+    {
+      "text": "ça,",
+      "start": 11.92,
+      "end": 12.04
+    },
+    {
+      "text": "la",
+      "start": 12.22,
+      "end": 12.28
+    },
+    {
+      "text": "troisième",
+      "start": 12.28,
+      "end": 12.58
+    },
+    {
+      "text": "francophonie",
+      "start": 12.58,
+      "end": 13.36
+    },
+    {
+      "text": "?",
+      "start": 13.36,
+      "end": 13.64
+    },
+    {
+      "text": "Je",
+      "start": 13.64,
+      "end": 13.78
+    },
+    {
+      "text": "voulais",
+      "start": 13.78,
+      "end": 13.96
+    },
+    {
+      "text": "en",
+      "start": 13.96,
+      "end": 14.1
+    },
+    {
+      "text": "savoir",
+      "start": 14.1,
+      "end": 14.32
+    },
+    {
+      "text": "plus,",
+      "start": 14.32,
+      "end": 14.72
+    },
+    {
+      "text": "à",
+      "start": 14.98,
+      "end": 15.08
+    },
+    {
+      "text": "propos",
+      "start": 15.08,
+      "end": 15.36
+    },
+    {
+      "text": "de",
+      "start": 15.36,
+      "end": 15.66
+    },
+    {
+      "text": "deux",
+      "start": 15.66,
+      "end": 15.86
+    },
+    {
+      "text": "personnes",
+      "start": 15.86,
+      "end": 16.18
+    },
+    {
+      "text": "qui",
+      "start": 16.18,
+      "end": 16.52
+    },
+    {
+      "text": "prononçaient",
+      "start": 16.52,
+      "end": 17.82
+    },
+    {
+      "text": "les",
+      "start": 17.82,
+      "end": 17.96
+    },
+    {
+      "text": "conférences",
+      "start": 17.96,
+      "end": 18.46
+    },
+    {
+      "text": "inaugurales",
+      "start": 18.46,
+      "end": 19.38
+    },
+    {
+      "text": "de",
+      "start": 19.38,
+      "end": 19.68
+    },
+    {
+      "text": "cette",
+      "start": 19.68,
+      "end": 19.82
+    },
+    {
+      "text": "journée",
+      "start": 19.82,
+      "end": 20.04
+    },
+    {
+      "text": "d",
+      "start": 20.04,
+      "end": 20.24
+    },
+    {
+      "text": "'études,",
+      "start": 20.24,
+      "end": 20.52
+    },
+    {
+      "text": "il",
+      "start": 20.9,
+      "end": 20.96
+    },
+    {
+      "text": "s",
+      "start": 20.96,
+      "end": 21.16
+    },
+    {
+      "text": "'agit",
+      "start": 21.16,
+      "end": 21.3
+    },
+    {
+      "text": "de",
+      "start": 21.3,
+      "end": 21.6
+    },
+    {
+      "text": "madame",
+      "start": 21.6,
+      "end": 21.9
+    },
+    {
+      "text": "Thon",
+      "start": 21.9,
+      "end": 22.12
+    },
+    {
+      "text": "Nuthy",
+      "start": 22.12,
+      "end": 22.56
+    },
+    {
+      "text": "Ninh,",
+      "start": 22.56,
+      "end": 22.86
+    },
+    {
+      "text": "qui",
+      "start": 23.02,
+      "end": 23.02
+    },
+    {
+      "text": "est",
+      "start": 23.02,
+      "end": 23.22
+    },
+    {
+      "text": "à",
+      "start": 23.22,
+      "end": 23.48
+    },
+    {
+      "text": "l",
+      "start": 23.48,
+      "end": 23.92
+    },
+    {
+      "text": "'initiative,",
+      "start": 23.92,
+      "end": 24.46
+    },
+    {
+      "text": "à",
+      "start": 24.52,
+      "end": 24.62
+    },
+    {
+      "text": "l",
+      "start": 24.62,
+      "end": 24.82
+    },
+    {
+      "text": "'origine",
+      "start": 24.82,
+      "end": 25.02
+    },
+    {
+      "text": "d",
+      "start": 25.02,
+      "end": 25.3
+    },
+    {
+      "text": "'une",
+      "start": 25.3,
+      "end": 25.4
+    },
+    {
+      "text": "université",
+      "start": 25.4,
+      "end": 25.96
+    },
+    {
+      "text": "privée,",
+      "start": 25.96,
+      "end": 26.44
+    },
+    {
+      "text": "l",
+      "start": 26.78,
+      "end": 26.92
+    },
+    {
+      "text": "'université",
+      "start": 26.92,
+      "end": 27.42
+    },
+    {
+      "text": "triviète",
+      "start": 27.42,
+      "end": 27.94
+    },
+    {
+      "text": "au",
+      "start": 27.94,
+      "end": 28.1
+    },
+    {
+      "text": "Vietnam,",
+      "start": 28.1,
+      "end": 28.36
+    },
+    {
+      "text": "et",
+      "start": 28.36,
+      "end": 28.96
+    },
+    {
+      "text": "il",
+      "start": 28.96,
+      "end": 29.1
+    },
+    {
+      "text": "s",
+      "start": 29.1,
+      "end": 29.24
+    },
+    {
+      "text": "'agit",
+      "start": 29.24,
+      "end": 29.38
+    },
+    {
+      "text": "de",
+      "start": 29.38,
+      "end": 29.74
+    },
+    {
+      "text": "Jean",
+      "start": 29.74,
+      "end": 30.02
+    },
+    {
+      "text": "Tabimanga,",
+      "start": 30.02,
+      "end": 30.7
+    },
+    {
+      "text": "qui",
+      "start": 31.02,
+      "end": 31.02
+    },
+    {
+      "text": "est",
+      "start": 31.02,
+      "end": 31.16
+    },
+    {
+      "text": "lui",
+      "start": 31.16,
+      "end": 31.36
+    },
+    {
+      "text": "récteur",
+      "start": 31.36,
+      "end": 31.9
+    },
+    {
+      "text": "de",
+      "start": 31.9,
+      "end": 32.02
+    },
+    {
+      "text": "l",
+      "start": 32.02,
+      "end": 32.12
+    },
+    {
+      "text": "'université",
+      "start": 32.12,
+      "end": 32.6
+    },
+    {
+      "text": "de",
+      "start": 32.6,
+      "end": 32.78
+    },
+    {
+      "text": "Yaoundé",
+      "start": 32.78,
+      "end": 33.3
+    },
+    {
+      "text": "au",
+      "start": 33.3,
+      "end": 33.6
+    },
+    {
+      "text": "Cameroun.",
+      "start": 33.6,
+      "end": 33.98
+    },
+    {
+      "text": "Monsieur",
+      "start": 38.52,
+      "end": 39.36
+    },
+    {
+      "text": "Tabimanga,",
+      "start": 39.36,
+      "end": 40.08
+    },
+    {
+      "text": "quelle",
+      "start": 40.5,
+      "end": 40.62
+    },
+    {
+      "text": "est",
+      "start": 40.62,
+      "end": 40.74
+    },
+    {
+      "text": "la",
+      "start": 40.74,
+      "end": 40.86
+    },
+    {
+      "text": "teneur",
+      "start": 40.86,
+      "end": 41.46
+    },
+    {
+      "text": "particulière",
+      "start": 41.46,
+      "end": 42.38
+    },
+    {
+      "text": "de",
+      "start": 42.38,
+      "end": 42.66
+    },
+    {
+      "text": "ces",
+      "start": 42.66,
+      "end": 42.82
+    },
+    {
+      "text": "septièmes",
+      "start": 42.82,
+      "end": 43.36
+    },
+    {
+      "text": "entretiens",
+      "start": 43.36,
+      "end": 43.9
+    },
+    {
+      "text": "?",
+      "start": 43.9,
+      "end": 44.14
+    },
+    {
+      "text": "La",
+      "start": 44.14,
+      "end": 44.5
+    },
+    {
+      "text": "substance",
+      "start": 44.5,
+      "end": 45.0
+    },
+    {
+      "text": "de",
+      "start": 45.0,
+      "end": 45.44
+    },
+    {
+      "text": "ces",
+      "start": 45.44,
+      "end": 45.58
+    },
+    {
+      "text": "entretiens",
+      "start": 45.58,
+      "end": 46.34
+    },
+    {
+      "text": "est",
+      "start": 46.34,
+      "end": 47.08
+    },
+    {
+      "text": "de",
+      "start": 47.08,
+      "end": 47.76
+    },
+    {
+      "text": "réfléchir",
+      "start": 47.76,
+      "end": 48.9
+    },
+    {
+      "text": "sur",
+      "start": 48.9,
+      "end": 49.66
+    },
+    {
+      "text": "la",
+      "start": 49.66,
+      "end": 50.44
+    },
+    {
+      "text": "troisième",
+      "start": 50.44,
+      "end": 51.06
+    },
+    {
+      "text": "francophonie,",
+      "start": 51.06,
+      "end": 52.34
+    },
+    {
+      "text": "après",
+      "start": 52.62,
+      "end": 53.3
+    },
+    {
+      "text": "celle",
+      "start": 53.3,
+      "end": 53.92
+    },
+    {
+      "text": "de",
+      "start": 53.92,
+      "end": 54.12
+    },
+    {
+      "text": "la",
+      "start": 54.12,
+      "end": 54.28
+    },
+    {
+      "text": "colonisation,",
+      "start": 54.28,
+      "end": 55.06
+    },
+    {
+      "text": "celle",
+      "start": 55.78,
+      "end": 56.24
+    },
+    {
+      "text": "des",
+      "start": 56.24,
+      "end": 56.58
+    },
+    {
+      "text": "indépendances,",
+      "start": 56.58,
+      "end": 57.94
+    },
+    {
+      "text": "il",
+      "start": 58.3,
+      "end": 58.54
+    },
+    {
+      "text": "y",
+      "start": 58.54,
+      "end": 58.66
+    },
+    {
+      "text": "a",
+      "start": 58.66,
+      "end": 58.72
+    },
+    {
+      "text": "une",
+      "start": 58.72,
+      "end": 58.88
+    },
+    {
+      "text": "francophonie",
+      "start": 58.88,
+      "end": 59.7
+    },
+    {
+      "text": "qui",
+      "start": 59.7,
+      "end": 60.04
+    },
+    {
+      "text": "est",
+      "start": 60.04,
+      "end": 60.32
+    },
+    {
+      "text": "adossée",
+      "start": 60.32,
+      "end": 61.32
+    },
+    {
+      "text": "à",
+      "start": 61.32,
+      "end": 61.58
+    },
+    {
+      "text": "la",
+      "start": 61.58,
+      "end": 61.7
+    },
+    {
+      "text": "mondialisation.",
+      "start": 61.7,
+      "end": 62.7
+    },
+    {
+      "text": "Donc",
+      "start": 63.06,
+      "end": 63.24
+    },
+    {
+      "text": "vous",
+      "start": 63.24,
+      "end": 63.36
+    },
+    {
+      "text": "avez",
+      "start": 63.36,
+      "end": 63.46
+    },
+    {
+      "text": "l",
+      "start": 63.46,
+      "end": 63.54
+    },
+    {
+      "text": "'impression",
+      "start": 63.54,
+      "end": 63.74
+    },
+    {
+      "text": "qu",
+      "start": 63.74,
+      "end": 63.94
+    },
+    {
+      "text": "'on",
+      "start": 63.94,
+      "end": 63.96
+    },
+    {
+      "text": "est",
+      "start": 63.96,
+      "end": 64.08
+    },
+    {
+      "text": "vraiment",
+      "start": 64.08,
+      "end": 64.32
+    },
+    {
+      "text": "dans",
+      "start": 64.32,
+      "end": 64.48
+    },
+    {
+      "text": "un",
+      "start": 64.48,
+      "end": 64.64
+    },
+    {
+      "text": "troisième",
+      "start": 64.64,
+      "end": 64.9
+    },
+    {
+      "text": "temps",
+      "start": 64.9,
+      "end": 65.26
+    },
+    {
+      "text": "francophone,",
+      "start": 65.26,
+      "end": 66.04
+    },
+    {
+      "text": "colonisation,",
+      "start": 66.34,
+      "end": 67.18
+    },
+    {
+      "text": "indépendance,",
+      "start": 67.54,
+      "end": 68.14
+    },
+    {
+      "text": "et",
+      "start": 68.28,
+      "end": 68.32
+    },
+    {
+      "text": "maintenant",
+      "start": 68.32,
+      "end": 68.74
+    },
+    {
+      "text": "je",
+      "start": 68.74,
+      "end": 69.22
+    },
+    {
+      "text": "ne",
+      "start": 69.22,
+      "end": 69.24
+    },
+    {
+      "text": "dirais",
+      "start": 69.24,
+      "end": 69.38
+    },
+    {
+      "text": "pas",
+      "start": 69.38,
+      "end": 69.54
+    },
+    {
+      "text": "autonomie,",
+      "start": 69.54,
+      "end": 70.14
+    },
+    {
+      "text": "mais",
+      "start": 70.42,
+      "end": 70.48
+    },
+    {
+      "text": "enfin",
+      "start": 70.48,
+      "end": 70.62
+    },
+    {
+      "text": "quelque",
+      "start": 70.62,
+      "end": 70.86
+    },
+    {
+      "text": "chose",
+      "start": 70.86,
+      "end": 71.14
+    },
+    {
+      "text": "qui",
+      "start": 71.14,
+      "end": 71.3
+    },
+    {
+      "text": "se",
+      "start": 71.3,
+      "end": 71.44
+    },
+    {
+      "text": "situe",
+      "start": 71.44,
+      "end": 71.7
+    },
+    {
+      "text": "par",
+      "start": 71.7,
+      "end": 71.88
+    },
+    {
+      "text": "rapport",
+      "start": 71.88,
+      "end": 72.12
+    },
+    {
+      "text": "à",
+      "start": 72.12,
+      "end": 72.3
+    },
+    {
+      "text": "cette",
+      "start": 72.3,
+      "end": 72.44
+    },
+    {
+      "text": "mondialisation",
+      "start": 72.44,
+      "end": 73.04
+    },
+    {
+      "text": "?",
+      "start": 73.04,
+      "end": 73.4
+    },
+    {
+      "text": "Absolument,",
+      "start": 73.4,
+      "end": 73.92
+    },
+    {
+      "text": "c",
+      "start": 74.06,
+      "end": 74.22
+    },
+    {
+      "text": "'est",
+      "start": 74.22,
+      "end": 74.24
+    },
+    {
+      "text": "un",
+      "start": 74.24,
+      "end": 74.56
+    },
+    {
+      "text": "troisième",
+      "start": 74.56,
+      "end": 75.12
+    },
+    {
+      "text": "temps",
+      "start": 75.12,
+      "end": 76.26
+    },
+    {
+      "text": "et",
+      "start": 76.26,
+      "end": 76.78
+    },
+    {
+      "text": "qui",
+      "start": 76.78,
+      "end": 77.3
+    },
+    {
+      "text": "a",
+      "start": 77.3,
+      "end": 77.64
+    },
+    {
+      "text": "des",
+      "start": 77.64,
+      "end": 78.04
+    },
+    {
+      "text": "enjeux",
+      "start": 78.04,
+      "end": 78.7
+    },
+    {
+      "text": "particuliers,",
+      "start": 78.7,
+      "end": 79.78
+    },
+    {
+      "text": "c",
+      "start": 80.24,
+      "end": 80.42
+    },
+    {
+      "text": "'est",
+      "start": 80.42,
+      "end": 80.44
+    },
+    {
+      "text": "un",
+      "start": 80.44,
+      "end": 80.64
+    },
+    {
+      "text": "jeu",
+      "start": 80.64,
+      "end": 80.94
+    },
+    {
+      "text": "des",
+      "start": 80.94,
+      "end": 81.16
+    },
+    {
+      "text": "diversités",
+      "start": 81.16,
+      "end": 82.0
+    },
+    {
+      "text": "bien",
+      "start": 82.0,
+      "end": 82.24
+    },
+    {
+      "text": "sûr",
+      "start": 82.24,
+      "end": 82.56
+    },
+    {
+      "text": "culturelles,",
+      "start": 82.56,
+      "end": 83.54
+    },
+    {
+      "text": "c",
+      "start": 84.06,
+      "end": 84.14
+    },
+    {
+      "text": "'est",
+      "start": 84.14,
+      "end": 84.18
+    },
+    {
+      "text": "un",
+      "start": 84.18,
+      "end": 84.4
+    },
+    {
+      "text": "jeu",
+      "start": 84.4,
+      "end": 84.7
+    },
+    {
+      "text": "aussi",
+      "start": 84.7,
+      "end": 85.42
+    },
+    {
+      "text": "de",
+      "start": 85.42,
+      "end": 85.86
+    },
+    {
+      "text": "développement",
+      "start": 85.86,
+      "end": 86.64
+    },
+    {
+      "text": "économique,",
+      "start": 86.64,
+      "end": 87.7
+    },
+    {
+      "text": "surtout",
+      "start": 88.32,
+      "end": 88.88
+    },
+    {
+      "text": "des",
+      "start": 88.88,
+      "end": 89.52
+    },
+    {
+      "text": "pays",
+      "start": 89.52,
+      "end": 89.92
+    },
+    {
+      "text": "africains",
+      "start": 89.92,
+      "end": 91.02
+    },
+    {
+      "text": "sub",
+      "start": 91.02,
+      "end": 91.54
+    },
+    {
+      "text": "-sahariens",
+      "start": 91.54,
+      "end": 92.58
+    },
+    {
+      "text": "et",
+      "start": 92.58,
+      "end": 93.04
+    },
+    {
+      "text": "membres",
+      "start": 93.04,
+      "end": 93.72
+    },
+    {
+      "text": "de",
+      "start": 93.72,
+      "end": 93.94
+    },
+    {
+      "text": "l",
+      "start": 93.94,
+      "end": 94.12
+    },
+    {
+      "text": "'OIF,",
+      "start": 94.12,
+      "end": 94.72
+    },
+    {
+      "text": "mais",
+      "start": 95.14,
+      "end": 95.46
+    },
+    {
+      "text": "cela",
+      "start": 95.46,
+      "end": 95.92
+    },
+    {
+      "text": "dans",
+      "start": 95.92,
+      "end": 96.32
+    },
+    {
+      "text": "un",
+      "start": 96.32,
+      "end": 96.64
+    },
+    {
+      "text": "contexte",
+      "start": 96.64,
+      "end": 97.6
+    },
+    {
+      "text": "concurrentiel",
+      "start": 97.6,
+      "end": 99.04
+    },
+    {
+      "text": "où",
+      "start": 99.04,
+      "end": 99.86
+    },
+    {
+      "text": "d",
+      "start": 99.86,
+      "end": 100.24
+    },
+    {
+      "text": "'autres",
+      "start": 100.24,
+      "end": 100.48
+    },
+    {
+      "text": "acteurs",
+      "start": 100.48,
+      "end": 101.48
+    },
+    {
+      "text": "économiques",
+      "start": 101.48,
+      "end": 102.8
+    },
+    {
+      "text": "et",
+      "start": 102.8,
+      "end": 103.0
+    },
+    {
+      "text": "culturels",
+      "start": 103.0,
+      "end": 103.82
+    },
+    {
+      "text": "ont",
+      "start": 103.82,
+      "end": 104.38
+    },
+    {
+      "text": "fait",
+      "start": 104.38,
+      "end": 104.98
+    },
+    {
+      "text": "leur",
+      "start": 104.98,
+      "end": 105.44
+    },
+    {
+      "text": "entrée",
+      "start": 105.44,
+      "end": 106.7
+    },
+    {
+      "text": "dans",
+      "start": 106.7,
+      "end": 107.12
+    },
+    {
+      "text": "le",
+      "start": 107.12,
+      "end": 107.42
+    },
+    {
+      "text": "champ",
+      "start": 107.42,
+      "end": 107.8
+    },
+    {
+      "text": "des",
+      "start": 107.8,
+      "end": 108.22
+    },
+    {
+      "text": "coopérations",
+      "start": 108.22,
+      "end": 109.04
+    },
+    {
+      "text": "traditionnelles,",
+      "start": 109.04,
+      "end": 110.62
+    },
+    {
+      "text": "et",
+      "start": 110.78,
+      "end": 110.8
+    },
+    {
+      "text": "ça",
+      "start": 110.8,
+      "end": 110.96
+    },
+    {
+      "text": "je",
+      "start": 110.96,
+      "end": 111.12
+    },
+    {
+      "text": "suis",
+      "start": 111.12,
+      "end": 111.18
+    },
+    {
+      "text": "bien",
+      "start": 111.18,
+      "end": 111.32
+    },
+    {
+      "text": "sûr",
+      "start": 111.32,
+      "end": 111.64
+    },
+    {
+      "text": "de",
+      "start": 111.64,
+      "end": 112.32
+    },
+    {
+      "text": "cette",
+      "start": 112.32,
+      "end": 112.5
+    },
+    {
+      "text": "nombre",
+      "start": 112.5,
+      "end": 112.82
+    },
+    {
+      "text": "de",
+      "start": 112.82,
+      "end": 113.0
+    },
+    {
+      "text": "pays",
+      "start": 113.0,
+      "end": 113.3
+    },
+    {
+      "text": "de",
+      "start": 113.3,
+      "end": 113.58
+    },
+    {
+      "text": "l",
+      "start": 113.58,
+      "end": 113.7
+    },
+    {
+      "text": "'Amérique",
+      "start": 113.7,
+      "end": 113.92
+    },
+    {
+      "text": "latine",
+      "start": 113.92,
+      "end": 114.54
+    },
+    {
+      "text": "et",
+      "start": 114.54,
+      "end": 115.14
+    },
+    {
+      "text": "des",
+      "start": 115.14,
+      "end": 115.6
+    },
+    {
+      "text": "pays",
+      "start": 115.6,
+      "end": 115.84
+    },
+    {
+      "text": "asiatiques",
+      "start": 115.84,
+      "end": 117.52
+    },
+    {
+      "text": "qui",
+      "start": 117.52,
+      "end": 118.12
+    },
+    {
+      "text": "ont",
+      "start": 118.12,
+      "end": 118.42
+    },
+    {
+      "text": "investi",
+      "start": 118.42,
+      "end": 119.34
+    },
+    {
+      "text": "à",
+      "start": 119.34,
+      "end": 119.6
+    },
+    {
+      "text": "cette",
+      "start": 119.6,
+      "end": 119.78
+    },
+    {
+      "text": "nombre",
+      "start": 119.78,
+      "end": 120.16
+    },
+    {
+      "text": "de",
+      "start": 120.16,
+      "end": 120.36
+    },
+    {
+      "text": "chantiers",
+      "start": 120.36,
+      "end": 120.92
+    },
+    {
+      "text": "stratégiques",
+      "start": 120.92,
+      "end": 121.98
+    },
+    {
+      "text": "et",
+      "start": 121.98,
+      "end": 122.14
+    },
+    {
+      "text": "structurels",
+      "start": 122.14,
+      "end": 122.6
+    },
+    {
+      "text": "importants",
+      "start": 122.6,
+      "end": 123.48
+    },
+    {
+      "text": "pour",
+      "start": 123.48,
+      "end": 123.62
+    },
+    {
+      "text": "le",
+      "start": 123.62,
+      "end": 123.76
+    },
+    {
+      "text": "développement",
+      "start": 123.76,
+      "end": 124.26
+    },
+    {
+      "text": "de",
+      "start": 124.26,
+      "end": 124.8
+    },
+    {
+      "text": "l",
+      "start": 124.8,
+      "end": 124.92
+    },
+    {
+      "text": "'Afrique.",
+      "start": 124.92,
+      "end": 125.16
+    },
+    {
+      "text": "Comment",
+      "start": 125.52,
+      "end": 125.8
+    },
+    {
+      "text": "est",
+      "start": 125.8,
+      "end": 126.26
+    },
+    {
+      "text": "-ce",
+      "start": 126.26,
+      "end": 126.52
+    },
+    {
+      "text": "que",
+      "start": 126.52,
+      "end": 126.72
+    },
+    {
+      "text": "dans",
+      "start": 126.72,
+      "end": 127.42
+    },
+    {
+      "text": "cette",
+      "start": 127.42,
+      "end": 127.7
+    },
+    {
+      "text": "troisième",
+      "start": 127.7,
+      "end": 128.34
+    },
+    {
+      "text": "étape",
+      "start": 128.34,
+      "end": 128.88
+    },
+    {
+      "text": "de",
+      "start": 128.88,
+      "end": 129.02
+    },
+    {
+      "text": "la",
+      "start": 129.02,
+      "end": 129.12
+    },
+    {
+      "text": "francophonie,",
+      "start": 129.12,
+      "end": 129.84
+    },
+    {
+      "text": "la",
+      "start": 130.02,
+      "end": 130.62
+    },
+    {
+      "text": "francophonie",
+      "start": 130.62,
+      "end": 131.36
+    },
+    {
+      "text": "aborde",
+      "start": 131.36,
+      "end": 132.18
+    },
+    {
+      "text": "telle,",
+      "start": 132.18,
+      "end": 132.8
+    },
+    {
+      "text": "cette",
+      "start": 132.98,
+      "end": 133.08
+    },
+    {
+      "text": "question",
+      "start": 133.08,
+      "end": 133.6
+    },
+    {
+      "text": "de",
+      "start": 133.6,
+      "end": 134.06
+    },
+    {
+      "text": "la",
+      "start": 134.06,
+      "end": 134.16
+    },
+    {
+      "text": "conturance,",
+      "start": 134.16,
+      "end": 134.9
+    },
+    {
+      "text": "cette",
+      "start": 135.3,
+      "end": 135.4
+    },
+    {
+      "text": "question",
+      "start": 135.4,
+      "end": 135.84
+    },
+    {
+      "text": "de",
+      "start": 135.84,
+      "end": 136.16
+    },
+    {
+      "text": "son",
+      "start": 136.16,
+      "end": 136.38
+    },
+    {
+      "text": "positionnement,",
+      "start": 136.38,
+      "end": 137.46
+    },
+    {
+      "text": "à",
+      "start": 137.86,
+      "end": 138.12
+    },
+    {
+      "text": "partir",
+      "start": 138.12,
+      "end": 138.6
+    },
+    {
+      "text": "de",
+      "start": 138.6,
+      "end": 139.04
+    },
+    {
+      "text": "la",
+      "start": 139.04,
+      "end": 139.12
+    },
+    {
+      "text": "définition",
+      "start": 139.12,
+      "end": 139.8
+    },
+    {
+      "text": "dont",
+      "start": 139.8,
+      "end": 140.02
+    },
+    {
+      "text": "son",
+      "start": 140.02,
+      "end": 140.22
+    },
+    {
+      "text": "cœur",
+      "start": 140.22,
+      "end": 140.64
+    },
+    {
+      "text": "de",
+      "start": 140.64,
+      "end": 141.0
+    },
+    {
+      "text": "métier",
+      "start": 141.0,
+      "end": 141.56
+    },
+    {
+      "text": "est,",
+      "start": 141.56,
+      "end": 142.22
+    },
+    {
+      "text": "c",
+      "start": 142.28,
+      "end": 142.68
+    },
+    {
+      "text": "'est",
+      "start": 142.68,
+      "end": 142.7
+    },
+    {
+      "text": "sa",
+      "start": 142.7,
+      "end": 142.88
+    },
+    {
+      "text": "magistratue",
+      "start": 142.88,
+      "end": 143.6
+    },
+    {
+      "text": "d",
+      "start": 143.6,
+      "end": 143.74
+    },
+    {
+      "text": "'influence",
+      "start": 143.74,
+      "end": 144.12
+    },
+    {
+      "text": "?",
+      "start": 144.12,
+      "end": 144.52
+    },
+    {
+      "text": "Question",
+      "start": 145.72,
+      "end": 146.52
+    },
+    {
+      "text": "3.",
+      "start": 146.52,
+      "end": 147.1
+    },
+    {
+      "text": "Quel",
+      "start": 148.72,
+      "end": 148.86
+    },
+    {
+      "text": "est",
+      "start": 148.86,
+      "end": 148.98
+    },
+    {
+      "text": "l",
+      "start": 148.98,
+      "end": 149.1
+    },
+    {
+      "text": "'objectif",
+      "start": 149.1,
+      "end": 149.6
+    },
+    {
+      "text": "principal",
+      "start": 149.6,
+      "end": 150.26
+    },
+    {
+      "text": "de",
+      "start": 150.26,
+      "end": 150.6
+    },
+    {
+      "text": "ces",
+      "start": 150.6,
+      "end": 150.76
+    },
+    {
+      "text": "septième",
+      "start": 150.76,
+      "end": 151.24
+    },
+    {
+      "text": "entretien",
+      "start": 151.24,
+      "end": 151.84
+    },
+    {
+      "text": "de",
+      "start": 151.84,
+      "end": 152.02
+    },
+    {
+      "text": "la",
+      "start": 152.02,
+      "end": 152.14
+    },
+    {
+      "text": "francophonie",
+      "start": 152.14,
+      "end": 152.8
+    },
+    {
+      "text": "?",
+      "start": 152.8,
+      "end": 153.2
+    },
+    {
+      "text": "Question",
+      "start": 167.9,
+      "end": 168.7
+    },
+    {
+      "text": "4.",
+      "start": 168.7,
+      "end": 169.34
+    },
+    {
+      "text": "D",
+      "start": 170.12,
+      "end": 170.62
+    },
+    {
+      "text": "'après",
+      "start": 170.62,
+      "end": 170.76
+    },
+    {
+      "text": "Monsieur",
+      "start": 170.76,
+      "end": 171.16
+    },
+    {
+      "text": "Tabimanga,",
+      "start": 171.16,
+      "end": 171.86
+    },
+    {
+      "text": "quels",
+      "start": 172.08,
+      "end": 172.2
+    },
+    {
+      "text": "sont",
+      "start": 172.2,
+      "end": 172.38
+    },
+    {
+      "text": "les",
+      "start": 172.38,
+      "end": 172.58
+    },
+    {
+      "text": "enjeux",
+      "start": 172.58,
+      "end": 173.06
+    },
+    {
+      "text": "de",
+      "start": 173.06,
+      "end": 173.18
+    },
+    {
+      "text": "la",
+      "start": 173.18,
+      "end": 173.32
+    },
+    {
+      "text": "troisième",
+      "start": 173.32,
+      "end": 173.64
+    },
+    {
+      "text": "francophonie",
+      "start": 173.64,
+      "end": 174.46
+    },
+    {
+      "text": "?",
+      "start": 174.46,
+      "end": 176.28
+    }
+  ]
+}

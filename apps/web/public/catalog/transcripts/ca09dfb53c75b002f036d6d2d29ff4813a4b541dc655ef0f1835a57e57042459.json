@@ -1,0 +1,205 @@
+{
+  "text": "Votre attention s'il vous plaît, le trafic est interrompu entre les stations laverrière et l'échant. En direction de Paris, les départs des trains se font en garde sans l'azard. Merci de votre compréhension. Qu'indique cette annonce.",
+  "words": [
+    {
+      "text": "Votre",
+      "start": 0.72,
+      "end": 1.36
+    },
+    {
+      "text": "attention",
+      "start": 1.36,
+      "end": 1.68
+    },
+    {
+      "text": "s",
+      "start": 1.68,
+      "end": 1.98
+    },
+    {
+      "text": "'il",
+      "start": 1.98,
+      "end": 2.02
+    },
+    {
+      "text": "vous",
+      "start": 2.02,
+      "end": 2.16
+    },
+    {
+      "text": "plaît,",
+      "start": 2.16,
+      "end": 2.52
+    },
+    {
+      "text": "le",
+      "start": 2.96,
+      "end": 3.06
+    },
+    {
+      "text": "trafic",
+      "start": 3.06,
+      "end": 3.48
+    },
+    {
+      "text": "est",
+      "start": 3.48,
+      "end": 3.64
+    },
+    {
+      "text": "interrompu",
+      "start": 3.64,
+      "end": 4.26
+    },
+    {
+      "text": "entre",
+      "start": 4.26,
+      "end": 4.76
+    },
+    {
+      "text": "les",
+      "start": 4.76,
+      "end": 4.96
+    },
+    {
+      "text": "stations",
+      "start": 4.96,
+      "end": 5.32
+    },
+    {
+      "text": "laverrière",
+      "start": 5.32,
+      "end": 6.26
+    },
+    {
+      "text": "et",
+      "start": 6.26,
+      "end": 6.56
+    },
+    {
+      "text": "l",
+      "start": 6.56,
+      "end": 6.72
+    },
+    {
+      "text": "'échant.",
+      "start": 6.72,
+      "end": 6.98
+    },
+    {
+      "text": "En",
+      "start": 7.64,
+      "end": 7.82
+    },
+    {
+      "text": "direction",
+      "start": 7.82,
+      "end": 8.14
+    },
+    {
+      "text": "de",
+      "start": 8.14,
+      "end": 8.42
+    },
+    {
+      "text": "Paris,",
+      "start": 8.42,
+      "end": 8.72
+    },
+    {
+      "text": "les",
+      "start": 9.22,
+      "end": 9.3
+    },
+    {
+      "text": "départs",
+      "start": 9.3,
+      "end": 9.76
+    },
+    {
+      "text": "des",
+      "start": 9.76,
+      "end": 9.86
+    },
+    {
+      "text": "trains",
+      "start": 9.86,
+      "end": 10.14
+    },
+    {
+      "text": "se",
+      "start": 10.14,
+      "end": 10.42
+    },
+    {
+      "text": "font",
+      "start": 10.42,
+      "end": 10.56
+    },
+    {
+      "text": "en",
+      "start": 10.56,
+      "end": 10.76
+    },
+    {
+      "text": "garde",
+      "start": 10.76,
+      "end": 11.0
+    },
+    {
+      "text": "sans",
+      "start": 11.0,
+      "end": 11.28
+    },
+    {
+      "text": "l",
+      "start": 11.28,
+      "end": 11.42
+    },
+    {
+      "text": "'azard.",
+      "start": 11.42,
+      "end": 11.82
+    },
+    {
+      "text": "Merci",
+      "start": 12.2,
+      "end": 12.62
+    },
+    {
+      "text": "de",
+      "start": 12.62,
+      "end": 13.04
+    },
+    {
+      "text": "votre",
+      "start": 13.04,
+      "end": 13.24
+    },
+    {
+      "text": "compréhension.",
+      "start": 13.24,
+      "end": 13.9
+    },
+    {
+      "text": "Qu",
+      "start": 18.8,
+      "end": 19.44
+    },
+    {
+      "text": "'indique",
+      "start": 19.44,
+      "end": 19.9
+    },
+    {
+      "text": "cette",
+      "start": 19.9,
+      "end": 20.22
+    },
+    {
+      "text": "annonce.",
+      "start": 20.22,
+      "end": 20.74
+    }
+  ]
+}

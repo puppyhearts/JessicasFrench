@@ -1,0 +1,350 @@
+{
+  "text": "Écoutez le document sonore et la question puis choisissez la bonne réponse Pardon madame, vous savez où je peux trouver un floriste dans le quartier s'il vous plaît ? Oui bien sûr, vous en avez un au bout de la rue à droite, vous verrez, c'est à trois minutes à pied. Merci madame, bonne soirée. Au revoir. Question 15, quelle est la réponse de la dame ?",
+  "words": [
+    {
+      "text": "Écoutez",
+      "start": 0.0,
+      "end": 0.76
+    },
+    {
+      "text": "le",
+      "start": 0.76,
+      "end": 0.94
+    },
+    {
+      "text": "document",
+      "start": 0.94,
+      "end": 1.28
+    },
+    {
+      "text": "sonore",
+      "start": 1.28,
+      "end": 1.82
+    },
+    {
+      "text": "et",
+      "start": 1.82,
+      "end": 2.16
+    },
+    {
+      "text": "la",
+      "start": 2.16,
+      "end": 2.28
+    },
+    {
+      "text": "question",
+      "start": 2.28,
+      "end": 2.64
+    },
+    {
+      "text": "puis",
+      "start": 2.64,
+      "end": 3.36
+    },
+    {
+      "text": "choisissez",
+      "start": 3.36,
+      "end": 3.86
+    },
+    {
+      "text": "la",
+      "start": 3.86,
+      "end": 4.02
+    },
+    {
+      "text": "bonne",
+      "start": 4.02,
+      "end": 4.2
+    },
+    {
+      "text": "réponse",
+      "start": 4.2,
+      "end": 4.78
+    },
+    {
+      "text": "Pardon",
+      "start": 7.82,
+      "end": 8.32
+    },
+    {
+      "text": "madame,",
+      "start": 8.32,
+      "end": 8.74
+    },
+    {
+      "text": "vous",
+      "start": 9.22,
+      "end": 9.28
+    },
+    {
+      "text": "savez",
+      "start": 9.28,
+      "end": 9.54
+    },
+    {
+      "text": "où",
+      "start": 9.54,
+      "end": 9.7
+    },
+    {
+      "text": "je",
+      "start": 9.7,
+      "end": 9.8
+    },
+    {
+      "text": "peux",
+      "start": 9.8,
+      "end": 9.94
+    },
+    {
+      "text": "trouver",
+      "start": 9.94,
+      "end": 10.26
+    },
+    {
+      "text": "un",
+      "start": 10.26,
+      "end": 10.46
+    },
+    {
+      "text": "floriste",
+      "start": 10.46,
+      "end": 10.86
+    },
+    {
+      "text": "dans",
+      "start": 10.86,
+      "end": 11.08
+    },
+    {
+      "text": "le",
+      "start": 11.08,
+      "end": 11.18
+    },
+    {
+      "text": "quartier",
+      "start": 11.18,
+      "end": 11.5
+    },
+    {
+      "text": "s",
+      "start": 11.5,
+      "end": 11.6
+    },
+    {
+      "text": "'il",
+      "start": 11.6,
+      "end": 11.66
+    },
+    {
+      "text": "vous",
+      "start": 11.66,
+      "end": 11.8
+    },
+    {
+      "text": "plaît",
+      "start": 11.8,
+      "end": 12.12
+    },
+    {
+      "text": "?",
+      "start": 12.12,
+      "end": 12.44
+    },
+    {
+      "text": "Oui",
+      "start": 12.44,
+      "end": 12.86
+    },
+    {
+      "text": "bien",
+      "start": 12.86,
+      "end": 13.12
+    },
+    {
+      "text": "sûr,",
+      "start": 13.12,
+      "end": 13.46
+    },
+    {
+      "text": "vous",
+      "start": 13.9,
+      "end": 14.08
+    },
+    {
+      "text": "en",
+      "start": 14.08,
+      "end": 14.24
+    },
+    {
+      "text": "avez",
+      "start": 14.24,
+      "end": 14.46
+    },
+    {
+      "text": "un",
+      "start": 14.46,
+      "end": 14.68
+    },
+    {
+      "text": "au",
+      "start": 14.68,
+      "end": 14.88
+    },
+    {
+      "text": "bout",
+      "start": 14.88,
+      "end": 15.04
+    },
+    {
+      "text": "de",
+      "start": 15.04,
+      "end": 15.16
+    },
+    {
+      "text": "la",
+      "start": 15.16,
+      "end": 15.26
+    },
+    {
+      "text": "rue",
+      "start": 15.26,
+      "end": 15.48
+    },
+    {
+      "text": "à",
+      "start": 15.48,
+      "end": 15.72
+    },
+    {
+      "text": "droite,",
+      "start": 15.72,
+      "end": 15.92
+    },
+    {
+      "text": "vous",
+      "start": 16.28,
+      "end": 16.44
+    },
+    {
+      "text": "verrez,",
+      "start": 16.44,
+      "end": 16.8
+    },
+    {
+      "text": "c",
+      "start": 17.22,
+      "end": 17.38
+    },
+    {
+      "text": "'est",
+      "start": 17.38,
+      "end": 17.42
+    },
+    {
+      "text": "à",
+      "start": 17.42,
+      "end": 17.56
+    },
+    {
+      "text": "trois",
+      "start": 17.56,
+      "end": 17.74
+    },
+    {
+      "text": "minutes",
+      "start": 17.74,
+      "end": 17.96
+    },
+    {
+      "text": "à",
+      "start": 17.96,
+      "end": 18.16
+    },
+    {
+      "text": "pied.",
+      "start": 18.16,
+      "end": 18.32
+    },
+    {
+      "text": "Merci",
+      "start": 18.8,
+      "end": 19.18
+    },
+    {
+      "text": "madame,",
+      "start": 19.18,
+      "end": 19.64
+    },
+    {
+      "text": "bonne",
+      "start": 19.98,
+      "end": 20.22
+    },
+    {
+      "text": "soirée.",
+      "start": 20.22,
+      "end": 20.58
+    },
+    {
+      "text": "Au",
+      "start": 21.04,
+      "end": 21.16
+    },
+    {
+      "text": "revoir.",
+      "start": 21.16,
+      "end": 21.48
+    },
+    {
+      "text": "Question",
+      "start": 23.26,
+      "end": 23.76
+    },
+    {
+      "text": "15,",
+      "start": 23.76,
+      "end": 24.18
+    },
+    {
+      "text": "quelle",
+      "start": 24.84,
+      "end": 24.96
+    },
+    {
+      "text": "est",
+      "start": 24.96,
+      "end": 25.14
+    },
+    {
+      "text": "la",
+      "start": 25.14,
+      "end": 25.26
+    },
+    {
+      "text": "réponse",
+      "start": 25.26,
+      "end": 25.7
+    },
+    {
+      "text": "de",
+      "start": 25.7,
+      "end": 25.96
+    },
+    {
+      "text": "la",
+      "start": 25.96,
+      "end": 26.1
+    },
+    {
+      "text": "dame",
+      "start": 26.1,
+      "end": 26.42
+    },
+    {
+      "text": "?",
+      "start": 26.42,
+      "end": 26.82
+    }
+  ]
+}

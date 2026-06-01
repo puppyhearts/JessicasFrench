@@ -1,0 +1,650 @@
+{
+  "text": "Bon, Joseline, veuillez annuler mon rendez-vous avec Monsieur Martin, directeur commercial. Je ne serai pas en mesure de le recevoir cet après-midi et surtout, c'est la dernière personne que je veuille voir après sa piètre performance auprès de nos clients japonais. Ah bon ? Mais qu'est-ce qu'il fait ? Oh, qu'est-ce qu'il fait ? Il a perdu un contrat, avec plus d'un million d'euros à la clé, vous vous rendez compte ? D'ailleurs, je dois immédiatement rappeler Monsieur Ishii afin d'essayer de rattraper l'affaire. Alors, annulez tous mes rendez-vous et ne me passez donc plus aucun appel, je ne suis là pour personne. Entendu. Question 19. Quel est l'intention de l'homme ?",
+  "words": [
+    {
+      "text": "Bon,",
+      "start": 2.04,
+      "end": 2.4
+    },
+    {
+      "text": "Joseline,",
+      "start": 2.5,
+      "end": 2.84
+    },
+    {
+      "text": "veuillez",
+      "start": 3.26,
+      "end": 3.52
+    },
+    {
+      "text": "annuler",
+      "start": 3.52,
+      "end": 3.74
+    },
+    {
+      "text": "mon",
+      "start": 3.74,
+      "end": 4.02
+    },
+    {
+      "text": "rendez",
+      "start": 4.02,
+      "end": 4.24
+    },
+    {
+      "text": "-vous",
+      "start": 4.24,
+      "end": 4.42
+    },
+    {
+      "text": "avec",
+      "start": 4.42,
+      "end": 4.58
+    },
+    {
+      "text": "Monsieur",
+      "start": 4.58,
+      "end": 4.8
+    },
+    {
+      "text": "Martin,",
+      "start": 4.8,
+      "end": 5.08
+    },
+    {
+      "text": "directeur",
+      "start": 5.2,
+      "end": 5.52
+    },
+    {
+      "text": "commercial.",
+      "start": 5.52,
+      "end": 5.84
+    },
+    {
+      "text": "Je",
+      "start": 6.18,
+      "end": 6.3
+    },
+    {
+      "text": "ne",
+      "start": 6.3,
+      "end": 6.4
+    },
+    {
+      "text": "serai",
+      "start": 6.4,
+      "end": 6.6
+    },
+    {
+      "text": "pas",
+      "start": 6.6,
+      "end": 6.74
+    },
+    {
+      "text": "en",
+      "start": 6.74,
+      "end": 6.82
+    },
+    {
+      "text": "mesure",
+      "start": 6.82,
+      "end": 6.98
+    },
+    {
+      "text": "de",
+      "start": 6.98,
+      "end": 7.14
+    },
+    {
+      "text": "le",
+      "start": 7.14,
+      "end": 7.2
+    },
+    {
+      "text": "recevoir",
+      "start": 7.2,
+      "end": 7.58
+    },
+    {
+      "text": "cet",
+      "start": 7.58,
+      "end": 7.8
+    },
+    {
+      "text": "après",
+      "start": 7.8,
+      "end": 7.98
+    },
+    {
+      "text": "-midi",
+      "start": 7.98,
+      "end": 8.26
+    },
+    {
+      "text": "et",
+      "start": 8.26,
+      "end": 8.38
+    },
+    {
+      "text": "surtout,",
+      "start": 8.38,
+      "end": 8.68
+    },
+    {
+      "text": "c",
+      "start": 8.96,
+      "end": 9.06
+    },
+    {
+      "text": "'est",
+      "start": 9.06,
+      "end": 9.1
+    },
+    {
+      "text": "la",
+      "start": 9.1,
+      "end": 9.18
+    },
+    {
+      "text": "dernière",
+      "start": 9.18,
+      "end": 9.44
+    },
+    {
+      "text": "personne",
+      "start": 9.44,
+      "end": 9.9
+    },
+    {
+      "text": "que",
+      "start": 9.9,
+      "end": 10.14
+    },
+    {
+      "text": "je",
+      "start": 10.14,
+      "end": 10.22
+    },
+    {
+      "text": "veuille",
+      "start": 10.22,
+      "end": 10.42
+    },
+    {
+      "text": "voir",
+      "start": 10.42,
+      "end": 10.68
+    },
+    {
+      "text": "après",
+      "start": 10.68,
+      "end": 11.04
+    },
+    {
+      "text": "sa",
+      "start": 11.04,
+      "end": 11.18
+    },
+    {
+      "text": "piètre",
+      "start": 11.18,
+      "end": 11.58
+    },
+    {
+      "text": "performance",
+      "start": 11.58,
+      "end": 12.22
+    },
+    {
+      "text": "auprès",
+      "start": 12.22,
+      "end": 12.54
+    },
+    {
+      "text": "de",
+      "start": 12.54,
+      "end": 12.66
+    },
+    {
+      "text": "nos",
+      "start": 12.66,
+      "end": 12.74
+    },
+    {
+      "text": "clients",
+      "start": 12.74,
+      "end": 12.98
+    },
+    {
+      "text": "japonais.",
+      "start": 12.98,
+      "end": 13.46
+    },
+    {
+      "text": "Ah",
+      "start": 14.02,
+      "end": 14.36
+    },
+    {
+      "text": "bon",
+      "start": 14.36,
+      "end": 14.56
+    },
+    {
+      "text": "?",
+      "start": 14.56,
+      "end": 14.94
+    },
+    {
+      "text": "Mais",
+      "start": 14.94,
+      "end": 15.14
+    },
+    {
+      "text": "qu",
+      "start": 15.14,
+      "end": 15.28
+    },
+    {
+      "text": "'est",
+      "start": 15.28,
+      "end": 15.3
+    },
+    {
+      "text": "-ce",
+      "start": 15.3,
+      "end": 15.42
+    },
+    {
+      "text": "qu",
+      "start": 15.42,
+      "end": 15.48
+    },
+    {
+      "text": "'il",
+      "start": 15.48,
+      "end": 15.48
+    },
+    {
+      "text": "fait",
+      "start": 15.48,
+      "end": 15.7
+    },
+    {
+      "text": "?",
+      "start": 15.7,
+      "end": 15.88
+    },
+    {
+      "text": "Oh,",
+      "start": 15.88,
+      "end": 16.08
+    },
+    {
+      "text": "qu",
+      "start": 16.14,
+      "end": 16.22
+    },
+    {
+      "text": "'est",
+      "start": 16.22,
+      "end": 16.26
+    },
+    {
+      "text": "-ce",
+      "start": 16.26,
+      "end": 16.3
+    },
+    {
+      "text": "qu",
+      "start": 16.3,
+      "end": 16.36
+    },
+    {
+      "text": "'il",
+      "start": 16.36,
+      "end": 16.36
+    },
+    {
+      "text": "fait",
+      "start": 16.36,
+      "end": 16.6
+    },
+    {
+      "text": "?",
+      "start": 16.6,
+      "end": 17.06
+    },
+    {
+      "text": "Il",
+      "start": 17.06,
+      "end": 17.16
+    },
+    {
+      "text": "a",
+      "start": 17.16,
+      "end": 17.24
+    },
+    {
+      "text": "perdu",
+      "start": 17.24,
+      "end": 17.5
+    },
+    {
+      "text": "un",
+      "start": 17.5,
+      "end": 17.66
+    },
+    {
+      "text": "contrat,",
+      "start": 17.66,
+      "end": 17.98
+    },
+    {
+      "text": "avec",
+      "start": 18.34,
+      "end": 18.52
+    },
+    {
+      "text": "plus",
+      "start": 18.52,
+      "end": 18.7
+    },
+    {
+      "text": "d",
+      "start": 18.7,
+      "end": 18.84
+    },
+    {
+      "text": "'un",
+      "start": 18.84,
+      "end": 18.92
+    },
+    {
+      "text": "million",
+      "start": 18.92,
+      "end": 19.28
+    },
+    {
+      "text": "d",
+      "start": 19.28,
+      "end": 19.54
+    },
+    {
+      "text": "'euros",
+      "start": 19.54,
+      "end": 19.62
+    },
+    {
+      "text": "à",
+      "start": 19.62,
+      "end": 19.78
+    },
+    {
+      "text": "la",
+      "start": 19.78,
+      "end": 19.88
+    },
+    {
+      "text": "clé,",
+      "start": 19.88,
+      "end": 20.04
+    },
+    {
+      "text": "vous",
+      "start": 20.12,
+      "end": 20.18
+    },
+    {
+      "text": "vous",
+      "start": 20.18,
+      "end": 20.22
+    },
+    {
+      "text": "rendez",
+      "start": 20.22,
+      "end": 20.32
+    },
+    {
+      "text": "compte",
+      "start": 20.32,
+      "end": 20.6
+    },
+    {
+      "text": "?",
+      "start": 20.6,
+      "end": 20.98
+    },
+    {
+      "text": "D",
+      "start": 20.98,
+      "end": 21.06
+    },
+    {
+      "text": "'ailleurs,",
+      "start": 21.06,
+      "end": 21.2
+    },
+    {
+      "text": "je",
+      "start": 21.3,
+      "end": 21.34
+    },
+    {
+      "text": "dois",
+      "start": 21.34,
+      "end": 21.44
+    },
+    {
+      "text": "immédiatement",
+      "start": 21.44,
+      "end": 22.06
+    },
+    {
+      "text": "rappeler",
+      "start": 22.06,
+      "end": 22.32
+    },
+    {
+      "text": "Monsieur",
+      "start": 22.32,
+      "end": 22.56
+    },
+    {
+      "text": "Ishii",
+      "start": 22.56,
+      "end": 22.94
+    },
+    {
+      "text": "afin",
+      "start": 22.94,
+      "end": 23.06
+    },
+    {
+      "text": "d",
+      "start": 23.06,
+      "end": 23.2
+    },
+    {
+      "text": "'essayer",
+      "start": 23.2,
+      "end": 23.42
+    },
+    {
+      "text": "de",
+      "start": 23.42,
+      "end": 23.56
+    },
+    {
+      "text": "rattraper",
+      "start": 23.56,
+      "end": 23.88
+    },
+    {
+      "text": "l",
+      "start": 23.88,
+      "end": 24.0
+    },
+    {
+      "text": "'affaire.",
+      "start": 24.0,
+      "end": 24.28
+    },
+    {
+      "text": "Alors,",
+      "start": 24.88,
+      "end": 25.0
+    },
+    {
+      "text": "annulez",
+      "start": 25.16,
+      "end": 25.48
+    },
+    {
+      "text": "tous",
+      "start": 25.48,
+      "end": 25.62
+    },
+    {
+      "text": "mes",
+      "start": 25.62,
+      "end": 25.76
+    },
+    {
+      "text": "rendez",
+      "start": 25.76,
+      "end": 25.9
+    },
+    {
+      "text": "-vous",
+      "start": 25.9,
+      "end": 26.18
+    },
+    {
+      "text": "et",
+      "start": 26.18,
+      "end": 26.58
+    },
+    {
+      "text": "ne",
+      "start": 26.58,
+      "end": 26.64
+    },
+    {
+      "text": "me",
+      "start": 26.64,
+      "end": 26.74
+    },
+    {
+      "text": "passez",
+      "start": 26.74,
+      "end": 27.08
+    },
+    {
+      "text": "donc",
+      "start": 27.08,
+      "end": 27.16
+    },
+    {
+      "text": "plus",
+      "start": 27.16,
+      "end": 27.42
+    },
+    {
+      "text": "aucun",
+      "start": 27.42,
+      "end": 27.96
+    },
+    {
+      "text": "appel,",
+      "start": 27.96,
+      "end": 28.3
+    },
+    {
+      "text": "je",
+      "start": 28.44,
+      "end": 28.52
+    },
+    {
+      "text": "ne",
+      "start": 28.52,
+      "end": 28.62
+    },
+    {
+      "text": "suis",
+      "start": 28.62,
+      "end": 28.74
+    },
+    {
+      "text": "là",
+      "start": 28.74,
+      "end": 28.88
+    },
+    {
+      "text": "pour",
+      "start": 28.88,
+      "end": 29.16
+    },
+    {
+      "text": "personne.",
+      "start": 29.16,
+      "end": 29.74
+    },
+    {
+      "text": "Entendu.",
+      "start": 30.14,
+      "end": 30.78
+    },
+    {
+      "text": "Question",
+      "start": 32.92,
+      "end": 33.5
+    },
+    {
+      "text": "19.",
+      "start": 33.5,
+      "end": 34.32
+    },
+    {
+      "text": "Quel",
+      "start": 35.12,
+      "end": 35.64
+    },
+    {
+      "text": "est",
+      "start": 35.64,
+      "end": 35.78
+    },
+    {
+      "text": "l",
+      "start": 35.78,
+      "end": 35.9
+    },
+    {
+      "text": "'intention",
+      "start": 35.9,
+      "end": 36.3
+    },
+    {
+      "text": "de",
+      "start": 36.3,
+      "end": 36.52
+    },
+    {
+      "text": "l",
+      "start": 36.52,
+      "end": 36.64
+    },
+    {
+      "text": "'homme",
+      "start": 36.64,
+      "end": 36.84
+    },
+    {
+      "text": "?",
+      "start": 36.84,
+      "end": 37.24
+    }
+  ]
+}

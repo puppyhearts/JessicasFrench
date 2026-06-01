@@ -1,0 +1,560 @@
+{
+  "text": "Question 32. Écoutez le document sonore et la question. Choisissez la bonne réponse. Enfin, le dernier titre de ce journal qui va vous faire sourire ou vous scandaliser. Une histoire incroyable mais vraie. Grâce à un polo et un anoracle aux couleurs de la SNCF, un jeune homme de 25 ans passait ses journées à Sillonnet-la-France à bord de train, d'après le journal Sud-Ouest. Il sera jugé pour usurpation de qualité et vol. Voilà, ce journal est terminé. Nous vous donnons rendez-vous pour notre prochaine édition à 23 heures. Très bonne soirée. Qu'a fait le jeune homme dont il est question dans cette information ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.48
+    },
+    {
+      "text": "32.",
+      "start": 0.48,
+      "end": 1.16
+    },
+    {
+      "text": "Écoutez",
+      "start": 1.86,
+      "end": 2.42
+    },
+    {
+      "text": "le",
+      "start": 2.42,
+      "end": 2.62
+    },
+    {
+      "text": "document",
+      "start": 2.62,
+      "end": 2.96
+    },
+    {
+      "text": "sonore",
+      "start": 2.96,
+      "end": 3.54
+    },
+    {
+      "text": "et",
+      "start": 3.54,
+      "end": 3.76
+    },
+    {
+      "text": "la",
+      "start": 3.76,
+      "end": 3.9
+    },
+    {
+      "text": "question.",
+      "start": 3.9,
+      "end": 4.24
+    },
+    {
+      "text": "Choisissez",
+      "start": 4.94,
+      "end": 5.4
+    },
+    {
+      "text": "la",
+      "start": 5.4,
+      "end": 5.6
+    },
+    {
+      "text": "bonne",
+      "start": 5.6,
+      "end": 5.76
+    },
+    {
+      "text": "réponse.",
+      "start": 5.76,
+      "end": 6.12
+    },
+    {
+      "text": "Enfin,",
+      "start": 7.26,
+      "end": 7.82
+    },
+    {
+      "text": "le",
+      "start": 8.18,
+      "end": 8.22
+    },
+    {
+      "text": "dernier",
+      "start": 8.22,
+      "end": 8.48
+    },
+    {
+      "text": "titre",
+      "start": 8.48,
+      "end": 8.8
+    },
+    {
+      "text": "de",
+      "start": 8.8,
+      "end": 8.98
+    },
+    {
+      "text": "ce",
+      "start": 8.98,
+      "end": 9.12
+    },
+    {
+      "text": "journal",
+      "start": 9.12,
+      "end": 9.4
+    },
+    {
+      "text": "qui",
+      "start": 9.4,
+      "end": 9.84
+    },
+    {
+      "text": "va",
+      "start": 9.84,
+      "end": 9.96
+    },
+    {
+      "text": "vous",
+      "start": 9.96,
+      "end": 10.12
+    },
+    {
+      "text": "faire",
+      "start": 10.12,
+      "end": 10.34
+    },
+    {
+      "text": "sourire",
+      "start": 10.34,
+      "end": 10.82
+    },
+    {
+      "text": "ou",
+      "start": 10.82,
+      "end": 11.22
+    },
+    {
+      "text": "vous",
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "text": "scandaliser.",
+      "start": 11.36,
+      "end": 11.98
+    },
+    {
+      "text": "Une",
+      "start": 12.82,
+      "end": 12.98
+    },
+    {
+      "text": "histoire",
+      "start": 12.98,
+      "end": 13.24
+    },
+    {
+      "text": "incroyable",
+      "start": 13.24,
+      "end": 13.88
+    },
+    {
+      "text": "mais",
+      "start": 13.88,
+      "end": 14.22
+    },
+    {
+      "text": "vraie.",
+      "start": 14.22,
+      "end": 14.5
+    },
+    {
+      "text": "Grâce",
+      "start": 15.3,
+      "end": 15.86
+    },
+    {
+      "text": "à",
+      "start": 15.86,
+      "end": 15.96
+    },
+    {
+      "text": "un",
+      "start": 15.96,
+      "end": 16.1
+    },
+    {
+      "text": "polo",
+      "start": 16.1,
+      "end": 16.52
+    },
+    {
+      "text": "et",
+      "start": 16.52,
+      "end": 16.72
+    },
+    {
+      "text": "un",
+      "start": 16.72,
+      "end": 16.86
+    },
+    {
+      "text": "anoracle",
+      "start": 16.86,
+      "end": 17.32
+    },
+    {
+      "text": "aux",
+      "start": 17.32,
+      "end": 17.52
+    },
+    {
+      "text": "couleurs",
+      "start": 17.52,
+      "end": 17.8
+    },
+    {
+      "text": "de",
+      "start": 17.8,
+      "end": 17.9
+    },
+    {
+      "text": "la",
+      "start": 17.9,
+      "end": 18.02
+    },
+    {
+      "text": "SNCF,",
+      "start": 18.02,
+      "end": 18.82
+    },
+    {
+      "text": "un",
+      "start": 19.32,
+      "end": 19.42
+    },
+    {
+      "text": "jeune",
+      "start": 19.42,
+      "end": 19.54
+    },
+    {
+      "text": "homme",
+      "start": 19.54,
+      "end": 19.7
+    },
+    {
+      "text": "de",
+      "start": 19.7,
+      "end": 19.82
+    },
+    {
+      "text": "25",
+      "start": 19.82,
+      "end": 20.16
+    },
+    {
+      "text": "ans",
+      "start": 20.16,
+      "end": 20.44
+    },
+    {
+      "text": "passait",
+      "start": 20.44,
+      "end": 20.76
+    },
+    {
+      "text": "ses",
+      "start": 20.76,
+      "end": 20.9
+    },
+    {
+      "text": "journées",
+      "start": 20.9,
+      "end": 21.28
+    },
+    {
+      "text": "à",
+      "start": 21.28,
+      "end": 21.42
+    },
+    {
+      "text": "Sillonnet",
+      "start": 21.42,
+      "end": 21.86
+    },
+    {
+      "text": "-la",
+      "start": 21.86,
+      "end": 21.98
+    },
+    {
+      "text": "-France",
+      "start": 21.98,
+      "end": 22.32
+    },
+    {
+      "text": "à",
+      "start": 22.32,
+      "end": 22.68
+    },
+    {
+      "text": "bord",
+      "start": 22.68,
+      "end": 22.8
+    },
+    {
+      "text": "de",
+      "start": 22.8,
+      "end": 23.02
+    },
+    {
+      "text": "train,",
+      "start": 23.02,
+      "end": 23.28
+    },
+    {
+      "text": "d",
+      "start": 23.62,
+      "end": 23.8
+    },
+    {
+      "text": "'après",
+      "start": 23.8,
+      "end": 23.92
+    },
+    {
+      "text": "le",
+      "start": 23.92,
+      "end": 24.12
+    },
+    {
+      "text": "journal",
+      "start": 24.12,
+      "end": 24.38
+    },
+    {
+      "text": "Sud",
+      "start": 24.38,
+      "end": 24.68
+    },
+    {
+      "text": "-Ouest.",
+      "start": 24.68,
+      "end": 25.04
+    },
+    {
+      "text": "Il",
+      "start": 25.62,
+      "end": 25.76
+    },
+    {
+      "text": "sera",
+      "start": 25.76,
+      "end": 26.04
+    },
+    {
+      "text": "jugé",
+      "start": 26.04,
+      "end": 26.52
+    },
+    {
+      "text": "pour",
+      "start": 26.52,
+      "end": 26.74
+    },
+    {
+      "text": "usurpation",
+      "start": 26.74,
+      "end": 27.44
+    },
+    {
+      "text": "de",
+      "start": 27.44,
+      "end": 27.66
+    },
+    {
+      "text": "qualité",
+      "start": 27.66,
+      "end": 28.16
+    },
+    {
+      "text": "et",
+      "start": 28.16,
+      "end": 28.52
+    },
+    {
+      "text": "vol.",
+      "start": 28.52,
+      "end": 28.76
+    },
+    {
+      "text": "Voilà,",
+      "start": 29.46,
+      "end": 29.96
+    },
+    {
+      "text": "ce",
+      "start": 30.36,
+      "end": 30.48
+    },
+    {
+      "text": "journal",
+      "start": 30.48,
+      "end": 30.76
+    },
+    {
+      "text": "est",
+      "start": 30.76,
+      "end": 30.94
+    },
+    {
+      "text": "terminé.",
+      "start": 30.94,
+      "end": 31.36
+    },
+    {
+      "text": "Nous",
+      "start": 32.04,
+      "end": 32.16
+    },
+    {
+      "text": "vous",
+      "start": 32.16,
+      "end": 32.3
+    },
+    {
+      "text": "donnons",
+      "start": 32.3,
+      "end": 32.5
+    },
+    {
+      "text": "rendez",
+      "start": 32.5,
+      "end": 32.76
+    },
+    {
+      "text": "-vous",
+      "start": 32.76,
+      "end": 33.0
+    },
+    {
+      "text": "pour",
+      "start": 33.0,
+      "end": 33.2
+    },
+    {
+      "text": "notre",
+      "start": 33.2,
+      "end": 33.38
+    },
+    {
+      "text": "prochaine",
+      "start": 33.38,
+      "end": 33.72
+    },
+    {
+      "text": "édition",
+      "start": 33.72,
+      "end": 34.2
+    },
+    {
+      "text": "à",
+      "start": 34.2,
+      "end": 34.46
+    },
+    {
+      "text": "23",
+      "start": 34.46,
+      "end": 34.76
+    },
+    {
+      "text": "heures.",
+      "start": 34.76,
+      "end": 35.18
+    },
+    {
+      "text": "Très",
+      "start": 35.82,
+      "end": 35.96
+    },
+    {
+      "text": "bonne",
+      "start": 35.96,
+      "end": 36.06
+    },
+    {
+      "text": "soirée.",
+      "start": 36.06,
+      "end": 36.44
+    },
+    {
+      "text": "Qu",
+      "start": 38.28,
+      "end": 38.78
+    },
+    {
+      "text": "'a",
+      "start": 38.78,
+      "end": 38.86
+    },
+    {
+      "text": "fait",
+      "start": 38.86,
+      "end": 38.98
+    },
+    {
+      "text": "le",
+      "start": 38.98,
+      "end": 39.12
+    },
+    {
+      "text": "jeune",
+      "start": 39.12,
+      "end": 39.3
+    },
+    {
+      "text": "homme",
+      "start": 39.3,
+      "end": 39.58
+    },
+    {
+      "text": "dont",
+      "start": 39.58,
+      "end": 39.74
+    },
+    {
+      "text": "il",
+      "start": 39.74,
+      "end": 39.92
+    },
+    {
+      "text": "est",
+      "start": 39.92,
+      "end": 40.04
+    },
+    {
+      "text": "question",
+      "start": 40.04,
+      "end": 40.44
+    },
+    {
+      "text": "dans",
+      "start": 40.44,
+      "end": 40.66
+    },
+    {
+      "text": "cette",
+      "start": 40.66,
+      "end": 40.82
+    },
+    {
+      "text": "information",
+      "start": 40.82,
+      "end": 41.16
+    },
+    {
+      "text": "?",
+      "start": 41.16,
+      "end": 41.7
+    }
+  ]
+}

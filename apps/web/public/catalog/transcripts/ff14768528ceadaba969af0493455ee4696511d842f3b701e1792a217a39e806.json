@@ -1,0 +1,1705 @@
+{
+  "text": "Bon, maintenant je vous propose de retrouver un physicien des astro-particules, il s'agit de Thierry Stollardy. Bonjour, Thierry Stollardy, vous êtes physicien des astro-particules, vous travaillez au commissariat l'énergie atomique à l'intérieur de l'Institut de Recherche pour retrouver les lois fondamentales de l'univers. Et, j'allais dire, vous êtes un chasseur d'invisible, un pisteur de particules, un tracker de neutrinos. Comment on devient, quand on fait ses études, comment on devient un tracker de neutrinos ? Un peu par hasard, enfin on a une passion pour l'astrophysique et puis finalement, le temps passant on se retrouve à faire de la physique des particules élémentaires, juste à un moment où cette nouvelle discipline qu'est l'astro-particule explose, disons, acquiert ses lettres des noblesse, cette aillenne vingtaine d'années, et puis on se retrouve à chasser le neutrinos parce que c'est un message extraordinaire en astro-particule. Alors le neutrinos au particule élémentaire de la matière, on ne le sait pas depuis très, très, très, très longtemps tout cela, le neutrinos, quand est-ce qu'il a apparu dans les communications ? Alors la première fois qu'on entend parler du neutrinos, c'est dans les années 30, parce que c'est une particule qu'on invente pour expliquer des difficultés qu'on a en physique expérimentale. Et puis, vingt de cinq ans après, on finit par le détecter et il devient une réalité, alors qu'il n'était au départ que, comme je le disais, une particule ad hoc pour expliquer des problèmes de conservation de l'énergie. Et puis ensuite, eh bien comme c'est une particule très difficile à capturer, il a fallu des décennies et des décennies pour qu'on commence un peu à comprendre ses propriétés et qu'on arrive maintenant à l'utiliser comme un messager. Question 1. D'après ce chercheur, quelle est la spécificité de cette particule ? Question 2. La spécificité de cette particule est une particule très difficile à capturer.",
+  "words": [
+    {
+      "text": "Bon,",
+      "start": 3.9,
+      "end": 4.4
+    },
+    {
+      "text": "maintenant",
+      "start": 4.56,
+      "end": 4.66
+    },
+    {
+      "text": "je",
+      "start": 4.66,
+      "end": 4.8
+    },
+    {
+      "text": "vous",
+      "start": 4.8,
+      "end": 4.88
+    },
+    {
+      "text": "propose",
+      "start": 4.88,
+      "end": 5.26
+    },
+    {
+      "text": "de",
+      "start": 5.26,
+      "end": 5.58
+    },
+    {
+      "text": "retrouver",
+      "start": 5.58,
+      "end": 5.98
+    },
+    {
+      "text": "un",
+      "start": 5.98,
+      "end": 6.18
+    },
+    {
+      "text": "physicien",
+      "start": 6.18,
+      "end": 6.88
+    },
+    {
+      "text": "des",
+      "start": 6.88,
+      "end": 7.16
+    },
+    {
+      "text": "astro",
+      "start": 7.16,
+      "end": 7.54
+    },
+    {
+      "text": "-particules,",
+      "start": 7.54,
+      "end": 8.2
+    },
+    {
+      "text": "il",
+      "start": 8.28,
+      "end": 8.36
+    },
+    {
+      "text": "s",
+      "start": 8.36,
+      "end": 8.54
+    },
+    {
+      "text": "'agit",
+      "start": 8.54,
+      "end": 8.66
+    },
+    {
+      "text": "de",
+      "start": 8.66,
+      "end": 8.96
+    },
+    {
+      "text": "Thierry",
+      "start": 8.96,
+      "end": 9.34
+    },
+    {
+      "text": "Stollardy.",
+      "start": 9.34,
+      "end": 10.0
+    },
+    {
+      "text": "Bonjour,",
+      "start": 10.24,
+      "end": 10.42
+    },
+    {
+      "text": "Thierry",
+      "start": 10.96,
+      "end": 11.86
+    },
+    {
+      "text": "Stollardy,",
+      "start": 11.86,
+      "end": 12.34
+    },
+    {
+      "text": "vous",
+      "start": 12.46,
+      "end": 12.56
+    },
+    {
+      "text": "êtes",
+      "start": 12.56,
+      "end": 12.76
+    },
+    {
+      "text": "physicien",
+      "start": 12.76,
+      "end": 13.84
+    },
+    {
+      "text": "des",
+      "start": 13.84,
+      "end": 14.02
+    },
+    {
+      "text": "astro",
+      "start": 14.02,
+      "end": 14.48
+    },
+    {
+      "text": "-particules,",
+      "start": 14.48,
+      "end": 15.38
+    },
+    {
+      "text": "vous",
+      "start": 15.7,
+      "end": 15.82
+    },
+    {
+      "text": "travaillez",
+      "start": 15.82,
+      "end": 16.18
+    },
+    {
+      "text": "au",
+      "start": 16.18,
+      "end": 16.28
+    },
+    {
+      "text": "commissariat",
+      "start": 16.28,
+      "end": 16.6
+    },
+    {
+      "text": "l",
+      "start": 16.6,
+      "end": 16.86
+    },
+    {
+      "text": "'énergie",
+      "start": 16.86,
+      "end": 16.94
+    },
+    {
+      "text": "atomique",
+      "start": 16.94,
+      "end": 17.48
+    },
+    {
+      "text": "à",
+      "start": 17.48,
+      "end": 17.7
+    },
+    {
+      "text": "l",
+      "start": 17.7,
+      "end": 17.74
+    },
+    {
+      "text": "'intérieur",
+      "start": 17.74,
+      "end": 17.92
+    },
+    {
+      "text": "de",
+      "start": 17.92,
+      "end": 18.16
+    },
+    {
+      "text": "l",
+      "start": 18.16,
+      "end": 18.26
+    },
+    {
+      "text": "'Institut",
+      "start": 18.26,
+      "end": 18.9
+    },
+    {
+      "text": "de",
+      "start": 18.9,
+      "end": 19.36
+    },
+    {
+      "text": "Recherche",
+      "start": 19.36,
+      "end": 20.3
+    },
+    {
+      "text": "pour",
+      "start": 20.3,
+      "end": 20.62
+    },
+    {
+      "text": "retrouver",
+      "start": 20.62,
+      "end": 21.16
+    },
+    {
+      "text": "les",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "text": "lois",
+      "start": 21.38,
+      "end": 21.6
+    },
+    {
+      "text": "fondamentales",
+      "start": 21.6,
+      "end": 22.66
+    },
+    {
+      "text": "de",
+      "start": 22.66,
+      "end": 22.94
+    },
+    {
+      "text": "l",
+      "start": 22.94,
+      "end": 23.06
+    },
+    {
+      "text": "'univers.",
+      "start": 23.06,
+      "end": 23.36
+    },
+    {
+      "text": "Et,",
+      "start": 24.04,
+      "end": 24.04
+    },
+    {
+      "text": "j",
+      "start": 24.44,
+      "end": 24.68
+    },
+    {
+      "text": "'allais",
+      "start": 24.68,
+      "end": 24.84
+    },
+    {
+      "text": "dire,",
+      "start": 24.84,
+      "end": 25.02
+    },
+    {
+      "text": "vous",
+      "start": 25.14,
+      "end": 25.24
+    },
+    {
+      "text": "êtes",
+      "start": 25.24,
+      "end": 25.48
+    },
+    {
+      "text": "un",
+      "start": 25.48,
+      "end": 25.92
+    },
+    {
+      "text": "chasseur",
+      "start": 25.92,
+      "end": 26.64
+    },
+    {
+      "text": "d",
+      "start": 26.64,
+      "end": 26.8
+    },
+    {
+      "text": "'invisible,",
+      "start": 26.8,
+      "end": 27.28
+    },
+    {
+      "text": "un",
+      "start": 27.44,
+      "end": 27.54
+    },
+    {
+      "text": "pisteur",
+      "start": 27.54,
+      "end": 28.08
+    },
+    {
+      "text": "de",
+      "start": 28.08,
+      "end": 28.22
+    },
+    {
+      "text": "particules,",
+      "start": 28.22,
+      "end": 28.92
+    },
+    {
+      "text": "un",
+      "start": 28.98,
+      "end": 29.12
+    },
+    {
+      "text": "tracker",
+      "start": 29.12,
+      "end": 29.4
+    },
+    {
+      "text": "de",
+      "start": 29.4,
+      "end": 29.82
+    },
+    {
+      "text": "neutrinos.",
+      "start": 29.82,
+      "end": 30.28
+    },
+    {
+      "text": "Comment",
+      "start": 30.66,
+      "end": 30.84
+    },
+    {
+      "text": "on",
+      "start": 30.84,
+      "end": 31.26
+    },
+    {
+      "text": "devient,",
+      "start": 31.26,
+      "end": 31.66
+    },
+    {
+      "text": "quand",
+      "start": 31.84,
+      "end": 31.98
+    },
+    {
+      "text": "on",
+      "start": 31.98,
+      "end": 32.12
+    },
+    {
+      "text": "fait",
+      "start": 32.12,
+      "end": 32.26
+    },
+    {
+      "text": "ses",
+      "start": 32.26,
+      "end": 32.42
+    },
+    {
+      "text": "études,",
+      "start": 32.42,
+      "end": 32.74
+    },
+    {
+      "text": "comment",
+      "start": 32.96,
+      "end": 32.98
+    },
+    {
+      "text": "on",
+      "start": 32.98,
+      "end": 33.12
+    },
+    {
+      "text": "devient",
+      "start": 33.12,
+      "end": 33.4
+    },
+    {
+      "text": "un",
+      "start": 33.4,
+      "end": 33.54
+    },
+    {
+      "text": "tracker",
+      "start": 33.54,
+      "end": 33.76
+    },
+    {
+      "text": "de",
+      "start": 33.76,
+      "end": 34.0
+    },
+    {
+      "text": "neutrinos",
+      "start": 34.0,
+      "end": 34.46
+    },
+    {
+      "text": "?",
+      "start": 34.46,
+      "end": 34.76
+    },
+    {
+      "text": "Un",
+      "start": 34.76,
+      "end": 34.9
+    },
+    {
+      "text": "peu",
+      "start": 34.9,
+      "end": 35.04
+    },
+    {
+      "text": "par",
+      "start": 35.04,
+      "end": 35.26
+    },
+    {
+      "text": "hasard,",
+      "start": 35.26,
+      "end": 35.58
+    },
+    {
+      "text": "enfin",
+      "start": 35.8,
+      "end": 35.92
+    },
+    {
+      "text": "on",
+      "start": 35.92,
+      "end": 36.66
+    },
+    {
+      "text": "a",
+      "start": 36.66,
+      "end": 36.76
+    },
+    {
+      "text": "une",
+      "start": 36.76,
+      "end": 36.84
+    },
+    {
+      "text": "passion",
+      "start": 36.84,
+      "end": 37.12
+    },
+    {
+      "text": "pour",
+      "start": 37.12,
+      "end": 37.32
+    },
+    {
+      "text": "l",
+      "start": 37.32,
+      "end": 37.44
+    },
+    {
+      "text": "'astrophysique",
+      "start": 37.44,
+      "end": 38.08
+    },
+    {
+      "text": "et",
+      "start": 38.08,
+      "end": 38.38
+    },
+    {
+      "text": "puis",
+      "start": 38.38,
+      "end": 38.52
+    },
+    {
+      "text": "finalement,",
+      "start": 38.52,
+      "end": 38.94
+    },
+    {
+      "text": "le",
+      "start": 39.62,
+      "end": 40.04
+    },
+    {
+      "text": "temps",
+      "start": 40.04,
+      "end": 40.22
+    },
+    {
+      "text": "passant",
+      "start": 40.22,
+      "end": 40.56
+    },
+    {
+      "text": "on",
+      "start": 40.56,
+      "end": 40.64
+    },
+    {
+      "text": "se",
+      "start": 40.64,
+      "end": 40.76
+    },
+    {
+      "text": "retrouve",
+      "start": 40.76,
+      "end": 41.0
+    },
+    {
+      "text": "à",
+      "start": 41.0,
+      "end": 41.16
+    },
+    {
+      "text": "faire",
+      "start": 41.16,
+      "end": 41.3
+    },
+    {
+      "text": "de",
+      "start": 41.3,
+      "end": 41.38
+    },
+    {
+      "text": "la",
+      "start": 41.38,
+      "end": 41.46
+    },
+    {
+      "text": "physique",
+      "start": 41.46,
+      "end": 41.66
+    },
+    {
+      "text": "des",
+      "start": 41.66,
+      "end": 41.88
+    },
+    {
+      "text": "particules",
+      "start": 41.88,
+      "end": 42.26
+    },
+    {
+      "text": "élémentaires,",
+      "start": 42.26,
+      "end": 42.92
+    },
+    {
+      "text": "juste",
+      "start": 43.02,
+      "end": 43.56
+    },
+    {
+      "text": "à",
+      "start": 43.56,
+      "end": 43.74
+    },
+    {
+      "text": "un",
+      "start": 43.74,
+      "end": 43.84
+    },
+    {
+      "text": "moment",
+      "start": 43.84,
+      "end": 44.12
+    },
+    {
+      "text": "où",
+      "start": 44.12,
+      "end": 44.4
+    },
+    {
+      "text": "cette",
+      "start": 44.4,
+      "end": 44.64
+    },
+    {
+      "text": "nouvelle",
+      "start": 44.64,
+      "end": 44.86
+    },
+    {
+      "text": "discipline",
+      "start": 44.86,
+      "end": 45.34
+    },
+    {
+      "text": "qu",
+      "start": 45.34,
+      "end": 45.52
+    },
+    {
+      "text": "'est",
+      "start": 45.52,
+      "end": 45.56
+    },
+    {
+      "text": "l",
+      "start": 45.56,
+      "end": 45.66
+    },
+    {
+      "text": "'astro",
+      "start": 45.66,
+      "end": 45.78
+    },
+    {
+      "text": "-particule",
+      "start": 45.78,
+      "end": 46.36
+    },
+    {
+      "text": "explose,",
+      "start": 46.36,
+      "end": 47.74
+    },
+    {
+      "text": "disons,",
+      "start": 47.82,
+      "end": 48.1
+    },
+    {
+      "text": "acquiert",
+      "start": 48.72,
+      "end": 49.16
+    },
+    {
+      "text": "ses",
+      "start": 49.16,
+      "end": 49.32
+    },
+    {
+      "text": "lettres",
+      "start": 49.32,
+      "end": 49.5
+    },
+    {
+      "text": "des",
+      "start": 49.5,
+      "end": 49.7
+    },
+    {
+      "text": "noblesse,",
+      "start": 49.7,
+      "end": 50.18
+    },
+    {
+      "text": "cette",
+      "start": 50.7,
+      "end": 51.04
+    },
+    {
+      "text": "aillenne",
+      "start": 51.04,
+      "end": 51.28
+    },
+    {
+      "text": "vingtaine",
+      "start": 51.28,
+      "end": 51.6
+    },
+    {
+      "text": "d",
+      "start": 51.6,
+      "end": 51.72
+    },
+    {
+      "text": "'années,",
+      "start": 51.72,
+      "end": 51.98
+    },
+    {
+      "text": "et",
+      "start": 52.44,
+      "end": 52.48
+    },
+    {
+      "text": "puis",
+      "start": 52.48,
+      "end": 52.64
+    },
+    {
+      "text": "on",
+      "start": 52.64,
+      "end": 52.78
+    },
+    {
+      "text": "se",
+      "start": 52.78,
+      "end": 52.9
+    },
+    {
+      "text": "retrouve",
+      "start": 52.9,
+      "end": 53.28
+    },
+    {
+      "text": "à",
+      "start": 53.28,
+      "end": 53.88
+    },
+    {
+      "text": "chasser",
+      "start": 53.88,
+      "end": 55.24
+    },
+    {
+      "text": "le",
+      "start": 55.24,
+      "end": 55.42
+    },
+    {
+      "text": "neutrinos",
+      "start": 55.42,
+      "end": 55.84
+    },
+    {
+      "text": "parce",
+      "start": 55.84,
+      "end": 56.02
+    },
+    {
+      "text": "que",
+      "start": 56.02,
+      "end": 56.16
+    },
+    {
+      "text": "c",
+      "start": 56.16,
+      "end": 56.26
+    },
+    {
+      "text": "'est",
+      "start": 56.26,
+      "end": 56.3
+    },
+    {
+      "text": "un",
+      "start": 56.3,
+      "end": 56.42
+    },
+    {
+      "text": "message",
+      "start": 56.42,
+      "end": 56.72
+    },
+    {
+      "text": "extraordinaire",
+      "start": 56.72,
+      "end": 57.3
+    },
+    {
+      "text": "en",
+      "start": 57.3,
+      "end": 57.44
+    },
+    {
+      "text": "astro",
+      "start": 57.44,
+      "end": 57.64
+    },
+    {
+      "text": "-particule.",
+      "start": 57.64,
+      "end": 58.14
+    },
+    {
+      "text": "Alors",
+      "start": 58.4,
+      "end": 58.62
+    },
+    {
+      "text": "le",
+      "start": 58.62,
+      "end": 58.72
+    },
+    {
+      "text": "neutrinos",
+      "start": 58.72,
+      "end": 59.16
+    },
+    {
+      "text": "au",
+      "start": 59.16,
+      "end": 59.26
+    },
+    {
+      "text": "particule",
+      "start": 59.26,
+      "end": 59.66
+    },
+    {
+      "text": "élémentaire",
+      "start": 59.66,
+      "end": 60.26
+    },
+    {
+      "text": "de",
+      "start": 60.26,
+      "end": 60.92
+    },
+    {
+      "text": "la",
+      "start": 60.92,
+      "end": 61.06
+    },
+    {
+      "text": "matière,",
+      "start": 61.06,
+      "end": 61.42
+    },
+    {
+      "text": "on",
+      "start": 61.6,
+      "end": 61.68
+    },
+    {
+      "text": "ne",
+      "start": 61.68,
+      "end": 61.82
+    },
+    {
+      "text": "le",
+      "start": 61.82,
+      "end": 61.84
+    },
+    {
+      "text": "sait",
+      "start": 61.84,
+      "end": 61.94
+    },
+    {
+      "text": "pas",
+      "start": 61.94,
+      "end": 62.14
+    },
+    {
+      "text": "depuis",
+      "start": 62.14,
+      "end": 62.42
+    },
+    {
+      "text": "très,",
+      "start": 62.42,
+      "end": 63.04
+    },
+    {
+      "text": "très,",
+      "start": 63.04,
+      "end": 63.32
+    },
+    {
+      "text": "très,",
+      "start": 63.32,
+      "end": 63.58
+    },
+    {
+      "text": "très",
+      "start": 63.58,
+      "end": 63.66
+    },
+    {
+      "text": "longtemps",
+      "start": 63.66,
+      "end": 63.96
+    },
+    {
+      "text": "tout",
+      "start": 63.96,
+      "end": 64.36
+    },
+    {
+      "text": "cela,",
+      "start": 64.36,
+      "end": 64.64
+    },
+    {
+      "text": "le",
+      "start": 64.88,
+      "end": 65.0
+    },
+    {
+      "text": "neutrinos,",
+      "start": 65.0,
+      "end": 65.42
+    },
+    {
+      "text": "quand",
+      "start": 65.46,
+      "end": 65.56
+    },
+    {
+      "text": "est",
+      "start": 65.56,
+      "end": 65.7
+    },
+    {
+      "text": "-ce",
+      "start": 65.7,
+      "end": 65.74
+    },
+    {
+      "text": "qu",
+      "start": 65.74,
+      "end": 65.84
+    },
+    {
+      "text": "'il",
+      "start": 65.84,
+      "end": 65.84
+    },
+    {
+      "text": "a",
+      "start": 65.84,
+      "end": 65.94
+    },
+    {
+      "text": "apparu",
+      "start": 65.94,
+      "end": 66.28
+    },
+    {
+      "text": "dans",
+      "start": 66.28,
+      "end": 66.52
+    },
+    {
+      "text": "les",
+      "start": 67.06,
+      "end": 67.26
+    },
+    {
+      "text": "communications",
+      "start": 67.26,
+      "end": 67.8
+    },
+    {
+      "text": "?",
+      "start": 67.8,
+      "end": 68.3
+    },
+    {
+      "text": "Alors",
+      "start": 68.3,
+      "end": 68.42
+    },
+    {
+      "text": "la",
+      "start": 68.42,
+      "end": 68.54
+    },
+    {
+      "text": "première",
+      "start": 68.54,
+      "end": 68.78
+    },
+    {
+      "text": "fois",
+      "start": 68.78,
+      "end": 68.98
+    },
+    {
+      "text": "qu",
+      "start": 68.98,
+      "end": 69.08
+    },
+    {
+      "text": "'on",
+      "start": 69.08,
+      "end": 69.12
+    },
+    {
+      "text": "entend",
+      "start": 69.12,
+      "end": 69.28
+    },
+    {
+      "text": "parler",
+      "start": 69.28,
+      "end": 69.58
+    },
+    {
+      "text": "du",
+      "start": 69.58,
+      "end": 69.76
+    },
+    {
+      "text": "neutrinos,",
+      "start": 69.76,
+      "end": 70.22
+    },
+    {
+      "text": "c",
+      "start": 70.22,
+      "end": 70.36
+    },
+    {
+      "text": "'est",
+      "start": 70.36,
+      "end": 70.36
+    },
+    {
+      "text": "dans",
+      "start": 70.36,
+      "end": 70.48
+    },
+    {
+      "text": "les",
+      "start": 70.48,
+      "end": 70.58
+    },
+    {
+      "text": "années",
+      "start": 70.58,
+      "end": 70.76
+    },
+    {
+      "text": "30,",
+      "start": 70.76,
+      "end": 71.14
+    },
+    {
+      "text": "parce",
+      "start": 71.38,
+      "end": 71.62
+    },
+    {
+      "text": "que",
+      "start": 71.62,
+      "end": 72.04
+    },
+    {
+      "text": "c",
+      "start": 72.04,
+      "end": 72.48
+    },
+    {
+      "text": "'est",
+      "start": 72.48,
+      "end": 72.5
+    },
+    {
+      "text": "une",
+      "start": 72.5,
+      "end": 72.66
+    },
+    {
+      "text": "particule",
+      "start": 72.66,
+      "end": 73.12
+    },
+    {
+      "text": "qu",
+      "start": 73.12,
+      "end": 73.44
+    },
+    {
+      "text": "'on",
+      "start": 73.44,
+      "end": 73.48
+    },
+    {
+      "text": "invente",
+      "start": 73.48,
+      "end": 73.82
+    },
+    {
+      "text": "pour",
+      "start": 73.82,
+      "end": 74.2
+    },
+    {
+      "text": "expliquer",
+      "start": 74.2,
+      "end": 74.82
+    },
+    {
+      "text": "des",
+      "start": 74.82,
+      "end": 74.94
+    },
+    {
+      "text": "difficultés",
+      "start": 74.94,
+      "end": 75.46
+    },
+    {
+      "text": "qu",
+      "start": 75.46,
+      "end": 75.58
+    },
+    {
+      "text": "'on",
+      "start": 75.58,
+      "end": 75.62
+    },
+    {
+      "text": "a",
+      "start": 75.62,
+      "end": 75.72
+    },
+    {
+      "text": "en",
+      "start": 75.72,
+      "end": 75.8
+    },
+    {
+      "text": "physique",
+      "start": 75.8,
+      "end": 75.98
+    },
+    {
+      "text": "expérimentale.",
+      "start": 75.98,
+      "end": 76.8
+    },
+    {
+      "text": "Et",
+      "start": 76.98,
+      "end": 77.14
+    },
+    {
+      "text": "puis,",
+      "start": 77.14,
+      "end": 77.46
+    },
+    {
+      "text": "vingt",
+      "start": 77.76,
+      "end": 78.4
+    },
+    {
+      "text": "de",
+      "start": 78.4,
+      "end": 78.5
+    },
+    {
+      "text": "cinq",
+      "start": 78.5,
+      "end": 78.62
+    },
+    {
+      "text": "ans",
+      "start": 78.62,
+      "end": 78.76
+    },
+    {
+      "text": "après,",
+      "start": 78.76,
+      "end": 79.0
+    },
+    {
+      "text": "on",
+      "start": 79.28,
+      "end": 79.36
+    },
+    {
+      "text": "finit",
+      "start": 79.36,
+      "end": 79.6
+    },
+    {
+      "text": "par",
+      "start": 79.6,
+      "end": 79.74
+    },
+    {
+      "text": "le",
+      "start": 79.74,
+      "end": 79.84
+    },
+    {
+      "text": "détecter",
+      "start": 79.84,
+      "end": 80.28
+    },
+    {
+      "text": "et",
+      "start": 80.28,
+      "end": 80.44
+    },
+    {
+      "text": "il",
+      "start": 80.44,
+      "end": 80.48
+    },
+    {
+      "text": "devient",
+      "start": 80.48,
+      "end": 80.74
+    },
+    {
+      "text": "une",
+      "start": 80.74,
+      "end": 80.84
+    },
+    {
+      "text": "réalité,",
+      "start": 80.84,
+      "end": 81.24
+    },
+    {
+      "text": "alors",
+      "start": 81.7,
+      "end": 81.76
+    },
+    {
+      "text": "qu",
+      "start": 81.76,
+      "end": 81.9
+    },
+    {
+      "text": "'il",
+      "start": 81.9,
+      "end": 81.94
+    },
+    {
+      "text": "n",
+      "start": 81.94,
+      "end": 82.08
+    },
+    {
+      "text": "'était",
+      "start": 82.08,
+      "end": 82.16
+    },
+    {
+      "text": "au",
+      "start": 82.16,
+      "end": 82.3
+    },
+    {
+      "text": "départ",
+      "start": 82.3,
+      "end": 82.56
+    },
+    {
+      "text": "que,",
+      "start": 82.56,
+      "end": 82.86
+    },
+    {
+      "text": "comme",
+      "start": 83.56,
+      "end": 83.8
+    },
+    {
+      "text": "je",
+      "start": 83.8,
+      "end": 83.94
+    },
+    {
+      "text": "le",
+      "start": 83.94,
+      "end": 84.02
+    },
+    {
+      "text": "disais,",
+      "start": 84.02,
+      "end": 84.3
+    },
+    {
+      "text": "une",
+      "start": 84.5,
+      "end": 84.5
+    },
+    {
+      "text": "particule",
+      "start": 84.5,
+      "end": 85.34
+    },
+    {
+      "text": "ad",
+      "start": 85.34,
+      "end": 85.48
+    },
+    {
+      "text": "hoc",
+      "start": 85.48,
+      "end": 85.62
+    },
+    {
+      "text": "pour",
+      "start": 85.62,
+      "end": 85.8
+    },
+    {
+      "text": "expliquer",
+      "start": 85.8,
+      "end": 86.16
+    },
+    {
+      "text": "des",
+      "start": 86.16,
+      "end": 86.3
+    },
+    {
+      "text": "problèmes",
+      "start": 86.3,
+      "end": 86.6
+    },
+    {
+      "text": "de",
+      "start": 86.6,
+      "end": 86.92
+    },
+    {
+      "text": "conservation",
+      "start": 86.92,
+      "end": 87.26
+    },
+    {
+      "text": "de",
+      "start": 87.26,
+      "end": 87.5
+    },
+    {
+      "text": "l",
+      "start": 87.5,
+      "end": 87.56
+    },
+    {
+      "text": "'énergie.",
+      "start": 87.56,
+      "end": 87.78
+    },
+    {
+      "text": "Et",
+      "start": 88.68,
+      "end": 88.68
+    },
+    {
+      "text": "puis",
+      "start": 88.68,
+      "end": 88.92
+    },
+    {
+      "text": "ensuite,",
+      "start": 88.92,
+      "end": 89.42
+    },
+    {
+      "text": "eh",
+      "start": 89.54,
+      "end": 89.6
+    },
+    {
+      "text": "bien",
+      "start": 89.6,
+      "end": 89.82
+    },
+    {
+      "text": "comme",
+      "start": 89.82,
+      "end": 90.46
+    },
+    {
+      "text": "c",
+      "start": 90.46,
+      "end": 90.6
+    },
+    {
+      "text": "'est",
+      "start": 90.6,
+      "end": 90.6
+    },
+    {
+      "text": "une",
+      "start": 90.6,
+      "end": 90.74
+    },
+    {
+      "text": "particule",
+      "start": 90.74,
+      "end": 91.14
+    },
+    {
+      "text": "très",
+      "start": 91.14,
+      "end": 91.34
+    },
+    {
+      "text": "difficile",
+      "start": 91.34,
+      "end": 91.68
+    },
+    {
+      "text": "à",
+      "start": 91.68,
+      "end": 91.98
+    },
+    {
+      "text": "capturer,",
+      "start": 91.98,
+      "end": 92.62
+    },
+    {
+      "text": "il",
+      "start": 92.82,
+      "end": 92.84
+    },
+    {
+      "text": "a",
+      "start": 92.84,
+      "end": 92.92
+    },
+    {
+      "text": "fallu",
+      "start": 92.92,
+      "end": 93.12
+    },
+    {
+      "text": "des",
+      "start": 93.12,
+      "end": 93.3
+    },
+    {
+      "text": "décennies",
+      "start": 93.3,
+      "end": 93.66
+    },
+    {
+      "text": "et",
+      "start": 93.66,
+      "end": 93.76
+    },
+    {
+      "text": "des",
+      "start": 93.76,
+      "end": 93.9
+    },
+    {
+      "text": "décennies",
+      "start": 93.9,
+      "end": 94.3
+    },
+    {
+      "text": "pour",
+      "start": 94.3,
+      "end": 94.44
+    },
+    {
+      "text": "qu",
+      "start": 94.44,
+      "end": 94.6
+    },
+    {
+      "text": "'on",
+      "start": 94.6,
+      "end": 94.6
+    },
+    {
+      "text": "commence",
+      "start": 94.6,
+      "end": 94.9
+    },
+    {
+      "text": "un",
+      "start": 94.9,
+      "end": 95.04
+    },
+    {
+      "text": "peu",
+      "start": 95.04,
+      "end": 95.16
+    },
+    {
+      "text": "à",
+      "start": 95.16,
+      "end": 95.28
+    },
+    {
+      "text": "comprendre",
+      "start": 95.28,
+      "end": 95.56
+    },
+    {
+      "text": "ses",
+      "start": 95.56,
+      "end": 95.74
+    },
+    {
+      "text": "propriétés",
+      "start": 95.74,
+      "end": 96.3
+    },
+    {
+      "text": "et",
+      "start": 96.3,
+      "end": 96.52
+    },
+    {
+      "text": "qu",
+      "start": 96.52,
+      "end": 96.58
+    },
+    {
+      "text": "'on",
+      "start": 96.58,
+      "end": 96.62
+    },
+    {
+      "text": "arrive",
+      "start": 96.62,
+      "end": 96.84
+    },
+    {
+      "text": "maintenant",
+      "start": 96.84,
+      "end": 97.22
+    },
+    {
+      "text": "à",
+      "start": 97.22,
+      "end": 97.48
+    },
+    {
+      "text": "l",
+      "start": 97.48,
+      "end": 97.76
+    },
+    {
+      "text": "'utiliser",
+      "start": 97.76,
+      "end": 98.06
+    },
+    {
+      "text": "comme",
+      "start": 98.06,
+      "end": 98.26
+    },
+    {
+      "text": "un",
+      "start": 98.26,
+      "end": 98.38
+    },
+    {
+      "text": "messager.",
+      "start": 98.38,
+      "end": 98.74
+    },
+    {
+      "text": "Question",
+      "start": 100.74,
+      "end": 101.14
+    },
+    {
+      "text": "1.",
+      "start": 101.14,
+      "end": 101.74
+    },
+    {
+      "text": "D",
+      "start": 102.8,
+      "end": 102.96
+    },
+    {
+      "text": "'après",
+      "start": 102.96,
+      "end": 103.14
+    },
+    {
+      "text": "ce",
+      "start": 103.14,
+      "end": 103.4
+    },
+    {
+      "text": "chercheur,",
+      "start": 103.4,
+      "end": 104.14
+    },
+    {
+      "text": "quelle",
+      "start": 104.64,
+      "end": 104.72
+    },
+    {
+      "text": "est",
+      "start": 104.72,
+      "end": 104.84
+    },
+    {
+      "text": "la",
+      "start": 104.84,
+      "end": 104.98
+    },
+    {
+      "text": "spécificité",
+      "start": 104.98,
+      "end": 105.96
+    },
+    {
+      "text": "de",
+      "start": 105.96,
+      "end": 106.12
+    },
+    {
+      "text": "cette",
+      "start": 106.12,
+      "end": 106.3
+    },
+    {
+      "text": "particule",
+      "start": 106.3,
+      "end": 107.04
+    },
+    {
+      "text": "?",
+      "start": 107.04,
+      "end": 107.5
+    },
+    {
+      "text": "Question",
+      "start": 121.18,
+      "end": 122.58
+    },
+    {
+      "text": "2.",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "La",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "spécificité",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "de",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "cette",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "particule",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "est",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "une",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "particule",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "très",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "difficile",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "à",
+      "start": 122.58,
+      "end": 122.58
+    },
+    {
+      "text": "capturer.",
+      "start": 122.58,
+      "end": 122.58
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "text": "Question 13. Écoutez le document sonore et la question. Choisissez la bonne réponse. Aujourd'hui, dans notre émission, nous allons voir comment faire pour trouver un job à l'étranger. Vous avez plus de 21 ans. Vous avez fait au moins deux ans d'études supérieures. Vous avez un passeport d'un pays de l'Union européenne. Alors, vous pouvez obtenir un visa dans le cadre du programme Travaille-Jeunesse sans frontières. Grâce à ce visa, valable trois mois, vous avez le droit de travailler dans 13 pays lointains, dont le Canada, le Japon, l'Australie ou l'Afrique du Sud. Ce programme est idéal pour ceux qui souhaitent trouver un job d'été, gagner un peu d'argent et améliorer leur connaissance des langues étrangères. Pour qui est le programme Travaille-Jeunesse sans frontières?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.56
+    },
+    {
+      "text": "13.",
+      "start": 0.56,
+      "end": 1.28
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.02,
+      "end": 2.42
+    },
+    {
+      "text": "le",
+      "start": 2.42,
+      "end": 2.6
+    },
+    {
+      "text": "document",
+      "start": 2.6,
+      "end": 2.94
+    },
+    {
+      "text": "sonore",
+      "start": 2.94,
+      "end": 3.56
+    },
+    {
+      "text": "et",
+      "start": 3.56,
+      "end": 3.86
+    },
+    {
+      "text": "la",
+      "start": 3.86,
+      "end": 4.0
+    },
+    {
+      "text": "question.",
+      "start": 4.0,
+      "end": 4.36
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.18,
+      "end": 5.66
+    },
+    {
+      "text": "la",
+      "start": 5.66,
+      "end": 5.88
+    },
+    {
+      "text": "bonne",
+      "start": 5.88,
+      "end": 6.06
+    },
+    {
+      "text": "réponse.",
+      "start": 6.06,
+      "end": 6.42
+    },
+    {
+      "text": "Aujourd",
+      "start": 7.36,
+      "end": 7.84
+    },
+    {
+      "text": "'hui,",
+      "start": 7.84,
+      "end": 8.22
+    },
+    {
+      "text": "dans",
+      "start": 8.3,
+      "end": 8.34
+    },
+    {
+      "text": "notre",
+      "start": 8.34,
+      "end": 8.56
+    },
+    {
+      "text": "émission,",
+      "start": 8.56,
+      "end": 8.9
+    },
+    {
+      "text": "nous",
+      "start": 9.16,
+      "end": 9.2
+    },
+    {
+      "text": "allons",
+      "start": 9.2,
+      "end": 9.42
+    },
+    {
+      "text": "voir",
+      "start": 9.42,
+      "end": 9.7
+    },
+    {
+      "text": "comment",
+      "start": 9.7,
+      "end": 9.98
+    },
+    {
+      "text": "faire",
+      "start": 9.98,
+      "end": 10.3
+    },
+    {
+      "text": "pour",
+      "start": 10.3,
+      "end": 10.52
+    },
+    {
+      "text": "trouver",
+      "start": 10.52,
+      "end": 10.78
+    },
+    {
+      "text": "un",
+      "start": 10.78,
+      "end": 10.96
+    },
+    {
+      "text": "job",
+      "start": 10.96,
+      "end": 11.26
+    },
+    {
+      "text": "à",
+      "start": 11.26,
+      "end": 11.42
+    },
+    {
+      "text": "l",
+      "start": 11.42,
+      "end": 11.44
+    },
+    {
+      "text": "'étranger.",
+      "start": 11.44,
+      "end": 11.84
+    },
+    {
+      "text": "Vous",
+      "start": 12.58,
+      "end": 12.68
+    },
+    {
+      "text": "avez",
+      "start": 12.68,
+      "end": 12.9
+    },
+    {
+      "text": "plus",
+      "start": 12.9,
+      "end": 13.14
+    },
+    {
+      "text": "de",
+      "start": 13.14,
+      "end": 13.3
+    },
+    {
+      "text": "21",
+      "start": 13.3,
+      "end": 13.48
+    },
+    {
+      "text": "ans.",
+      "start": 13.48,
+      "end": 13.84
+    },
+    {
+      "text": "Vous",
+      "start": 14.36,
+      "end": 14.46
+    },
+    {
+      "text": "avez",
+      "start": 14.46,
+      "end": 14.66
+    },
+    {
+      "text": "fait",
+      "start": 14.66,
+      "end": 14.88
+    },
+    {
+      "text": "au",
+      "start": 14.88,
+      "end": 15.06
+    },
+    {
+      "text": "moins",
+      "start": 15.06,
+      "end": 15.26
+    },
+    {
+      "text": "deux",
+      "start": 15.26,
+      "end": 15.52
+    },
+    {
+      "text": "ans",
+      "start": 15.52,
+      "end": 15.7
+    },
+    {
+      "text": "d",
+      "start": 15.7,
+      "end": 15.78
+    },
+    {
+      "text": "'études",
+      "start": 15.78,
+      "end": 16.0
+    },
+    {
+      "text": "supérieures.",
+      "start": 16.0,
+      "end": 16.66
+    },
+    {
+      "text": "Vous",
+      "start": 17.2,
+      "end": 17.36
+    },
+    {
+      "text": "avez",
+      "start": 17.36,
+      "end": 17.56
+    },
+    {
+      "text": "un",
+      "start": 17.56,
+      "end": 17.72
+    },
+    {
+      "text": "passeport",
+      "start": 17.72,
+      "end": 18.16
+    },
+    {
+      "text": "d",
+      "start": 18.16,
+      "end": 18.3
+    },
+    {
+      "text": "'un",
+      "start": 18.3,
+      "end": 18.38
+    },
+    {
+      "text": "pays",
+      "start": 18.38,
+      "end": 18.6
+    },
+    {
+      "text": "de",
+      "start": 18.6,
+      "end": 18.82
+    },
+    {
+      "text": "l",
+      "start": 18.82,
+      "end": 18.98
+    },
+    {
+      "text": "'Union",
+      "start": 18.98,
+      "end": 19.2
+    },
+    {
+      "text": "européenne.",
+      "start": 19.2,
+      "end": 19.9
+    },
+    {
+      "text": "Alors,",
+      "start": 20.52,
+      "end": 20.76
+    },
+    {
+      "text": "vous",
+      "start": 20.94,
+      "end": 21.02
+    },
+    {
+      "text": "pouvez",
+      "start": 21.02,
+      "end": 21.28
+    },
+    {
+      "text": "obtenir",
+      "start": 21.28,
+      "end": 21.72
+    },
+    {
+      "text": "un",
+      "start": 21.72,
+      "end": 21.88
+    },
+    {
+      "text": "visa",
+      "start": 21.88,
+      "end": 22.08
+    },
+    {
+      "text": "dans",
+      "start": 22.08,
+      "end": 22.36
+    },
+    {
+      "text": "le",
+      "start": 22.36,
+      "end": 22.48
+    },
+    {
+      "text": "cadre",
+      "start": 22.48,
+      "end": 22.72
+    },
+    {
+      "text": "du",
+      "start": 22.72,
+      "end": 23.0
+    },
+    {
+      "text": "programme",
+      "start": 23.0,
+      "end": 23.38
+    },
+    {
+      "text": "Travaille",
+      "start": 23.38,
+      "end": 24.2
+    },
+    {
+      "text": "-Jeunesse",
+      "start": 24.2,
+      "end": 24.62
+    },
+    {
+      "text": "sans",
+      "start": 24.62,
+      "end": 24.86
+    },
+    {
+      "text": "frontières.",
+      "start": 24.86,
+      "end": 25.32
+    },
+    {
+      "text": "Grâce",
+      "start": 25.32,
+      "end": 26.34
+    },
+    {
+      "text": "à",
+      "start": 26.34,
+      "end": 26.48
+    },
+    {
+      "text": "ce",
+      "start": 26.48,
+      "end": 26.58
+    },
+    {
+      "text": "visa,",
+      "start": 26.58,
+      "end": 26.8
+    },
+    {
+      "text": "valable",
+      "start": 27.16,
+      "end": 27.54
+    },
+    {
+      "text": "trois",
+      "start": 27.54,
+      "end": 27.84
+    },
+    {
+      "text": "mois,",
+      "start": 27.84,
+      "end": 28.04
+    },
+    {
+      "text": "vous",
+      "start": 28.52,
+      "end": 28.6
+    },
+    {
+      "text": "avez",
+      "start": 28.6,
+      "end": 28.78
+    },
+    {
+      "text": "le",
+      "start": 28.78,
+      "end": 28.92
+    },
+    {
+      "text": "droit",
+      "start": 28.92,
+      "end": 29.1
+    },
+    {
+      "text": "de",
+      "start": 29.1,
+      "end": 29.24
+    },
+    {
+      "text": "travailler",
+      "start": 29.24,
+      "end": 29.58
+    },
+    {
+      "text": "dans",
+      "start": 29.58,
+      "end": 29.84
+    },
+    {
+      "text": "13",
+      "start": 29.84,
+      "end": 30.18
+    },
+    {
+      "text": "pays",
+      "start": 30.18,
+      "end": 30.54
+    },
+    {
+      "text": "lointains,",
+      "start": 30.54,
+      "end": 31.14
+    },
+    {
+      "text": "dont",
+      "start": 31.38,
+      "end": 31.62
+    },
+    {
+      "text": "le",
+      "start": 31.62,
+      "end": 31.82
+    },
+    {
+      "text": "Canada,",
+      "start": 31.82,
+      "end": 32.12
+    },
+    {
+      "text": "le",
+      "start": 32.94,
+      "end": 33.04
+    },
+    {
+      "text": "Japon,",
+      "start": 33.04,
+      "end": 33.36
+    },
+    {
+      "text": "l",
+      "start": 33.92,
+      "end": 34.02
+    },
+    {
+      "text": "'Australie",
+      "start": 34.02,
+      "end": 34.64
+    },
+    {
+      "text": "ou",
+      "start": 34.64,
+      "end": 34.96
+    },
+    {
+      "text": "l",
+      "start": 34.96,
+      "end": 35.08
+    },
+    {
+      "text": "'Afrique",
+      "start": 35.08,
+      "end": 35.28
+    },
+    {
+      "text": "du",
+      "start": 35.28,
+      "end": 35.46
+    },
+    {
+      "text": "Sud.",
+      "start": 35.46,
+      "end": 35.74
+    },
+    {
+      "text": "Ce",
+      "start": 36.42,
+      "end": 36.64
+    },
+    {
+      "text": "programme",
+      "start": 36.64,
+      "end": 37.0
+    },
+    {
+      "text": "est",
+      "start": 37.0,
+      "end": 37.28
+    },
+    {
+      "text": "idéal",
+      "start": 37.28,
+      "end": 37.76
+    },
+    {
+      "text": "pour",
+      "start": 37.76,
+      "end": 37.94
+    },
+    {
+      "text": "ceux",
+      "start": 37.94,
+      "end": 38.12
+    },
+    {
+      "text": "qui",
+      "start": 38.12,
+      "end": 38.3
+    },
+    {
+      "text": "souhaitent",
+      "start": 38.3,
+      "end": 38.6
+    },
+    {
+      "text": "trouver",
+      "start": 38.6,
+      "end": 38.84
+    },
+    {
+      "text": "un",
+      "start": 38.84,
+      "end": 39.12
+    },
+    {
+      "text": "job",
+      "start": 39.12,
+      "end": 39.38
+    },
+    {
+      "text": "d",
+      "start": 39.38,
+      "end": 39.54
+    },
+    {
+      "text": "'été,",
+      "start": 39.54,
+      "end": 39.76
+    },
+    {
+      "text": "gagner",
+      "start": 40.3,
+      "end": 40.52
+    },
+    {
+      "text": "un",
+      "start": 40.52,
+      "end": 40.84
+    },
+    {
+      "text": "peu",
+      "start": 40.84,
+      "end": 40.98
+    },
+    {
+      "text": "d",
+      "start": 40.98,
+      "end": 41.08
+    },
+    {
+      "text": "'argent",
+      "start": 41.08,
+      "end": 41.34
+    },
+    {
+      "text": "et",
+      "start": 41.34,
+      "end": 41.88
+    },
+    {
+      "text": "améliorer",
+      "start": 41.88,
+      "end": 42.48
+    },
+    {
+      "text": "leur",
+      "start": 42.48,
+      "end": 42.64
+    },
+    {
+      "text": "connaissance",
+      "start": 42.64,
+      "end": 43.2
+    },
+    {
+      "text": "des",
+      "start": 43.2,
+      "end": 43.54
+    },
+    {
+      "text": "langues",
+      "start": 43.54,
+      "end": 43.8
+    },
+    {
+      "text": "étrangères.",
+      "start": 43.8,
+      "end": 44.32
+    },
+    {
+      "text": "Pour",
+      "start": 46.2,
+      "end": 46.74
+    },
+    {
+      "text": "qui",
+      "start": 46.74,
+      "end": 46.96
+    },
+    {
+      "text": "est",
+      "start": 46.96,
+      "end": 47.08
+    },
+    {
+      "text": "le",
+      "start": 47.08,
+      "end": 47.18
+    },
+    {
+      "text": "programme",
+      "start": 47.18,
+      "end": 47.56
+    },
+    {
+      "text": "Travaille",
+      "start": 47.56,
+      "end": 48.22
+    },
+    {
+      "text": "-Jeunesse",
+      "start": 48.22,
+      "end": 48.52
+    },
+    {
+      "text": "sans",
+      "start": 48.52,
+      "end": 48.72
+    },
+    {
+      "text": "frontières?",
+      "start": 48.72,
+      "end": 49.2
+    }
+  ]
+}

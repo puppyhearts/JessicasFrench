@@ -1,0 +1,640 @@
+{
+  "text": "Bonjour madame, je souhaiterais ouvrir un compte s'il vous plaît. Bonjour, alors il faut que vous remplissiez ce formulaire. Voulez-vous également un compte épargne à 3% ? Euh non, non pour l'instant, un compte check me suffira amplement. En revanche, j'aurais besoin d'une carte bleue. D'accord, donc voilà un autre formulaire à remplir pour la carte. Pour la carte à débit immédiat, c'est 70 euros par an et 85 pour celle à débit différée. Laquelle préférez-vous ? Ou je vais prendre la moins chère ? Donc combien de temps est-ce que je recevrai ma carte ? Sous une dizaine de jours, mais comptez au moins 15 jours pour le checker. Question 14. Que désire le client ?",
+  "words": [
+    {
+      "text": "Bonjour",
+      "start": 2.16,
+      "end": 2.64
+    },
+    {
+      "text": "madame,",
+      "start": 2.64,
+      "end": 3.02
+    },
+    {
+      "text": "je",
+      "start": 3.3,
+      "end": 3.38
+    },
+    {
+      "text": "souhaiterais",
+      "start": 3.38,
+      "end": 3.78
+    },
+    {
+      "text": "ouvrir",
+      "start": 3.78,
+      "end": 4.0
+    },
+    {
+      "text": "un",
+      "start": 4.0,
+      "end": 4.22
+    },
+    {
+      "text": "compte",
+      "start": 4.22,
+      "end": 4.5
+    },
+    {
+      "text": "s",
+      "start": 4.5,
+      "end": 4.62
+    },
+    {
+      "text": "'il",
+      "start": 4.62,
+      "end": 4.66
+    },
+    {
+      "text": "vous",
+      "start": 4.66,
+      "end": 4.78
+    },
+    {
+      "text": "plaît.",
+      "start": 4.78,
+      "end": 5.04
+    },
+    {
+      "text": "Bonjour,",
+      "start": 5.56,
+      "end": 6.04
+    },
+    {
+      "text": "alors",
+      "start": 6.78,
+      "end": 7.02
+    },
+    {
+      "text": "il",
+      "start": 7.02,
+      "end": 7.5
+    },
+    {
+      "text": "faut",
+      "start": 7.5,
+      "end": 7.7
+    },
+    {
+      "text": "que",
+      "start": 7.7,
+      "end": 7.8
+    },
+    {
+      "text": "vous",
+      "start": 7.8,
+      "end": 7.86
+    },
+    {
+      "text": "remplissiez",
+      "start": 7.86,
+      "end": 8.32
+    },
+    {
+      "text": "ce",
+      "start": 8.32,
+      "end": 8.48
+    },
+    {
+      "text": "formulaire.",
+      "start": 8.48,
+      "end": 9.06
+    },
+    {
+      "text": "Voulez",
+      "start": 9.42,
+      "end": 9.58
+    },
+    {
+      "text": "-vous",
+      "start": 9.58,
+      "end": 9.74
+    },
+    {
+      "text": "également",
+      "start": 9.74,
+      "end": 10.04
+    },
+    {
+      "text": "un",
+      "start": 10.04,
+      "end": 10.3
+    },
+    {
+      "text": "compte",
+      "start": 10.3,
+      "end": 10.48
+    },
+    {
+      "text": "épargne",
+      "start": 10.48,
+      "end": 10.86
+    },
+    {
+      "text": "à",
+      "start": 10.86,
+      "end": 10.98
+    },
+    {
+      "text": "3",
+      "start": 10.98,
+      "end": 11.16
+    },
+    {
+      "text": "%",
+      "start": 11.16,
+      "end": 11.5
+    },
+    {
+      "text": "?",
+      "start": 11.5,
+      "end": 11.84
+    },
+    {
+      "text": "Euh",
+      "start": 11.84,
+      "end": 12.26
+    },
+    {
+      "text": "non,",
+      "start": 12.26,
+      "end": 12.74
+    },
+    {
+      "text": "non",
+      "start": 13.02,
+      "end": 13.16
+    },
+    {
+      "text": "pour",
+      "start": 13.16,
+      "end": 13.3
+    },
+    {
+      "text": "l",
+      "start": 13.3,
+      "end": 13.4
+    },
+    {
+      "text": "'instant,",
+      "start": 13.4,
+      "end": 13.66
+    },
+    {
+      "text": "un",
+      "start": 14.0,
+      "end": 14.14
+    },
+    {
+      "text": "compte",
+      "start": 14.14,
+      "end": 14.32
+    },
+    {
+      "text": "check",
+      "start": 14.32,
+      "end": 14.48
+    },
+    {
+      "text": "me",
+      "start": 14.48,
+      "end": 14.7
+    },
+    {
+      "text": "suffira",
+      "start": 14.7,
+      "end": 15.0
+    },
+    {
+      "text": "amplement.",
+      "start": 15.0,
+      "end": 15.62
+    },
+    {
+      "text": "En",
+      "start": 15.96,
+      "end": 16.1
+    },
+    {
+      "text": "revanche,",
+      "start": 16.1,
+      "end": 16.36
+    },
+    {
+      "text": "j",
+      "start": 16.54,
+      "end": 16.64
+    },
+    {
+      "text": "'aurais",
+      "start": 16.64,
+      "end": 16.72
+    },
+    {
+      "text": "besoin",
+      "start": 16.72,
+      "end": 17.04
+    },
+    {
+      "text": "d",
+      "start": 17.04,
+      "end": 17.16
+    },
+    {
+      "text": "'une",
+      "start": 17.16,
+      "end": 17.2
+    },
+    {
+      "text": "carte",
+      "start": 17.2,
+      "end": 17.38
+    },
+    {
+      "text": "bleue.",
+      "start": 17.38,
+      "end": 17.72
+    },
+    {
+      "text": "D",
+      "start": 18.3,
+      "end": 18.72
+    },
+    {
+      "text": "'accord,",
+      "start": 18.72,
+      "end": 19.02
+    },
+    {
+      "text": "donc",
+      "start": 19.28,
+      "end": 19.32
+    },
+    {
+      "text": "voilà",
+      "start": 19.32,
+      "end": 19.5
+    },
+    {
+      "text": "un",
+      "start": 19.5,
+      "end": 19.72
+    },
+    {
+      "text": "autre",
+      "start": 19.72,
+      "end": 20.02
+    },
+    {
+      "text": "formulaire",
+      "start": 20.02,
+      "end": 20.62
+    },
+    {
+      "text": "à",
+      "start": 20.62,
+      "end": 20.7
+    },
+    {
+      "text": "remplir",
+      "start": 20.7,
+      "end": 21.04
+    },
+    {
+      "text": "pour",
+      "start": 21.04,
+      "end": 21.2
+    },
+    {
+      "text": "la",
+      "start": 21.2,
+      "end": 21.36
+    },
+    {
+      "text": "carte.",
+      "start": 21.36,
+      "end": 21.6
+    },
+    {
+      "text": "Pour",
+      "start": 21.94,
+      "end": 22.1
+    },
+    {
+      "text": "la",
+      "start": 22.1,
+      "end": 22.24
+    },
+    {
+      "text": "carte",
+      "start": 22.24,
+      "end": 22.5
+    },
+    {
+      "text": "à",
+      "start": 22.5,
+      "end": 22.64
+    },
+    {
+      "text": "débit",
+      "start": 22.64,
+      "end": 22.9
+    },
+    {
+      "text": "immédiat,",
+      "start": 22.9,
+      "end": 23.38
+    },
+    {
+      "text": "c",
+      "start": 23.46,
+      "end": 23.52
+    },
+    {
+      "text": "'est",
+      "start": 23.52,
+      "end": 23.56
+    },
+    {
+      "text": "70",
+      "start": 23.56,
+      "end": 23.98
+    },
+    {
+      "text": "euros",
+      "start": 23.98,
+      "end": 24.28
+    },
+    {
+      "text": "par",
+      "start": 24.28,
+      "end": 24.56
+    },
+    {
+      "text": "an",
+      "start": 24.56,
+      "end": 24.76
+    },
+    {
+      "text": "et",
+      "start": 24.76,
+      "end": 24.98
+    },
+    {
+      "text": "85",
+      "start": 24.98,
+      "end": 25.36
+    },
+    {
+      "text": "pour",
+      "start": 25.36,
+      "end": 25.86
+    },
+    {
+      "text": "celle",
+      "start": 25.86,
+      "end": 26.02
+    },
+    {
+      "text": "à",
+      "start": 26.02,
+      "end": 26.16
+    },
+    {
+      "text": "débit",
+      "start": 26.16,
+      "end": 26.4
+    },
+    {
+      "text": "différée.",
+      "start": 26.4,
+      "end": 26.9
+    },
+    {
+      "text": "Laquelle",
+      "start": 27.28,
+      "end": 27.6
+    },
+    {
+      "text": "préférez",
+      "start": 27.6,
+      "end": 28.04
+    },
+    {
+      "text": "-vous",
+      "start": 28.04,
+      "end": 28.24
+    },
+    {
+      "text": "?",
+      "start": 28.24,
+      "end": 28.48
+    },
+    {
+      "text": "Ou",
+      "start": 28.48,
+      "end": 28.62
+    },
+    {
+      "text": "je",
+      "start": 28.62,
+      "end": 28.68
+    },
+    {
+      "text": "vais",
+      "start": 28.68,
+      "end": 28.78
+    },
+    {
+      "text": "prendre",
+      "start": 28.78,
+      "end": 28.98
+    },
+    {
+      "text": "la",
+      "start": 28.98,
+      "end": 29.14
+    },
+    {
+      "text": "moins",
+      "start": 29.14,
+      "end": 29.26
+    },
+    {
+      "text": "chère",
+      "start": 29.26,
+      "end": 29.56
+    },
+    {
+      "text": "?",
+      "start": 29.56,
+      "end": 29.94
+    },
+    {
+      "text": "Donc",
+      "start": 29.94,
+      "end": 29.96
+    },
+    {
+      "text": "combien",
+      "start": 29.96,
+      "end": 30.22
+    },
+    {
+      "text": "de",
+      "start": 30.22,
+      "end": 30.36
+    },
+    {
+      "text": "temps",
+      "start": 30.36,
+      "end": 30.46
+    },
+    {
+      "text": "est",
+      "start": 30.46,
+      "end": 30.6
+    },
+    {
+      "text": "-ce",
+      "start": 30.6,
+      "end": 30.68
+    },
+    {
+      "text": "que",
+      "start": 30.68,
+      "end": 30.76
+    },
+    {
+      "text": "je",
+      "start": 30.76,
+      "end": 30.84
+    },
+    {
+      "text": "recevrai",
+      "start": 30.84,
+      "end": 31.2
+    },
+    {
+      "text": "ma",
+      "start": 31.2,
+      "end": 31.34
+    },
+    {
+      "text": "carte",
+      "start": 31.34,
+      "end": 31.52
+    },
+    {
+      "text": "?",
+      "start": 31.52,
+      "end": 32.08
+    },
+    {
+      "text": "Sous",
+      "start": 32.08,
+      "end": 32.56
+    },
+    {
+      "text": "une",
+      "start": 32.56,
+      "end": 32.78
+    },
+    {
+      "text": "dizaine",
+      "start": 32.78,
+      "end": 33.02
+    },
+    {
+      "text": "de",
+      "start": 33.02,
+      "end": 33.18
+    },
+    {
+      "text": "jours,",
+      "start": 33.18,
+      "end": 33.44
+    },
+    {
+      "text": "mais",
+      "start": 33.62,
+      "end": 33.74
+    },
+    {
+      "text": "comptez",
+      "start": 33.74,
+      "end": 34.14
+    },
+    {
+      "text": "au",
+      "start": 34.14,
+      "end": 34.24
+    },
+    {
+      "text": "moins",
+      "start": 34.24,
+      "end": 34.38
+    },
+    {
+      "text": "15",
+      "start": 34.38,
+      "end": 34.62
+    },
+    {
+      "text": "jours",
+      "start": 34.62,
+      "end": 34.84
+    },
+    {
+      "text": "pour",
+      "start": 34.84,
+      "end": 35.02
+    },
+    {
+      "text": "le",
+      "start": 35.02,
+      "end": 35.18
+    },
+    {
+      "text": "checker.",
+      "start": 35.18,
+      "end": 35.56
+    },
+    {
+      "text": "Question",
+      "start": 37.38,
+      "end": 37.76
+    },
+    {
+      "text": "14.",
+      "start": 37.76,
+      "end": 38.14
+    },
+    {
+      "text": "Que",
+      "start": 39.16,
+      "end": 39.54
+    },
+    {
+      "text": "désire",
+      "start": 39.54,
+      "end": 39.92
+    },
+    {
+      "text": "le",
+      "start": 39.92,
+      "end": 40.08
+    },
+    {
+      "text": "client",
+      "start": 40.08,
+      "end": 40.38
+    },
+    {
+      "text": "?",
+      "start": 40.38,
+      "end": 40.6
+    }
+  ]
+}

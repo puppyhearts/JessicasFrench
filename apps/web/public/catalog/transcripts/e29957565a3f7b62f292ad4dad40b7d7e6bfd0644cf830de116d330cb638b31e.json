@@ -1,0 +1,675 @@
+{
+  "text": "Question 21. Écoutez le document sonore et la question. Choisissez la bonne réponse. Et si on organisait une grande fête pour nos deux ans de mariage ? Bonne idée ! On pourrait inviter tous les amis à manger à la maison à samedi soir ? Je pensais quelque chose de plus rigolo, comme une soirée à thème. On pourrait demander à tout le monde de se déguiser. Une soirée déguisée, avec des indiens et des princesces. Tu sais que je déteste ce type de fête. Je préfère encore une soirée Jeu de société. Pas pour notre anniversaire de mariage, quand même ! À ce moment-là, on peut proposer une soirée en discothèque. Tous nos amis aiment sortir. D'accord, parfait. Où se couple décide-t-il de fêter son anniversaire de mariage ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.6
+    },
+    {
+      "text": "21.",
+      "start": 0.6,
+      "end": 1.26
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.24,
+      "end": 2.68
+    },
+    {
+      "text": "le",
+      "start": 2.68,
+      "end": 2.9
+    },
+    {
+      "text": "document",
+      "start": 2.9,
+      "end": 3.22
+    },
+    {
+      "text": "sonore",
+      "start": 3.22,
+      "end": 3.8
+    },
+    {
+      "text": "et",
+      "start": 3.8,
+      "end": 4.04
+    },
+    {
+      "text": "la",
+      "start": 4.04,
+      "end": 4.16
+    },
+    {
+      "text": "question.",
+      "start": 4.16,
+      "end": 4.52
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.22,
+      "end": 5.66
+    },
+    {
+      "text": "la",
+      "start": 5.66,
+      "end": 5.86
+    },
+    {
+      "text": "bonne",
+      "start": 5.86,
+      "end": 6.04
+    },
+    {
+      "text": "réponse.",
+      "start": 6.04,
+      "end": 6.4
+    },
+    {
+      "text": "Et",
+      "start": 8.04,
+      "end": 8.48
+    },
+    {
+      "text": "si",
+      "start": 8.48,
+      "end": 8.64
+    },
+    {
+      "text": "on",
+      "start": 8.64,
+      "end": 8.76
+    },
+    {
+      "text": "organisait",
+      "start": 8.76,
+      "end": 9.22
+    },
+    {
+      "text": "une",
+      "start": 9.22,
+      "end": 9.32
+    },
+    {
+      "text": "grande",
+      "start": 9.32,
+      "end": 9.54
+    },
+    {
+      "text": "fête",
+      "start": 9.54,
+      "end": 9.88
+    },
+    {
+      "text": "pour",
+      "start": 9.88,
+      "end": 10.08
+    },
+    {
+      "text": "nos",
+      "start": 10.08,
+      "end": 10.22
+    },
+    {
+      "text": "deux",
+      "start": 10.22,
+      "end": 10.4
+    },
+    {
+      "text": "ans",
+      "start": 10.4,
+      "end": 10.52
+    },
+    {
+      "text": "de",
+      "start": 10.52,
+      "end": 10.58
+    },
+    {
+      "text": "mariage",
+      "start": 10.58,
+      "end": 11.08
+    },
+    {
+      "text": "?",
+      "start": 11.08,
+      "end": 11.62
+    },
+    {
+      "text": "Bonne",
+      "start": 11.62,
+      "end": 11.98
+    },
+    {
+      "text": "idée",
+      "start": 11.98,
+      "end": 12.12
+    },
+    {
+      "text": "!",
+      "start": 12.12,
+      "end": 12.84
+    },
+    {
+      "text": "On",
+      "start": 12.84,
+      "end": 12.96
+    },
+    {
+      "text": "pourrait",
+      "start": 12.96,
+      "end": 13.16
+    },
+    {
+      "text": "inviter",
+      "start": 13.16,
+      "end": 13.48
+    },
+    {
+      "text": "tous",
+      "start": 13.48,
+      "end": 13.7
+    },
+    {
+      "text": "les",
+      "start": 13.7,
+      "end": 13.82
+    },
+    {
+      "text": "amis",
+      "start": 13.82,
+      "end": 14.04
+    },
+    {
+      "text": "à",
+      "start": 14.04,
+      "end": 14.16
+    },
+    {
+      "text": "manger",
+      "start": 14.16,
+      "end": 14.32
+    },
+    {
+      "text": "à",
+      "start": 14.32,
+      "end": 14.48
+    },
+    {
+      "text": "la",
+      "start": 14.48,
+      "end": 14.54
+    },
+    {
+      "text": "maison",
+      "start": 14.54,
+      "end": 14.74
+    },
+    {
+      "text": "à",
+      "start": 14.74,
+      "end": 14.9
+    },
+    {
+      "text": "samedi",
+      "start": 14.9,
+      "end": 15.14
+    },
+    {
+      "text": "soir",
+      "start": 15.14,
+      "end": 15.38
+    },
+    {
+      "text": "?",
+      "start": 15.38,
+      "end": 15.8
+    },
+    {
+      "text": "Je",
+      "start": 15.8,
+      "end": 16.1
+    },
+    {
+      "text": "pensais",
+      "start": 16.1,
+      "end": 16.38
+    },
+    {
+      "text": "quelque",
+      "start": 16.38,
+      "end": 16.54
+    },
+    {
+      "text": "chose",
+      "start": 16.54,
+      "end": 16.84
+    },
+    {
+      "text": "de",
+      "start": 16.84,
+      "end": 16.98
+    },
+    {
+      "text": "plus",
+      "start": 16.98,
+      "end": 17.16
+    },
+    {
+      "text": "rigolo,",
+      "start": 17.16,
+      "end": 17.56
+    },
+    {
+      "text": "comme",
+      "start": 17.88,
+      "end": 18.12
+    },
+    {
+      "text": "une",
+      "start": 18.12,
+      "end": 18.26
+    },
+    {
+      "text": "soirée",
+      "start": 18.26,
+      "end": 18.56
+    },
+    {
+      "text": "à",
+      "start": 18.56,
+      "end": 18.68
+    },
+    {
+      "text": "thème.",
+      "start": 18.68,
+      "end": 19.04
+    },
+    {
+      "text": "On",
+      "start": 19.5,
+      "end": 19.74
+    },
+    {
+      "text": "pourrait",
+      "start": 19.74,
+      "end": 19.92
+    },
+    {
+      "text": "demander",
+      "start": 19.92,
+      "end": 20.22
+    },
+    {
+      "text": "à",
+      "start": 20.22,
+      "end": 20.36
+    },
+    {
+      "text": "tout",
+      "start": 20.36,
+      "end": 20.56
+    },
+    {
+      "text": "le",
+      "start": 20.56,
+      "end": 20.64
+    },
+    {
+      "text": "monde",
+      "start": 20.64,
+      "end": 20.78
+    },
+    {
+      "text": "de",
+      "start": 20.78,
+      "end": 20.96
+    },
+    {
+      "text": "se",
+      "start": 20.96,
+      "end": 21.02
+    },
+    {
+      "text": "déguiser.",
+      "start": 21.02,
+      "end": 21.42
+    },
+    {
+      "text": "Une",
+      "start": 22.38,
+      "end": 22.82
+    },
+    {
+      "text": "soirée",
+      "start": 22.82,
+      "end": 23.12
+    },
+    {
+      "text": "déguisée,",
+      "start": 23.12,
+      "end": 23.66
+    },
+    {
+      "text": "avec",
+      "start": 23.98,
+      "end": 24.2
+    },
+    {
+      "text": "des",
+      "start": 24.2,
+      "end": 24.36
+    },
+    {
+      "text": "indiens",
+      "start": 24.36,
+      "end": 24.7
+    },
+    {
+      "text": "et",
+      "start": 24.7,
+      "end": 24.82
+    },
+    {
+      "text": "des",
+      "start": 24.82,
+      "end": 24.98
+    },
+    {
+      "text": "princesces.",
+      "start": 24.98,
+      "end": 25.2
+    },
+    {
+      "text": "Tu",
+      "start": 26.04,
+      "end": 26.2
+    },
+    {
+      "text": "sais",
+      "start": 26.2,
+      "end": 26.32
+    },
+    {
+      "text": "que",
+      "start": 26.32,
+      "end": 26.42
+    },
+    {
+      "text": "je",
+      "start": 26.42,
+      "end": 26.5
+    },
+    {
+      "text": "déteste",
+      "start": 26.5,
+      "end": 27.02
+    },
+    {
+      "text": "ce",
+      "start": 27.02,
+      "end": 27.24
+    },
+    {
+      "text": "type",
+      "start": 27.24,
+      "end": 27.4
+    },
+    {
+      "text": "de",
+      "start": 27.4,
+      "end": 27.54
+    },
+    {
+      "text": "fête.",
+      "start": 27.54,
+      "end": 27.82
+    },
+    {
+      "text": "Je",
+      "start": 27.82,
+      "end": 28.48
+    },
+    {
+      "text": "préfère",
+      "start": 28.48,
+      "end": 28.8
+    },
+    {
+      "text": "encore",
+      "start": 28.8,
+      "end": 28.96
+    },
+    {
+      "text": "une",
+      "start": 28.96,
+      "end": 29.16
+    },
+    {
+      "text": "soirée",
+      "start": 29.16,
+      "end": 29.46
+    },
+    {
+      "text": "Jeu",
+      "start": 29.46,
+      "end": 29.64
+    },
+    {
+      "text": "de",
+      "start": 29.64,
+      "end": 29.66
+    },
+    {
+      "text": "société.",
+      "start": 29.66,
+      "end": 30.0
+    },
+    {
+      "text": "Pas",
+      "start": 31.26,
+      "end": 31.66
+    },
+    {
+      "text": "pour",
+      "start": 31.66,
+      "end": 31.84
+    },
+    {
+      "text": "notre",
+      "start": 31.84,
+      "end": 31.98
+    },
+    {
+      "text": "anniversaire",
+      "start": 31.98,
+      "end": 32.52
+    },
+    {
+      "text": "de",
+      "start": 32.52,
+      "end": 32.62
+    },
+    {
+      "text": "mariage,",
+      "start": 32.62,
+      "end": 32.98
+    },
+    {
+      "text": "quand",
+      "start": 33.04,
+      "end": 33.14
+    },
+    {
+      "text": "même",
+      "start": 33.14,
+      "end": 33.4
+    },
+    {
+      "text": "!",
+      "start": 33.4,
+      "end": 33.92
+    },
+    {
+      "text": "À",
+      "start": 33.92,
+      "end": 34.1
+    },
+    {
+      "text": "ce",
+      "start": 34.1,
+      "end": 34.2
+    },
+    {
+      "text": "moment",
+      "start": 34.2,
+      "end": 34.34
+    },
+    {
+      "text": "-là,",
+      "start": 34.34,
+      "end": 34.54
+    },
+    {
+      "text": "on",
+      "start": 34.88,
+      "end": 34.96
+    },
+    {
+      "text": "peut",
+      "start": 34.96,
+      "end": 35.08
+    },
+    {
+      "text": "proposer",
+      "start": 35.08,
+      "end": 35.5
+    },
+    {
+      "text": "une",
+      "start": 35.5,
+      "end": 35.58
+    },
+    {
+      "text": "soirée",
+      "start": 35.58,
+      "end": 35.84
+    },
+    {
+      "text": "en",
+      "start": 35.84,
+      "end": 35.94
+    },
+    {
+      "text": "discothèque.",
+      "start": 35.94,
+      "end": 36.58
+    },
+    {
+      "text": "Tous",
+      "start": 36.88,
+      "end": 36.96
+    },
+    {
+      "text": "nos",
+      "start": 36.96,
+      "end": 37.1
+    },
+    {
+      "text": "amis",
+      "start": 37.1,
+      "end": 37.3
+    },
+    {
+      "text": "aiment",
+      "start": 37.3,
+      "end": 37.44
+    },
+    {
+      "text": "sortir.",
+      "start": 37.44,
+      "end": 37.72
+    },
+    {
+      "text": "D",
+      "start": 38.78,
+      "end": 38.94
+    },
+    {
+      "text": "'accord,",
+      "start": 38.94,
+      "end": 39.14
+    },
+    {
+      "text": "parfait.",
+      "start": 39.36,
+      "end": 39.52
+    },
+    {
+      "text": "Où",
+      "start": 41.84,
+      "end": 42.24
+    },
+    {
+      "text": "se",
+      "start": 42.24,
+      "end": 42.38
+    },
+    {
+      "text": "couple",
+      "start": 42.38,
+      "end": 42.7
+    },
+    {
+      "text": "décide",
+      "start": 42.7,
+      "end": 43.2
+    },
+    {
+      "text": "-t",
+      "start": 43.2,
+      "end": 43.34
+    },
+    {
+      "text": "-il",
+      "start": 43.34,
+      "end": 43.44
+    },
+    {
+      "text": "de",
+      "start": 43.44,
+      "end": 43.58
+    },
+    {
+      "text": "fêter",
+      "start": 43.58,
+      "end": 43.9
+    },
+    {
+      "text": "son",
+      "start": 43.9,
+      "end": 44.1
+    },
+    {
+      "text": "anniversaire",
+      "start": 44.1,
+      "end": 44.74
+    },
+    {
+      "text": "de",
+      "start": 44.74,
+      "end": 44.88
+    },
+    {
+      "text": "mariage",
+      "start": 44.88,
+      "end": 45.46
+    },
+    {
+      "text": "?",
+      "start": 45.46,
+      "end": 45.68
+    }
+  ]
+}

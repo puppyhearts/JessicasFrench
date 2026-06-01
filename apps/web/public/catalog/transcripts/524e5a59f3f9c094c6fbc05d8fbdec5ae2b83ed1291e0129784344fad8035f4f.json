@@ -1,0 +1,850 @@
+{
+  "text": "Question 25. Écoutez le document sonore et la question. Choisissez la bonne réponse. La cigarette électronique va-t-elle devenir un médicament ? Les députés européens doivent voter aujourd'hui pour répondre à cette question. Et c'est l'objet de notre rendez-vous santé avec Brigitte Fanny Cohen. Bonjour Brigitte. Bonjour Agnès. Alors pourquoi ce vote suscite-t-il une telle polémique ? La cigarette électronique est tout simplement victime de son succès. Il y aurait plus d'un million d'adeptes en France, plus de 4 millions en Europe et il faut trancher. Est-ce que la cigarette électronique est un produit dérivé du tabac ou un produit de consommation courante qui restera en vente libre ? Ou est-elle, comme le patch à la nicotine, un médicament qui aide les fumeurs à s'arrêter ? Dans ce cas-là, sa fabrication serait très contrôlée et dans notre pays, elle serait vendue uniquement en pharmacie. Quel élément complique le débat européen autour de la cigarette électronique ?",
+  "words": [
+    {
+      "text": "Question",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "25.",
+      "start": 0.66,
+      "end": 1.58
+    },
+    {
+      "text": "Écoutez",
+      "start": 2.6,
+      "end": 3.28
+    },
+    {
+      "text": "le",
+      "start": 3.28,
+      "end": 3.46
+    },
+    {
+      "text": "document",
+      "start": 3.46,
+      "end": 3.82
+    },
+    {
+      "text": "sonore",
+      "start": 3.82,
+      "end": 4.4
+    },
+    {
+      "text": "et",
+      "start": 4.4,
+      "end": 4.72
+    },
+    {
+      "text": "la",
+      "start": 4.72,
+      "end": 4.84
+    },
+    {
+      "text": "question.",
+      "start": 4.84,
+      "end": 5.2
+    },
+    {
+      "text": "Choisissez",
+      "start": 5.92,
+      "end": 6.52
+    },
+    {
+      "text": "la",
+      "start": 6.52,
+      "end": 6.74
+    },
+    {
+      "text": "bonne",
+      "start": 6.74,
+      "end": 6.92
+    },
+    {
+      "text": "réponse.",
+      "start": 6.92,
+      "end": 7.28
+    },
+    {
+      "text": "La",
+      "start": 8.34,
+      "end": 8.74
+    },
+    {
+      "text": "cigarette",
+      "start": 8.74,
+      "end": 9.06
+    },
+    {
+      "text": "électronique",
+      "start": 9.06,
+      "end": 10.04
+    },
+    {
+      "text": "va",
+      "start": 10.04,
+      "end": 10.4
+    },
+    {
+      "text": "-t",
+      "start": 10.4,
+      "end": 10.5
+    },
+    {
+      "text": "-elle",
+      "start": 10.5,
+      "end": 10.56
+    },
+    {
+      "text": "devenir",
+      "start": 10.56,
+      "end": 10.98
+    },
+    {
+      "text": "un",
+      "start": 10.98,
+      "end": 11.44
+    },
+    {
+      "text": "médicament",
+      "start": 11.44,
+      "end": 12.04
+    },
+    {
+      "text": "?",
+      "start": 12.04,
+      "end": 12.5
+    },
+    {
+      "text": "Les",
+      "start": 13.2,
+      "end": 13.52
+    },
+    {
+      "text": "députés",
+      "start": 13.52,
+      "end": 14.0
+    },
+    {
+      "text": "européens",
+      "start": 14.0,
+      "end": 14.66
+    },
+    {
+      "text": "doivent",
+      "start": 14.66,
+      "end": 15.02
+    },
+    {
+      "text": "voter",
+      "start": 15.02,
+      "end": 15.48
+    },
+    {
+      "text": "aujourd",
+      "start": 15.48,
+      "end": 15.76
+    },
+    {
+      "text": "'hui",
+      "start": 15.76,
+      "end": 16.16
+    },
+    {
+      "text": "pour",
+      "start": 16.16,
+      "end": 16.36
+    },
+    {
+      "text": "répondre",
+      "start": 16.36,
+      "end": 16.82
+    },
+    {
+      "text": "à",
+      "start": 16.82,
+      "end": 17.02
+    },
+    {
+      "text": "cette",
+      "start": 17.02,
+      "end": 17.2
+    },
+    {
+      "text": "question.",
+      "start": 17.2,
+      "end": 17.68
+    },
+    {
+      "text": "Et",
+      "start": 18.14,
+      "end": 18.36
+    },
+    {
+      "text": "c",
+      "start": 18.36,
+      "end": 18.48
+    },
+    {
+      "text": "'est",
+      "start": 18.48,
+      "end": 18.5
+    },
+    {
+      "text": "l",
+      "start": 18.5,
+      "end": 18.62
+    },
+    {
+      "text": "'objet",
+      "start": 18.62,
+      "end": 18.84
+    },
+    {
+      "text": "de",
+      "start": 18.84,
+      "end": 18.98
+    },
+    {
+      "text": "notre",
+      "start": 18.98,
+      "end": 19.14
+    },
+    {
+      "text": "rendez",
+      "start": 19.14,
+      "end": 19.5
+    },
+    {
+      "text": "-vous",
+      "start": 19.5,
+      "end": 19.74
+    },
+    {
+      "text": "santé",
+      "start": 19.74,
+      "end": 20.1
+    },
+    {
+      "text": "avec",
+      "start": 20.1,
+      "end": 20.82
+    },
+    {
+      "text": "Brigitte",
+      "start": 20.82,
+      "end": 21.36
+    },
+    {
+      "text": "Fanny",
+      "start": 21.36,
+      "end": 21.66
+    },
+    {
+      "text": "Cohen.",
+      "start": 21.66,
+      "end": 22.04
+    },
+    {
+      "text": "Bonjour",
+      "start": 22.8,
+      "end": 23.52
+    },
+    {
+      "text": "Brigitte.",
+      "start": 23.52,
+      "end": 24.16
+    },
+    {
+      "text": "Bonjour",
+      "start": 24.46,
+      "end": 24.72
+    },
+    {
+      "text": "Agnès.",
+      "start": 24.72,
+      "end": 25.1
+    },
+    {
+      "text": "Alors",
+      "start": 25.74,
+      "end": 25.96
+    },
+    {
+      "text": "pourquoi",
+      "start": 25.96,
+      "end": 26.38
+    },
+    {
+      "text": "ce",
+      "start": 26.38,
+      "end": 26.72
+    },
+    {
+      "text": "vote",
+      "start": 26.72,
+      "end": 27.02
+    },
+    {
+      "text": "suscite",
+      "start": 27.02,
+      "end": 27.7
+    },
+    {
+      "text": "-t",
+      "start": 27.7,
+      "end": 27.92
+    },
+    {
+      "text": "-il",
+      "start": 27.92,
+      "end": 27.98
+    },
+    {
+      "text": "une",
+      "start": 27.98,
+      "end": 28.18
+    },
+    {
+      "text": "telle",
+      "start": 28.18,
+      "end": 28.52
+    },
+    {
+      "text": "polémique",
+      "start": 28.52,
+      "end": 29.04
+    },
+    {
+      "text": "?",
+      "start": 29.04,
+      "end": 29.44
+    },
+    {
+      "text": "La",
+      "start": 29.44,
+      "end": 29.64
+    },
+    {
+      "text": "cigarette",
+      "start": 29.64,
+      "end": 30.0
+    },
+    {
+      "text": "électronique",
+      "start": 30.0,
+      "end": 30.72
+    },
+    {
+      "text": "est",
+      "start": 30.72,
+      "end": 31.08
+    },
+    {
+      "text": "tout",
+      "start": 31.08,
+      "end": 31.24
+    },
+    {
+      "text": "simplement",
+      "start": 31.24,
+      "end": 31.66
+    },
+    {
+      "text": "victime",
+      "start": 31.66,
+      "end": 32.3
+    },
+    {
+      "text": "de",
+      "start": 32.3,
+      "end": 32.42
+    },
+    {
+      "text": "son",
+      "start": 32.42,
+      "end": 32.54
+    },
+    {
+      "text": "succès.",
+      "start": 32.54,
+      "end": 32.98
+    },
+    {
+      "text": "Il",
+      "start": 33.7,
+      "end": 33.86
+    },
+    {
+      "text": "y",
+      "start": 33.86,
+      "end": 33.98
+    },
+    {
+      "text": "aurait",
+      "start": 33.98,
+      "end": 34.1
+    },
+    {
+      "text": "plus",
+      "start": 34.1,
+      "end": 34.34
+    },
+    {
+      "text": "d",
+      "start": 34.34,
+      "end": 34.56
+    },
+    {
+      "text": "'un",
+      "start": 34.56,
+      "end": 34.64
+    },
+    {
+      "text": "million",
+      "start": 34.64,
+      "end": 34.9
+    },
+    {
+      "text": "d",
+      "start": 34.9,
+      "end": 35.08
+    },
+    {
+      "text": "'adeptes",
+      "start": 35.08,
+      "end": 35.34
+    },
+    {
+      "text": "en",
+      "start": 35.34,
+      "end": 35.42
+    },
+    {
+      "text": "France,",
+      "start": 35.42,
+      "end": 35.78
+    },
+    {
+      "text": "plus",
+      "start": 36.32,
+      "end": 36.44
+    },
+    {
+      "text": "de",
+      "start": 36.44,
+      "end": 36.58
+    },
+    {
+      "text": "4",
+      "start": 36.58,
+      "end": 36.96
+    },
+    {
+      "text": "millions",
+      "start": 36.96,
+      "end": 37.26
+    },
+    {
+      "text": "en",
+      "start": 37.26,
+      "end": 37.48
+    },
+    {
+      "text": "Europe",
+      "start": 37.48,
+      "end": 37.74
+    },
+    {
+      "text": "et",
+      "start": 37.74,
+      "end": 38.04
+    },
+    {
+      "text": "il",
+      "start": 38.04,
+      "end": 38.14
+    },
+    {
+      "text": "faut",
+      "start": 38.14,
+      "end": 38.26
+    },
+    {
+      "text": "trancher.",
+      "start": 38.26,
+      "end": 38.64
+    },
+    {
+      "text": "Est",
+      "start": 39.22,
+      "end": 39.36
+    },
+    {
+      "text": "-ce",
+      "start": 39.36,
+      "end": 39.42
+    },
+    {
+      "text": "que",
+      "start": 39.42,
+      "end": 39.52
+    },
+    {
+      "text": "la",
+      "start": 39.52,
+      "end": 39.64
+    },
+    {
+      "text": "cigarette",
+      "start": 39.64,
+      "end": 39.96
+    },
+    {
+      "text": "électronique",
+      "start": 39.96,
+      "end": 40.58
+    },
+    {
+      "text": "est",
+      "start": 40.58,
+      "end": 40.7
+    },
+    {
+      "text": "un",
+      "start": 40.7,
+      "end": 40.84
+    },
+    {
+      "text": "produit",
+      "start": 40.84,
+      "end": 41.04
+    },
+    {
+      "text": "dérivé",
+      "start": 41.04,
+      "end": 41.42
+    },
+    {
+      "text": "du",
+      "start": 41.42,
+      "end": 41.56
+    },
+    {
+      "text": "tabac",
+      "start": 41.56,
+      "end": 41.9
+    },
+    {
+      "text": "ou",
+      "start": 41.9,
+      "end": 42.4
+    },
+    {
+      "text": "un",
+      "start": 42.4,
+      "end": 42.5
+    },
+    {
+      "text": "produit",
+      "start": 42.5,
+      "end": 42.76
+    },
+    {
+      "text": "de",
+      "start": 42.76,
+      "end": 42.92
+    },
+    {
+      "text": "consommation",
+      "start": 42.92,
+      "end": 43.4
+    },
+    {
+      "text": "courante",
+      "start": 43.4,
+      "end": 43.88
+    },
+    {
+      "text": "qui",
+      "start": 43.88,
+      "end": 44.04
+    },
+    {
+      "text": "restera",
+      "start": 44.04,
+      "end": 44.46
+    },
+    {
+      "text": "en",
+      "start": 44.46,
+      "end": 44.74
+    },
+    {
+      "text": "vente",
+      "start": 44.74,
+      "end": 44.96
+    },
+    {
+      "text": "libre",
+      "start": 44.96,
+      "end": 45.22
+    },
+    {
+      "text": "?",
+      "start": 45.22,
+      "end": 46.08
+    },
+    {
+      "text": "Ou",
+      "start": 46.08,
+      "end": 46.52
+    },
+    {
+      "text": "est",
+      "start": 46.52,
+      "end": 46.76
+    },
+    {
+      "text": "-elle,",
+      "start": 46.76,
+      "end": 47.02
+    },
+    {
+      "text": "comme",
+      "start": 47.28,
+      "end": 47.42
+    },
+    {
+      "text": "le",
+      "start": 47.42,
+      "end": 47.58
+    },
+    {
+      "text": "patch",
+      "start": 47.58,
+      "end": 47.76
+    },
+    {
+      "text": "à",
+      "start": 47.76,
+      "end": 47.92
+    },
+    {
+      "text": "la",
+      "start": 47.92,
+      "end": 48.0
+    },
+    {
+      "text": "nicotine,",
+      "start": 48.0,
+      "end": 48.42
+    },
+    {
+      "text": "un",
+      "start": 49.14,
+      "end": 49.26
+    },
+    {
+      "text": "médicament",
+      "start": 49.26,
+      "end": 49.7
+    },
+    {
+      "text": "qui",
+      "start": 49.7,
+      "end": 49.96
+    },
+    {
+      "text": "aide",
+      "start": 49.96,
+      "end": 50.24
+    },
+    {
+      "text": "les",
+      "start": 50.24,
+      "end": 50.4
+    },
+    {
+      "text": "fumeurs",
+      "start": 50.4,
+      "end": 50.74
+    },
+    {
+      "text": "à",
+      "start": 50.74,
+      "end": 50.88
+    },
+    {
+      "text": "s",
+      "start": 50.88,
+      "end": 50.98
+    },
+    {
+      "text": "'arrêter",
+      "start": 50.98,
+      "end": 51.28
+    },
+    {
+      "text": "?",
+      "start": 51.28,
+      "end": 51.86
+    },
+    {
+      "text": "Dans",
+      "start": 51.86,
+      "end": 52.08
+    },
+    {
+      "text": "ce",
+      "start": 52.08,
+      "end": 52.26
+    },
+    {
+      "text": "cas",
+      "start": 52.26,
+      "end": 52.42
+    },
+    {
+      "text": "-là,",
+      "start": 52.42,
+      "end": 52.56
+    },
+    {
+      "text": "sa",
+      "start": 53.12,
+      "end": 53.3
+    },
+    {
+      "text": "fabrication",
+      "start": 53.3,
+      "end": 53.7
+    },
+    {
+      "text": "serait",
+      "start": 53.7,
+      "end": 54.26
+    },
+    {
+      "text": "très",
+      "start": 54.26,
+      "end": 54.48
+    },
+    {
+      "text": "contrôlée",
+      "start": 54.48,
+      "end": 54.98
+    },
+    {
+      "text": "et",
+      "start": 54.98,
+      "end": 55.5
+    },
+    {
+      "text": "dans",
+      "start": 55.5,
+      "end": 55.76
+    },
+    {
+      "text": "notre",
+      "start": 55.76,
+      "end": 55.98
+    },
+    {
+      "text": "pays,",
+      "start": 55.98,
+      "end": 56.3
+    },
+    {
+      "text": "elle",
+      "start": 56.7,
+      "end": 56.8
+    },
+    {
+      "text": "serait",
+      "start": 56.8,
+      "end": 57.02
+    },
+    {
+      "text": "vendue",
+      "start": 57.02,
+      "end": 57.4
+    },
+    {
+      "text": "uniquement",
+      "start": 57.4,
+      "end": 57.92
+    },
+    {
+      "text": "en",
+      "start": 57.92,
+      "end": 58.06
+    },
+    {
+      "text": "pharmacie.",
+      "start": 58.06,
+      "end": 58.46
+    },
+    {
+      "text": "Quel",
+      "start": 59.96,
+      "end": 60.62
+    },
+    {
+      "text": "élément",
+      "start": 60.62,
+      "end": 61.0
+    },
+    {
+      "text": "complique",
+      "start": 61.0,
+      "end": 61.48
+    },
+    {
+      "text": "le",
+      "start": 61.48,
+      "end": 61.6
+    },
+    {
+      "text": "débat",
+      "start": 61.6,
+      "end": 61.88
+    },
+    {
+      "text": "européen",
+      "start": 61.88,
+      "end": 62.46
+    },
+    {
+      "text": "autour",
+      "start": 62.46,
+      "end": 62.7
+    },
+    {
+      "text": "de",
+      "start": 62.7,
+      "end": 62.86
+    },
+    {
+      "text": "la",
+      "start": 62.86,
+      "end": 62.98
+    },
+    {
+      "text": "cigarette",
+      "start": 62.98,
+      "end": 63.36
+    },
+    {
+      "text": "électronique",
+      "start": 63.36,
+      "end": 64.1
+    },
+    {
+      "text": "?",
+      "start": 64.1,
+      "end": 64.28
+    }
+  ]
+}

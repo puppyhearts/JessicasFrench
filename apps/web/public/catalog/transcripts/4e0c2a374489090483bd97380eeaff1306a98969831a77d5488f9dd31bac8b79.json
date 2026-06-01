@@ -1,0 +1,1060 @@
+{
+  "text": "Tiens, salut Marc, tu vas bien ? Ben moi oui, mais c'est à toi que je devrais demander ça. T'as le bras dans le plâtre ? Qu'est-ce qui t'arrivait ? Oh là, tu il, je te raconte pas. Je me suis cassé le bras en faisant du ski il y a deux semaines de ça. J'ai été obligé d'auriger mes vacances d'hiver. Et en plus, je peux même pas conduire. Bah bah pour vous Julie, je suis désolé pour toi. Ça doit pas être drôle tous les jours. T'en as pour combien de temps ? Les médecins m'ont dit au moins un mois de plâtre sans compter la rééducation. Enfin bref, d'ici deux mois, je pourrais reprendre le ténisme et pas avant. Est-ce que je peux faire quelque chose ? Est-ce que je peux faire quoi que ce soit pour t'aider ? Tu veux que je te ramène chez toi ? Non c'est gentil, je te remercie. En revanche, tu pourrais venir faire une ou deux heures ménage. Oh alors ! Question 8. Qu'est-il arrivé à Julie ? Question 9. Lorsque Marc découvre ce qui est arrivé à Julie, quelle est sa réaction ?",
+  "words": [
+    {
+      "text": "Tiens,",
+      "start": 2.6,
+      "end": 2.96
+    },
+    {
+      "text": "salut",
+      "start": 3.12,
+      "end": 3.38
+    },
+    {
+      "text": "Marc,",
+      "start": 3.38,
+      "end": 3.68
+    },
+    {
+      "text": "tu",
+      "start": 3.9,
+      "end": 3.92
+    },
+    {
+      "text": "vas",
+      "start": 3.92,
+      "end": 4.06
+    },
+    {
+      "text": "bien",
+      "start": 4.06,
+      "end": 4.28
+    },
+    {
+      "text": "?",
+      "start": 4.28,
+      "end": 4.76
+    },
+    {
+      "text": "Ben",
+      "start": 4.76,
+      "end": 4.88
+    },
+    {
+      "text": "moi",
+      "start": 4.88,
+      "end": 5.04
+    },
+    {
+      "text": "oui,",
+      "start": 5.04,
+      "end": 5.28
+    },
+    {
+      "text": "mais",
+      "start": 5.74,
+      "end": 5.86
+    },
+    {
+      "text": "c",
+      "start": 5.86,
+      "end": 5.96
+    },
+    {
+      "text": "'est",
+      "start": 5.96,
+      "end": 5.98
+    },
+    {
+      "text": "à",
+      "start": 5.98,
+      "end": 6.1
+    },
+    {
+      "text": "toi",
+      "start": 6.1,
+      "end": 6.24
+    },
+    {
+      "text": "que",
+      "start": 6.24,
+      "end": 6.42
+    },
+    {
+      "text": "je",
+      "start": 6.42,
+      "end": 6.5
+    },
+    {
+      "text": "devrais",
+      "start": 6.5,
+      "end": 6.72
+    },
+    {
+      "text": "demander",
+      "start": 6.72,
+      "end": 6.9
+    },
+    {
+      "text": "ça.",
+      "start": 6.9,
+      "end": 7.22
+    },
+    {
+      "text": "T",
+      "start": 7.44,
+      "end": 7.68
+    },
+    {
+      "text": "'as",
+      "start": 7.68,
+      "end": 7.68
+    },
+    {
+      "text": "le",
+      "start": 7.68,
+      "end": 7.78
+    },
+    {
+      "text": "bras",
+      "start": 7.78,
+      "end": 7.86
+    },
+    {
+      "text": "dans",
+      "start": 7.86,
+      "end": 7.98
+    },
+    {
+      "text": "le",
+      "start": 7.98,
+      "end": 8.08
+    },
+    {
+      "text": "plâtre",
+      "start": 8.08,
+      "end": 8.4
+    },
+    {
+      "text": "?",
+      "start": 8.4,
+      "end": 8.78
+    },
+    {
+      "text": "Qu",
+      "start": 8.78,
+      "end": 8.86
+    },
+    {
+      "text": "'est",
+      "start": 8.86,
+      "end": 8.9
+    },
+    {
+      "text": "-ce",
+      "start": 8.9,
+      "end": 8.94
+    },
+    {
+      "text": "qui",
+      "start": 8.94,
+      "end": 9.04
+    },
+    {
+      "text": "t",
+      "start": 9.04,
+      "end": 9.14
+    },
+    {
+      "text": "'arrivait",
+      "start": 9.14,
+      "end": 9.42
+    },
+    {
+      "text": "?",
+      "start": 9.42,
+      "end": 9.72
+    },
+    {
+      "text": "Oh",
+      "start": 9.72,
+      "end": 9.9
+    },
+    {
+      "text": "là,",
+      "start": 9.9,
+      "end": 9.98
+    },
+    {
+      "text": "tu",
+      "start": 10.16,
+      "end": 10.3
+    },
+    {
+      "text": "il,",
+      "start": 10.3,
+      "end": 10.46
+    },
+    {
+      "text": "je",
+      "start": 10.56,
+      "end": 10.6
+    },
+    {
+      "text": "te",
+      "start": 10.6,
+      "end": 10.72
+    },
+    {
+      "text": "raconte",
+      "start": 10.72,
+      "end": 11.02
+    },
+    {
+      "text": "pas.",
+      "start": 11.02,
+      "end": 11.3
+    },
+    {
+      "text": "Je",
+      "start": 11.74,
+      "end": 11.8
+    },
+    {
+      "text": "me",
+      "start": 11.8,
+      "end": 11.92
+    },
+    {
+      "text": "suis",
+      "start": 11.92,
+      "end": 12.08
+    },
+    {
+      "text": "cassé",
+      "start": 12.08,
+      "end": 12.52
+    },
+    {
+      "text": "le",
+      "start": 12.52,
+      "end": 12.62
+    },
+    {
+      "text": "bras",
+      "start": 12.62,
+      "end": 12.76
+    },
+    {
+      "text": "en",
+      "start": 12.76,
+      "end": 12.88
+    },
+    {
+      "text": "faisant",
+      "start": 12.88,
+      "end": 13.06
+    },
+    {
+      "text": "du",
+      "start": 13.06,
+      "end": 13.2
+    },
+    {
+      "text": "ski",
+      "start": 13.2,
+      "end": 13.46
+    },
+    {
+      "text": "il",
+      "start": 13.46,
+      "end": 13.64
+    },
+    {
+      "text": "y",
+      "start": 13.64,
+      "end": 13.66
+    },
+    {
+      "text": "a",
+      "start": 13.66,
+      "end": 13.66
+    },
+    {
+      "text": "deux",
+      "start": 13.66,
+      "end": 13.82
+    },
+    {
+      "text": "semaines",
+      "start": 13.82,
+      "end": 14.04
+    },
+    {
+      "text": "de",
+      "start": 14.04,
+      "end": 14.22
+    },
+    {
+      "text": "ça.",
+      "start": 14.22,
+      "end": 14.44
+    },
+    {
+      "text": "J",
+      "start": 14.86,
+      "end": 15.02
+    },
+    {
+      "text": "'ai",
+      "start": 15.02,
+      "end": 15.08
+    },
+    {
+      "text": "été",
+      "start": 15.08,
+      "end": 15.26
+    },
+    {
+      "text": "obligé",
+      "start": 15.26,
+      "end": 15.7
+    },
+    {
+      "text": "d",
+      "start": 15.7,
+      "end": 15.84
+    },
+    {
+      "text": "'auriger",
+      "start": 15.84,
+      "end": 16.04
+    },
+    {
+      "text": "mes",
+      "start": 16.04,
+      "end": 16.24
+    },
+    {
+      "text": "vacances",
+      "start": 16.24,
+      "end": 16.56
+    },
+    {
+      "text": "d",
+      "start": 16.56,
+      "end": 16.74
+    },
+    {
+      "text": "'hiver.",
+      "start": 16.74,
+      "end": 16.86
+    },
+    {
+      "text": "Et",
+      "start": 17.14,
+      "end": 17.22
+    },
+    {
+      "text": "en",
+      "start": 17.22,
+      "end": 17.34
+    },
+    {
+      "text": "plus,",
+      "start": 17.34,
+      "end": 17.64
+    },
+    {
+      "text": "je",
+      "start": 17.9,
+      "end": 18.0
+    },
+    {
+      "text": "peux",
+      "start": 18.0,
+      "end": 18.12
+    },
+    {
+      "text": "même",
+      "start": 18.12,
+      "end": 18.3
+    },
+    {
+      "text": "pas",
+      "start": 18.3,
+      "end": 18.56
+    },
+    {
+      "text": "conduire.",
+      "start": 18.56,
+      "end": 19.06
+    },
+    {
+      "text": "Bah",
+      "start": 19.58,
+      "end": 19.74
+    },
+    {
+      "text": "bah",
+      "start": 19.74,
+      "end": 19.9
+    },
+    {
+      "text": "pour",
+      "start": 19.9,
+      "end": 20.06
+    },
+    {
+      "text": "vous",
+      "start": 20.06,
+      "end": 20.2
+    },
+    {
+      "text": "Julie,",
+      "start": 20.2,
+      "end": 20.46
+    },
+    {
+      "text": "je",
+      "start": 20.7,
+      "end": 20.78
+    },
+    {
+      "text": "suis",
+      "start": 20.78,
+      "end": 20.82
+    },
+    {
+      "text": "désolé",
+      "start": 20.82,
+      "end": 21.16
+    },
+    {
+      "text": "pour",
+      "start": 21.16,
+      "end": 21.38
+    },
+    {
+      "text": "toi.",
+      "start": 21.38,
+      "end": 21.6
+    },
+    {
+      "text": "Ça",
+      "start": 21.96,
+      "end": 22.08
+    },
+    {
+      "text": "doit",
+      "start": 22.08,
+      "end": 22.22
+    },
+    {
+      "text": "pas",
+      "start": 22.22,
+      "end": 22.44
+    },
+    {
+      "text": "être",
+      "start": 22.44,
+      "end": 22.56
+    },
+    {
+      "text": "drôle",
+      "start": 22.56,
+      "end": 22.8
+    },
+    {
+      "text": "tous",
+      "start": 22.8,
+      "end": 22.94
+    },
+    {
+      "text": "les",
+      "start": 22.94,
+      "end": 23.1
+    },
+    {
+      "text": "jours.",
+      "start": 23.1,
+      "end": 23.32
+    },
+    {
+      "text": "T",
+      "start": 23.66,
+      "end": 23.8
+    },
+    {
+      "text": "'en",
+      "start": 23.8,
+      "end": 23.8
+    },
+    {
+      "text": "as",
+      "start": 23.8,
+      "end": 23.88
+    },
+    {
+      "text": "pour",
+      "start": 23.88,
+      "end": 24.0
+    },
+    {
+      "text": "combien",
+      "start": 24.0,
+      "end": 24.24
+    },
+    {
+      "text": "de",
+      "start": 24.24,
+      "end": 24.44
+    },
+    {
+      "text": "temps",
+      "start": 24.44,
+      "end": 24.58
+    },
+    {
+      "text": "?",
+      "start": 24.58,
+      "end": 25.08
+    },
+    {
+      "text": "Les",
+      "start": 25.08,
+      "end": 25.28
+    },
+    {
+      "text": "médecins",
+      "start": 25.28,
+      "end": 25.64
+    },
+    {
+      "text": "m",
+      "start": 25.64,
+      "end": 25.78
+    },
+    {
+      "text": "'ont",
+      "start": 25.78,
+      "end": 25.82
+    },
+    {
+      "text": "dit",
+      "start": 25.82,
+      "end": 26.02
+    },
+    {
+      "text": "au",
+      "start": 26.02,
+      "end": 26.18
+    },
+    {
+      "text": "moins",
+      "start": 26.18,
+      "end": 26.44
+    },
+    {
+      "text": "un",
+      "start": 26.44,
+      "end": 26.8
+    },
+    {
+      "text": "mois",
+      "start": 26.8,
+      "end": 26.96
+    },
+    {
+      "text": "de",
+      "start": 26.96,
+      "end": 27.08
+    },
+    {
+      "text": "plâtre",
+      "start": 27.08,
+      "end": 27.46
+    },
+    {
+      "text": "sans",
+      "start": 27.46,
+      "end": 27.62
+    },
+    {
+      "text": "compter",
+      "start": 27.62,
+      "end": 27.96
+    },
+    {
+      "text": "la",
+      "start": 27.96,
+      "end": 28.1
+    },
+    {
+      "text": "rééducation.",
+      "start": 28.1,
+      "end": 28.74
+    },
+    {
+      "text": "Enfin",
+      "start": 28.74,
+      "end": 29.38
+    },
+    {
+      "text": "bref,",
+      "start": 29.38,
+      "end": 29.72
+    },
+    {
+      "text": "d",
+      "start": 29.9,
+      "end": 29.94
+    },
+    {
+      "text": "'ici",
+      "start": 29.94,
+      "end": 30.06
+    },
+    {
+      "text": "deux",
+      "start": 30.06,
+      "end": 30.3
+    },
+    {
+      "text": "mois,",
+      "start": 30.3,
+      "end": 30.56
+    },
+    {
+      "text": "je",
+      "start": 30.74,
+      "end": 30.78
+    },
+    {
+      "text": "pourrais",
+      "start": 30.78,
+      "end": 30.98
+    },
+    {
+      "text": "reprendre",
+      "start": 30.98,
+      "end": 31.3
+    },
+    {
+      "text": "le",
+      "start": 31.3,
+      "end": 31.46
+    },
+    {
+      "text": "ténisme",
+      "start": 31.46,
+      "end": 31.92
+    },
+    {
+      "text": "et",
+      "start": 31.92,
+      "end": 32.08
+    },
+    {
+      "text": "pas",
+      "start": 32.08,
+      "end": 32.26
+    },
+    {
+      "text": "avant.",
+      "start": 32.26,
+      "end": 32.52
+    },
+    {
+      "text": "Est",
+      "start": 32.92,
+      "end": 33.1
+    },
+    {
+      "text": "-ce",
+      "start": 33.1,
+      "end": 33.12
+    },
+    {
+      "text": "que",
+      "start": 33.12,
+      "end": 33.2
+    },
+    {
+      "text": "je",
+      "start": 33.2,
+      "end": 33.26
+    },
+    {
+      "text": "peux",
+      "start": 33.26,
+      "end": 33.36
+    },
+    {
+      "text": "faire",
+      "start": 33.36,
+      "end": 33.56
+    },
+    {
+      "text": "quelque",
+      "start": 33.56,
+      "end": 33.66
+    },
+    {
+      "text": "chose",
+      "start": 33.66,
+      "end": 34.0
+    },
+    {
+      "text": "?",
+      "start": 34.0,
+      "end": 34.34
+    },
+    {
+      "text": "Est",
+      "start": 34.34,
+      "end": 34.52
+    },
+    {
+      "text": "-ce",
+      "start": 34.52,
+      "end": 34.58
+    },
+    {
+      "text": "que",
+      "start": 34.58,
+      "end": 34.66
+    },
+    {
+      "text": "je",
+      "start": 34.66,
+      "end": 34.72
+    },
+    {
+      "text": "peux",
+      "start": 34.72,
+      "end": 34.84
+    },
+    {
+      "text": "faire",
+      "start": 34.84,
+      "end": 35.02
+    },
+    {
+      "text": "quoi",
+      "start": 35.02,
+      "end": 35.16
+    },
+    {
+      "text": "que",
+      "start": 35.16,
+      "end": 35.26
+    },
+    {
+      "text": "ce",
+      "start": 35.26,
+      "end": 35.36
+    },
+    {
+      "text": "soit",
+      "start": 35.36,
+      "end": 35.62
+    },
+    {
+      "text": "pour",
+      "start": 35.62,
+      "end": 36.22
+    },
+    {
+      "text": "t",
+      "start": 36.22,
+      "end": 36.36
+    },
+    {
+      "text": "'aider",
+      "start": 36.36,
+      "end": 36.52
+    },
+    {
+      "text": "?",
+      "start": 36.52,
+      "end": 36.74
+    },
+    {
+      "text": "Tu",
+      "start": 37.28,
+      "end": 37.42
+    },
+    {
+      "text": "veux",
+      "start": 37.42,
+      "end": 37.54
+    },
+    {
+      "text": "que",
+      "start": 37.54,
+      "end": 37.62
+    },
+    {
+      "text": "je",
+      "start": 37.62,
+      "end": 37.68
+    },
+    {
+      "text": "te",
+      "start": 37.68,
+      "end": 37.74
+    },
+    {
+      "text": "ramène",
+      "start": 37.74,
+      "end": 37.94
+    },
+    {
+      "text": "chez",
+      "start": 37.94,
+      "end": 38.12
+    },
+    {
+      "text": "toi",
+      "start": 38.12,
+      "end": 38.26
+    },
+    {
+      "text": "?",
+      "start": 38.26,
+      "end": 38.44
+    },
+    {
+      "text": "Non",
+      "start": 39.02,
+      "end": 39.26
+    },
+    {
+      "text": "c",
+      "start": 39.26,
+      "end": 39.44
+    },
+    {
+      "text": "'est",
+      "start": 39.44,
+      "end": 39.48
+    },
+    {
+      "text": "gentil,",
+      "start": 39.48,
+      "end": 39.8
+    },
+    {
+      "text": "je",
+      "start": 39.92,
+      "end": 39.96
+    },
+    {
+      "text": "te",
+      "start": 39.96,
+      "end": 40.06
+    },
+    {
+      "text": "remercie.",
+      "start": 40.06,
+      "end": 40.5
+    },
+    {
+      "text": "En",
+      "start": 40.88,
+      "end": 41.02
+    },
+    {
+      "text": "revanche,",
+      "start": 41.02,
+      "end": 41.38
+    },
+    {
+      "text": "tu",
+      "start": 41.46,
+      "end": 41.54
+    },
+    {
+      "text": "pourrais",
+      "start": 41.54,
+      "end": 41.8
+    },
+    {
+      "text": "venir",
+      "start": 41.8,
+      "end": 42.0
+    },
+    {
+      "text": "faire",
+      "start": 42.0,
+      "end": 42.2
+    },
+    {
+      "text": "une",
+      "start": 42.2,
+      "end": 42.42
+    },
+    {
+      "text": "ou",
+      "start": 42.42,
+      "end": 42.52
+    },
+    {
+      "text": "deux",
+      "start": 42.52,
+      "end": 42.7
+    },
+    {
+      "text": "heures",
+      "start": 42.7,
+      "end": 42.86
+    },
+    {
+      "text": "ménage.",
+      "start": 42.86,
+      "end": 43.4
+    },
+    {
+      "text": "Oh",
+      "start": 43.76,
+      "end": 43.76
+    },
+    {
+      "text": "alors",
+      "start": 43.76,
+      "end": 44.14
+    },
+    {
+      "text": "!",
+      "start": 44.14,
+      "end": 44.46
+    },
+    {
+      "text": "Question",
+      "start": 49.14,
+      "end": 49.5
+    },
+    {
+      "text": "8.",
+      "start": 49.5,
+      "end": 49.86
+    },
+    {
+      "text": "Qu",
+      "start": 50.74,
+      "end": 50.78
+    },
+    {
+      "text": "'est",
+      "start": 50.78,
+      "end": 50.86
+    },
+    {
+      "text": "-il",
+      "start": 50.86,
+      "end": 51.1
+    },
+    {
+      "text": "arrivé",
+      "start": 51.1,
+      "end": 51.54
+    },
+    {
+      "text": "à",
+      "start": 51.54,
+      "end": 51.7
+    },
+    {
+      "text": "Julie",
+      "start": 51.7,
+      "end": 51.9
+    },
+    {
+      "text": "?",
+      "start": 51.9,
+      "end": 52.28
+    },
+    {
+      "text": "Question",
+      "start": 68.28,
+      "end": 68.84
+    },
+    {
+      "text": "9.",
+      "start": 68.84,
+      "end": 69.4
+    },
+    {
+      "text": "Lorsque",
+      "start": 70.16,
+      "end": 70.72
+    },
+    {
+      "text": "Marc",
+      "start": 70.72,
+      "end": 71.0
+    },
+    {
+      "text": "découvre",
+      "start": 71.0,
+      "end": 71.72
+    },
+    {
+      "text": "ce",
+      "start": 71.72,
+      "end": 71.86
+    },
+    {
+      "text": "qui",
+      "start": 71.86,
+      "end": 72.0
+    },
+    {
+      "text": "est",
+      "start": 72.0,
+      "end": 72.1
+    },
+    {
+      "text": "arrivé",
+      "start": 72.1,
+      "end": 72.38
+    },
+    {
+      "text": "à",
+      "start": 72.38,
+      "end": 72.54
+    },
+    {
+      "text": "Julie,",
+      "start": 72.54,
+      "end": 72.74
+    },
+    {
+      "text": "quelle",
+      "start": 73.3,
+      "end": 73.44
+    },
+    {
+      "text": "est",
+      "start": 73.44,
+      "end": 73.6
+    },
+    {
+      "text": "sa",
+      "start": 73.6,
+      "end": 73.74
+    },
+    {
+      "text": "réaction",
+      "start": 73.74,
+      "end": 74.12
+    },
+    {
+      "text": "?",
+      "start": 74.12,
+      "end": 74.74
+    }
+  ]
+}

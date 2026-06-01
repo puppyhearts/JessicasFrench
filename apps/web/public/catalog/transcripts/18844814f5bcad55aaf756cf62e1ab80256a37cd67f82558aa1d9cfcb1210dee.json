@@ -1,0 +1,70 @@
+{
+  "text": "question 8 joyeux anniversaire b joyeux noël c bonne fête d bonne année",
+  "words": [
+    {
+      "text": "question",
+      "start": 0.0,
+      "end": 2.78
+    },
+    {
+      "text": "8",
+      "start": 2.78,
+      "end": 3.28
+    },
+    {
+      "text": "joyeux",
+      "start": 3.28,
+      "end": 6.42
+    },
+    {
+      "text": "anniversaire",
+      "start": 6.42,
+      "end": 7.54
+    },
+    {
+      "text": "b",
+      "start": 7.54,
+      "end": 9.1
+    },
+    {
+      "text": "joyeux",
+      "start": 9.1,
+      "end": 10.4
+    },
+    {
+      "text": "noël",
+      "start": 10.4,
+      "end": 11.0
+    },
+    {
+      "text": "c",
+      "start": 11.0,
+      "end": 12.44
+    },
+    {
+      "text": "bonne",
+      "start": 12.44,
+      "end": 13.4
+    },
+    {
+      "text": "fête",
+      "start": 13.4,
+      "end": 13.94
+    },
+    {
+      "text": "d",
+      "start": 13.94,
+      "end": 15.14
+    },
+    {
+      "text": "bonne",
+      "start": 15.14,
+      "end": 16.28
+    },
+    {
+      "text": "année",
+      "start": 16.28,
+      "end": 16.62
+    }
+  ]
+}

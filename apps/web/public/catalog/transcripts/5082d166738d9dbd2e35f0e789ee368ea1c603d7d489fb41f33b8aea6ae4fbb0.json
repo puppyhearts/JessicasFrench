@@ -1,0 +1,125 @@
+{
+  "text": "question 2 c'est un château médiéval b c'est une chômière normande c'est un ma provançal d c'est un immeuble moderne",
+  "words": [
+    {
+      "text": "question",
+      "start": 1.7,
+      "end": 2.84
+    },
+    {
+      "text": "2",
+      "start": 2.84,
+      "end": 3.5
+    },
+    {
+      "text": "c",
+      "start": 3.5,
+      "end": 5.78
+    },
+    {
+      "text": "'est",
+      "start": 5.78,
+      "end": 6.68
+    },
+    {
+      "text": "un",
+      "start": 6.68,
+      "end": 6.84
+    },
+    {
+      "text": "château",
+      "start": 6.84,
+      "end": 7.14
+    },
+    {
+      "text": "médiéval",
+      "start": 7.14,
+      "end": 7.64
+    },
+    {
+      "text": "b",
+      "start": 7.64,
+      "end": 9.14
+    },
+    {
+      "text": "c",
+      "start": 9.14,
+      "end": 9.7
+    },
+    {
+      "text": "'est",
+      "start": 9.7,
+      "end": 10.12
+    },
+    {
+      "text": "une",
+      "start": 10.12,
+      "end": 10.28
+    },
+    {
+      "text": "chômière",
+      "start": 10.28,
+      "end": 10.76
+    },
+    {
+      "text": "normande",
+      "start": 10.76,
+      "end": 11.44
+    },
+    {
+      "text": "c",
+      "start": 11.44,
+      "end": 12.84
+    },
+    {
+      "text": "'est",
+      "start": 12.84,
+      "end": 13.66
+    },
+    {
+      "text": "un",
+      "start": 13.66,
+      "end": 13.82
+    },
+    {
+      "text": "ma",
+      "start": 13.82,
+      "end": 13.98
+    },
+    {
+      "text": "provançal",
+      "start": 13.98,
+      "end": 14.84
+    },
+    {
+      "text": "d",
+      "start": 14.84,
+      "end": 16.06
+    },
+    {
+      "text": "c",
+      "start": 16.06,
+      "end": 16.26
+    },
+    {
+      "text": "'est",
+      "start": 16.26,
+      "end": 16.98
+    },
+    {
+      "text": "un",
+      "start": 16.98,
+      "end": 17.12
+    },
+    {
+      "text": "immeuble",
+      "start": 17.12,
+      "end": 17.56
+    },
+    {
+      "text": "moderne",
+      "start": 17.56,
+      "end": 18.14
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "text": "ABC-TCF Copyright Clé Internationale 2014 Compréhension Orale Question 1 Écoutez les quatre propositions Choisissez celles qui correspondent à l'image A. Asseyez-toi. B. Montre vite. C. Prends ce train. D. Reste debout.",
+  "words": [
+    {
+      "text": "ABC",
+      "start": 0.0,
+      "end": 0.66
+    },
+    {
+      "text": "-TCF",
+      "start": 0.66,
+      "end": 2.06
+    },
+    {
+      "text": "Copyright",
+      "start": 2.06,
+      "end": 3.52
+    },
+    {
+      "text": "Clé",
+      "start": 3.52,
+      "end": 3.94
+    },
+    {
+      "text": "Internationale",
+      "start": 3.94,
+      "end": 4.86
+    },
+    {
+      "text": "2014",
+      "start": 4.86,
+      "end": 5.76
+    },
+    {
+      "text": "Compréhension",
+      "start": 5.76,
+      "end": 7.54
+    },
+    {
+      "text": "Orale",
+      "start": 7.54,
+      "end": 8.24
+    },
+    {
+      "text": "Question",
+      "start": 8.24,
+      "end": 9.34
+    },
+    {
+      "text": "1",
+      "start": 9.34,
+      "end": 9.92
+    },
+    {
+      "text": "Écoutez",
+      "start": 9.92,
+      "end": 11.1
+    },
+    {
+      "text": "les",
+      "start": 11.1,
+      "end": 11.32
+    },
+    {
+      "text": "quatre",
+      "start": 11.32,
+      "end": 11.52
+    },
+    {
+      "text": "propositions",
+      "start": 11.52,
+      "end": 12.28
+    },
+    {
+      "text": "Choisissez",
+      "start": 12.28,
+      "end": 13.54
+    },
+    {
+      "text": "celles",
+      "start": 13.54,
+      "end": 13.98
+    },
+    {
+      "text": "qui",
+      "start": 13.98,
+      "end": 14.12
+    },
+    {
+      "text": "correspondent",
+      "start": 14.12,
+      "end": 14.62
+    },
+    {
+      "text": "à",
+      "start": 14.62,
+      "end": 14.92
+    },
+    {
+      "text": "l",
+      "start": 14.92,
+      "end": 15.0
+    },
+    {
+      "text": "'image",
+      "start": 15.0,
+      "end": 15.42
+    },
+    {
+      "text": "A.",
+      "start": 16.0,
+      "end": 16.82
+    },
+    {
+      "text": "Asseyez",
+      "start": 17.26,
+      "end": 18.06
+    },
+    {
+      "text": "-toi.",
+      "start": 18.06,
+      "end": 18.32
+    },
+    {
+      "text": "B.",
+      "start": 19.52,
+      "end": 20.66
+    },
+    {
+      "text": "Montre",
+      "start": 21.78,
+      "end": 22.16
+    },
+    {
+      "text": "vite.",
+      "start": 22.16,
+      "end": 22.4
+    },
+    {
+      "text": "C.",
+      "start": 23.68,
+      "end": 24.9
+    },
+    {
+      "text": "Prends",
+      "start": 25.92,
+      "end": 26.24
+    },
+    {
+      "text": "ce",
+      "start": 26.24,
+      "end": 26.34
+    },
+    {
+      "text": "train.",
+      "start": 26.34,
+      "end": 26.56
+    },
+    {
+      "text": "D.",
+      "start": 26.56,
+      "end": 28.78
+    },
+    {
+      "text": "Reste",
+      "start": 29.6,
+      "end": 30.18
+    },
+    {
+      "text": "debout.",
+      "start": 30.18,
+      "end": 30.58
+    }
+  ]
+}
