@@ -1,0 +1,70 @@
+name: Deploy GitHub Pages
+
+# Triggers on every push to main or manual run.
+# The static catalog (apps/web/public/catalog/) must be committed before pushing —
+# the workflow does NOT rebuild the catalog from Sources/.
+#
+# Audio hosting:
+#   Set the repository variable AUDIO_BASE_URL to the base URL of a GitHub Release
+#   that contains audio files named {sha256}.mp3 (produced by prepare-audio-release.py).
+#   Example: https://github.com/OWNER/REPO/releases/download/audio-v1
+#   Without this variable, audio playback requires a running FastAPI backend.
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: apps/web/package-lock.json
+
+      - run: npm --prefix apps/web ci
+
+      # Automatically set the Next.js basePath to /<repo-name> unless the repo
+      # is a user/org Pages site (username.github.io) which uses the root path.
+      - name: Set Pages base path
+        run: |
+          repo="${GITHUB_REPOSITORY#*/}"
+          if [[ "$repo" == *.github.io ]]; then
+            echo "NEXT_PUBLIC_BASE_PATH=" >> "$GITHUB_ENV"
+          else
+            echo "NEXT_PUBLIC_BASE_PATH=/$repo" >> "$GITHUB_ENV"
+          fi
+
+      # Build the static Next.js export.
+      # NEXT_PUBLIC_AUDIO_BASE_URL is read from the AUDIO_BASE_URL repository variable.
+      # If the variable is not set, audio playback is disabled on the static site.
+      - name: Build Next.js
+        run: npm --prefix apps/web run build
+        env:
+          NEXT_PUBLIC_AUDIO_BASE_URL: ${{ vars.AUDIO_BASE_URL }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: apps/web/out
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
