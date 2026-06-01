@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[3]
 SERIES_RE = re.compile(r"(?:S[ée]rie(?: d.?entra[îi]nement)?|Entra[îi]nement)\s*(?:n[°o]?)?\s*(\d+)", re.I)
 QUESTION_RE = re.compile(r"(?m)^\s*(\d{1,2})(?:\.\s+|\s*\n)")
-CHOICE_RE = re.compile(r"(?m)^\s*([ABCD])(?:\s+|\t+)(.+?)(?=^\s*[ABCD](?:\s+|\t+)|\Z)", re.S)
+CHOICE_RE = re.compile(r"(?m)^\s*([ABCD])(?:\s+|\t+|(?=[àÀ]))(.+?)(?=^\s*[ABCD](?:\s+|\t+|(?=[àÀ]))|\Z)", re.S)
 ANSWER_GROUP_RE = re.compile(r"(\d{1,2})\s+([□\uf078])\s+([□\uf078])\s+([□\uf078])\s+([□\uf078])")
 INSTRUCTION_MARKERS = ("Écoutez", "Choisissez", "Lisez")
 
@@ -124,6 +124,11 @@ def parse_questions_from_page(text: str, page: int) -> list[ParsedQuestion]:
         instruction_lines = [line for line in lines if line.startswith(INSTRUCTION_MARKERS)]
         prompt_lines = [line for line in lines if line not in instruction_lines]
         prompt = normalize(" ".join(prompt_lines))
+        if section_for(number) == "grammar" and choices:
+            choice_text, separator, suffix = choices[-1].text.partition(" …")
+            if separator:
+                choices[-1].text = choice_text
+                prompt = normalize(f"{prompt}{suffix}" if prompt.endswith("…") else f"{prompt} …{suffix}")
         prompt = re.sub(r"^(?:réponse et cochez la bonne réponse\.|la bonne réponse\.|bonne réponse\.)\s*", "", prompt, flags=re.I)
         confidence = 0.95 if len(choices) == 4 else 0.55 if choices else 0.25
         parsed.append(

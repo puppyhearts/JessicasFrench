@@ -3,8 +3,8 @@
     "slug": "abc-tcf",
     "name": "ABC TCF",
     "website": "ABC TCF / tcfca.com",
-    "question_count": 70,
-    "published_count": 70
+    "question_count": 200,
+    "published_count": 200
   },
   {
     "slug": "boursin",
@@ -46,6 +46,6 @@
     "name": "TV5Monde Entraînement",
     "website": "TV5Monde / tcfca.com",
     "question_count": 337,
-    "published_count": 37
+    "published_count": 38
   }
 ]

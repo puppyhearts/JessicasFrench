@@ -42,6 +42,34 @@ class ParserTests(unittest.TestCase):
         """
         self.assertEqual(parse_answer_key(grid), {1: "C", 6: "B", 16: "A", 20: "D", 26: "B", 31: "D"})
 
+    def test_extracts_grammar_suffix_after_choices(self):
+        page = """
+        16. Choisissez la bonne réponse et cochez la bonne réponse.
+        A Combien
+        B Comment
+        C Où
+        D Quand
+        … coûte ce livre ?
+        """
+        question = parse_questions_from_page(page, 8)[0]
+        self.assertEqual(question.prompt, "… coûte ce livre ?")
+        self.assertEqual(question.choices[-1].text, "Quand")
+
+    def test_extracts_compact_grammar_choice(self):
+        page = """
+        17. Choisissez la bonne réponse et cochez la bonne réponse.
+        Il prend le métro…
+        Aà
+        B après
+        C pour
+        D vers
+        … aller travailler.
+        """
+        question = parse_questions_from_page(page, 8)[0]
+        self.assertEqual(question.prompt, "Il prend le métro… aller travailler.")
+        self.assertEqual([choice.label for choice in question.choices], ["A", "B", "C", "D"])
+        self.assertEqual(question.choices[0].text, "à")
+
     def test_extracts_ocr_choices(self):
         block = """
         Réponse D.

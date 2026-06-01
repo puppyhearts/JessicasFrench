@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from .parser import parse_pdf
-from .source_extractors import ABC_ANSWERS, BOURSIN_VERIFIED_KEYS, INTENSIF_ANSWERS, REUSSIR_ANSWERS, TV5_ANSWERS, extract_boursin, extract_intensif_choices, spoken_choices
+from .source_extractors import ABC_ANSWERS, BOURSIN_VERIFIED_KEYS, INTENSIF_ANSWERS, REUSSIR_ANSWERS, TV5_ANSWERS, abc_pdf_records, extract_boursin, extract_intensif_choices, spoken_choices
 
 
 ROOT = Path(__file__).resolve().parents[3]
@@ -193,6 +193,28 @@ def map_abc(path: Path, asset_hash: str) -> list[QuestionSeed]:
         )
         for number in numbers
     ]
+
+
+def map_abc_pdf() -> list[QuestionSeed]:
+    seeds: list[QuestionSeed] = []
+    asset_root = ROOT / ".ocr-cache" / "abc-pdf-assets"
+    for group, number, source_page, section, answer in abc_pdf_records():
+        source_number = number
+        if group == "Test blanc · Maîtrise des structures":
+            source_number += 30
+        elif group == "Test blanc · Compréhension écrite":
+            source_number += 50
+        asset_name = re.sub(r"[^a-z0-9]+", "-", group.lower()).strip("-")
+        seeds.append(
+            QuestionSeed(
+                qid("abc-tcf", group, number), "abc-tcf", group, number, f"Q{number}",
+                section=section, prompt="Consultez l'extrait du document puis choisissez la bonne réponse.",
+                instructions="Choisissez la bonne réponse.", choices=spoken_choices(), correct_answer=answer,
+                image_path=str(asset_root / f"{asset_name}-page-{source_page:03d}.png"),
+                source_page=source_page, source_exercise=str(source_number),
+            )
+        )
+    return seeds
 
 
 def map_boursin(path: Path, asset_hash: str) -> list[QuestionSeed]:
@@ -439,6 +461,9 @@ def build_catalog(source_root: Path, generated_root: Path) -> dict[str, object]:
             for seed in seeds:
                 upsert_seed(connection, seed)
                 mapped_audio_hashes.add(asset_hash)
+
+    for seed in map_abc_pdf():
+        upsert_seed(connection, seed)
 
     tv5_pdf = next(path for path in pdfs if collection_for(path) == "tv5monde")
     tv5_names = {paths[0].name: asset_hash for asset_hash, paths in audio_groups.items() if collection_for(paths[0]) == "tv5monde"}

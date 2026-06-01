@@ -18,14 +18,16 @@ type AttemptMap = Record<string, Attempt>;
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
 const AUDIO_BASE = process.env.NEXT_PUBLIC_AUDIO_BASE_URL;
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const STORAGE_KEY = "french-audiopractice-attempts-v1";
+const staticCatalog = (file: string) => `${BASE_PATH}/catalog/${file}`;
 
 async function fetchCollections(): Promise<Collection[]> {
   try {
     const response = await fetch(`${API}/api/collections`);
     if (response.ok) return response.json();
   } catch {}
-  return fetch("catalog/collections.json").then((response) => response.json());
+  return fetch(staticCatalog("collections.json")).then((response) => response.json());
 }
 
 async function fetchQuestions(collection: string, section?: string): Promise<Question[]> {
@@ -36,7 +38,7 @@ async function fetchQuestions(collection: string, section?: string): Promise<Que
     const response = await fetch(`${API}/api/catalog/questions?${params}`);
     if (response.ok) return response.json();
   } catch {}
-  const questions: Question[] = await fetch("catalog/questions.json").then((response) => response.json());
+  const questions: Question[] = await fetch(staticCatalog("questions.json")).then((response) => response.json());
   return questions.filter((item) => (!collection || item.collection === collection) && (!section || item.section === section));
 }
 
@@ -92,18 +94,17 @@ export default function PracticePage() {
   }, [attempts]);
   const groupedQuestions = useMemo(() => {
     const groups: { key: string; label: string; items: { question: Question; index: number; practiceNumber: number }[] }[] = [];
-    let currentRank = -1;
-    let chunk = 0;
     questions.forEach((item, index) => {
-      if (item.difficulty_rank !== currentRank) {
-        currentRank = item.difficulty_rank;
-        chunk = 0;
+      const previous = groups[groups.length - 1];
+      if (!previous || previous.items[0].question.difficulty_rank !== item.difficulty_rank || previous.items.length === 20) {
+        groups.push({ key: `${item.difficulty_rank}-${index}`, label: "", items: [] });
       }
-      if (!groups.length || groups[groups.length - 1].key !== `${currentRank}-${chunk}` || groups[groups.length - 1].items.length === 20) {
-        if (groups.length && groups[groups.length - 1].items.length === 20) chunk += 1;
-        groups.push({ key: `${currentRank}-${chunk}`, label: `Difficulty ${currentRank} · ${chunk * 20 + 1}-${chunk * 20 + 20}`, items: [] });
-      }
-      groups[groups.length - 1].items.push({ question: item, index, practiceNumber: chunk * 20 + groups[groups.length - 1].items.length + 1 });
+      groups[groups.length - 1].items.push({ question: item, index, practiceNumber: index + 1 });
+    });
+    groups.forEach((group) => {
+      const first = group.items[0].practiceNumber;
+      const last = group.items[group.items.length - 1].practiceNumber;
+      group.label = `Difficulty ${group.items[0].question.difficulty_rank} · Q${first}-Q${last}`;
     });
     return groups;
   }, [questions]);
@@ -138,7 +139,9 @@ export default function PracticePage() {
         {question?.transcript_words?.length
           ? <p className="timed-transcript">{question.transcript_words.map((word, index) => <span className={currentTime >= word.start && currentTime < word.end ? "spoken" : ""} key={`${word.start}-${index}`}>{word.text} </span>)}</p>
           : question?.transcript ? <p>{question.transcript}</p>
-          : <><p>Transcript unavailable for this imported source.</p><p className="muted">Run <code>npm run transcribe-catalog</code> to generate synchronized local transcripts.</p></>}
+          : section === "listening"
+            ? <><p>Transcript unavailable for this imported source.</p><p className="muted">Run <code>npm run transcribe-catalog</code> to generate synchronized local transcripts.</p></>
+            : <><p>PDF-backed practice card.</p><p className="muted">Read the source excerpt in the main panel, then select the best answer.</p></>}
       </div>
     </aside>
 

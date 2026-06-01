@@ -177,7 +177,7 @@ REUSSIR_CHOICES: dict[str, dict[int, list[tuple[str, str]]]] = {
         5:  [("A", "Agnès emménagera dans son nouvel appartement après-demain."),
              ("B", "Agnès peut déjà fixer la date de son déménagement."),
              ("C", "Agnès espère trouver l'appartement de ses rêves."),
-             ("D", "Agnès espère pouvoir bientôt emménager dans son nouvel appartement.")],  # correct
+             ("D", "Agnès espère emménager bientôt dans son nouvel appartement.")],  # correct
         6:  [("A", "Elle est désespérée."),
              ("B", "Elle est déçue."),
              ("C", "Elle est confiante."),  # correct

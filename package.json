@@ -7,6 +7,7 @@
     "lint": "npm --prefix apps/web run lint",
     "ingest": "sh scripts/ingest.sh",
     "build-catalog": "sh scripts/build-catalog.sh",
+    "prepare-ocr-caches": "sh scripts/prepare-ocr-caches.sh",
     "transcribe-catalog": "sh scripts/transcribe-catalog.sh",
     "export-static-catalog": "sh scripts/export-static-catalog.sh",
     "patch-abc-choices": "python3 scripts/patch-abc-choices.py",

@@ -14,7 +14,7 @@ Local-first TCF practice website backed by a one-time generated source catalog
 - Marks correct answers green. A wrong selection becomes red while the correct answer becomes green.
 - Persists answer selections and score locally until the Reset button is used.
 
-The complete source inventory is indexed. The generated catalog currently exposes 215 reviewed questions from ABC TCF, Boursin, TCF Entraînement Intensif, Réussir le TCF, and TV5Monde. PDF OCR, manual alignment, and transcription remain incomplete for several packages. See [docs/FINAL_CATALOG_AUDIT.md](docs/FINAL_CATALOG_AUDIT.md) for the exact verified boundary and [docs/PRACTICE_UI_REQUIREMENTS.md](docs/PRACTICE_UI_REQUIREMENTS.md) for the retained interface contract.
+The complete source inventory is indexed. The generated catalog currently exposes 360 reviewed questions from ABC TCF, Boursin, TCF Entraînement Intensif, Réussir le TCF, and TV5Monde. PDF OCR, manual alignment, and transcription remain incomplete for several packages. See [docs/FINAL_CATALOG_AUDIT.md](docs/FINAL_CATALOG_AUDIT.md) for the exact verified boundary and [docs/PRACTICE_UI_REQUIREMENTS.md](docs/PRACTICE_UI_REQUIREMENTS.md) for the retained interface contract.
 
 ## What lives in git vs. locally
 
@@ -69,10 +69,10 @@ npm run build-catalog
 
 The builder atomically replaces `content/generated/` and writes machine-readable inventory and unresolved-content reports.
 
-Scan-heavy source PDFs can be pre-processed with French OCR before rebuilding:
+Scan-heavy source PDFs must be pre-processed with French OCR before rebuilding:
 
 ```bash
-scripts/ocr-pdf.sh boursin "Sources/[www.tcfca.com]-Boursin J.-L. - Test de connaissance du francais/..."
+npm run prepare-ocr-caches
 ```
 
 ## Patch and export the static catalog
@@ -80,8 +80,10 @@ scripts/ocr-pdf.sh boursin "Sources/[www.tcfca.com]-Boursin J.-L. - Test de conn
 After building the catalog, apply content patches and export the static files that are committed to git:
 
 ```bash
-python scripts/patch-abc-choices.py   # fix ABC TCF answer choices from OCR
-npm run export-static-catalog         # write apps/web/public/catalog/
+.venv/bin/python scripts/patch-abc-choices.py
+.venv/bin/python scripts/patch-reussir-choices.py
+.venv/bin/python scripts/patch-choices-corrections.py
+npm run export-static-catalog
 ```
 
 Optionally generate timed transcripts first:

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import shutil
 import sqlite3
 from pathlib import Path
@@ -20,6 +21,8 @@ def main() -> None:
     PUBLIC.mkdir(parents=True, exist_ok=True)
     images = PUBLIC / "images"
     images.mkdir(exist_ok=True)
+    for stale_image in images.glob("*.png"):
+        stale_image.unlink()
     connection = sqlite3.connect(CATALOG)
     connection.row_factory = sqlite3.Row
     collections = [dict(row) for row in connection.execute(
@@ -46,8 +49,9 @@ def main() -> None:
         image = connection.execute("SELECT image_path FROM question_assets WHERE question_id = ?", (question_id,)).fetchone()
         image_url = None
         if image and Path(image["image_path"]).exists():
-            target = images / f"{question_id.replace(':', '-')}.png"
             src = Path(image["image_path"])
+            digest = hashlib.sha256(str(src.resolve()).encode("utf-8")).hexdigest()[:12]
+            target = images / f"{digest}-{src.name}"
             if src.resolve() != target.resolve():
                 shutil.copy2(src, target)
             image_url = f"catalog/images/{target.name}"

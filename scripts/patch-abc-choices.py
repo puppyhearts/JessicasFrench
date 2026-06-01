@@ -31,20 +31,24 @@ TB_GROUP = "Test blanc"
 
 CO_CHOICES: dict[int, list[tuple[str, str]]] = {
     # ── Niveau A2 ────────────────────────────────────────────────────────────
-    5:  [("A", "Son collègue."),
+    5:  [("A", "Pour annuler un rendez-vous."),
+         ("B", "Pour changer un rendez-vous."),
+         ("C", "Pour confirmer un rendez-vous."),  # ← correct (Q5=C)
+         ("D", "Pour prendre un rendez-vous.")],
+    # Q6 : spoken choices in the audio
+    7:  [("A", "Son collègue."),
          ("B", "Son médecin."),
-         ("C", "Son pharmacien."),        # ← correct (Q5=C)
-         ("D", "Son responsable.")],
-    # Q6 : image choices (4 weather/sky photos) — page image stored separately
-    7:  [("A", "L'adresse."),
+         ("C", "Son pharmacien."),
+         ("D", "Son responsable.")],       # ← correct (Q7=D)
+    # Q8 : image choices (4 weather/sky photos) — page image stored separately
+    9:  [("A", "L'adresse."),
          ("B", "La situation."),
-         ("C", "Le prix."),
-         ("D", "Les services.")],        # ← correct (Q7=D)
-    8:  [("A", "Des conseils pour les études universitaires."),
+         ("C", "Le prix."),                # ← correct (Q9=C)
+         ("D", "Les services.")],
+    10: [("A", "Des conseils pour les études universitaires."),
          ("B", "Des emplois d'été pour les étudiants."),
          ("C", "Des emplois pour les jeunes toute l'année."),
-         ("D", "Des stages professionnels à l'étranger.")],  # ← Q8=D
-    # Q9, Q10 : image choices on page-023 — page image stored separately
+         ("D", "Des stages professionnels à l'étranger.")],  # ← Q10=B
 
     # ── Niveau B1 ────────────────────────────────────────────────────────────
     11: [("A", "Avec sa cousine."),
@@ -293,9 +297,7 @@ CO_IMAGE_ASSETS: dict[int, str] = {
     2:  str(OCR / "page-021.png"),
     3:  str(OCR / "page-021.png"),
     4:  str(OCR / "page-021.png"),
-    6:  str(OCR / "page-022.png"),  # 4 image choices shown
-    9:  str(OCR / "page-023.png"),  # believed image-based (not in OCR text)
-    10: str(OCR / "page-023.png"),
+    8:  str(OCR / "page-022.png"),  # 4 weather image choices shown
     13: str(OCR / "page-023.png"),  # 4 transport image choices
 }
 
@@ -314,6 +316,13 @@ def qid(collection: str, group: str, number: int) -> str:
 def patch(connection: sqlite3.Connection) -> None:
     updated_choices = 0
     updated_assets = 0
+
+    # Clear mappings from older exports before applying the reviewed set.
+    for num in (6, 9, 10):
+        connection.execute(
+            "DELETE FROM question_assets WHERE question_id = ?",
+            (qid("abc-tcf", CO_GROUP, num),),
+        )
 
     # ── Update CO text choices ──────────────────────────────────────────────
     for num, choices in CO_CHOICES.items():
