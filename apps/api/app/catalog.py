@@ -54,7 +54,7 @@ def _question(connection: sqlite3.Connection, row: sqlite3.Row) -> dict:
     ]
     audio = connection.execute(
         """
-        SELECT qa.audio_hash AS asset_id, qa.start_seconds, qa.end_seconds, aa.duration_seconds
+        SELECT qa.audio_hash AS asset_id, qa.start_seconds, qa.end_seconds, aa.duration_seconds, aa.path
         FROM question_audio qa JOIN audio_assets aa ON aa.hash = qa.audio_hash
         WHERE qa.question_id = ?
         """,
@@ -86,7 +86,7 @@ def _question(connection: sqlite3.Connection, row: sqlite3.Row) -> dict:
         "published": bool(row["published"]),
         "choices": choices,
         "occurrences": occurrences,
-        "audio": dict(audio) if audio else None,
+        "audio": {**dict(audio), "extension": Path(audio["path"]).suffix.lower().lstrip(".")} if audio else None,
         "has_image": bool(image),
     }
 

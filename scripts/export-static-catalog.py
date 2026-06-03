@@ -21,7 +21,9 @@ def main() -> None:
     PUBLIC.mkdir(parents=True, exist_ok=True)
     images = PUBLIC / "images"
     images.mkdir(exist_ok=True)
-    for stale_image in images.glob("*.png"):
+    for stale_image in images.iterdir():
+        if not stale_image.is_file():
+            continue
         stale_image.unlink()
     connection = sqlite3.connect(CATALOG)
     connection.row_factory = sqlite3.Row
@@ -39,7 +41,7 @@ def main() -> None:
             (question_id,),
         )]
         audio = connection.execute(
-            "SELECT qa.audio_hash AS asset_id, qa.start_seconds, qa.end_seconds, aa.duration_seconds FROM question_audio qa JOIN audio_assets aa ON aa.hash = qa.audio_hash WHERE qa.question_id = ?",
+            "SELECT qa.audio_hash AS asset_id, qa.start_seconds, qa.end_seconds, aa.duration_seconds, aa.path FROM question_audio qa JOIN audio_assets aa ON aa.hash = qa.audio_hash WHERE qa.question_id = ?",
             (question_id,),
         ).fetchone()
         transcript = connection.execute(
@@ -62,7 +64,8 @@ def main() -> None:
             "instructions": row["instructions"], "correct_answer": row["correct_answer"],
             "transcript": transcript["text"] if transcript else row["transcript"],
             "transcript_words": json.loads(transcript["words_json"]) if transcript else [],
-            "choices": choices, "occurrences": occurrences, "audio": dict(audio) if audio else None,
+            "choices": choices, "occurrences": occurrences,
+            "audio": ({**dict(audio), "extension": Path(audio["path"]).suffix.lower().lstrip(".")} if audio else None),
             "has_image": bool(image_url), "image_url": image_url,
         })
     connection.close()

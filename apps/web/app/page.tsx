@@ -5,7 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 type Choice = { label: string; text: string };
 type Word = { text: string; start: number; end: number };
 type Occurrence = { website: string; group_label: string; question_number: number; source_page: number | null; source_exercise: string | null };
-type Audio = { asset_id: string; start_seconds: number | null; end_seconds: number | null; duration_seconds: number };
+type Audio = { asset_id: string; start_seconds: number | null; end_seconds: number | null; duration_seconds: number; extension?: string; path?: string };
 type Question = {
   id: string; collection: string; group_label: string; question_number: number; display_label: string;
   section: string; level: string | null; difficulty_rank: number; prompt: string | null; instructions: string | null;
@@ -15,9 +15,11 @@ type Question = {
 type Collection = { slug: string; name: string; question_count: number; published_count: number };
 type Attempt = { selected: string; correct: boolean };
 type AttemptMap = Record<string, Attempt>;
+type SourceMode = "catalog" | "tcf-files";
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
 const AUDIO_BASE = process.env.NEXT_PUBLIC_AUDIO_BASE_URL;
+const AUDIO_FALLBACK_BASES = (process.env.NEXT_PUBLIC_AUDIO_FALLBACK_BASE_URLS ?? "").split(",").map((item) => item.trim()).filter(Boolean);
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const STORAGE_KEY = "french-audiopractice-attempts-v1";
 const staticCatalog = (file: string) => `${BASE_PATH}/catalog/${file}`;
@@ -47,12 +49,15 @@ export default function PracticePage() {
   const [availableQuestions, setAvailableQuestions] = useState<Question[]>([]);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [collection, setCollection] = useState("");
+  const [sourceMode, setSourceMode] = useState<SourceMode>("catalog");
   const [section, setSection] = useState("listening");
   const [active, setActive] = useState(0);
   const [attempts, setAttempts] = useState<AttemptMap>({});
   const [speed, setSpeed] = useState(1);
   const [currentTime, setCurrentTime] = useState(0);
+  const [audioBaseIndex, setAudioBaseIndex] = useState(0);
   const audioRef = useRef<HTMLAudioElement>(null);
+  const effectiveCollection = sourceMode === "tcf-files" ? "tcf-files" : collection;
   const question = questions[active];
   const selected = question ? attempts[question.id]?.selected ?? null : null;
 
@@ -63,21 +68,22 @@ export default function PracticePage() {
   }, []);
 
   useEffect(() => {
-    fetchQuestions(collection).then(setAvailableQuestions).catch(() => setAvailableQuestions([]));
-  }, [collection]);
+    fetchQuestions(effectiveCollection).then(setAvailableQuestions).catch(() => setAvailableQuestions([]));
+  }, [effectiveCollection]);
 
   useEffect(() => {
-    fetchQuestions(collection, section)
+    fetchQuestions(effectiveCollection, section)
       .then((data: Question[]) => {
         setQuestions(data.sort((a, b) => a.difficulty_rank - b.difficulty_rank || a.collection.localeCompare(b.collection) || a.group_label.localeCompare(b.group_label) || a.question_number - b.question_number));
         setActive(0);
       })
       .catch(() => setQuestions([]));
-  }, [collection, section]);
+  }, [effectiveCollection, section]);
 
   useEffect(() => {
     if (!audioRef.current || !question) return;
     const start = question.audio?.start_seconds ?? 0;
+    setAudioBaseIndex(0);
     audioRef.current.currentTime = start;
     audioRef.current.playbackRate = speed;
     setCurrentTime(start);
@@ -92,6 +98,9 @@ export default function PracticePage() {
     const correct = records.filter((item) => item.correct).length;
     return { attempted: records.length, correct, score: records.length ? Math.round(correct / records.length * 100) : 0 };
   }, [attempts]);
+  const catalogCollections = useMemo(() => collections.filter((item) => item.slug !== "tcf-files"), [collections]);
+  const tcfFilesCollection = useMemo(() => collections.find((item) => item.slug === "tcf-files"), [collections]);
+  const catalogPublished = useMemo(() => catalogCollections.reduce((total, item) => total + item.published_count, 0), [catalogCollections]);
   const groupedQuestions = useMemo(() => {
     const groups: { key: string; label: string; items: { question: Question; index: number; practiceNumber: number }[] }[] = [];
     questions.forEach((item, index) => {
@@ -132,6 +141,18 @@ export default function PracticePage() {
     if (question?.audio?.end_seconds != null && audioRef.current.currentTime >= question.audio.end_seconds) audioRef.current.pause();
   }
 
+  function audioSource(item: Question | undefined) {
+    if (!item?.audio) return "";
+    const bases = AUDIO_BASE ? [AUDIO_BASE, ...AUDIO_FALLBACK_BASES] : [];
+    const base = bases[audioBaseIndex];
+    return base ? `${base}/${item.audio.asset_id}.${item.audio.extension ?? "mp3"}` : `${API}/api/catalog/audio/${item.audio.asset_id}`;
+  }
+
+  function tryNextAudioSource() {
+    const maxIndex = AUDIO_BASE ? AUDIO_FALLBACK_BASES.length : 0;
+    if (audioBaseIndex < maxIndex) setAudioBaseIndex((index) => index + 1);
+  }
+
   return <main className="shell">
     <aside className="panel transcript">
       <header><div><strong>◉ Transcript AI</strong><small>{question?.display_label ?? "Question"}</small></div><span className="tag">{section === "listening" ? "CO" : section.toUpperCase()}</span></header>
@@ -148,16 +169,16 @@ export default function PracticePage() {
     <section className="center">
       <header className="panel topbar">
         <div><strong>{question?.display_label ?? "No question"} — {section.toUpperCase()}</strong><small>{question?.group_label ?? "Generated local catalog"}</small></div>
-        <div className="topbar-actions"><span className="difficulty">Difficulty {question?.difficulty_rank ?? "—"}</span><select value={collection} onChange={(event) => setCollection(event.target.value)}>
-          <option value="">All collections</option>{collections.map((item) => <option value={item.slug} key={item.slug}>{item.name} ({item.published_count})</option>)}
-        </select></div>
+        <div className="topbar-actions"><span className="difficulty">Difficulty {question?.difficulty_rank ?? "—"}</span>{sourceMode === "catalog" && <select value={collection} onChange={(event) => setCollection(event.target.value)}>
+          <option value="">All collections</option>{catalogCollections.map((item) => <option value={item.slug} key={item.slug}>{item.name} ({item.published_count})</option>)}
+        </select>}</div>
       </header>
       <section className="panel question-card">
         <div className="reference"><span>RÉFÉRENCE</span>{(question?.occurrences ?? []).map((item, index) =>
           <strong key={`${item.website}-${item.group_label}-${index}`}>{item.website} · {item.group_label} · Question {item.question_number}</strong>
         )}{!question && <strong>No publishable questions match the current filters.</strong>}</div>
         {!question && <div className="empty-state">No reviewed questions are available for this section and collection.</div>}
-        {question?.audio && <><audio ref={audioRef} controls src={AUDIO_BASE ? `${AUDIO_BASE}/${question.audio.asset_id}.mp3` : `${API}/api/catalog/audio/${question.audio.asset_id}`} onTimeUpdate={constrainAudio} />
+        {question?.audio && <><audio ref={audioRef} controls src={audioSource(question)} onError={tryNextAudioSource} onTimeUpdate={constrainAudio} />
           <div className="speed">{[0.5, 0.75, 1, 1.25, 1.5].map((value) => <button className={speed === value ? "active" : ""} onClick={() => setSpeed(value)} key={value}>{value}x</button>)}</div></>}
         <div className="instruction">{question?.instructions || "Écoutez l'extrait ou lisez la question. Choisissez la bonne réponse."}</div>
         <h1>{question?.prompt || "Choose a collection or adjust the filters."}</h1>
@@ -174,6 +195,10 @@ export default function PracticePage() {
     <aside className="panel navigator">
       <header><div><strong>Questions</strong><small>{questions.length} questions disponibles</small></div></header>
       <div className="score"><strong>{tally.correct}/{tally.attempted}</strong><span>{tally.score}% score</span><button onClick={reset}>Reset</button></div>
+      <div className="source-tabs">
+        <button className={sourceMode === "catalog" ? "active" : ""} onClick={() => setSourceMode("catalog")}>Catalog ({catalogPublished})</button>
+        <button className={sourceMode === "tcf-files" ? "active" : ""} onClick={() => setSourceMode("tcf-files")}>TCF Files ({tcfFilesCollection?.published_count ?? 0})</button>
+      </div>
       <div className="filters">{[["listening", "CO"], ["grammar", "Grammar"], ["reading", "Reading"]].map(([value, label]) =>
         <button key={label} className={value === section ? "active" : ""} onClick={() => setSection(value)}>{label} ({sectionCounts[value] ?? 0})</button>
       )}</div>

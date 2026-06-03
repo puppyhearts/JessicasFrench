@@ -54,6 +54,7 @@ COLLECTIONS = {
     "reussir-tcf": ("Réussir le TCF", "Réussir le TCF / tcfca.com"),
     "tcf-250": ("TCF 250 Activités", "TCF 250 Activités / tcfca.com"),
     "intensif": ("TCF Entraînement Intensif", "TCF Entraînement Intensif / tcfca.com"),
+    "tcf-files": ("TCF Files", "Google Drive TCF files"),
 }
 
 
@@ -132,6 +133,8 @@ def create_schema(connection: sqlite3.Connection) -> None:
 
 def collection_for(path: Path) -> str:
     text = str(path)
+    if "TCF-Files" in text:
+        return "tcf-files"
     if "ABC TCF" in text:
         return "abc-tcf"
     if "Boursin" in text:
@@ -316,6 +319,110 @@ def map_tv5(pdf: Path, audio_by_name: dict[str, str]) -> list[QuestionSeed]:
     return seeds
 
 
+CHOICE_MARKER_RE = re.compile(r"(?i)(?:^|[\s,.;:!?])([ABCD])\s*[.):,]?\s+")
+
+
+def extract_embedded_choices(text: str) -> list[tuple[str, str]]:
+    matches = list(CHOICE_MARKER_RE.finditer(text or ""))
+    choices: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for index, match in enumerate(matches):
+        label = match.group(1).upper()
+        if label in seen:
+            continue
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        value = text[match.end():end].strip(" \n\t.,;:")
+        if value:
+            choices.append((label, value))
+            seen.add(label)
+    return choices if len(choices) == 4 else []
+
+
+def tcf_file_section(question_number: int) -> str:
+    return "listening"
+
+
+def map_tcf_files(source_root: Path, audio_by_relative_path: dict[str, str]) -> tuple[list[QuestionSeed], dict[str, object]]:
+    data_path = source_root / "TCF-Files" / "tcf_data.json"
+    if not data_path.exists():
+        return [], {}
+    payload = json.loads(data_path.read_text(encoding="utf-8"))
+    seeds: list[QuestionSeed] = []
+    stats: dict[str, object] = {
+        "source": str(data_path),
+        "total_raw": payload.get("total_raw"),
+        "total_unique": payload.get("total_unique"),
+        "imported": 0,
+        "missing_audio": [],
+        "missing_images": [],
+        "parsed_empty_options": 0,
+        "fallback_spoken_choices": 0,
+    }
+    for item in payload.get("all_questions", []):
+        raw_options = item.get("options") or {}
+        choices = [(label, raw_options.get(label, "").strip()) for label in "ABCD" if raw_options.get(label, "").strip()]
+        if len(choices) != 4:
+            choices = extract_embedded_choices(item.get("transcript_fr", ""))
+            if len(choices) == 4:
+                stats["parsed_empty_options"] = int(stats["parsed_empty_options"]) + 1
+        if len(choices) != 4:
+            choices = spoken_choices()
+            stats["fallback_spoken_choices"] = int(stats["fallback_spoken_choices"]) + 1
+
+        audio_url = item.get("audio_url") or ""
+        audio_hash = audio_by_relative_path.get(f"TCF-Files/{audio_url}")
+        if not audio_hash:
+            cast = stats["missing_audio"]
+            assert isinstance(cast, list)
+            cast.append({"id": item.get("id"), "audio_url": audio_url})
+
+        image_path: str | None = None
+        image_url = item.get("image_url") or ""
+        if image_url.startswith("media/"):
+            candidate = source_root / "TCF-Files" / image_url
+            if candidate.exists():
+                image_path = str(candidate)
+            else:
+                cast = stats["missing_images"]
+                assert isinstance(cast, list)
+                cast.append({"id": item.get("id"), "image_url": image_url})
+        elif image_url:
+            cast = stats["missing_images"]
+            assert isinstance(cast, list)
+            cast.append({"id": item.get("id"), "image_url": image_url})
+
+        test_number = int(item["test_num"])
+        question_number = int(item["question_num"])
+        group = f"Test {test_number}"
+        stable_id = qid("tcf-files", group, question_number)
+        instructions = "Écoutez l'enregistrement puis choisissez la bonne réponse."
+        prompt = instructions
+        seeds.append(
+            QuestionSeed(
+                stable_id=stable_id,
+                collection_slug="tcf-files",
+                group_label=group,
+                question_number=question_number,
+                display_label=f"Test {test_number} Q{question_number}",
+                section=tcf_file_section(question_number),
+                level=item.get("level"),
+                prompt=prompt,
+                instructions=instructions,
+                correct_answer=item.get("correct_answer"),
+                choices=choices,
+                audio_hash=audio_hash,
+                transcript=item.get("transcript_fr") or "",
+                image_path=image_path,
+                source_exercise=str(item.get("question_uuid") or ""),
+                mapping_status="mapped" if audio_hash else "missing_audio",
+            )
+        )
+    stats["imported"] = len(seeds)
+    stats["missing_audio_count"] = len(stats["missing_audio"]) if isinstance(stats["missing_audio"], list) else 0
+    stats["missing_images_count"] = len(stats["missing_images"]) if isinstance(stats["missing_images"], list) else 0
+    return seeds, stats
+
+
 MAPPERS = {
     "abc-tcf": map_abc,
     "boursin": map_boursin,
@@ -423,7 +530,7 @@ def build_catalog(source_root: Path, generated_root: Path) -> dict[str, object]:
         connection.execute("INSERT INTO collections(slug, name, website) VALUES (?, ?, ?)", (slug, name, website))
 
     pdfs = sorted(source_root.rglob("*.pdf"))
-    audios = sorted(source_root.rglob("*.mp3"))
+    audios = sorted(path for path in source_root.rglob("*") if path.suffix.lower() in {".mp3", ".ogg"})
     pdf_groups: dict[str, list[Path]] = defaultdict(list)
     audio_groups: dict[str, list[Path]] = defaultdict(list)
     for path in pdfs:
@@ -452,6 +559,11 @@ def build_catalog(source_root: Path, generated_root: Path) -> dict[str, object]:
             )
 
     mapped_audio_hashes: set[str] = set()
+    audio_by_relative_path = {
+        str(path.relative_to(source_root)): asset_hash
+        for asset_hash, paths in audio_groups.items()
+        for path in paths
+    }
     for asset_hash, paths in audio_groups.items():
         canonical = paths[0]
         collection = collection_for(canonical)
@@ -464,6 +576,12 @@ def build_catalog(source_root: Path, generated_root: Path) -> dict[str, object]:
 
     for seed in map_abc_pdf():
         upsert_seed(connection, seed)
+
+    tcf_file_seeds, tcf_file_report = map_tcf_files(source_root, audio_by_relative_path)
+    for seed in tcf_file_seeds:
+        upsert_seed(connection, seed)
+        if seed.audio_hash:
+            mapped_audio_hashes.add(seed.audio_hash)
 
     tv5_pdf = next(path for path in pdfs if collection_for(path) == "tv5monde")
     tv5_names = {paths[0].name: asset_hash for asset_hash, paths in audio_groups.items() if collection_for(paths[0]) == "tv5monde"}
@@ -519,6 +637,8 @@ def build_catalog(source_root: Path, generated_root: Path) -> dict[str, object]:
         [{"severity": severity, "collection": collection, "question_id": question, "code": code, "message": message}
          for severity, collection, question, code, message in unresolved],
     )
+    if tcf_file_report:
+        write_json(reports / "tcf-files-import.json", tcf_file_report)
     write_json(temp_root / "manifest.json", manifest)
     if generated_root.exists():
         shutil.rmtree(generated_root)

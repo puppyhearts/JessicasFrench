@@ -2,6 +2,7 @@ import unittest
 from unittest.mock import patch
 
 from apps.api.app.audio import segment_listening_track
+from apps.api.app.catalog_builder import extract_embedded_choices
 from apps.api.app.parser import parse_answer_key, parse_questions_from_page, section_for
 from apps.api.app.source_extractors import _choices
 
@@ -102,6 +103,18 @@ class ParserTests(unittest.TestCase):
                 ("B", "La deuxième réponse."),
                 ("C", "La troisième réponse."),
                 ("D", "La quatrième réponse."),
+            ],
+        )
+
+    def test_extracts_tcf_file_choices_embedded_in_transcript(self):
+        transcript = "A. Allez y, entrez. B. Asseyez-vous, je vous en prie. C. Fermez la porte, s'il vous plaît. D. Merci pour ce café."
+        self.assertEqual(
+            extract_embedded_choices(transcript),
+            [
+                ("A", "Allez y, entrez"),
+                ("B", "Asseyez-vous, je vous en prie"),
+                ("C", "Fermez la porte, s'il vous plaît"),
+                ("D", "Merci pour ce café"),
             ],
         )
 

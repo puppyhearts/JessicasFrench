@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import mimetypes
+
 from pathlib import Path
 
 from fastapi import Depends, FastAPI, HTTPException, Query
@@ -118,7 +120,7 @@ def catalog_audio(asset_id: str):
         raise HTTPException(404, str(error)) from error
     if path is None or not path.exists():
         raise HTTPException(404, "Audio asset not found")
-    return FileResponse(path, media_type="audio/mpeg")
+    return FileResponse(path, media_type=mimetypes.guess_type(path.name)[0] or "application/octet-stream")
 
 
 @app.get("/api/catalog/images/{question_id:path}")
@@ -129,7 +131,7 @@ def catalog_image(question_id: str):
         raise HTTPException(404, str(error)) from error
     if path is None or not path.exists():
         raise HTTPException(404, "Question image not found")
-    return FileResponse(path, media_type="image/png")
+    return FileResponse(path, media_type=mimetypes.guess_type(path.name)[0] or "application/octet-stream")
 
 
 @app.get("/api/questions", response_model=list[QuestionOut])

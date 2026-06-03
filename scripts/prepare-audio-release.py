@@ -2,10 +2,10 @@
 Prepare audio files for a GitHub Release.
 
 The web app fetches audio as:
-    {NEXT_PUBLIC_AUDIO_BASE_URL}/{sha256}.mp3
+    {NEXT_PUBLIC_AUDIO_BASE_URL}/{sha256}.{extension}
 
-This script reads the audio asset table from the catalog, copies every MP3
-into an output directory renamed to its SHA-256 hash, and prints upload
+This script reads the audio asset table from the catalog, copies every audio
+file into an output directory renamed to its SHA-256 hash, and prints upload
 instructions for creating a GitHub Release.
 
 Usage:
@@ -49,7 +49,7 @@ def main() -> None:
             print(f"  MISSING: {path_str}")
             missing += 1
             continue
-        target = out / f"{asset_hash}.mp3"
+        target = out / f"{asset_hash}{source.suffix.lower()}"
         if not target.exists():
             shutil.copy2(source, target)
             copied += 1
@@ -62,7 +62,7 @@ def main() -> None:
     print()
     print("Next steps:")
     print("  1. Create a GitHub Release (e.g. tag: audio-v1)")
-    print(f"  2. Upload all {copied} .mp3 files from {out}/")
+    print(f"  2. Upload all {copied} audio files from {out}/")
     print("  3. In the repo Settings → Variables → Actions, set:")
     print("       AUDIO_BASE_URL = https://github.com/OWNER/REPO/releases/download/audio-v1")
     print("  4. Re-run the GitHub Pages deployment workflow.")

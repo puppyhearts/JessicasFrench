@@ -1,6 +1,6 @@
 # Final Catalog Audit
 
-Generated on June 1, 2026 with:
+Generated on June 3, 2026 with:
 
 ```bash
 npm run build-catalog
@@ -11,9 +11,9 @@ npm run build-catalog
 | Measure | Raw files | Unique after SHA-256 deduplication |
 | --- | ---: | ---: |
 | PDF documents | 9 | 8 |
-| MP3 audio files | 526 | 507 |
+| MP3/OGG audio files | 2086 | 1392 |
 
-The duplicate PDF and nineteen duplicate MP3 files are the repeated TV5Monde bundle. The builder retains canonical paths and aliases rather than duplicating media records.
+The duplicate PDF and duplicate audio files are retained as canonical paths plus aliases rather than duplicated media records.
 
 ## Normalized Records
 
@@ -25,8 +25,9 @@ The duplicate PDF and nineteen duplicate MP3 files are the repeated TV5Monde bun
 | Guide officiel d'entraînement au TCF | 58 | 0 |
 | Réussir le TCF | 110 | 104 |
 | TCF 250 Activités | 88 | 0 |
+| TCF Files | 1560 | 1560 |
 | TV5Monde Entraînement | 337 | 38 |
-| **Total** | **874** | **360** |
+| **Total** | **2434** | **1920** |
 
 ## Extracted Content
 
@@ -34,6 +35,7 @@ The duplicate PDF and nineteen duplicate MP3 files are the repeated TV5Monde bun
 - Réussir le TCF: all answer keys for `A1` through `C2` were transcribed from the supplied corrections. Six level-introduction tracks are indexed but are not questions.
 - TCF Entraînement Intensif: the French OCR adapter publishes the twelve records whose four printed choices and correction key parse cleanly.
 - Boursin J.-L.: French OCR is available, but only six manually reviewed records are published. Other scan-derived text remains hidden because the OCR is visibly damaged.
+- TCF Files: all 1,560 records from `Sources/TCF-Files/tcf_data.json` are published in a separate frontend source tab. All audio files are mapped, 94 local WebP images are exported, 268 empty option sets are recovered from transcripts, and 68 low-level listening items use A-D proposition fallback labels.
 - TV5Monde: the selectable-text adapter publishes 38 records. Grammar questions now retain text that follows their answer choices, including the previously missing first grammar prompt.
 
 ## Unresolved Content
@@ -53,16 +55,19 @@ Incomplete records remain in `content/generated/reports/unresolved.json` and are
 
 The supplied TCF 250 PDF is a corrections companion rather than the prompt workbook, so its 88 audio exercises cannot be turned into reliable answerable cards from the supplied files alone. The official guide uses sequential track names across mini-tests, discovery exercises, and training sections; those mappings remain unresolved to avoid false question pairings.
 
+The TCF Files package references four image URLs that were not present in the archive: `test35_q31`, `test35_q33`, `test40_q31`, and `test40_q33`. Those questions remain published because their audio, transcript, choices, and answer keys are present.
+
 ## Functional Audit
 
 Implemented:
 
 - One-time local catalog rebuild with temporary-directory replacement.
-- Recursive source scan, SHA-256 deduplication, PDF page counts, and MP3 durations.
+- Recursive source scan, SHA-256 deduplication, PDF page counts, and MP3/OGG durations.
 - French OCR cache generation via `scripts/ocr-pdf.sh`.
 - Public catalog API that filters incomplete questions by default.
 - Dark three-column practice page following the supplied references.
 - Collection and section filters, direct question navigation, audio speed controls, and range stopping when timestamps exist.
+- Source tabs for the original catalog and the imported TCF Files pack.
 - Independently scrollable difficulty-ranked question groups in blocks of twenty, with persistent local scoring until reset.
 - Correct-answer feedback: green for correct, red for wrong, and green reveal of the correct choice.
 
@@ -79,3 +84,4 @@ Still required for a fully populated website:
 - `content/generated/manifest.json`
 - `content/generated/reports/inventory.json`
 - `content/generated/reports/unresolved.json`
+- `content/generated/reports/tcf-files-import.json`

@@ -6,7 +6,9 @@ name: Deploy GitHub Pages
 #
 # Audio hosting:
 #   Set the repository variable AUDIO_BASE_URL to the base URL of a GitHub Release
-#   that contains audio files named {sha256}.mp3 (produced by prepare-audio-release.py).
+#   that contains audio files named {sha256}.{extension} (produced by prepare-audio-release.py).
+#   If audio spans multiple releases, set AUDIO_FALLBACK_BASE_URLS to a comma-separated
+#   list of additional release base URLs.
 #   Example: https://github.com/OWNER/REPO/releases/download/audio-v1
 #   Without this variable, audio playback requires a running FastAPI backend.
 
@@ -56,11 +58,13 @@ jobs:
 
       # Build the static Next.js export.
       # NEXT_PUBLIC_AUDIO_BASE_URL is read from the AUDIO_BASE_URL repository variable.
+      # NEXT_PUBLIC_AUDIO_FALLBACK_BASE_URLS is optional for additional release URLs.
       # If the variable is not set, audio playback is disabled on the static site.
       - name: Build Next.js
         run: npm --prefix apps/web run build
         env:
           NEXT_PUBLIC_AUDIO_BASE_URL: ${{ vars.AUDIO_BASE_URL }}
+          NEXT_PUBLIC_AUDIO_FALLBACK_BASE_URLS: ${{ vars.AUDIO_FALLBACK_BASE_URLS }}
 
       - uses: actions/upload-pages-artifact@v3
         with:

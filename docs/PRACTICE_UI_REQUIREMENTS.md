@@ -28,6 +28,7 @@ Answer submission is immediate:
 ## Catalog Behavior
 
 - The frontend reads normalized records from `content/generated/catalog.sqlite` through FastAPI.
+- The frontend includes source tabs so the imported TCF Files pack can be studied separately from the original catalog.
 - It never parses a PDF or runs OCR during a browser request.
 - Incomplete or ambiguous source records remain in the catalog audit but do not appear as answerable questions.
 - The reference panel supports multiple occurrences for a canonical question. Cross-package deduplication must not be guessed when OCR text is missing.
