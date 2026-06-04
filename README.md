@@ -1,83 +1,134 @@
-# French Audio Practice
+# Jessica's French Audio Practice
 
-Local-first TCF practice website backed by a one-time generated source catalog
+A focused French listening-practice app for TCF-style study. It turns a large collection of French audio questions, transcripts, answer keys, and source images into a fast browser-based practice tool with instant feedback.
 
-## Current vertical slice
+Live site: https://puppyhearts.github.io/JessicasFrench/
 
-- Hashes and indexes every supplied PDF plus MP3/OGG audio file across eight source packages.
-- Collapses byte-for-byte duplicate TV5Monde PDF and audio bundles into aliases.
-- Stores normalized questions, answer choices, audio mappings, source occurrences, and validation issues in `content/generated/catalog.sqlite`.
-- Exposes FastAPI endpoints for catalog browsing, local audio playback, and answer attempts.
-- Hides incomplete questions from the public practice API.
-- Provides the requested dark three-column interface: transcript left, references and answer options center, question navigator right.
-- Groups the independently scrollable question navigator by difficulty in blocks of twenty.
-- Marks correct answers green. A wrong selection becomes red while the correct answer becomes green.
-- Persists answer selections and score locally until the Reset button is used.
+## Why This Exists
 
-The complete source inventory is indexed. The generated catalog currently exposes 1,920 reviewed questions from ABC TCF, Boursin, TCF Entraînement Intensif, Réussir le TCF, TCF Files, and TV5Monde. PDF OCR, manual alignment, and transcription remain incomplete for several older packages. See [docs/FINAL_CATALOG_AUDIT.md](docs/FINAL_CATALOG_AUDIT.md) for the exact verified boundary and [docs/PRACTICE_UI_REQUIREMENTS.md](docs/PRACTICE_UI_REQUIREMENTS.md) for the retained interface contract.
+French listening practice is often scattered across PDFs, audio folders, correction sheets, and transcripts. This project pulls those pieces into one study interface:
 
-## What lives in git vs. locally
+- listen to authentic TCF-style audio,
+- read the French transcript while studying,
+- choose from A-D answer options,
+- get immediate right/wrong feedback,
+- track your score as you work,
+- jump between questions by difficulty and test source,
+- practice from a static GitHub Pages site without running a backend.
+
+The current public catalog contains **1,920 reviewed questions**, including **1,765 listening questions**, plus grammar and reading cards from the imported source material.
+
+## Demo Highlights
+
+The practice page is organized as a three-panel workspace:
+
+| Area | What it helps with |
+| --- | --- |
+| Left panel | French transcript for the current audio, with support for timed word highlighting when available. |
+| Center panel | Source reference, audio controls, prompt, images when relevant, and the answer choices. |
+| Right panel | Source tabs, section filters, score, reset button, and a scrollable question navigator grouped by difficulty. |
+
+Recommended screenshots to add:
+
+```text
+docs/screenshots/practice-listening.png  # transcript + audio + answer choices
+docs/screenshots/tcf-files-tab.png       # new TCF Files source tab
+docs/screenshots/feedback-state.png      # green/red answer feedback
+```
+
+## How To Study With It
+
+1. Open the live site.
+2. Choose a source tab:
+   - **Catalog**: curated material from ABC TCF, Réussir le TCF, TV5Monde, and other sources.
+   - **TCF Files**: the large imported listening bank with 1,560 audio questions.
+3. Choose a section:
+   - **CO** for listening practice,
+   - **Grammar** for structure questions,
+   - **Reading** for PDF-backed reading cards.
+4. Press play, listen carefully, and select A, B, C, or D.
+5. Review the feedback:
+   - correct choices turn green,
+   - wrong selections turn red,
+   - the correct answer is revealed in green.
+6. Use the right-hand question grid to continue through a difficulty block.
+7. Use **Reset** when you want a fresh score.
+
+Study suggestion: first answer without reading the transcript, then replay the audio while checking the transcript. This gives you both exam-style practice and targeted listening review.
+
+## Current Content
+
+| Source | Published questions |
+| --- | ---: |
+| TCF Files | 1,560 |
+| ABC TCF | 200 |
+| Réussir le TCF | 104 |
+| TV5Monde Entraînement | 38 |
+| TCF Entraînement Intensif | 12 |
+| Boursin J.-L. | 6 |
+| Guide officiel / TCF 250 | indexed but not published yet |
+
+Audio is hosted through GitHub Releases:
+
+- `audio-v2`: first 1,000 hashed audio files,
+- `audio-v3`: 392 fallback audio files.
+
+The static site automatically tries the fallback release when an audio file is not in the primary release.
+
+## Features
+
+- Static GitHub Pages deployment.
+- 1,920 answerable questions in the committed static catalog.
+- MP3 and OGG playback.
+- GitHub Release audio hosting.
+- Persistent local scoring with `localStorage`.
+- Source tabs to separate the main catalog from the imported TCF Files bank.
+- Difficulty-ranked question groups in blocks of twenty.
+- PDF/WebP image support for visual and reading questions.
+- FastAPI backend for local development and direct media serving.
+- SQLite catalog generated from local source files.
+
+## What Lives In Git
 
 | Path | In git? | Notes |
-|---|---|---|
-| `apps/web/` | ✅ yes | Next.js source + static catalog data |
-| `apps/web/public/catalog/` | ✅ yes | `questions.json`, `collections.json`, `images/`, `transcripts/` |
-| `Sources/` | ❌ no | Large PDFs, MP3s, OGGs, and unpacked source archives — work with locally, never commit |
-| `content/generated/` | ❌ no | `catalog.sqlite` — regenerated by `build-catalog` |
-| `.ocr-cache/` | ❌ no | ~1.2 GB page PNG + OCR text |
-| `.transcript-cache/` | ❌ no | ~2 MB Whisper JSON — regenerated |
+| --- | --- | --- |
+| `apps/web/` | yes | Next.js app and static catalog files. |
+| `apps/web/public/catalog/` | yes | Published `questions.json`, `collections.json`, images, and transcript exports. |
+| `Sources/` | no | Large local PDFs, audio, extracted archives, and raw source data. |
+| `audio-release/` | no | Generated release-upload folder. |
+| `content/generated/` | no | Rebuilt SQLite catalog and reports. |
+| `.ocr-cache/` | no | Local OCR cache for scanned PDFs. |
+| `.transcript-cache/` | no | Local speech-to-text cache. |
 
-The static catalog (`apps/web/public/catalog/`) is regenerated locally and committed. The GitHub Pages workflow simply builds Next.js from those committed files — no catalog build step runs in CI.
+## Local Development
 
-## Audio hosting
-
-Audio files are large and are not stored in git. For GitHub Pages audio playback:
-
-1. **Prepare hashed audio files** (run once after each Source change):
-   ```bash
-   python scripts/prepare-audio-release.py --out-dir audio-release
-   ```
-   This copies every audio file to `audio-release/{sha256}.{extension}`.
-
-2. **Create a GitHub Release** (e.g. tag `audio-v1`) and upload all files from `audio-release/`.
-
-3. **Set the repository variable** (Settings → Variables → Actions):
-   ```
-   AUDIO_BASE_URL = https://github.com/OWNER/REPO/releases/download/audio-v1
-   ```
-
-4. **Re-deploy** — the Pages workflow reads `AUDIO_BASE_URL` and bakes it into the static build. Without this variable, local development uses FastAPI audio routes.
-
-## Local development (with Docker)
+With Docker:
 
 ```bash
 cp .env.example .env
 docker compose up --build
 ```
 
-Open `http://localhost:3000`.
+Open:
 
-## Build the local catalog
+```text
+http://localhost:3000
+```
 
-Place source PDFs and audio files into `Sources/` (gitignored), then:
+Without Docker, install dependencies and run the web app from `apps/web` as usual.
+
+## Rebuilding The Catalog
+
+Place source PDFs and audio files in `Sources/` first. These files are intentionally ignored by git.
 
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r apps/api/requirements.txt
+npm run prepare-ocr-caches
 npm run build-catalog
 ```
 
-The builder atomically replaces `content/generated/` and writes machine-readable inventory and unresolved-content reports.
-
-Scan-heavy source PDFs must be pre-processed with French OCR before rebuilding:
-
-```bash
-npm run prepare-ocr-caches
-```
-
-## Patch and export the static catalog
-
-After building the catalog, apply content patches and export the static files that are committed to git:
+Then apply reviewed corrections and export the static catalog:
 
 ```bash
 .venv/bin/python scripts/patch-abc-choices.py
@@ -86,26 +137,53 @@ After building the catalog, apply content patches and export the static files th
 npm run export-static-catalog
 ```
 
-Optionally generate timed transcripts first:
+## Updating Hosted Audio
+
+Audio files are too large for git. Prepare release assets with:
 
 ```bash
-npm run transcribe-catalog
+python scripts/prepare-audio-release.py --out-dir audio-release
 ```
 
-Then commit the updated `apps/web/public/catalog/` directory.
+The script writes files as:
 
-## GitHub Pages deployment
+```text
+audio-release/{sha256}.{extension}
+```
 
-`.github/workflows/pages.yml` publishes the static Next.js export on every push to `main`. The workflow:
-1. Installs Node dependencies
-2. Builds Next.js (using the pre-committed catalog JSON)
-3. Deploys to GitHub Pages
+Upload them to GitHub Releases and set repository variables:
 
-Set the `AUDIO_BASE_URL` repository variable (see Audio hosting above) for in-browser audio playback.
+```text
+AUDIO_BASE_URL=https://github.com/OWNER/REPO/releases/download/audio-v2
+AUDIO_FALLBACK_BASE_URLS=https://github.com/OWNER/REPO/releases/download/audio-v3
+```
 
-## Tests
+Use multiple releases when the asset count exceeds GitHub's release limit.
+
+## Deployment
+
+The GitHub Pages workflow builds the committed static catalog on every push to `main`.
+
+Workflow:
+
+1. install web dependencies,
+2. set the Pages base path,
+3. build the static Next.js app,
+4. deploy `apps/web/out` to GitHub Pages.
+
+The workflow reads `AUDIO_BASE_URL` and `AUDIO_FALLBACK_BASE_URLS` from repository variables.
+
+## Verification
+
+Run these before pushing changes:
 
 ```bash
 npm run test:parser
 npm --prefix apps/web run build
+git diff --check
 ```
+
+For the detailed catalog boundary, see:
+
+- [Final Catalog Audit](docs/FINAL_CATALOG_AUDIT.md)
+- [Practice UI Requirements](docs/PRACTICE_UI_REQUIREMENTS.md)
